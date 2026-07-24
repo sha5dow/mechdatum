@@ -15,8 +15,6 @@ verified: true
 
 Disc clutches are friction mechanisms designed to connect and disconnect two rotating shafts, transmitting torque through axial contact of flat surfaces. Their main classification is based on the number of friction discs: **single-disc** (single disc) and **multi-disc** (multiple interleaved discs), each optimized for specific torque, speed, and operating condition ranges. Proper selection depends on the power to be transmitted, available space, actuation frequency, and working environment.
 
-## Operating principle
-
 The disc clutch operates under the principle of dry or wet friction between flat surfaces pressed axially. A friction disc, mounted on splines on the output shaft, is compressed against a flywheel integral with the input shaft by a pressure plate actuated by springs. The applied axial force generates a friction torque proportional to the coefficient of friction, normal force, and effective radius of the disc. When the driver presses the pedal, the release fork displaces the release bearing, overcoming the spring force and separating the friction disc from the flywheel, thereby interrupting power transmission. In a multi-disc system, several metallic and lined discs are interleaved to multiply the friction surface without increasing the diameter.
 
 ## Calculation formulas for disc clutches
@@ -169,7 +167,7 @@ A special variant is the centrifugal clutch, where the friction discs are not pr
 - **Slippage (Patinaje):** Controlled relative sliding between the friction surfaces during engagement; necessary for smooth start but harmful if prolonged due to accelerated wear and overheating.
 - **Dual-mass flywheel (Volante bimasa):** Flywheel divided into two masses connected by a spring-damper system, which absorbs torsional vibrations from the diesel engine and reduces stress on the clutch disc.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 1. **What is the minimum allowable lining thickness of a single-disc clutch disc?** The minimum thickness before replacement is usually 2,0 mm / 0,079 in measured from the lining surface to the rivet head, although this value varies between manufacturers from 1,5 mm / 0,06 in to 3,0 mm / 0,12 in.
 
@@ -211,7 +209,6 @@ Assembly of a disc clutch requires precise alignment between the crankshaft axis
 | Daily engagement cycles | < 100 | 100 – 500 | > 500 |
 | Typical example | Small lathe, lawn mower | Passenger car, van | Presses, construction machinery |
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stress-rotation-disc-ring-body-d_1752.html
 - **mcmaster.com**: https://www.mcmaster.com/products/clutches/

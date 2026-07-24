@@ -15,7 +15,6 @@ verified: true
 
 Thrust bearings are rotating elements designed to support predominantly axial loads, with capacities ranging from a few newtons to over 500 kN (56.2 tons-force) in heavy industrial applications.
 
-## General description
 The thrust bearing is a particular type of bearing that, unlike radial bearings, is optimized to transfer forces parallel to the axis of rotation. Its operating principle is based on rolling elements (balls, cylindrical rollers, tapered or spherical rollers) interposed between two washers or discs, or on pressurized fluid films that eliminate metallic contact. The selection of the appropriate type depends on the magnitude of the axial load, rotational speed, presence of combined radial loads, and required alignment precision.
 
 ## Types of thrust bearings
@@ -90,21 +89,20 @@ The correct choice of thrust bearing is based on the following parameters:
 | Ultracentrifuge laboratory centrifuge | Magnetic | Speeds above 100 000 rpm, clean environment, and need for zero friction for analytical precision. |
 | Cement rotary kiln | Spherical roller thrust | Large combined axial and radial loads, misalignments due to thermal expansion, and low speed (5‑20 rpm). |
 
-## Frequently asked questions
-- **What is the load capacity of a typical 50 mm bore ball thrust bearing?**  
+## Frequently Asked Questions (FAQ)
+### What is the load capacity of a typical 50 mm bore ball thrust bearing?
   A 50 mm / 1.969 in bore ball thrust bearing has a dynamic axial load capacity around 35 kN / 3.9 tf according to the light dimensional series, sufficient for applications such as machine tool spindles.
-- **What speed can a cylindrical roller thrust bearing reach?**  
+### What speed can a cylindrical roller thrust bearing reach?
   In medium sizes (60‑100 mm / 2.36‑3.94 in bore) the speed limit with oil lubrication is between 2 500 and 4 500 rpm, depending on the cage and cooling system.
-- **Which type of thrust bearing best handles angular misalignment?**  
+### Which type of thrust bearing best handles angular misalignment?
   Spherical roller thrust bearings can compensate for misalignments of up to 2° or 3°, equivalent to an angular displacement of 35 mm / 1.38 in per meter of shaft, while ball thrust bearings tolerate barely 0.5°.
-- **How is a single-direction thrust bearing correctly mounted?**  
+### How is a single-direction thrust bearing correctly mounted?
   The shaft washer (fitted to the shaft) and the housing washer must be identified and mounted without inversion; the recommended initial axial clearance is usually 0.08 mm to 0.15 mm / 0.003 in to 0.006 in to accommodate thermal expansion.
-- **Why do hydrodynamic bearings have no practical speed limit?**  
+### Why do hydrodynamic bearings have no practical speed limit?
   The oil film self-regulates with speed; rather than an absolute limit, its maximum rpm is conditioned by the oil temperature, which typically must not exceed 100 °C / 212 °F in the return flow.
-- **Which standard governs the standard dimensions of thrust bearings?**  
+### Which standard governs the standard dimensions of thrust bearings?
   The dimensional series are defined in ISO 104 and DIN 711, which for a 30 mm / 1.181 in bore, for example, set an outside diameter of 52 mm / 2.047 in and a height of 16 mm / 0.630 in for the light series.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/forces-pipe-bends-d_968.html
 - **mcmaster.com**: https://www.mcmaster.com/products/axial-bearings/

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Visión general
 Las teorías de falla ingeniería mecánica predicen el momento en que un material sólido deja de soportar carga, ya sea por fluencia (dúctil) o por fractura (frágil). En el ámbito de la mecánica de sólidos, estas teorías definen criterios matemáticos que relacionan el estado tensional con las propiedades resistentes del material, estableciendo una superficie de falla en el espacio de tensiones. La selección del criterio adecuado depende de la naturaleza del material ‒dúctil o frágil‒ y del tipo de solicitación. Los modelos más utilizados en ingeniería mecánica son el criterio de la máxima tensión cortante (Tresca) y el de la energía de distorsión (Von Mises) para materiales dúctiles, mientras que para materiales frágiles predominan los criterios de la tensión principal máxima (Rankine) y de Mohr-Coulomb. Un mismo material puede comportarse de forma dúctil o frágil según la temperatura, la velocidad de carga o el estado triaxial de tensiones; por ello, la elección del criterio debe basarse en la respuesta esperada bajo las condiciones reales de servicio.
 
 ## Criterios de falla para materiales dúctiles
@@ -108,8 +107,7 @@ Tensión cortante por torsión: τ<sub>xy</sub> = 16T / (πd³) = 16 × 90e3 N·
 Factor de seguridad: FS = σ<sub>y</sub> / σ<sub>v</sub> = 310 / 94,6 ≈ 3,28.  
 Con el criterio de Tresca, τ<sub>max</sub> = √[(σ<sub>x</sub>/2)² + τ<sub>xy</sub>²] = √(39,1² + 29,3²) ≈ 48,9 MPa / 7,09 ksi, y el cortante admisible es τ<sub>y</sub> = σ<sub>y</sub>/2 = 155 MPa / 22,5 ksi, dando FS = 155 / 48,9 ≈ 3,17. Ambos criterios indican que el diámetro de 25 mm / 0,984 in es más que suficiente; podría reducirse para optimizar el material respetando el FS mínimo de diseño ( típicamente 1,5 a 2,5 según la aplicación).
 
-## Preguntas frecuentes
-
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la diferencia numérica entre la tensión de fluencia según Tresca y Von Mises para un estado de cortante puro?
 Para un estado de cortante puro (torsión), la tensión cortante de fluencia según Tresca es 0,500 del límite elástico, mientras que Von Mises predice un valor 0,577, es decir, un 15,5 % mayor. Por ejemplo, con un acero de σ<sub>y</sub> = 400 MPa / 58,0 ksi, la fluencia se espera a τ = 200 MPa / 29,0 ksi con Tresca y a 231 MPa / 33,5 ksi con Von Mises.
 

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Resumen
 La fatiga en uniones soldadas se produce cuando uniones con defectos, tensiones residuales o diseñadas de forma inadecuada se someten a cargas cíclicas. La resistencia a fatiga de la unión no se correlaciona con la del material base y se evalúa mediante curvas S‑N (Wöhler) y clases de detalle FAT según la IIW. Las tensiones residuales, el espesor del material, la geometría de la soldadura y el ambiente reducen la vida a fatiga. Se presentan criterios de diseño prenormativos, fórmulas de tensión en el cordón, clasificación IIW y un ejemplo práctico de aplicación.
 
 ## Conceptos fundamentales
@@ -107,7 +106,7 @@ Clases de detalle para uniones soldadas en acero, según la recomendación IIW (
 
 > Para condiciones de corrosión marina, multiplicar las clases FAT por 0.7 – 0.8. El factor de espesor k_s = (25 / t)^0.1 se aplica cuando el espesor de chapa t > 25 mm.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 1. **¿Qué clase FAT debe emplearse para una soldadura a tope penetración total con refuerzo alisado?** Se asigna FAT 112 si el esmerilado elimina toda irregularidad y se garantiza la ausencia de mordeduras; esta clase proporciona una resistencia característica de 112 MPa / 16.2 ksi a 2 × 10⁶ ciclos.
 2. **¿Cómo afecta el espesor de la chapa a la resistencia a fatiga?** El aumento de espesor de 10 mm a 25 mm puede reducir la resistencia a fatiga en torno al 12‑18 %, corregible mediante el factor (25/t)^0.1 en el cálculo del rango admisible.
 3. **¿Es preferible aumentar el límite elástico del acero base para mejorar la fatiga de la unión?** No; elevar el acero de S355 (355 MPa / 51.5 ksi) a S700 (700 MPa / 101.5 ksi) no mejora significativamente la resistencia a fatiga del detalle soldado, ya que la vida está gobernada por la geometría y las tensiones residuales.

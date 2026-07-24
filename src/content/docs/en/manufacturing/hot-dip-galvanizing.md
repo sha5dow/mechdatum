@@ -83,28 +83,27 @@ The international standard ISO 1461 (equivalent to BS EN ISO 1461 and ASTM A123/
 | 6 | 168.3 / 6.625 | 154.1 / 6.07 | 28.23 / 18.97 | 85–100 / 3.35–3.94 |
 | 8 | 219.1 / 8.625 | 202.7 / 7.98 | 42.49 / 28.55 | 85–100 / 3.35–3.94 |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the temperature of the zinc bath in hot-dip galvanizing?**
+### What is the temperature of the zinc bath in hot-dip galvanizing?
    The molten zinc bath is maintained at approximately 450 °C / 842 °F during the hot-dip galvanizing process, which ensures a proper metallurgical reaction between the zinc and the steel.
 
-**2. What minimum coating thickness is required for structural steel over 6 mm according to ISO 1461?**
+### What minimum coating thickness is required for structural steel over 6 mm according to ISO 1461?
    For steel with a thickness greater than 6 mm, the minimum galvanized coating thickness is 85 µm / 3.35 mils, ensuring effective cathodic protection against corrosion.
 
-**3. What is the expected service life of a hot-dip galvanized part in a rural environment?**
+### What is the expected service life of a hot-dip galvanized part in a rural environment?
    In rural environments with low pollution, the galvanized coating can protect the steel for more than 50 years, because the corrosion rate of zinc is typically only 1–2 µm per year (0.04–0.08 mils/year).
 
-**4. Up to what temperature can galvanized steel be exposed without coating degradation?**
+### Up to what temperature can galvanized steel be exposed without coating degradation?
    The maximum recommended temperature for continuous service of hot-dip galvanized steel is 200 °C / 392 °F; above this temperature, the zinc layer may detach due to differences in iron and zinc diffusion.
 
-**5. How much zinc is consumed per square meter in a typical 85 µm coating?**
+### How much zinc is consumed per square meter in a typical 85 µm coating?
    A zinc coating of 85 µm thickness is equivalent to approximately 610 g/m² (2.00 oz/ft²) of zinc, which provides a physical barrier and cathodic protection to the steel substrate.
 
-**6. What is the typical corrosion rate of zinc in an industrial environment compared to a rural one?**
+### What is the typical corrosion rate of zinc in an industrial environment compared to a rural one?
    In an industrial environment, the corrosion rate of zinc can increase to 4–8 µm per year (0.16–0.31 mils/year), compared to 1–2 µm per year in a rural environment, which reduces the service life of the coating to approximately 15–25 years for the same 85 µm thickness.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/ansi-steel-pipes-d_305.html
 - **efunda.com**: https://www.efunda.com/processes/plastic_molding/molding_dip.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/node/6071

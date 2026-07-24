@@ -122,24 +122,24 @@ v₂ = √{ 2.0002 [ 100 + 98.1 ] } ≈ √{ 2.0002 × 198.1 } ≈ √{ 396.2 } 
 
 La velocidad de salida es 19.9 m/s (65.3 ft/s). Si se hubiese despreciado la contribución de la altura (h ≈ 0), la velocidad sería 14.1 m/s, lo que demuestra la importancia de considerar todas las contribuciones energéticas.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la velocidad de salida del agua en un tanque abierto con una altura de 10 m respecto al orificio?**  
+### ¿Cuál es la velocidad de salida del agua en un tanque abierto con una altura de 10 m respecto al orificio?
 La velocidad teórica es 14.0 m/s (45.9 ft/s) según el teorema de Torricelli, suponiendo flujo ideal sin pérdidas.
 
-**2. ¿Qué presión dinámica genera un flujo de agua a 5 m/s?**  
+### ¿Qué presión dinámica genera un flujo de agua a 5 m/s?
 Un flujo de agua a 5 m/s (16.4 ft/s) desarrolla una presión dinámica de 12 500 Pa (12.5 kPa / 1.81 psi).
 
-**3. ¿Qué diferencia de presión entre el depósito y el exterior se necesita para obtener 20 m/s de salida sin influencia de la altura?**  
+### ¿Qué diferencia de presión entre el depósito y el exterior se necesita para obtener 20 m/s de salida sin influencia de la altura?
 Despejando de v = √(2 Δp / ρ), se requiere Δp = ½ ρ v² = 0.5 × 1000 × 400 = 200 000 Pa = 200 kPa (29.0 psi).
 
-**4. ¿Cuál es el coeficiente de descarga típico para un orificio de borde vivo?**  
+### ¿Cuál es el coeficiente de descarga típico para un orificio de borde vivo?
 El coeficiente de descarga para un orificio de borde vivo varía entre 0.60 y 0.64, por lo que la velocidad real será aproximadamente un 60 % de la velocidad ideal.
 
-**5. ¿En qué unidades se mide la forma de cabeza de la ecuación de Bernoulli?**  
+### ¿En qué unidades se mide la forma de cabeza de la ecuación de Bernoulli?
 Los términos en la forma de cabeza tienen unidades de longitud (m o ft) y representan la altura de columna del fluido en circulación.
 
-**6. ¿Hasta qué velocidad del aire se puede considerar el flujo como incompresible al aplicar Bernoulli?**  
+### ¿Hasta qué velocidad del aire se puede considerar el flujo como incompresible al aplicar Bernoulli?
 Para el aire en condiciones normales, la aproximación incompresible es aceptable hasta velocidades de aproximadamente 100 m/s (328 ft/s), lo que corresponde a un número de Mach cercano a 0.3.
 
 ## Fuentes consultadas

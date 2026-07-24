@@ -122,24 +122,24 @@ Annealing of 1020 steel is performed by heating between 870 °C and 910 °C, hol
 | AISI 1025 | 0.22‑0.28 | ~ 450 | ~ 125 | Higher strength and hardness, lower weldability |
 | EN C22E | 0.17‑0.24 | ~ 430 | ~ 130 | European equivalent with similar properties and slightly greater hardenability |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the typical hardness of 1020 steel in the as-supplied condition?**  
+### What is the typical hardness of 1020 steel in the as-supplied condition?
    The most common Brinell hardness is 111 HB, equivalent to 64 HRB.
 
-2. **Can 1020 steel be hardened to increase its hardness throughout the entire thickness?**  
+### Can 1020 steel be hardened to increase its hardness throughout the entire thickness?
    No, its carbon content below 0.25% prevents conventional hardening; it can only be surface hardened by carburizing or carbonitriding.
 
-3. **What tensile strength does it achieve after carburizing?**  
+### What tensile strength does it achieve after carburizing?
    The core tensile strength remains around 395 MPa, while the carburized layer achieves surface hardness of 60‑65 HRC.
 
-4. **Is it suitable to weld 1020 steel parts after carburizing?**  
+### Is it suitable to weld 1020 steel parts after carburizing?
    Not recommended; welding on a carburized layer can cause cracks and loss of hardness. The ideal is to weld before the carburizing treatment.
 
-5. **What is the recommended annealing temperature for 1020?**  
+### What is the recommended annealing temperature for 1020?
    Annealing is performed between 870 °C and 910 °C with slow cooling in the furnace.
 
-6. **Which European standard is equivalent to AISI 1020 steel?**  
+### Which European standard is equivalent to AISI 1020 steel?
    The closest equivalence according to EN is steel C22E (1.1151).
 
 ## References
@@ -148,8 +148,3 @@ Annealing of 1020 steel is performed by heating between 870 °C and 910 °C, hol
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/aisi-sae-steel-numbering-system-d_1449.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=88
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6114
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/aisi-sae-steel-numbering-system-d_1449.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=88

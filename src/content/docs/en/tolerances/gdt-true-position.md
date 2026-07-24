@@ -146,27 +146,26 @@ According to the ANSI B4.1 tolerance grade table for machining, processes capabl
 
 Indicative values; the actual true position requirement depends additionally on assembly rigidity, fit type, and the presence of MMC/LMC.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What improvement does the cylindrical tolerance zone of 0.1 mm / 0.0039 in provide compared to an equivalent Cartesian tolerance?**  
+### What improvement does the cylindrical tolerance zone of 0.1 mm / 0.0039 in provide compared to an equivalent Cartesian tolerance?
 The cylindrical zone of diameter 0.1 mm / 0.0039 in offers 57% more usable area than a square zone of side 0.1 mm / 0.0039 in, because it eliminates the rigid restrictions of the corners and allows complete diagonal displacements.
 
-**How is the additional tolerance calculated when applying modifier Ⓜ to a hole of 6.5 mm / 0.256 in with dimensional tolerance +0.2 mm / 0?**  
+### How is the additional tolerance calculated when applying modifier Ⓜ to a hole of 6.5 mm / 0.256 in with dimensional tolerance +0.2 mm / 0?
 If the actual diameter is 6.7 mm / 0.264 in, the bonus is the difference between the actual diameter and the MMC (6.5 mm / 0.256 in), i.e., 0.2 mm / 0.008 in, which is added to the specified position tolerance.
 
-**What true position value is recommended for an M8 through hole with diameter 9.0 mm / 0.354 in?**  
+### What true position value is recommended for an M8 through hole with diameter 9.0 mm / 0.354 in?
 With a hole diameter of 9.0 mm / 0.354 in and an M8 screw, the suggested position tolerance is ∅0.3 mm / ∅0.012 in applied with MMC to guarantee interchangeability.
 
-**What is the maximum material virtual size (MMVS) for a hole of 10.0 mm / 0.3937 in with position tolerance ∅0.1 mm / ∅0.0039 in?**  
+### What is the maximum material virtual size (MMVS) for a hole of 10.0 mm / 0.3937 in with position tolerance ∅0.1 mm / ∅0.0039 in?
 The MMVS results from subtracting the position tolerance from the MMC: 10.0 mm – 0.1 mm = 9.9 mm / 0.3898 in. It represents the diameter of the assembly pin in the worst condition.
 
-**Does a feature control frame with ∅0.2 mm / ∅0.008 in and no modifier allow radial movement of 0.2 mm / 0.008 in?**  
+### Does a feature control frame with ∅0.2 mm / ∅0.008 in and no modifier allow radial movement of 0.2 mm / 0.008 in?
 No; because it is a cylindrical zone, the value ∅0.2 mm / ∅0.008 in is the total allowable diameter. The axis can shift a maximum of 0.1 mm / 0.004 in radially from its theoretical position.
 
-**How does the ISO principle of independence affect true position without a modifier?**  
+### How does the ISO principle of independence affect true position without a modifier?
 In ISO, if Ⓜ or (E) is not specified, the size of the feature does not influence the geometric tolerance: a hole of 10.0 mm / 0.3937 in maintains its fixed position zone, even if its actual diameter varies, unlike ASME RFS which also grants no bonus but does require envelope compliance.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom_notes.html

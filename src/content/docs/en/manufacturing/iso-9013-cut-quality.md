@@ -66,28 +66,27 @@ Quick selection guide: for thickness < 8 mm / 0.31 in and Class 1, laser is pref
 - In oxyfuel cutting, Class 1 is rarely achievable for thicknesses above 20 mm / 0.79 in.
 - Rz5 roughness can vary due to nozzle wear and gas condition, requiring continuous monitoring.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **What is the perpendicularity tolerance for a 12 mm steel part cut with Class 1 quality?**  
+### What is the perpendicularity tolerance for a 12 mm steel part cut with Class 1 quality?
    The maximum admissible deviation is 0.1 mm / 0.004 in, measured according to the projection of the cut surface.
 
-2. **What average roughness Rz5 defines plasma Class 2 according to ISO 9013?**  
+### What average roughness Rz5 defines plasma Class 2 according to ISO 9013?
    An average roughness of 60 µm / 2362 µin is the typical limit for Class 2 on sheets up to 15 mm / 0.59 in.
 
-3. **How much can perpendicularity be reduced by subsequent grinding?**  
+### How much can perpendicularity be reduced by subsequent grinding?
    Light grinding can reduce perpendicularity from 0.3 mm / 0.012 in (Class 2) to 0.08 mm / 0.003 in, improving the result by 73 %.
 
-4. **From what thickness does a carbon steel oxyfuel cut lose Class 2 capability?**  
+### From what thickness does a carbon steel oxyfuel cut lose Class 2 capability?
    Above 20 mm / 0.79 in the perpendicularity exceeds 0.4 mm / 0.016 in, relegating oxyfuel cutting to Class 3.
 
-5. **What ISO 286 tolerance grade corresponds to precision laser cutting?**  
+### What ISO 286 tolerance grade corresponds to precision laser cutting?
    It corresponds to IT9 – IT10, with a tolerance band of only 0.05 mm / 0.002 in for nominal diameters of 10–18 mm.
 
-6. **How much does the Rz5 roughness increase when switching from laser to plasma on 10 mm steel?**  
+### How much does the Rz5 roughness increase when switching from laser to plasma on 10 mm steel?
    Roughness goes from 15 µm / 591 µin (Class 1) to 60 µm / 2362 µin (Class 2), an increase of 45 µm / 1772 µin.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?start=1&thread=14577&id=14869
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/tolerances-thermal-cutting

@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General Description
-
 Milling is a machining process using a rotary multi-tooth cutting tool, where cutting speed and feed rate determine surface finish, tool life, and productivity. Cutting speed (Vc) represents the tangential velocity of the cutting edge on the workpiece surface, expressed in m/min or surface feet per minute (sfm). Feed per tooth (fz) indicates the thickness of material each tooth of the cutter removes in one revolution and is measured in mm/tooth or in/tooth. From these parameters, spindle revolutions per minute (RPM) and table feed rate are calculated. Correct selection depends on workpiece material, tool type (HSS, carbide, coatings), system rigidity, and operation (roughing or finishing).
 
 ## Operating Parameters
@@ -112,26 +110,25 @@ Milling is feasible on virtually any machinable material: carbon and alloy steel
 
 ## Frequently Asked Questions (FAQ)
 
-**1. What cutting speed is recommended for milling aluminum with carbide tools?**  
+### What cutting speed is recommended for milling aluminum with carbide tools?
 It is recommended between 240 and 600 m/min (800 – 2000 sfm) for wrought alloys such as 6061‑T6. With flood coolant and sharp carbide cutters, the upper end can reach 800 m/min (2600 sfm) without risk of built-up edge.
 
-**2. What is the appropriate feed per tooth for low-carbon steel with an HSS cutter?**  
+### What is the appropriate feed per tooth for low-carbon steel with an HSS cutter?
 The typical range is 0.03 – 0.10 mm/tooth (0.001 – 0.004 in/tooth). For roughing it can go up to 0.12 mm/tooth (0.005 in/tooth) if spindle power allows, always monitoring chip formation.
 
-**3. What RPM should the spindle have for a 12 mm cutter in stainless steel 304?**  
+### What RPM should the spindle have for a 12 mm cutter in stainless steel 304?
 With Vc = 12 m/min (40 sfm) for HSS, RPM = (1000 × 12) / (π × 12) ≈ 318 rpm. With carbide at Vc = 60 m/min (200 sfm) the speed rises to 1590 rpm. Such low values are necessary to avoid work hardening.
 
-**4. What is the maximum feed rate in steel milling with a 10 mm carbide cutter?**  
+### What is the maximum feed rate in steel milling with a 10 mm carbide cutter?
 Taking Vc = 120 m/min (400 sfm) and fz = 0.15 mm/tooth (0.006 in/tooth) with 4 teeth, RPM = 3820 rpm and Vf = 0.15 × 4 × 3820 = 2292 mm/min (90 in/min). On rigid machines the actual speed can exceed 3000 mm/min if depth of cut is reduced.
 
-**5. What dimensional tolerance can be expected in finish milling?**  
+### What dimensional tolerance can be expected in finish milling?
 Typically ±0.025 mm (±0.001 in) is achieved on precision machining centers with sharp cutters and radius compensation strategies. Under less controlled conditions, tolerance is around ±0.10 mm (±0.004 in).
 
-**6. Is coolant necessary when milling titanium with a carbide tool?**  
+### Is coolant necessary when milling titanium with a carbide tool?
 Yes, always. At cutting speeds as low as 4.6 – 9 m/min (15 – 30 sfm) the temperature in the cutting zone is extreme. High-pressure coolant (70–100 bar) is essential to evacuate chips and preserve the cutting edge; otherwise, wear accelerates in seconds.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/drill-bit-speed-hardwood-softwood-d_1451.html
 - **efunda.com**: https://www.efunda.com/processes/machining/chip_formation_2.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/gear-milling

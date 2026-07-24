@@ -90,7 +90,7 @@ The choice between electrolytic and electroless nickel plating depends on functi
 | Coating of aluminum or plastic parts | Electroless nickel plating after surface activation |
 | Parts subjected to friction with poor lubrication | Electroless nickel plating (self-lubricating deposit with PTFE if required) |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum thickness that can be obtained with electroless nickel plating?
 
@@ -121,7 +121,3 @@ Bright and semi-bright Watts-type nickel baths operate in a current density rang
 - **efunda.com**: https://www.efunda.com/processes/surface/electrolessplatings.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/fornickling
 
-## Sources Consulted
-
-- **efunda.com**: https://www.efunda.com/processes/surface/electrolessplatings.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/fornickling

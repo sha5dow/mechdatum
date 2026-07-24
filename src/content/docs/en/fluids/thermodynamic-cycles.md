@@ -75,27 +75,26 @@ In all cases, the area enclosed in the P‑V diagram equals the net work of the 
 | Brayton | Gas turbines, air propulsion | Turbojets, turbofans, combined cycle plants |
 | Rankine | Steam thermal power plants | Coal plants, nuclear plants, concentrating solar plants |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum ideal efficiency of a Carnot cycle between 300 K and 1500 K?**  
+### What is the maximum ideal efficiency of a Carnot cycle between 300 K and 1500 K?
 The ideal efficiency is 80%, calculated as 1 – (300 K / 1500 K). In practice, irreversibilities prevent reaching this value.
 
-**What compression ratio is needed in an Otto cycle to achieve an ideal efficiency of 60% with κ = 1.4?**  
+### What compression ratio is needed in an Otto cycle to achieve an ideal efficiency of 60% with κ = 1.4?
 A compression ratio of approximately 10:1 is required. With ε = 10, η = 1 – 10^(1–1.4) = 1 – 10^(–0.4) ≈ 0.60.
 
-**What is the typical real efficiency of an automotive diesel engine with a compression ratio of 18:1?**  
+### What is the typical real efficiency of an automotive diesel engine with a compression ratio of 18:1?
 A modern diesel engine achieves between 35% and 40% real thermal efficiency, compared to the 63% ideal that the Diesel cycle formula would yield with Φ=2.0 and κ=1.4.
 
-**At what pressure does the boiler of a supercritical Rankine cycle operate?**  
+### At what pressure does the boiler of a supercritical Rankine cycle operate?
 Supercritical boilers typically operate at 250 bar / 3600 psi, with steam temperatures up to 600 °C / 1112 °F, achieving real efficiencies from 45% to 48%.
 
-**What thermal efficiency is obtained in an ideal Brayton cycle with a pressure ratio of 15 and compressor inlet temperature of 300 K?**  
+### What thermal efficiency is obtained in an ideal Brayton cycle with a pressure ratio of 15 and compressor inlet temperature of 300 K?
 With r_p = 15, the ideal efficiency is η = 1 – 15^((1–1.4)/1.4) = 0.557 (55.7%). Real gas turbines, with losses, operate between 35% and 40%.
 
-**What is the specific fuel consumption of an Otto cycle engine at full load?**  
+### What is the specific fuel consumption of an Otto cycle engine at full load?
 Direct injection Otto engines have a typical specific fuel consumption of 250 g/kWh (0.55 lb/hp·h). The most efficient diesel engines can drop to 200 g/kWh.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/carnot-otto-diesel-joule-cycles-d_2237.html
 - **thermopedia.com**: https://www.thermopedia.com/content/1072/

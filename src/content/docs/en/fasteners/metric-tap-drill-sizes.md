@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
 Metric tap drill bits define the exact diameter of the pre-drilled hole needed to cut a standard internal thread according to the ISO metric pitch system. The table covers the most commonly used nominal sizes in mechanical engineering, from M3 to M20, and includes standard coarse pitches per ISO 724 / DIN 13-1. Accurate drilling prevents tap breakage, reduces tapping torque, and ensures a complete thread percentage that maintains assembly strength.
 
 ## Metric Tap Drill Table
@@ -84,24 +83,24 @@ Metric tap drill bits define the exact diameter of the pre-drilled hole needed t
 
 The coarse metric threads used in this reference conform to the unified profile defined by ISO 724 – *Metric screw thread of general use – Basic dimensions*. The German standard DIN 13-1 is dimensionally identical to ISO 724 for coarse pitch threads, so the drill, nominal diameter, and pitch data are interchangeable. In the North American sphere, the metric series is covered by ANSI/ASME B1.13M, which adopts the same thread profile (60°) and the same tolerances. There is no technical difference between a tapped hole according to DIN and ISO; both require the same drill diameter before tapping. The clearance hole table follows ISO 273 – *Clearance holes for bolts* – which establishes the fine, medium, and coarse series, equivalent to assembly tolerances H12, H13, and H14 respectively.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the correct drill bit for tapping an M12 x 1.75 hole?**  
+### What is the correct drill bit for tapping an M12 x 1.75 hole?
 A 10,25 mm / 0.4035 in drill is required for the M12 coarse pitch tap. This value results from subtracting the pitch from the nominal diameter (12 – 1,75 = 10,25 mm) and produces a thread percentage close to 77 %, the optimal balance between strength and tapping torque.
 
-**2. What torque should be used to tighten a grade 8.8 M8 bolt dry?**  
+### What torque should be used to tighten a grade 8.8 M8 bolt dry?
 The maximum recommended tightening torque for a grade 8.8 M8 bolt assembled dry is 9,5 N·m / 7,0 ft·lb. This value is based on an approximate friction coefficient of μ = 0,14 and generates a preload of about 80 % of the bolt's yield strength.
 
-**3. What allowable tensile load can a grade 8.8 M16 bolt withstand?**  
+### What allowable tensile load can a grade 8.8 M16 bolt withstand?
 The proof load (90 % of the yield strength) for an M16 grade 8.8 is approximately 91,0 kN / 20460 lbf. For design calculations, an additional safety factor of 1.5 to 2 is usually applied to this value.
 
-**4. Is there a difference between DIN 13 and ISO 724 for coarse metric threads?**  
+### Is there a difference between DIN 13 and ISO 724 for coarse metric threads?
 Both specify the same 60° thread profile and the same basic dimensions (major diameter, pitch, pitch diameter). They are dimensionally interchangeable; the differences are limited to the presentation of tolerances, which in any case do not affect the drill size.
 
-**5. What is the standard pitch of an M20 bolt?**  
+### What is the standard pitch of an M20 bolt?
 The standard coarse pitch for M20 is 2,5 mm / 0.0984 in. Fine pitches exist (M20 x 2,0, x 1,5, x 1,0) but the common drill table refers to the coarse pitch.
 
-**6. Which imperial drill bit is closest to the one needed for an M10 x 1.5 tap?**  
+### Which imperial drill bit is closest to the one needed for an M10 x 1.5 tap?
 The 11/32 in drill equals 8,73 mm, while the recommended size is 8,50 mm / 0.3346 in; the 11/32 in slightly oversizes the hole. The direct metric option (8,5 mm) provides a higher thread percentage and is preferred whenever available.
 
 ## References
@@ -110,8 +109,3 @@ The 11/32 in drill equals 8,73 mm, while the recommended size is 8,50 mm / 0.334
 - **bossard.com**: https://www.bossard.com/za-en/knowledge-hub/resources/online-calculators-and-converters/drill-hole-size-calculator-for-tapped-threads/
 - **mcmaster.com**: https://www.mcmaster.com/products/tap-charts/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/iso-metric-thread-drill-tap-size-d_2045.html
-- **bossard.com**: https://www.bossard.com/za-en/knowledge-hub/resources/online-calculators-and-converters/drill-hole-size-calculator-for-tapped-threads/
-- **mcmaster.com**: https://www.mcmaster.com/products/tap-charts/

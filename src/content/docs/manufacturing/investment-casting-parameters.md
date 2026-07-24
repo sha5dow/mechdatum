@@ -99,23 +99,23 @@ La microfusión a la cera perdida es la opción preferente cuando se requiere:
 
 Si la rugosidad superficial requerida es inferior a **Ra 1.6 µm / 63 µin**, se debe elegir el proceso de sol de sílice o añadir un paso de acabado. Si las piezas son de gran tamaño (>35 kg) o las paredes requieren espesores superiores a 10 mm, otros procesos (fundición en arena, forja) pueden ser más económicos.
 
-## Preguntas frecuentes
-1. **¿Qué tolerancias dimensionales puedo esperar en una pieza microfundida?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué tolerancias dimensionales puedo esperar en una pieza microfundida?
    La tolerancia típica se sitúa en ±0.5 % de la cota, equivalente a ±0.125 mm en una dimensión de 25 mm, y puede llegar a ±0.15 % (≈±0.038 mm en 25 mm) para piezas pequeñas con control riguroso del proceso.
 
-2. **¿Cuál es el espesor mínimo de pared alcanzable?**  
+### ¿Cuál es el espesor mínimo de pared alcanzable?
    Se pueden lograr espesores de pared de entre 0.5 mm / 0.020 in y 1.0 mm / 0.040 in en aleaciones de fácil colabilidad como aluminio y bronces; para aceros y superaleaciones la pared mínima práctica es de 1.0 mm / 0.040 in.
 
-3. **¿Qué rugosidad superficial se obtiene tal como se funde?**  
+### ¿Qué rugosidad superficial se obtiene tal como se funde?
    La rugosidad promedio Ra varía entre 1.6 µm / 63 µin (sol de sílice) y 6.3 µm / 250 µin (silicato sódico), dependiendo del sistema de ligante empleado.
 
-4. **¿Por qué se precalienta el molde a 1000 °C?**  
+### ¿Por qué se precalienta el molde a 1000 °C?
    El molde se precalienta a aproximadamente 1000 °C / 1832 °F para eliminar cualquier residuo de cera, endurecer definitivamente el aglutinante cerámico y garantizar que el metal fundido llene las secciones delgadas sin solidificar prematuramente.
 
-5. **¿Qué peso máximo puede tener una pieza microfundida?**  
+### ¿Qué peso máximo puede tener una pieza microfundida?
    Las piezas pueden pesar desde pocos gramos hasta 35 kg / 80 lb, aunque el rango habitual de producción está entre 200 g y 8 kg / 7 oz y 15 lb.
 
-6. **¿Qué materiales no ferrosos se microfundi comúnmente?**  
+### ¿Qué materiales no ferrosos se microfundi comúnmente?
    Además del aluminio y los bronces, se microfundi superaleaciones base níquel como Inconel y Hastelloy, aleaciones de cobalto como Stellite, y metales preciosos (oro, plata, platino) con excelente fidelidad de detalles.
 
 ## Fuentes consultadas

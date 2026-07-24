@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 The O-ring, also known as a toroidal seal, is a mechanical seal of circular cross-section with **367 sizes** standardized in the AS568 standard. It is manufactured from elastomer and seats in a machined housing, compressing between two or more surfaces to achieve sealing in static and dynamic applications. The most common materials are NBR (nitrile), FKM (Viton) and VMQ (silicone), capable of operating from **-54 °C / -65 °F** up to **260 °C / 500 °F** depending on the compound. The standard dimensions are divided into the American series AS568 — based on inches — and the metric series ISO 3601-1, both used worldwide.
 
 ## AS568 Standard Dimensions
@@ -106,7 +105,7 @@ The housing must provide for axial or radial compression of the O-ring; in radia
 | High pressure > 3000 psi | 3/16" + anti-extrusion ring | NBR | 90 |
 | Slow rotation | 1/8" | Carbon NBR | 80 |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What pressure can an O-ring seal without an anti-extrusion ring?
 An O-ring of 70 Shore A hardness can seal up to **800 psi (5.5 MPa)** without an anti-extrusion ring if the radial gap is below **0.05 mm / 0.002 in**. With 90 Shore A hardness and gap controlled to **0.03 mm / 0.001 in**, the allowable pressure rises to **1500 psi (10.3 MPa)**.
@@ -131,7 +130,6 @@ For a pressure of **1500 psi / 10.3 MPa**, the maximum recommended radial gap is
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **mcmaster.com**: https://www.mcmaster.com/products/as568-o-rings/
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **mcmaster.com**: https://www.mcmaster.com/products/as568-o-rings/

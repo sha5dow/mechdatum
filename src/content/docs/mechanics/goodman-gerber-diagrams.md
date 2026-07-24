@@ -111,23 +111,22 @@ Un eje de acero AISI 1045 normalizado trabaja con una tensión media de 200 MPa 
 Verificación complementaria con Gerber: 1/*n* = √(1 − *σ*<sub>m</sub>/ *σ*<sub>ult</sub> × *σ*<sub>a</sub>/*σ*<sub>e</sub>) (aproximación). Para Gerber se obtiene *n* ≈ 1.96, menos conservador.
 
 ## Preguntas frecuentes (FAQ)
-
-1. **¿Qué es el límite de fatiga y cómo se relaciona con la resistencia última?**  
+### ¿Qué es el límite de fatiga y cómo se relaciona con la resistencia última?
    El límite de fatiga de un acero dúctil es aproximadamente la mitad de su resistencia última (0.5 *σ*<sub>ult</sub>) cuando *σ*<sub>ult</sub> < 1400 MPa / 203 ksi. Para resistencias superiores el valor se estabiliza en torno a 700 MPa / 100 ksi. Esta regla es válida para flexión rotativa de probetas pulidas.
 
-2. **¿Cómo aplico el criterio de Goodman modificado en un eje con tensiones multiaxiales?**  
+### ¿Cómo aplico el criterio de Goodman modificado en un eje con tensiones multiaxiales?
    Se calcula la tensión equivalente de von Mises para la componente media (*σ*<sub>m,eq</sub>) y alternante (*σ*<sub>a,eq</sub>) y luego se ingresan en la ecuación de Goodman. El procedimiento estándar de elementos de máquinas da *n* ≈ 2.0 para un acero 4140 con carga combinada de torsión y flexión.
 
-3. **¿Cuál es la diferencia principal entre Gerber y Goodman en términos de conservadurismo?**  
+### ¿Cuál es la diferencia principal entre Gerber y Goodman en términos de conservadurismo?
    La línea de Goodman admite amplitudes seguras hasta un 30 % menores que la curva de Gerber en la zona media del diagrama. Por ejemplo, para un acero de 300 MPa / 43.5 ksi de límite de fatiga y tensión media de 150 MPa / 21.8 ksi, Goodman permite una amplitud de 227 MPa / 33 ksi frente a 260 MPa / 37.7 ksi de Gerber.
 
-4. **¿Es necesario usar Soderberg si el material no tiene un límite de fatiga definido?**  
+### ¿Es necesario usar Soderberg si el material no tiene un límite de fatiga definido?
    Sí, en aleaciones de aluminio, donde la curva S‑N no se vuelve asintótica, se prefiere Soderberg con un valor de resistencia a la fatiga a 5 × 10⁸ ciclos (≈ 96 MPa / 14 ksi para Al 6061‑T6) y el límite elástico de 276 MPa / 40 ksi, obteniendo n > 1.5 para cargas moderadas.
 
-5. **¿Cómo afecta una tensión media de compresión al límite de fatiga?**  
+### ¿Cómo afecta una tensión media de compresión al límite de fatiga?
    La compresión media mejora la resistencia a la fatiga. En el diagrama de Goodman, la recta se extiende por el cuadrante negativo de *σ*<sub>m</sub>, donde la amplitud admisible puede superar incluso el límite de fatiga. Para un acero de 350 MPa / 51 ksi de *σ*<sub>e</sub>, una compresión media de 100 MPa / 14.5 ksi permite una amplitud de hasta 400 MPa / 58 ksi según alguna bibliografía experimental.
 
-6. **¿Cuándo se elige Goodman modificado frente a Gerber?**  
+### ¿Cuándo se elige Goodman modificado frente a Gerber?
    Se elige Goodman modificado cuando la incertidumbre de carga es alta o se busca un diseño robusto, ya que reduce la amplitud permisible en un 15‑20 % respecto a Gerber para la misma tensión media. En aplicaciones aeroespaciales, donde los márgenes son estrechos, se prefiere Gerber acompañado de ensayos completos.
 
 ## Fuentes consultadas

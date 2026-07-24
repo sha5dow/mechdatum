@@ -107,7 +107,7 @@ Detail classes for welded steel joints, according to IIW recommendation (FAT 36 
 
 > For marine corrosion conditions, multiply FAT classes by 0.7 – 0.8. The thickness factor k_s = (25 / t)^0.1 applies when plate thickness t > 25 mm.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 1. **Which FAT class should be used for a full penetration butt weld with smoothed reinforcement?** FAT 112 is assigned if grinding removes all irregularity and the absence of undercuts is guaranteed; this class provides a characteristic strength of 112 MPa / 16.2 ksi at 2 × 10⁶ cycles.
 2. **How does plate thickness affect fatigue strength?** Increasing thickness from 10 mm to 25 mm can reduce fatigue strength by about 12‑18 %, correctable by the factor (25/t)^0.1 in the allowable range calculation.
 3. **Is it preferable to increase the yield strength of the base steel to improve joint fatigue?** No; raising the steel from S355 (355 MPa / 51.5 ksi) to S700 (700 MPa / 101.5 ksi) does not significantly improve the fatigue strength of the welded detail, since life is governed by geometry and residual stresses.
@@ -120,7 +120,3 @@ Detail classes for welded steel joints, according to IIW recommendation (FAT 36 
 - **engineersedge.com**: https://www.engineersedge.com/weld_design_menu.shtml
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/failure_criteria/failure_criteria.cfm
 
-## Sources Consulted
-
-- **engineersedge.com**: https://www.engineersedge.com/weld_design_menu.shtml
-- **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/failure_criteria/failure_criteria.cfm

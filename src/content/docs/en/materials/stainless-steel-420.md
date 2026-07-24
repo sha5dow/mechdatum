@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General Overview
 Stainless steel 420 is a high-carbon martensitic steel with a minimum chromium content of 12 %, capable of achieving the highest hardness among 12 % chromium stainless steels (up to 50 HRC). It offers good ductility in the annealed condition and excellent corrosion resistance when polished, ground, or surface hardened. Its ability to be hardened by heat treatment makes it an ideal choice for parts requiring high mechanical strength and wear resistance.
 
 ## Chemical Composition
@@ -90,27 +89,26 @@ The choice of 420 steel over other grades is based on the required balance of ha
 | 440C | Selected if higher hardened hardness or strength than 420 can offer (up to 60 HRC) is needed. |
 | 420F | Free‑machining variant with higher sulfur content, but with slightly lower corrosion resistance. |
 
-## Frequently Asked Questions
-1. **What is the maximum achievable hardness of 420 steel?**  
+## Frequently Asked Questions (FAQ)
+### What is the maximum achievable hardness of 420 steel?
    The maximum hardness is 50 HRC, the highest among all 12 % chromium stainless steels.
 
-2. **What is the maximum service temperature without excessive loss of strength?**  
+### What is the maximum service temperature without excessive loss of strength?
    It can be used in continuous service up to approximately 600 °C, provided the temper embrittlement range (425‑600 °C) is avoided.
 
-3. **What heat treatment is recommended to obtain maximum hardness?**  
+### What heat treatment is recommended to obtain maximum hardness?
    Hardening at 1010 °C with oil quenching followed by low tempering at around 205 °C, achieving a hardness of 50 HRC.
 
-4. **What is the typical tensile strength in the annealed condition?**  
+### What is the typical tensile strength in the annealed condition?
    In the annealed condition, the tensile strength is 655 MPa (approximately 95 ksi).
 
-5. **What is the thermal conductivity at room temperature?**  
+### What is the thermal conductivity at room temperature?
    Thermal conductivity measured at 100 °C is 24.9 W/m·K, equivalent to 14.4 Btu/(h·ft·°F).
 
-6. **What elongation percentage does it offer in the annealed condition?**  
+### What elongation percentage does it offer in the annealed condition?
    The minimum elongation in a 50 mm gauge length is 25 %, indicating good ductility before hardening.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=972
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=2120

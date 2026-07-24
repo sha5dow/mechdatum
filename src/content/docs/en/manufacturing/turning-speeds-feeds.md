@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process Description
 Turning is a machining process by chip removal where a single-point cutting tool, stationary or under controlled motion, removes material from the surface of a rotating workpiece. The correct selection of cutting speed (Vc, in m/min or sfpm) and feed rate (f, in mm/rev or ipr) determines productivity, tool life, and workpiece surface quality. Cutting speed refers to the relative tangential velocity between the cutting edge and the machined surface, while feed rate indicates the distance the tool advances per spindle revolution. Together with depth of cut (ap), these parameters form the fundamental operating triplet of turning.
 
 ## Operating Parameters
@@ -67,27 +66,26 @@ Virtually all metals and some non-metallic alloys can be machined by turning. Ca
 6. **Verify chip load and power**: the chip cross-section (ap × f) must match the insert geometry; if calculated power exceeds 80% of spindle rated power, reduce ap or f.  
 7. **Perform test cuts** and adjust until desired finish is achieved without vibration or overheating.
 
-## Frequently Asked Questions
-**What is the recommended cutting speed for aluminum with a carbide tool?**  
+## Frequently Asked Questions (FAQ)
+### What is the recommended cutting speed for aluminum with a carbide tool?
 The recommended cutting speed is 150–300 m/min (500–1000 sfpm) for wrought aluminum with solid carbide tools, and up to 500 m/min (1640 sfpm) can be achieved on rigid machines with polished inserts.
 
-**What feed rate should be used to obtain a fine finish on carbon steel?**  
+### What feed rate should be used to obtain a fine finish on carbon steel?
 The typical feed for finishing is 0.05–0.15 mm/rev (0.002–0.006 ipr), with an insert nose radius of 0.4–0.8 mm providing a theoretical roughness Ra 0.8–3.2 µm / 32–126 µin.
 
-**What is the maximum depth of cut in roughing steel?**  
+### What is the maximum depth of cut in roughing steel?
 The maximum depth of cut can reach 6 mm / 0.24 in in low-alloy steel with machines over 10 kW and carbide tools, though it is usually limited to 4 mm / 0.16 in to preserve insert life.
 
-**How is cutting speed converted to rpm?**  
+### How is cutting speed converted to rpm?
 For a workpiece diameter of 50 mm / 2 in and cutting speed of 100 m/min / 328 sfpm, the resulting rpm is approximately 636 rpm (using N = (1000 × 100) / (π × 50) ≈ 637; in imperial N = (12 × 328) / (π × 2) ≈ 626 rpm).
 
-**What maximum temperature does the tool reach when cutting stainless steel?**  
+### What maximum temperature does the tool reach when cutting stainless steel?
 The temperature at the tool-chip interface can exceed 1000 °C / 1832 °F in stainless steel with speeds of 80–100 m/min / 260–330 sfpm, so AlTiN coatings or high-pressure cooling are used.
 
-**What surface roughness is feasible in precision turning?**  
+### What surface roughness is feasible in precision turning?
 Precision turning can regularly achieve Ra 0.4 µm / 16 µin with wiper inserts and feed rates of 0.08 mm/rev / 0.003 ipr, and even Ra 0.2 µm / 8 µin on ultra-precision machines.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/drill-bit-speed-hardwood-softwood-d_1451.html
 - **efunda.com**: https://www.efunda.com/processes/machining/chip_formation_2.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/surface-finish-when-turning

@@ -75,7 +75,7 @@ El montaje del conjunto se realiza sobre una placa de anclaje rígida que absorb
 | Mecanismo ajustador | Trinquete con rueda dentada | Paso de ajuste 0,3 – 0,5 mm por ciclo / 0.012 – 0.020 in |
 | Apoyo de zapata | Perno anclado al plato | Diámetro 12 – 18 mm / 0.47 – 0.71 in en hierro nodular |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 **¿Cuál es el rango típico del par de frenado máximo para un freno de tambor de 250 mm (10 in)?** El par máximo se sitúa entre 1500 y 2800 N·m (1106 a 2065 lb·ft) para una sola rueda, dependiendo del coeficiente de fricción del forro y de la presión de accionamiento. La configuración de zapata doble auto-energizada optimiza este valor en marcha adelante.
 

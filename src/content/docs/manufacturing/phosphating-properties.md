@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
-
 El fosfatado es un tratamiento de conversión química que genera una capa adherente de cristales de fosfato insoluble sobre superficies metálicas. El espesor típico de la película oscila entre 1 µm (0.00004 in) y 30 µm (0.0012 in) en función del tipo de fosfato aplicado. La reacción se produce al sumergir la pieza en una solución diluida de ácido fosfórico que contiene cationes de hierro, zinc o manganeso; el ataque ácido al metal base eleva el pH interfacial y provoca la precipitación de los fosfatos correspondientes.
 
 El recubrimiento se emplea principalmente para mejorar la resistencia a la corrosión, favorecer la lubricación, facilitar la adhesión de pinturas posteriores o como capa de desgaste. Es uno de los recubrimientos no metálicos más extendidos en la industria manufacturera.
@@ -86,22 +84,22 @@ El recubrimiento se emplea principalmente para mejorar la resistencia a la corro
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es el espesor típico de un fosfatado de zinc industrial?**  
+### ¿Cuál es el espesor típico de un fosfatado de zinc industrial?
    El espesor de una capa de fosfatado de zinc oscila entre 5 µm (0.0002 in) y 25 µm (0.001 in) según el tiempo de inmersión y la formulación del baño, alcanzándose espesores medios de 7–12 µm (0.0003–0.0005 in) en procesos de aspersión para automoción.
 
-2. **¿Qué temperatura de baño se requiere para el fosfatado de manganeso?**  
+### ¿Qué temperatura de baño se requiere para el fosfatado de manganeso?
    La temperatura del baño de fosfatado de manganeso se mantiene entre 90 °C y 100 °C (194 °F – 212 °F), próxima a ebullición, lo que favorece una cristalización rápida y una capa de espesor controlado.
 
-3. **¿Cuánto tiempo dura el proceso de fosfatado de hierro por inmersión?**  
+### ¿Cuánto tiempo dura el proceso de fosfatado de hierro por inmersión?
    El tiempo de inmersión estándar para fosfatado de hierro es de 2 a 10 minutos, frecuentemente 5 minutos, tras los cuales se obtiene un revestimiento de 1 a 5 µm (0.00004 – 0.0002 in) adecuado para servir como base de pintura en polvo.
 
-4. **¿Cuántas horas de niebla salina resiste un fosfatado de zinc sellado con aceite?**  
+### ¿Cuántas horas de niebla salina resiste un fosfatado de zinc sellado con aceite?
    Un fosfatado de zinc sellado con aceite anticorrosivo puede superar las 96 horas de exposición en cámara de niebla salina según ASTM B117, mientras que sin sellar apenas alcanza 48–72 horas.
 
-5. **¿A qué temperatura máxima de servicio puede utilizarse un fosfatado sin degradación?**  
+### ¿A qué temperatura máxima de servicio puede utilizarse un fosfatado sin degradación?
    Los recubrimientos de fosfato comienzan a deshidratarse y perder eficacia protectora a partir de 200 °C (392 °F), por lo que no se recomiendan para aplicaciones continuas por encima de 150 °C (302 °F) sin un sellado refractario específico.
 
-6. **¿Cuál es la dureza superficial aproximada de un fosfatado de manganeso?**  
+### ¿Cuál es la dureza superficial aproximada de un fosfatado de manganeso?
    La microdureza de un fosfatado de manganeso se sitúa alrededor de 3 GPa (435 kpsi), suficiente para reducir el coeficiente de fricción y el gripado en aceros para engranajes si la capa está impregnada con lubricante.
 
 ## Fuentes consultadas

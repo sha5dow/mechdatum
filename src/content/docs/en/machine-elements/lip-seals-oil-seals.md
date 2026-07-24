@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Lip seals, also known as radial shaft seals, are dynamic sealing elements designed to retain lubricant and exclude contaminants in applications with rotary or oscillating motion. The typical design consists of an outer metal case, an elastomeric element with one or more sealing lips, and a garter spring that maintains a controlled contact pressure on the shaft. They are press-fitted into a housing and rub against the shaft surface, creating a lubricating film that minimizes wear. Standard seals operate under low pressure conditions (typically below 0.5 bar / 7 psi) and peripheral speeds that can reach 15 m/s (3000 fpm) in conventional elastomers and up to 25 m/s (5000 fpm) in PTFE.
 
 ## Types of lip seals and oil seals
@@ -121,27 +120,26 @@ Below is a compact direct selection table for the most demanded seal configurati
 | 80–100 mm / 3.15–3.94 in | Double lip with double spring | NBR | B 2x… | 10 m/s / 2 000 fpm | 1.0 bar / 14.5 psi |
 | all diameters | PTFE cassette | PTFE | CS… | 25 m/s / 5 000 fpm | 0.5 bar / 7 psi |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum peripheral speed of a standard lip seal?**  
+### What is the maximum peripheral speed of a standard lip seal?
 The maximum speed for a standard nitrile (NBR) seal is 15 m/s / 3 000 fpm, while PTFE seals can reach 25 m/s / 5 000 fpm under controlled conditions.
 
-**What pressure can an unreinforced lip seal withstand?**  
+### What pressure can an unreinforced lip seal withstand?
 The maximum allowable pressure without backup ring or external support is 0.5 bar / 7 psi for a conventional single lip design.
 
-**What is the temperature range of a fluoroelastomer seal?**  
+### What is the temperature range of a fluoroelastomer seal?
 FKM operates continuously from −20 °C / −4 °F to 200 °C / 392 °F, with short peaks up to 220 °C / 428 °F.
 
-**What surface roughness should the shaft have for a lip seal?**  
+### What surface roughness should the shaft have for a lip seal?
 The optimal Ra roughness of the shaft is between 0.2 µm / 8 µin and 0.4 µm / 16 µin, measured according to ISO 4287.
 
-**What housing tolerance is recommended for mounting a seal?**  
+### What housing tolerance is recommended for mounting a seal?
 The housing should be machined with H7 tolerance, which for a diameter of 52 mm / 2.047 in corresponds to a range of +0.030 mm / +0.0012 in to 0 mm / 0 in.
 
-**What minimum hardness should the shaft have to avoid wear?**  
+### What minimum hardness should the shaft have to avoid wear?
 The shaft surface should have a minimum hardness of 30 HRC (approximately 280 HV) to ensure adequate service life of the sealing lip.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **mcmaster.com**: https://www.mcmaster.com/products/lip-seals/

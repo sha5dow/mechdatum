@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General description
 The profile of line and surface tolerance defines a uniform tolerance zone that follows the nominal shape of a feature. A geometric control is used to limit the deviation of the actual surface from the exact theoretical geometry defined by basic dimensions. The tolerance zone consists of two equidistant contours — two curves for profile of line and two surfaces for profile of surface — separated by the total tolerance value. This control can be applied to any shape, including open and closed contours, and is the only means to simultaneously control form, orientation, and, when datum references are used, also the location of a feature.
 
 ## Symbols and specification
@@ -64,7 +63,7 @@ Both ASME Y14.5 and ISO 1101 share the fundamental concept of the profile tolera
 - Automobile body panel: profile of line with a value of 1.5 mm / 0.06 in is applied along the edge of the fender to control appearance and fit with adjacent parts, using the vehicle datum system.
 - Injection mold: the profile of surface of the cavity with 0.03 mm / 0.0012 in ensures the precise 3D geometry of the plastic part, referenced to the mold closing planes.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 - **What profile tolerance can be expected from a surface grinding process?** A typical surface grinding can maintain a profile within 0.013 mm / 0.00051 in (IT6 grade) for nominal dimensions between 18 mm and 30 mm / 0.71 in–1.18 in, although under optimal conditions 0.009 mm / 0.00035 in can be achieved.
 - **When is profile of line used instead of profile of surface?** Profile of line is applied to individual cross sections of a feature, such as the edge of a sheet metal part with a tolerance of 0.2 mm / 0.008 in; profile of surface covers the entire three-dimensional shape and is used when the entire surface must be controlled with a single frame of reference, for example a tolerance of 0.5 mm / 0.020 in on the face of a plastic panel.
 - **How is a profile tolerance with datum reference interpreted?** With datum references, the tolerance zone of 0.08 mm / 0.0031 in is fixed in position and orientation relative to those datums, controlling both form deviation and location of the actual profile; without datums only form is controlled.
@@ -75,6 +74,3 @@ Both ASME Y14.5 and ISO 1101 share the fundamental concept of the profile tolera
 ## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html

@@ -87,24 +87,24 @@ La selección del material de aporte se basa en:
 
 **Soldadura fuerte**: el aporte se calienta por encima de 450 °C / 842 °F mediante soplete oxiacetilénico, inducción, horno con atmósfera controlada o resistencia eléctrica. Se emplean fundentes a base de bórax y fluoruros para eliminar óxidos. La atmósfera protectora (nitrógeno, hidrógeno, vacío) puede sustituir al fundente y evitar la limpieza posterior. Los ciclos térmicos deben controlarse para minimizar la interacción entre el aporte y el metal base.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la temperatura típica de trabajo de la soldadura blanda?**  
+### ¿Cuál es la temperatura típica de trabajo de la soldadura blanda?
 La soldadura blanda se realiza generalmente entre 180 °C / 356 °F y 450 °C / 842 °F, dependiendo de la aleación de aporte.
 
-**¿A qué temperatura funde la soldadura 50‑50 de estaño‑plomo?**  
+### ¿A qué temperatura funde la soldadura 50‑50 de estaño‑plomo?
 La aleación 50‑50 de Sn‑Pb funde en un rango de 183 °C / 361 °F a 215 °C / 419 °F, siendo completamente líquida a 215 °C / 419 °F.
 
-**¿Cuál es la temperatura de fusión del latón amarillo utilizado en soldadura fuerte?**  
+### ¿Cuál es la temperatura de fusión del latón amarillo utilizado en soldadura fuerte?
 El latón amarillo funde entre 905 °C / 1661 °F y 932 °C / 1710 °F, lo que lo hace apto para unir aceros y cobre.
 
-**¿Qué temperatura mínima debe tener un proceso para considerarse soldadura fuerte?**  
+### ¿Qué temperatura mínima debe tener un proceso para considerarse soldadura fuerte?
 Se considera soldadura fuerte cuando la temperatura del material de aporte supera los 450 °C / 842 °F.
 
-**¿A qué temperatura funde la aleación de aluminio‑silicio 4047?**  
+### ¿A qué temperatura funde la aleación de aluminio‑silicio 4047?
 La aleación Al‑Si 4047 tiene un rango de fusión muy estrecho, entre 577 °C / 1071 °F y 582 °C / 1080 °F.
 
-**¿Cuál es el punto de fusión del cobre puro usado como aporte en soldadura fuerte?**  
+### ¿Cuál es el punto de fusión del cobre puro usado como aporte en soldadura fuerte?
 El cobre puro funde a aproximadamente 1084 °C / 1983 °F, y se utiliza para uniones que operan a alta temperatura.
 
 ## Fuentes consultadas

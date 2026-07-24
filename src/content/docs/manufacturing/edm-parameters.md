@@ -87,7 +87,7 @@ Utilice los siguientes criterios para decidir si la electroerosión es la tecnol
 - La **conductividad eléctrica** es < 0.01 S/cm → procesos alternativos (rectificado, láser, ultrasónico).
 - La **tasa de remoción** debe superar los 1000 mm³/min en acero → fresado de alta velocidad o torneado, no EDM.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué tolerancia dimensional se puede alcanzar en wire EDM con pasadas de acabado?
 Se puede alcanzar una tolerancia de ±0,001 mm / ±0.00004 in en condiciones óptimas de taller utilizando al menos tres pasadas de acabado (skim cuts) y control térmico del dieléctrico.

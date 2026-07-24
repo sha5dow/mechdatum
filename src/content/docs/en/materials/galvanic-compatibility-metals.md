@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description
 Galvanic corrosion causes anodic metal loss that can reach rates of **2 to 100 times** higher than isolated corrosion when the potential difference between metals exceeds 0.15 V in aggressive environments. This electrochemical phenomenon, also called bimetallic corrosion, occurs when two dissimilar metals are in electrical contact in the presence of an electrolyte (water, humidity, soil, process fluids). The metal with the more negative electrochemical potential acts as the anode and dissolves rapidly, while the more noble metal (cathode) is protected. The intensity of the attack depends on the potential difference in the galvanic series, the anode-to-cathode area ratio, and the electrolyte conductivity. Understanding galvanic compatibility is essential to avoid premature failures in metal structures and piping.
 
 ## Chemical composition
@@ -74,27 +73,26 @@ The selection of compatible metal pairs is governed by the maximum allowable pot
 
 In wet applications, carbon steel can be protected with zinc coatings (galvanized) because zinc acts as a sacrificial anode even if the coating is damaged; the opposite occurs with tin coating on steel, where the steel corrodes rapidly when exposed due to polarity reversal.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum allowable potential difference between metals in a marine environment?**  
+### What is the maximum allowable potential difference between metals in a marine environment?
 In a marine environment, the electrochemical potential difference must not exceed **0.15 V**; pairs such as copper (0.35 V) with galvanized steel (1.20 V) generate a difference of 0.85 V and fail quickly.
 
-**What corrosion rate does a 304 stainless steel and carbon steel pair cause in humid air?**  
+### What corrosion rate does a 304 stainless steel and carbon steel pair cause in humid air?
 The carbon steel acts as an anode and can corrode at a rate of **0.1 to 0.3 mm/year**, while the stainless steel hardly suffers deterioration.
 
-**How many additional years of service life does a cathodic protection system with sacrificial anodes provide?**  
+### How many additional years of service life does a cathodic protection system with sacrificial anodes provide?
 Cathodic protection can extend the service life of buried pipelines by **20 to 40 years** beyond the unprotected duration, depending on the quality of the coating and the soil.
 
-**By how much is the fatigue strength of a carbon steel bolt reduced in a galvanic couple with a copper plate?**  
+### By how much is the fatigue strength of a carbon steel bolt reduced in a galvanic couple with a copper plate?
 After one year of outdoor exposure, the fatigue strength can drop by up to **50 %** relative to the original value of 180 MPa, due to localized pitting.
 
-**How much heat does a typical galvanic cell dissipate in a humidification stack?**  
+### How much heat does a typical galvanic cell dissipate in a humidification stack?
 A corrosion current of **50 µA/cm²** with a difference of 0.3 V dissipates approximately **1.5 mW/cm²**, a negligible value from a thermal standpoint but decisive for electrochemical kinetics.
 
-**What potential difference is considered safe for coupling metals in climate-controlled interiors?**  
+### What potential difference is considered safe for coupling metals in climate-controlled interiors?
 In interiors with humidity control (<60 % RH) and constant temperature, differences up to **0.50 V** are accepted; for example, aluminum 2024 (0.75 V) with stainless steel 304 (0.50 V) is feasible with caution.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-corrosion-resistance-d_491.html
 - **steelnumber.com**: https://www.steelnumber.com/en/standard_steel_eu.php?gost_number=10283

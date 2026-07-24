@@ -104,24 +104,23 @@ Las roscas métricas de paso fino están reguladas internacionalmente por la nor
 
 En el sistema americano, la norma ASME B1.13M adopta íntegramente el perfil y las dimensiones de las roscas métricas ISO, por lo que un tornillo M10 x 1,25 fabricado bajo ASME B1.13M es completamente intercambiable con uno fabricado bajo ISO 724 o DIN 13. La equivalencia no se basa en una conversión a roscas UNC/UNF, sino en la adopción directa del sistema métrico.
 
-## Preguntas frecuentes
-
-**¿Cuál es la profundidad de la rosca en el perfil básico de una rosca métrica de paso fino?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la profundidad de la rosca en el perfil básico de una rosca métrica de paso fino?
 La profundidad es igual a 0,614 veces el paso nominal; por ejemplo, en una rosca M10 x 1,25 la profundidad teórica del filete es 0,767 mm / 0.030 in.
 
-**¿Cómo se distingue una rosca métrica de paso fino de una de paso grueso en el mismo diámetro?**
+### ¿Cómo se distingue una rosca métrica de paso fino de una de paso grueso en el mismo diámetro?
 Un tornillo M10 de paso fino tiene un paso de 1,00 mm o 1,25 mm, mientras que el paso grueso normalizado es de 1,50 mm. La designación se escribe incluyendo el paso, por ejemplo M10 x 1,00, mientras que M10 sin indicación de paso se asume paso grueso.
 
-**¿Cuánto mayor es el área resistente de una rosca fina frente a una gruesa?**
+### ¿Cuánto mayor es el área resistente de una rosca fina frente a una gruesa?
 En un M12 x 1,25 fino el área de esfuerzo es de 92,1 mm², frente a los 84,3 mm² del M12 x 1,75 paso grueso, lo que supone un incremento del 9,2 %.
 
-**¿Qué par de apriete máximo se recomienda para un tornillo M8 x 1,00 de clase 8.8?**
+### ¿Qué par de apriete máximo se recomienda para un tornillo M8 x 1,00 de clase 8.8?
 El par máximo sugerido para M8 x 1,00 clase 8.8 es de 25 Nm / 18 ft·lb en condiciones de lubricación ligera y apriete en seco.
 
-**¿Cuál es la broca correcta para hacer un agujero previo a roscar una hembra M12 x 1,5?**
+### ¿Cuál es la broca correcta para hacer un agujero previo a roscar una hembra M12 x 1,5?
 Se recomienda emplear una broca de 10,50 mm / 0.413 in, que se corresponde con el diámetro menor teórico de la rosca.
 
-**¿En qué diámetros se ofrecen combinaciones con paso extrafino?**
+### ¿En qué diámetros se ofrecen combinaciones con paso extrafino?
 Las combinaciones con paso extrafino (por ejemplo 0,75 mm en M10 o 1,00 mm en M16) están normalizadas en la ISO 261 y se emplean cuando se requiere pared delgada o ajuste micrométrico, estando disponibles desde M1 hasta al menos M100.
 
 ## Fuentes consultadas

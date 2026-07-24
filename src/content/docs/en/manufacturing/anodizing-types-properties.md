@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process description
 Anodizing increases the natural aluminum oxide layer from approximately **4 nm / 0,16 µin** to controlled thicknesses of **150 µm / 6 mils**. It is an electrolytic process in which the aluminum part acts as an anode within an acid bath. When direct current is applied, oxygen released at the surface reacts with the metal forming a porous oxide film. Depending on the electrolyte and operating conditions, types I (chromic acid), II (sulfuric acid), and III (hard anodizing) are obtained. Types I and III require strict control of voltage and temperature, while type II is the most versatile for decorative and architectural applications. After layer formation, a hydrothermal or nickel acetate seal is applied to close the pores and maximize corrosion resistance.
 
 ## Applicable materials
@@ -70,23 +69,23 @@ The anodic layer increases wear and corrosion resistance, and provides electrica
 - **Type II (sulfuric acid)** → ideal for decorative and architectural purposes. Accepts a wide range of dyes and provides good weather protection. Serves as a base for paint on bodies and housings.
 - **Type III (hard anodizing)** → suitable for components subject to friction, wear or high surface pressures, such as pistons, bearings, molds and military equipment. Reaches thicknesses of **150 µm / 6 mils** and hardnesses of **600 HV**. Can retain lubricants if not sealed, reducing the coefficient of friction.
 
-## Frequently asked questions
-1. **What is the typical hardness of Type III anodizing?**  
+## Frequently Asked Questions (FAQ)
+### What is the typical hardness of Type III anodizing?
    The hardness is between **400 and 600 HV** (approximately **50‑55 HRC** or **380‑570 HB**), depending on the alloy and electrolyte temperature.
 
-2. **What maximum thickness can be obtained with sulfuric anodizing (Type II)?**  
+### What maximum thickness can be obtained with sulfuric anodizing (Type II)?
    The practical maximum thickness is **25 µm / 1,0 mil**; greater thicknesses require the hard anodizing process (Type III).
 
-3. **How much does the part dimensionally increase after anodizing?**  
+### How much does the part dimensionally increase after anodizing?
    About **50 %** of the total coating thickness builds outward and **50 %** penetrates into the base metal. Thus, a **50 µm / 2 mils** coating increases the external dimension by approximately **25 µm / 1 mil**.
 
-4. **Can hard anodizing be colored?**  
+### Can hard anodizing be colored?
    The pore diameter of Type III ranges between **10‑30 nm / 0,39‑1,18 µin**, which only allows absorbing dark tone dyes (black, bronze, olive green). Bright colors are not viable without additional decorative sealing.
 
-5. **How much does anodizing affect fatigue strength?**  
+### How much does anodizing affect fatigue strength?
    The anodic layer produces a reduction between **10 % and 30 %** in the fatigue limit of aluminum, with Type I being the least penalizing. For critical parts, previous or subsequent shot peening is recommended.
 
-6. **What is the maximum service temperature of an anodic layer?**  
+### What is the maximum service temperature of an anodic layer?
    The layers retain their properties up to **200‑250 °C / 392‑482 °F**. Above **350 °C / 662 °F** oxide dehydration begins and microcracks appear that degrade the protection.
 
 ## References
@@ -95,8 +94,3 @@ The anodic layer increases wear and corrosion resistance, and provides electrica
 - **efunda.com**: https://www.efunda.com/Materials/alloys/aluminum/temper.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/hard-anodizing
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bhn-brinell-hardness-number-d_1365.html
-- **efunda.com**: https://www.efunda.com/Materials/alloys/aluminum/temper.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/hard-anodizing

@@ -120,24 +120,24 @@ v₂ = √{ 2.0002 [ 100 + 98.1 ] } ≈ √{ 2.0002 × 198.1 } ≈ √{ 396.2 } 
 
 The exit velocity is 19.9 m/s (65.3 ft/s). If the height contribution had been neglected (h ≈ 0), the velocity would be 14.1 m/s, demonstrating the importance of considering all energy contributions.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the exit velocity of water in an open tank with a height of 10 m relative to the orifice?**  
+### What is the exit velocity of water in an open tank with a height of 10 m relative to the orifice?
 The theoretical velocity is 14.0 m/s (45.9 ft/s) according to Torricelli's theorem, assuming ideal flow without losses.
 
-**2. What dynamic pressure does a water flow at 5 m/s generate?**  
+### What dynamic pressure does a water flow at 5 m/s generate?
 A water flow at 5 m/s (16.4 ft/s) develops a dynamic pressure of 12,500 Pa (12.5 kPa / 1.81 psi).
 
-**3. What pressure difference between the tank and the outside is needed to obtain 20 m/s exit velocity without height influence?**  
+### What pressure difference between the tank and the outside is needed to obtain 20 m/s exit velocity without height influence?
 Solving from v = √(2 Δp / ρ), Δp = ½ ρ v² = 0.5 × 1000 × 400 = 200,000 Pa = 200 kPa (29.0 psi).
 
-**4. What is the typical discharge coefficient for a sharp-edged orifice?**  
+### What is the typical discharge coefficient for a sharp-edged orifice?
 The discharge coefficient for a sharp-edged orifice varies between 0.60 and 0.64, so the actual velocity will be approximately 60% of the ideal velocity.
 
-**5. In what units is the head form of the Bernoulli equation measured?**  
+### In what units is the head form of the Bernoulli equation measured?
 The terms in the head form have units of length (m or ft) and represent the height of the fluid column in circulation.
 
-**6. Up to what air velocity can the flow be considered incompressible when applying Bernoulli?**  
+### Up to what air velocity can the flow be considered incompressible when applying Bernoulli?
 For air under normal conditions, the incompressible approximation is acceptable up to velocities of approximately 100 m/s (328 ft/s), which corresponds to a Mach number close to 0.3.
 
 ## References
@@ -146,8 +146,3 @@ For air under normal conditions, the incompressible approximation is acceptable 
 - **efunda.com**: https://www.efunda.com/formulae/fluids/bernoulli.cfm
 - **thermopedia.com**: https://www.thermopedia.com/content/579/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bernouilli-equation-d_183.html
-- **efunda.com**: https://www.efunda.com/formulae/fluids/bernoulli.cfm
-- **thermopedia.com**: https://www.thermopedia.com/content/579/

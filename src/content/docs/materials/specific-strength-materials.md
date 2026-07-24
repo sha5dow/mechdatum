@@ -103,24 +103,24 @@ Frente a la simple resistencia mecánica, la resistencia específica permite com
 
 Mientras que los metales mantienen un buen equilibrio entre resistencia, tenacidad y facilidad de conformado, los compuestos fibrosos ofrecen valores de resistencia específica inalcanzables para los materiales homogéneos, aunque a costa de una menor tolerancia al daño y una fabricación más compleja. Por eso, en aplicaciones donde la seguridad y la reparabilidad son críticas —como los largueros de ala de aeronaves comerciales— se siguen utilizando aleaciones de aluminio de alta resistencia (series 2xxx y 7xxx) a pesar de que su resistencia específica sea inferior a la de los compuestos.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué es la resistencia específica de un material?**  
+### ¿Qué es la resistencia específica de un material?
 La resistencia específica es el cociente entre la resistencia a la tracción (en MPa) y la densidad (en g/cm³), cuyo resultado en kN·m/kg equivale numéricamente a la longitud de rotura en kilómetros. Por ejemplo, un aluminio 6061‑T6 con 310 MPa y 2,70 g/cm³ alcanza 115 kN·m/kg, lo que significa que una barra de este material puede medir hasta 11,7 km antes de romperse por su propio peso.
 
-**¿Cuál es el material con mayor resistencia específica conocido?**  
+### ¿Cuál es el material con mayor resistencia específica conocido?
 El compuesto epoxi‑carbono unidireccional con una fracción de fibra del 61 % registra valores del orden de 1 080 kN·m/kg, superando en más de diez veces a las mejores aleaciones de aluminio y en casi quince al acero estructural. A nivel de laboratorio, los nanotubos de carbono individuales pueden llegar a 46 000 kN·m/kg, pero aún no se traducen en productos comerciales masivos.
 
-**¿Por qué el aluminio se utiliza tanto en la industria aeroespacial si existen composites más ligeros?**  
+### ¿Por qué el aluminio se utiliza tanto en la industria aeroespacial si existen composites más ligeros?
 Porque las aleaciones de aluminio de las series 2xxx y 7xxx alcanzan resistencias específicas de hasta 200 kN·m/kg, toleran mejor el daño por impacto, son fáciles de reparar y predecir frente a fatiga, y su coste de fabricación y reciclado es inferior al de los composites carbono‑epoxi. Además, la dilatación térmica del aluminio (23,5 ×10⁻⁶/K) se acopla mejor a la de otros metales en estructuras híbridas.
 
-**¿Cómo afecta la temperatura a la resistencia específica de los compuestos poliméricos?**  
+### ¿Cómo afecta la temperatura a la resistencia específica de los compuestos poliméricos?
 La matriz epoxi de un composite carbono‑epoxi pierde rigidez y resistencia por encima de 80‑110 °C, por lo que la resistencia específica puede caer más del 50 % al alcanzar los 200 °C. Por el contrario, los metales como el acero o el aluminio mantienen propiedades aceptables hasta 500 °C y 250 °C respectivamente, siempre que no se supere su límite de servicio máximo.
 
-**¿Qué diferencia hay entre resistencia específica y rigidez específica?**  
+### ¿Qué diferencia hay entre resistencia específica y rigidez específica?
 La resistencia específica (σ/ρ) mide la carga máxima que soporta un material por unidad de masa, mientras que la rigidez específica (E/ρ) mide su capacidad para resistir deformaciones elásticas por unidad de masa. El acero y el aluminio presentan rigideces específicas muy similares (≈ 26 kN·m/kg ×10³), pero la resistencia específica del aluminio dobla a la del acero, lo que lo convierte en mejor candidato cuando el criterio principal es la carga de rotura sin deformación plástica.
 
-**¿Se puede mejorar la resistencia específica de un material sin cambiar su composición?**  
+### ¿Se puede mejorar la resistencia específica de un material sin cambiar su composición?
 Sí, mediante tratamientos termomecánicos que aumentan la resistencia sin modificar la densidad. Por ejemplo, el laminado en frío de un acero bajo carbono DX51D eleva su límite elástico de 270 MPa hasta 500 MPa, incrementando su resistencia específica de 34 kN·m/kg a 64 kN·m/kg, mientras que el envejecimiento artificial (T6) de una aleación Al‑Mg‑Si hace precipitar fases submicrométricas que duplican la resistencia sin apenas variar la densidad.
 
 ## Fuentes consultadas

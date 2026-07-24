@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Surface roughness quantifies the micro-deviations of the real profile from the ideal shape of a part; it directly influences friction, wear, sealing capacity, and visual appearance. The most common parameters to characterize it are Ra (arithmetic mean roughness) and Rz (mean peak-to-valley height). Both evaluate different aspects of the texture: Ra describes the overall smoothness, while Rz is sensitive to local defects such as scratches or pores. There is no exact mathematical conversion formula between them, but in industrial practice approximate empirical relationships are used depending on the manufacturing process (e.g., Ra ≈ Rz/4 for rough turning, Ra ≈ Rz/7 for grinding). This page provides reference values, achievable tolerances according to material and method, and criteria for selecting the appropriate parameter in the manufacturing drawing.
 
 ## Operation parameters
@@ -114,7 +113,7 @@ The decision to specify Ra or Rz (or both) on the part must be based on the main
 
 When compliance with both parameters is required, it is noted e.g.: Ra ≤ 0.4 µm / 16 µin and Rz ≤ 2.0 µm / 79 µin. The combination reduces the risk of surfaces that comply with Ra but have deep defects.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is Ra roughness and how is it calculated?
 Ra is the arithmetic mean of the absolute values of the profile deviations from the mean line; it is usually expressed in micrometers (µm) or microinches (µin). For example, fine grinding gives Ra values of 0.4 µm / 16 µin, while rough turning reaches 6.3 µm / 248 µin. It is calculated as the integral of the profile |y(x)| divided by the sampling length, according to ISO 4287.
@@ -134,7 +133,6 @@ Values vary with operation and material. As a reference, rough turning typically
 ### How are Ra and Rz measured in the workshop?
 Both are obtained with a contact roughness tester that drags a diamond stylus (tip radius typically 2 µm / 79 µin) over a sampling length of 0.8 mm / 0.031 in or 2.5 mm / 0.098 in. The instrument automatically calculates Ra and Rz from the digitized profile. For small or delicate parts, non-contact optical systems are used, achieving resolutions of 0.01 µm / 0.4 µin.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?start=1&thread=4043&id=4058
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/surface-roughness

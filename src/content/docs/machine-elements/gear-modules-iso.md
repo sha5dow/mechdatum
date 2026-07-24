@@ -124,22 +124,22 @@ La verificación final del montaje se realiza con galgas de espesor sobre la dis
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es el módulo mínimo que se puede fabricar en acero con fresado estándar?**  
+### ¿Cuál es el módulo mínimo que se puede fabricar en acero con fresado estándar?
 El módulo mínimo práctico es de 0.5 mm / 50.8 dientes/pulg, porque por debajo las fresas generan un acabado superficial deficiente y la resistencia del diente resulta insuficiente para la mayoría de las aplicaciones mecánicas.
 
-**2. ¿Qué vida útil en horas tiene un engrane de módulo 3 mm con bomba de aceite?**  
+### ¿Qué vida útil en horas tiene un engrane de módulo 3 mm con bomba de aceite?
 Un par de engranes rectos en acero aleado con dureza 55 HRC, lubricado con aceite ISO VG 100, alcanza típicamente 25 000 horas de servicio continuo antes de que el desgaste superficial supere 0.2 mm / 0.008 in.
 
-**3. ¿Cuánto aumenta el momento de inercia al duplicar el módulo con el mismo número de dientes?**  
+### ¿Cuánto aumenta el momento de inercia al duplicar el módulo con el mismo número de dientes?
 El momento de inercia crece aproximadamente 16 veces porque el diámetro primitivo se duplica y la masa aumenta en proporción al cuadrado del radio.
 
-**4. ¿A qué velocidad tangencial genera ruido excesivo un engrane recto de módulo 4 mm?**  
+### ¿A qué velocidad tangencial genera ruido excesivo un engrane recto de módulo 4 mm?
 A partir de 12 m/s / 39.4 ft/s se superan los 85 dB(A) en cajas no insonorizadas, lo que obliga a usar dentado helicoidal o rectificado de alta precisión.
 
-**5. ¿Cuál es el ancho de cara mínimo para un piñón de módulo 2 mm que transmite 50 N·m / 36.9 lb·ft?**  
+### ¿Cuál es el ancho de cara mínimo para un piñón de módulo 2 mm que transmite 50 N·m / 36.9 lb·ft?
 Con acero cementado y un factor de seguridad de 2.5, se requiere un ancho mínimo de 18 mm / 0.71 in para mantener la tensión de flexión por debajo de 250 MPa / 36.3 ksi.
 
-**6. ¿Cuánta carga radial añade un engrane recto de módulo 5 mm sobre su eje?**  
+### ¿Cuánta carga radial añade un engrane recto de módulo 5 mm sobre su eje?
 Para un momento torsor de 300 N·m / 221 lb·ft y un diámetro primitivo de 100 mm / 3.94 in, la carga radial resultante es de 6 000 N / 1 350 lbf, despreciando el ángulo de presión.
 
 ## Fuentes consultadas

@@ -113,7 +113,7 @@ Compared to other structural aluminum alloys, 2024 occupies an intermediate posi
 
 2014 and 2024 share the same alloy philosophy (Al‑Cu), but 2014 is preferred for forging while 2024 is used in sheet and plate. 6061 offers lower strength but gains in weldability and corrosion protection. 7075, on the other hand, reaches the highest strengths in the aluminum family, albeit with lower ductility and greater sensitivity to stress concentration.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the tensile strength of aluminum 2024 in T3 temper?
 The tensile strength of 2024‑T3 is in a typical range of 395 to 450 MPa (57‑65 ksi), with an average value of 441 MPa (64 ksi).
@@ -133,8 +133,7 @@ No; aluminum 2024 is not suitable for fusion welding. It is only weldable by fri
 ### What differentiates aluminum 2024 from 7075?
 2024 offers lower tensile strength (about 440 MPa in T3 versus 572 MPa for 7075‑T6), but leads to better fracture toughness and lower notch sensitivity, making it more suitable for components subjected to fatigue.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=23683
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1036

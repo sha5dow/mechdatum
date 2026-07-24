@@ -104,22 +104,22 @@ La tabla siguiente contrasta el acero 1018 con otros aceros al carbono de uso fr
 
 ## Preguntas frecuentes (FAQ)
 
-### 1. ¿Cuál es la resistencia a la tracción del acero 1018?
+### ¿Cuál es la resistencia a la tracción del acero 1018?
 La resistencia a la tracción del acero 1018 estirado en frío es de 440 MPa (63.8 ksi). En estado recocido disminuye hasta aproximadamente 400 MPa (58 ksi).
 
-### 2. ¿Qué dureza tiene el acero 1018?
+### ¿Qué dureza tiene el acero 1018?
 La dureza Brinell del 1018 estirado en frío es de 126 HB, equivalente a 71 HRB. La versión recocida presenta una dureza Brinell de 116.
 
-### 3. ¿A qué temperatura se forja el acero 1018?
+### ¿A qué temperatura se forja el acero 1018?
 La forja se realiza en el rango de 996 °C a 1260 °C (1825 – 2300 °F).
 
-### 4. ¿Se puede soldar el acero 1018?
+### ¿Se puede soldar el acero 1018?
 Sí, el contenido máximo de carbono del 0.20 % proporciona una soldabilidad excelente con todos los métodos convencionales (gas, MIG, TIG, resistencia), sin necesidad de precalentamiento especial.
 
-### 5. ¿Cuál es la maquinabilidad del acero 1018?
+### ¿Cuál es la maquinabilidad del acero 1018?
 La maquinabilidad del 1018 se califica con un 70 % respecto al acero de referencia AISI 1212 (100 %), lo que lo convierte en un material apto para producción en serie.
 
-### 6. ¿Cuál es el alargamiento del acero 1018?
+### ¿Cuál es el alargamiento del acero 1018?
 El alargamiento a rotura del 1018 estirado en frío es del 15 % (medido sobre 50 mm). En condición recocida la ductilidad se eleva hasta el 25 %.
 
 ## Fuentes consultadas

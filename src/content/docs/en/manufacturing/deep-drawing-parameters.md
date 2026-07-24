@@ -89,7 +89,7 @@ The process is not effective for small production series due to the high cost of
 
 Deep drawing is often combined with other forming techniques on the same press to complete the final geometry of the part in a continuous production line. Among the most common associated processes are ironing (reducing wall thickness up to 30 % of original), flanging (creating material rings to house O-rings), knurling (forming internal or external ribs), curling (rolling the edge under a curling die), stamping/marking (identifying parts with part numbers or logos), threading (forming threads using a wheel and spindle on the press itself), trimming (removing excess material necessary for the drawing process), and hole extrusion (expanding a pilot hole to increase material length).
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What distinguishes deep drawing from shallow drawing?
 
@@ -115,8 +115,7 @@ To achieve a depth/diameter ratio of 5.0, typically 4 to 6 successive drawing pa
 
 Deep drawing increases the mechanical strength of the material through work hardening, potentially increasing the yield strength by 30 % to 70 % compared to the starting material in the annealed condition. The part wall experiences controlled thinning of up to 20 % of the original thickness in the punch radius area, which is the most critical section of the formed part.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/paper-drawing-sizes-d_140.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/stamping_drawing.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/deep-drawing

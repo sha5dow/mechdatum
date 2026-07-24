@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 El alambre para soldadura MIG/MAG (GMAW) es un electrodo consumible continuo que se presenta en bobinas y carretes, diseñado para alimentarse automáticamente a través de la antorcha. Su diámetro está estandarizado según normas como AWS A5.18, A5.9 y A5.10, abarcando desde 0,6 mm / 0.023 in hasta 2,4 mm / 0.094 in en las aplicaciones más pesadas. La selección del alambre depende del metal base a soldar, la posición de soldadura, el modo de transferencia y el gas de protección utilizado. Las especificaciones cubren aceros al carbono, aceros inoxidables, aluminio y otras aleaciones, garantizando propiedades mecánicas definidas y compatibilidad metalúrgica.
 
 ## Aplicaciones
@@ -134,22 +133,22 @@ Propiedades mecánicas del metal depositado (100 % Ar):
 Para espesores finos (≤ 3 mm / 0.12 in) en cualquier material se emplea alambre de 0,8–0,9 mm / 0.030–0.035 in con transferencia por cortocircuito. En espesores medios y gruesos se opta por diámetros de 1,2 mm / 0.045 in o superiores y transferencia por spray.
 
 ## Preguntas frecuentes (FAQ)
-**1. ¿Cuál es la resistencia a la tracción mínima del alambre ER70S-6?**  
+### ¿Cuál es la resistencia a la tracción mínima del alambre ER70S-6?
 La resistencia a la tracción mínima especificada por AWS A5.18 es de 480 MPa / 70 ksi, aunque los valores típicos oscilan entre 500 y 560 MPa / 72 y 81 ksi cuando se usa mezcla de gas argón/CO₂.
 
-**2. ¿Qué diámetros de alambre son los más habituales para soldar aluminio con ER4043?**  
+### ¿Qué diámetros de alambre son los más habituales para soldar aluminio con ER4043?
 Los diámetros más utilizados son 1,2 mm / 0.047 in y 1,6 mm / 0.063 in; para espesores superiores a 6 mm / 0.24 in se prefiere 2,4 mm / 0.094 in, siempre empleando equipos de alimentación especiales.
 
-**3. ¿A qué temperatura de precalentamiento debe someterse un acero de baja aleación antes de usar ER100S-1?**  
+### ¿A qué temperatura de precalentamiento debe someterse un acero de baja aleación antes de usar ER100S-1?
 Se recomienda precalentar entre 150 °C / 302 °F y 200 °C / 392 °F, dependiendo del espesor y del carbono equivalente, para evitar fisuración por hidrógeno.
 
-**4. ¿Qué longitud de arco eléctrico se mantiene al soldar acero inoxidable con transferencia por cortocircuito y alambre de 1,0 mm?**  
+### ¿Qué longitud de arco eléctrico se mantiene al soldar acero inoxidable con transferencia por cortocircuito y alambre de 1,0 mm?
 La longitud de arco ideal es de aproximadamente 3 a 6 mm / 0.12 a 0.24 in, equivalente a un voltaje de 17–20 V, lo que produce una transferencia estable y poca proyección.
 
-**5. ¿Cuánta elongación mínima se exige al depósito de soldadura de un alambre ER308L?**  
+### ¿Cuánta elongación mínima se exige al depósito de soldadura de un alambre ER308L?
 La norma AWS A5.9 exige una elongación mínima del 35 %, asegurando una ductilidad adecuada para conformado posterior y servicio en frío.
 
-**6. ¿Qué caudal de gas de protección se ajusta normalmente al soldar aluminio con alambre de 1,6 mm?**  
+### ¿Qué caudal de gas de protección se ajusta normalmente al soldar aluminio con alambre de 1,6 mm?
 Se establece un caudal de 15 a 20 L/min / 32 a 42 ft³/h de argón puro, suficiente para mantener la cobertura gaseosa sin generar turbulencias que introduzcan aire.
 
 ## Fuentes consultadas

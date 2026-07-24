@@ -91,24 +91,24 @@ No es recomendable para:
 - Detalles de menos de 0,8 mm / 0.031 in de espesor o geometrías con microcavidades.
 - Producción en masa donde la velocidad de ciclo de otros métodos (inyección) supera ampliamente a la impresión 3D.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la altura de capa mínima que se puede lograr en FDM?**  
+### ¿Cuál es la altura de capa mínima que se puede lograr en FDM?
 La altura de capa mínima práctica es de 0,05 mm / 0.002 in, aunque la mayoría de las impresoras de escritorio trabajan con 0,1 mm / 0.004 in sin comprometer la fiabilidad de la extrusión.
 
-**¿Qué tolerancia dimensional es realista en impresoras FDM de escritorio?**  
+### ¿Qué tolerancia dimensional es realista en impresoras FDM de escritorio?
 En los ejes XY se obtiene una precisión de ±0,2 mm / 0.008 in para piezas de hasta 100 mm de lado, mientras que en el eje Z la tolerancia se sitúa en ±0,1 mm / 0.004 in, equivalente aproximadamente a una altura de capa.
 
-**¿Cuánto material se desperdicia durante una impresión FDM?**  
+### ¿Cuánto material se desperdicia durante una impresión FDM?
 El aprovechamiento de material supera el 95 %, siendo el desperdicio inferior al 5 % y concentrado principalmente en las estructuras de soporte y en las purgas al inicio de cada trabajo.
 
-**¿Qué temperatura de cama se necesita para evitar el warping con ABS?**  
+### ¿Qué temperatura de cama se necesita para evitar el warping con ABS?
 El ABS requiere una cama calefactada entre 80 y 110 °C / 176 – 230 °F; por debajo de 80 °C / 176 °F es muy probable que la pieza se despegue y se deforme.
 
-**¿Cuál es la velocidad máxima de impresión recomendada para TPU?**  
+### ¿Cuál es la velocidad máxima de impresión recomendada para TPU?
 Los filamentos flexibles se imprimen a baja velocidad, típicamente entre 20 y 30 mm/s / 0,79 – 1,18 in/s; velocidades superiores pueden provocar atascos en el extrusor.
 
-**¿Qué diámetro de boquilla se emplea como estándar en FDM?**  
+### ¿Qué diámetro de boquilla se emplea como estándar en FDM?
 El diámetro de boquilla más común es 0,4 mm / 0.016 in, que ofrece un equilibrio entre velocidad de construcción y detalle superficial. También se utilizan boquillas de 0,2 mm / 0.008 in para piezas de alta definición y de hasta 1,0 mm / 0.039 in para impresiones rápidas de gran formato.
 
 ## Fuentes consultadas

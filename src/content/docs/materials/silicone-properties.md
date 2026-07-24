@@ -114,22 +114,22 @@ La silicona ofrece el mayor intervalo de temperaturas de trabajo y una flexibili
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es el rango de temperatura de trabajo de la silicona de caucho?**  
+### ¿Cuál es el rango de temperatura de trabajo de la silicona de caucho?
    La silicona soporta de forma continua desde **−50 °C hasta 200 °C** y alcanza picos de **300 °C** en servicio intermitente.
 
-2. **¿Qué resistencia química posee?**  
+### ¿Qué resistencia química posee?
    Resiste muy bien ácidos y bases fuertes (valoración **5/5**) y disolventes orgánicos (**4/5**), pero se oxida rápidamente a **500 °C** (valoración **1/5**).
 
-3. **¿Cuál es su densidad típica?**  
+### ¿Cuál es su densidad típica?
    La densidad varía entre **1,1 y 2,3 g/cm³** (68,7‑143,6 lb/ft³) en función de la cantidad y tipo de relleno.
 
-4. **¿Cuánto se elonga antes de romper?**  
+### ¿Cuánto se elonga antes de romper?
    Presenta un alargamiento a rotura del **80 % al 530 %**; las formulaciones más blandas pueden superar el **700 %**.
 
-5. **¿Es buen aislante eléctrico?**  
+### ¿Es buen aislante eléctrico?
    Sí, posee una rigidez dieléctrica de **11 a 28 kV/mm** y una resistividad volumétrica del orden de **10¹¹‑10¹⁴ Ω·m**.
 
-6. **¿Se puede usar en contacto con alimentos?**  
+### ¿Se puede usar en contacto con alimentos?
    Las siliconas de grado alimentario (conforme a normativas FDA y UE) están aprobadas para cocinar, hornear y almacenar alimentos.
 
 ## Fuentes consultadas

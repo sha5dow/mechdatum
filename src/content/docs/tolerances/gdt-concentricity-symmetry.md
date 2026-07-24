@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Visión general
-
 La concentricidad y la simetría son tolerancias geométricas de localización que controlan la posición del eje central (concentricidad) o del plano medio (simetría) de una pieza respecto a un elemento datum de referencia. Ambas tolerancias se utilizan para asegurar el equilibrio dinámico, la alineación de montajes y la intercambiabilidad, aunque en la práctica moderna a menudo se sustituyen por tolerancias de posición o perfil por su mayor facilidad de verificación.
 
 La zona de tolerancia de concentricidad es un cilindro cuyo diámetro es igual al valor de tolerancia especificado; el eje derivado de la pieza debe estar completamente dentro de este cilindro. En simetría, la zona de tolerancia está formada por dos planos paralelos separados una distancia igual al valor de tolerancia, y el plano medio real debe encontrarse entre ambos.
@@ -68,24 +66,24 @@ En la práctica, muchos diseñadores reemplazan concentricidad/simetría por tol
 
 **Alojamiento de cojinete en una carcasa bipartida**. Los dos semicilindros que alojan un cojinete deben ser coaxiales entre sí y concéntricos con el plano de referencia de la base. Se aplica una concentricidad compuesta: el fabricante utiliza una tolerancia de posición de **0,03 mm / 0.0012 in** (Ø0,03 mm) que controla simultáneamente localización y orientación, simplificando la inspección respecto a la concentricidad pura.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la tolerancia de concentricidad típica que ofrece un rectificado cilíndrico?**  
+### ¿Cuál es la tolerancia de concentricidad típica que ofrece un rectificado cilíndrico?
 Para un eje de 25 mm de diámetro, el rectificado cilíndrico puede mantener una concentricidad entre **0,009 mm (0.00035 in) y 0,021 mm (0.00083 in)**, correspondiente a los grados IT5 a IT7.
 
-**2. ¿Qué valor numérico debe aparecer en el marco de control para una simetría de 0,08 mm?**  
+### ¿Qué valor numérico debe aparecer en el marco de control para una simetría de 0,08 mm?
 El marco indicaría el símbolo de simetría y la cifra **0,08**, lo que equivale a una zona plana de **0,08 mm / 0.00315 in** de espesor; el plano medio real debe estar dentro de esa zona respecto al datum especificado.
 
-**3. ¿Por qué la concentricidad se eliminó de ASME Y14.5‑2009 y luego se reintrodujo?**  
+### ¿Por qué la concentricidad se eliminó de ASME Y14.5‑2009 y luego se reintrodujo?
 Se eliminó en 2009 por la dificultad de medir la «mediana de puntos opuestos» y la preferencia por posición; se reintrodujo en 2018 con medición basada en la envolvente funcional, pero manteniendo el símbolo clásico (⊗).
 
-**4. ¿Cómo se relaciona la concentricidad con la excentricidad que mide un comparador?**  
+### ¿Cómo se relaciona la concentricidad con la excentricidad que mide un comparador?
 La excentricidad medida (TIR – Total Indicator Reading) es el doble del desplazamiento radial; si un comparador marca **0,04 mm (0.0016 in)** de variación total, la concentricidad (desviación del eje) es de **0,02 mm / 0.0008 in**.
 
-**5. ¿Cuál es el grado ISO mínimo para garantizar una simetría de 0,1 mm en un chavetero?**  
+### ¿Cuál es el grado ISO mínimo para garantizar una simetría de 0,1 mm en un chavetero?
 Para una anchura nominal de 10 mm, el grado **IT11** (tolerancia 0,09 mm / 0.0035 in) o **IT10** (0,058 mm / 0.0023 in) pueden cumplir 0,1 mm; el fresado convencional alcanza IT9‑IT11.
 
-**6. ¿Influye la longitud de la pieza en la tolerancia de concentricidad?**  
+### ¿Influye la longitud de la pieza en la tolerancia de concentricidad?
 Sí, la relación longitud/diámetro puede hacer que la desviación angular amplifique el error; una pieza de 100 mm (3.94 in) de largo con una concentricidad de **0,03 mm / 0.0012 in** exige que el proceso mantenga una rectitud muy estricta, a menudo **0,005 mm / 0.0002 in** adicional en el cilindrado previo.
 
 ## Fuentes consultadas

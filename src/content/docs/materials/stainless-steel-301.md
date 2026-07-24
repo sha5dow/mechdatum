@@ -107,24 +107,24 @@ En comparación con otros aceros inoxidables, el 301 ofrece una resistencia lige
 
 El acero inoxidable 301 se distingue por su capacidad de endurecer drásticamente mediante trabajo en frío, alcanzando resistencias propias de aceros martensíticos, pero manteniendo una ductilidad útil. Frente al 304, sacrifica algo de resistencia a la corrosión para ganar propiedades mecánicas tras conformado. En aplicaciones que requieren la máxima resistencia sin tratamientos térmicos de temple, el 301 suele ser el elegido.
 
-## Preguntas Frecuentes (FAQ)
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción del Acero Inoxidable 301 en estado recocido?**  
+### ¿Cuál es la resistencia a la tracción del Acero Inoxidable 301 en estado recocido?
 La resistencia a la tracción mínima es de 515 MPa (75 ksi) y puede elevarse hasta 620 MPa dependiendo del espesor.
 
-**¿Cuál es la dureza típica del 301 en condición totalmente dura?**  
+### ¿Cuál es la dureza típica del 301 en condición totalmente dura?
 Se alcanza una dureza de aproximadamente 41 HRC, equivalente a unos 375 HB en la escala Brinell.
 
-**¿Cuánto cromo contiene el acero 301?**  
+### ¿Cuánto cromo contiene el acero 301?
 El contenido de cromo está entre el 16 % y el 18 %, suficiente para garantizar la capa pasiva protectora.
 
-**¿Cuál es la conductividad térmica a temperatura ambiente?**  
+### ¿Cuál es la conductividad térmica a temperatura ambiente?
 La conductividad térmica es de aproximadamente 15 W/m·K (8.7 BTU/h·ft·°F), notablemente inferior a la de los aceros al carbono.
 
-**¿A qué temperatura funde el Acero Inoxidable 301?**  
+### ¿A qué temperatura funde el Acero Inoxidable 301?
 Su punto de fusión se encuentra en el intervalo de 1400–1420 °C (2550–2590 °F).
 
-**¿Cuál es la densidad del acero inoxidable 301?**  
+### ¿Cuál es la densidad del acero inoxidable 301?
 La densidad típica es de 7.93 g/cm³ (0.286 lb/in³), valor común en los aceros inoxidables austeníticos al cromo-níquel.
 
 ## Fuentes consultadas

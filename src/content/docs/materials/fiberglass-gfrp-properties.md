@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 La fibra de vidrio tipo E constituye aproximadamente el 90 % de la producción mundial de fibras de refuerzo para plásticos. Se trata de un filamento inorgánico de vidrio con bajo contenido de álcali (< 1 % de Na₂O + K₂O) que, una vez embebido en una matriz polimérica, forma los denominados compuestos de plástico reforzado con fibra de vidrio (GFRP, por sus siglas en inglés). Su excelente relación resistencia‑peso, estabilidad dimensional, resistencia al fuego y costo moderado la convierten en la fibra de refuerzo más utilizada en las industrias de construcción, automoción, naval y aeronáutica.
 
 ## Composición química
@@ -120,24 +119,24 @@ Las fibras de vidrio para refuerzo están cubiertas por numerosas normas ASTM, e
 | ASTM D2105 | Determinación de la resistencia a la tracción de hilos de vidrio |
 | DIN 61850 | Vidrio textil — Designación y tipos principales |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción de un compuesto GFRP unidireccional?**  
+### ¿Cuál es la resistencia a la tracción de un compuesto GFRP unidireccional?
 Un laminado GFRP unidireccional con 60 % de fibra en volumen alcanza típicamente 1000–1200 MPa en dirección de la fibra, lo que supone el 50–60 % de la resistencia de la fibra seca.
 
-**¿Qué densidad tiene un laminado típico de GFRP?**  
+### ¿Qué densidad tiene un laminado típico de GFRP?
 La densidad de un laminado con matriz de poliéster o epoxi oscila entre 1,8 y 2,0 g/cm³, aproximadamente un 70 % de la del aluminio.
 
-**¿Hasta qué temperatura se puede usar el GFRP?**  
+### ¿Hasta qué temperatura se puede usar el GFRP?
 La temperatura máxima de servicio continuo de un compuesto con matriz polimérica de curado en caliente se sitúa entre 120 y 150 °C, aunque la fibra en sí mantiene sus propiedades hasta más de 600 °C.
 
-**¿El GFRP es resistente a los ácidos?**  
+### ¿El GFRP es resistente a los ácidos?
 Los laminados de GFRP con matriz de viniléster o epoxi soportan la exposición a la mayoría de los ácidos minerales y orgánicos, obteniendo una calificación de 5/5 en ensayos de inmersión, siempre que no contengan ácido fluorhídrico.
 
-**¿Cuál es la conductividad térmica del GFRP?**  
+### ¿Cuál es la conductividad térmica del GFRP?
 La conductividad térmica transversal de un laminado GFRP suele estar entre 0,3 y 0,5 W/(m·K), alrededor de 80 veces inferior a la del acero al carbono.
 
-**¿Cuánto más ligero es el GFRP frente al acero?**  
+### ¿Cuánto más ligero es el GFRP frente al acero?
 Con una densidad 4 veces menor (1,9 frente a 7,85 g/cm³), un componente de GFRP puede reducir el peso en un 50–60 % para la misma rigidez específica, siempre que el diseño aproveche las direcciones de refuerzo.
 
 ## Fuentes consultadas

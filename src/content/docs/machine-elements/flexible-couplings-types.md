@@ -74,7 +74,7 @@ La capacidad de desalineación angular típica de un acoplamiento jaw es de 1° 
 
 La temperatura de operación recomendada para insertos elastoméricos estándar oscila entre -40 °C / -40 °F y 100 °C / 212 °F. Durante el montaje se debe conservar una separación axial mínima de 1,5 mm / 0.06 in entre cubos para evitar compresión excesiva de la araña. Los cubos con fijación por tornillo prisionero requieren un chavetero y deben apretarse con el par especificado; la fijación por abrazadera distribuye la presión uniformemente y es preferible en inversiones de giro frecuentes. La desalineación angular no debe superar 1° para arañas NBR; si se requiere mayor flexibilidad, usar arañas de uretano o Hytrel® que permiten hasta 1,5° [VERIFICAR]. En el acoplamiento Oldham, el disco central debe deslizar libremente en las ranuras y se debe garantizar una lubricación periódica con grasa NLGI 0 en versiones metálicas.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué par máximo soporta un acoplamiento L070 con araña estándar?
 El par máximo continuo es de 27 Nm / 20 lb·ft con araña de 80 Shore A, y 44 Nm / 32 lb·ft con araña de 92 Shore A [VERIFICAR].

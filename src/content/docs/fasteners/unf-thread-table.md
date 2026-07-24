@@ -146,24 +146,23 @@ Los valores de torque se calcularon para tornillos y tuercas con rosca limpia y 
 ## Equivalencias entre normas (DIN, ISO, ANSI)
 Las roscas UNF están normalizadas exclusivamente bajo el sistema ANSI/ASME B1.1 y no disponen de un equivalente directo en las normas métricas DIN o ISO. Mientras que las roscas UNF se basan en pulgadas y utilizan el paso como hilos por pulgada, las normas DIN/ISO emplean el paso en milímetros y el diámetro en milímetros. Aunque dimensionalmente pueden existir combinaciones cercanas (por ejemplo, UNF 1/4-28 y una hipotética M6×0.5), no son intercambiables ni sustituibles. En proyectos que combinen especificaciones americanas y europeas se debe recurrir a adaptadores o replantear el diseño utilizando un único sistema.
 
-## Preguntas frecuentes
-
-**¿Cuál es el paso de una rosca UNF 1/4-28?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el paso de una rosca UNF 1/4-28?
 El paso es de 0.907 mm, equivalente a 28 hilos por pulgada (0.0357 in).
 
-**¿Qué diámetro de broca se necesita para mecanizar una rosca interna UNF 3/8-24?**  
+### ¿Qué diámetro de broca se necesita para mecanizar una rosca interna UNF 3/8-24?
 Se recomienda utilizar una broca de 8.50 mm (0.335 in) para obtener aproximadamente un 75 % de profundidad de rosca.
 
-**¿Cuánto resiste un tornillo UNF 1/2-20 Grado 5 antes de la deformación permanente?**  
+### ¿Cuánto resiste un tornillo UNF 1/2-20 Grado 5 antes de la deformación permanente?
 La carga de prueba es de 60.4 kN (13 590 lbf), lo que corresponde al límite elástico práctico del material en tracción directa.
 
-**¿Qué torque de apriete debe aplicarse a un perno UNF 5/8-18 Grado 8 en montaje en seco?**  
+### ¿Qué torque de apriete debe aplicarse a un perno UNF 5/8-18 Grado 8 en montaje en seco?
 El torque máximo recomendado es de 162.1 Nm (119.6 lb‑ft), asumiendo un coeficiente de fricción K=0.20 y sin lubricación.
 
-**¿Cuál es el área resistente de la rosca UNF 3/4-16?**  
+### ¿Cuál es el área resistente de la rosca UNF 3/4-16?
 El área de esfuerzo de tracción es de 240.6 mm² (0.3729 in²), valor utilizado para calcular la carga máxima en el tornillo.
 
-**¿Existe alguna rosca métrica idéntica a la serie UNF?**  
+### ¿Existe alguna rosca métrica idéntica a la serie UNF?
 No existen equivalentes métricos idénticos. Las roscas UNF son definidas por ANSI/ASME B1.1 en pulgadas; cualquier similitud dimensional con roscas métricas finas (DIN 13 / ISO 724) es casual y no garantiza intercambiabilidad.
 
 ## Fuentes consultadas

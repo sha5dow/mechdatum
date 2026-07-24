@@ -80,28 +80,27 @@ Weldability with TIG (gas tungsten arc welding process) is classified using the 
 
 Quick parameter selection is based on material and thickness, always starting with a reference current range of 30‑40 A per millimeter of thickness for steels and 40‑50 A per millimeter for aluminum. For carbon and stainless steel, DCEN and alloyed tungsten (gold, red, gray) are used. With aluminum and magnesium, switch to alternating current (AC) and green or gold tungsten. The argon flow rate is set at a base value of 10 L / min (21 CFH) and adjusted ±20 % according to nozzle size and travel speed. In demanding applications (titanium, superalloys) adopt ultra-high purity argon (99.999 %) with a trailing cup or inert chamber to maintain the oxygen level below 10 ppm. Always verify the compatibility of the filler rod (base metal series) and edge preparation: for thicknesses greater than 3 mm / 0.12 in a V-groove of 60‑75° with a root face of 1.5‑2 mm / 0.06‑0.08 in is recommended.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the recommended amperage for welding aluminum 3 mm?**  
+### What is the recommended amperage for welding aluminum 3 mm?
 A range of 120‑200 A in alternating current (AC) is recommended for aluminum of 3 mm / 0.12 in, using a green tungsten electrode (EWP) of 2.4 mm / 3/32 in.
 
-**What argon flow rate is needed for welding stainless steel 1.5 mm?**  
+### What argon flow rate is needed for welding stainless steel 1.5 mm?
 The optimum flow rate is 8‑12 L / min (17‑25 CFH) with a standard 8 mm / 0.31 in nozzle; flow rates below 6 L / min (12.7 CFH) cause lack of shielding.
 
-**Which materials can be welded autogenously?**  
+### Which materials can be welded autogenously?
 Autogenous TIG welding is feasible on stainless steel and titanium up to 2 mm / 0.08 in, provided the fit-up between parts is less than 0.25 mm / 0.01 in.
 
-**What tungsten diameter should I use for a current of 150 A?**  
+### What tungsten diameter should I use for a current of 150 A?
 At 150 A a 2.4 mm / 3/32 in electrode is recommended; for currents between 80‑150 A a 1.6 mm / 1/16 in can also be used, although the larger diameter reduces the risk of contamination.
 
-**Can copper alloys be welded with TIG without preheating?**  
+### Can copper alloys be welded with TIG without preheating?
 For thicknesses less than 3 mm / 0.12 in it is generally not necessary, but for more than 3 mm a preheat of 150‑300 °C / 302‑572 °F with argon‑helium is applied to improve fluidity.
 
-**How much does a poor gas flow rate affect weld quality?**  
+### How much does a poor gas flow rate affect weld quality?
 Insufficient flow rate (< 6 L / min / 12.7 CFH) can raise porosity to 15‑20 % of the weld area, while excessive flow creates turbulence that draws in oxygen and doubles the risk of oxidation.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/threaded-socket-welded-fittings-d_33.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=n%20t%20c
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/press-welding

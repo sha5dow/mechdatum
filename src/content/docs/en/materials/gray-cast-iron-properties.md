@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Technical summary
 **Gray cast iron** is the most common cast iron alloy, with a minimum tensile strength ranging from **140 MPa** (20 ksi) to over 400 MPa (58 ksi) depending on the grade. It is distinguished by the presence of graphite in the form of flakes (lamellae) that provide high machinability, good damping capacity, excellent thermal conductivity, and a dark gray fracture surface. It is widely used in components where rigidity, vibration absorption, and low cost are critical, such as engine blocks, brake discs, pump housings, and machine tool beds.
 
 | Typical property (middle grade ASTM A48 CL 30) | SI Value | Imperial Value |
@@ -116,27 +115,26 @@ Gray cast iron is usually compared with ductile iron (nodular) and malleable iro
 
 Compared to ductile iron, gray iron is notably more brittle but offers better damping capacity, higher thermal conductivity, and superior castability. With malleable iron, gray iron shares the pearlitic matrix but malleable iron, lacking lamellar graphite, absorbs energy in a ductile manner. Compared to cast carbon steels, gray iron sacrifices strength and toughness in favor of moldability and low cost.
 
-## Frequently asked questions (FAQ)
-**1. What is the typical tensile strength of gray cast iron?**  
+## Frequently Asked Questions (FAQ)
+### What is the typical tensile strength of gray cast iron?
 Minimum tensile strength ranges from **140 MPa** (20 ksi) in ASTM A48 CL 20 to **400 MPa** (58 ksi) in alloyed grades such as CL 60.
 
-**2. What Brinell hardness can be expected from a class 30 gray cast iron?**  
+### What Brinell hardness can be expected from a class 30 gray cast iron?
 ASTM A48 CL 30 typically exhibits a Brinell hardness of **175 BHN**, within a usual range of 160 to 210 BHN for commercial unalloyed grades.
 
-**3. What is the thermal conductivity of gray cast iron at room temperature?**  
+### What is the thermal conductivity of gray cast iron at room temperature?
 Thermal conductivity is around **50 W/(m·K)** (29 BTU/(hr·ft·°F)), approximately double that of many carbon steels.
 
-**4. Up to what temperature can a gray cast iron part operate continuously?**  
+### Up to what temperature can a gray cast iron part operate continuously?
 It can be used without structural load up to about **500 °C** (930 °F); above that temperature oxidation and microstructural changes limit service life.
 
-**5. Can gray cast iron be welded to repair a crack?**  
+### Can gray cast iron be welded to repair a crack?
 Yes, but the chances of success are modest; it requires preheating to **400 – 600 °C** and very slow cooling, or using special nickel electrodes and cold welding procedures.
 
-**6. How much graphite does a typical gray cast iron contain by volume?**  
+### How much graphite does a typical gray cast iron contain by volume?
 Graphite occupies between **6 % and 10 % of the total volume**, giving the fracture its characteristic gray color and facilitating machinability.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=3864
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/cast-iron-d_1163.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=1505

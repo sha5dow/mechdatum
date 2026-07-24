@@ -129,28 +129,27 @@ Neoprene is supplied in the form of solid sheets, tapes, latex, or granules. For
 | Glass transition (Tg) | ≈ –43 | °C | ≈ –45 °F |
 | Thermal conductivity | 0.19 | W/(m·K) | 1.32 BTU·in/(h·ft²·°F) |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum continuous use temperature of neoprene?**  
+### What is the maximum continuous use temperature of neoprene?
 The maximum continuous use temperature is 115 °C (239 °F). Above this value, chlorine degradation reduces the service life of the elastomer.
 
-**What Shore A hardness does a typical neoprene for gaskets have?**  
+### What Shore A hardness does a typical neoprene for gaskets have?
 Neoprene gaskets typically have a hardness between 50 and 70 Shore A. For applications requiring greater flexibility, grades from 30 to 50 Shore A are used.
 
-**Is neoprene resistant to motor oil?**  
+### Is neoprene resistant to motor oil?
 Neoprene resists paraffinic mineral oils with swelling below 15 %, but oils containing aromatic additives can cause swelling above 50 %.
 
-**How does low temperature affect neoprene?**  
+### How does low temperature affect neoprene?
 Below –40 °C (–40 °F) neoprene significantly loses flexibility due to partial crystallization of the polymer matrix. With suitable plasticizers it can remain flexible down to –50 °C.
 
-**What is the minimum thickness of a neoprene foam sheet?**  
+### What is the minimum thickness of a neoprene foam sheet?
 Neoprene foam sheets are commercially available from 1 mm (0.039 in) thickness. For wetsuits, thicknesses between 3 mm and 7 mm are used.
 
-**How much water does solid neoprene absorb?**  
+### How much water does solid neoprene absorb?
 Water absorption at 24 h and 23 °C is less than 1 % by volume. This low absorption makes it suitable for seals in contact with seawater.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=317
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html
 - **steelnumber.com**: https://www.steelnumber.com/index.php

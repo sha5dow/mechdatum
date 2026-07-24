@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Introducción
 Los acoplamientos rígidos conectan dos ejes de forma que no existe movimiento relativo entre ellos, formando una unión fija y continua. Transmiten par y rotación sin admitir desalineaciones angulares, radiales o axiales; cualquier error de alineación genera fuerzas reactivas elevadas sobre los ejes y los soportes. Se emplean cuando las posiciones de ambas máquinas pueden garantizarse con precisión y se requiere máxima rigidez torsional.
 
 ## Tipos
@@ -90,23 +89,23 @@ La capacidad de par de un acoplamiento rígido está determinada principalmente 
 | Servomotores en robótica | Manguito de abrazadera de aluminio anodizado | 10 – 100 Nm / 88 – 885 lb·in | Buena relación rigidez/peso, libre de mantenimiento, desmontaje sencillo. |
 | Maquinaria pesada siderúrgica | Brida rígida con pernos de grado 10.9 | 5,000 – 30,000 Nm / 3,688 – 22,125 lb·ft | Se usan bridas sobredimensionadas y chavetas múltiples. Requiere alineación láser. |
 
-## FAQ
-**1. ¿Qué par máximo puede transmitir un acoplamiento rígido de brida de acero para un eje de 25 mm?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué par máximo puede transmitir un acoplamiento rígido de brida de acero para un eje de 25 mm?
 El par máximo continuo alcanza 270 Nm / 2,390 lb·in si se emplean chavetas normalizadas y pernos de grado 8.8. En aplicaciones con cargas de choque, este valor debe reducirse a la mitad.
 
-**2. ¿Cuál es la diferencia entre un acoplamiento de manguito partido y uno de manguito entero?**  
+### ¿Cuál es la diferencia entre un acoplamiento de manguito partido y uno de manguito entero?
 El manguito partido está formado por dos mitades que se unen con tornillos, lo que permite desmontar el acoplamiento sin mover los ejes. El manguito entero exige desplazar longitudinalmente un eje al menos una distancia igual a la longitud del casquillo.
 
-**3. ¿Qué materiales se emplean en acoplamientos rígidos?**  
+### ¿Qué materiales se emplean en acoplamientos rígidos?
 Los más comunes son acero al carbono (C45 o AISI 1045), acero inoxidable 304/316 para ambientes corrosivos, aluminio 6061-T6 cuando se requiere baja inercia y, ocasionalmente, fundición nodular GGG-40 en acoplamientos grandes.
 
-**4. ¿Qué precisión de alineación requiere un acoplamiento rígido?**  
+### ¿Qué precisión de alineación requiere un acoplamiento rígido?
 La desalineación radial máxima admisible es de 0.05 mm / 0.002 in, y la angular no debe superar 0.1°. Superar estos límites genera sobrecargas cíclicas que pueden reducir la vida útil del rodamiento más cercano en un 80 %.
 
-**5. ¿Se pueden emplear acoplamientos rígidos a altas velocidades?**  
+### ¿Se pueden emplear acoplamientos rígidos a altas velocidades?
 Sí, siempre que los ejes estén perfectamente alineados y el acoplamiento esté equilibrado dinámicamente. Para velocidades superiores a 3,000 rpm / 3,600 rpm se recomienda un equilibrado grado G 6.3 según ISO 21940 y un control radial inferior a 0.02 mm / 0.0008 in.
 
-**6. ¿Cómo se monta con seguridad un acoplamiento de brida sin inducción de tensiones?**  
+### ¿Cómo se monta con seguridad un acoplamiento de brida sin inducción de tensiones?
 Todos los pernos deben apretarse progresivamente en secuencia diametral opuesta. Para un acoplamiento de 8 pernos, se aprieta primero al 50 % del par final (por ejemplo 45 Nm / 33 lb·ft), luego al 100 % (90 Nm / 66 lb·ft). Después del apriete se verifica con un reloj comparador que el desplazamiento radial no supere 0,03 mm / 0.0012 in.
 
 ## Fuentes consultadas

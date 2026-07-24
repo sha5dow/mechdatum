@@ -79,7 +79,7 @@ In the naval industry, the correct calculation of flat pattern development using
 - The variability of the k-factor between material lots can reach ±0.03, so experimental validation is recommended for critical tolerances less than 0.25 mm / 0.010 in.
 - Bending parallel to the rolling direction can cause inconsistent k-factors and cracking in radii smaller than 2T.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is the typical k-factor for aluminum 5052 H32 of 1.5 mm thickness?
 
@@ -105,7 +105,6 @@ The melting temperature of aluminum 5052 is 607 °C / 1 125 °F, so at room temp
 
 Thicknesses between 0.5 mm / 0.020 in and 3.0 mm / 0.118 in are recommended for a reliable k-factor calculation; outside this range, the variability of the neutral axis can exceed ±0.05 and experimental compensations are required.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html
 - **efunda.com**: https://www.efunda.com/materials/alloys/aluminum/show_aluminum.cfm?ID=AA_5052&show_prop=all&Page_Title=AA%205052

@@ -49,23 +49,22 @@ Una viga simplemente apoyada con luz de 3 m (118 in) que soporta una carga p
 Un perfil IPE 200 de acero S235 posee un momento de inercia Ix = 19.4 × 10⁶ mm⁴ (46.6 in⁴). En la práctica, el momento de inercia sirve para seleccionar comercialmente el perfil adecuado a partir de catálogos de fabricantes. Por ejemplo, al dimensionar una viga de entrepiso con luz de 5 m (197 in) y carga uniformemente distribuida de 8 kN/m (548 lb/ft), el proyectista calcula primero la inercia necesaria para cumplir el estado límite de servicio (deflexión ≤ L/300). Con la inercia requerida (≈ 61 × 10⁶ mm⁴ / 147 in⁴), se elige un perfil IPE 270 o similar. En estructuras metálicas también se utilizan vigas alveolares o armadas, donde las fórmulas de momento de inercia de las secciones elementales permiten optimizar la geometría. En el diseño de ejes, el momento de inercia polar (J) se emplea para calcular el ángulo de torsión, mientras que en elementos de hormigón armado se transforma la sección agrietada para obtener un valor efectivo de I que permita estimar las flechas con precisión.
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Qué es el momento de inercia de área?**  
+### ¿Qué es el momento de inercia de área?
 El momento de inercia de área de una sección circular de 50 mm (1.97 in) de diámetro es I = 0.307 × 10⁶ mm⁴ (0.738 in⁴). Es una propiedad geométrica que mide la distribución del área de una sección respecto a un eje y determina su resistencia a la flexión y a la deflexión.
 
-**¿Cómo se calcula I para una sección rectangular?**  
+### ¿Cómo se calcula I para una sección rectangular?
 Para un rectángulo de 150 mm × 300 mm (5.91 in × 11.81 in), Ix = (150 mm · 300³ mm³) / 12 = 337.5 × 10⁶ mm⁴ (811 in⁴). Se emplea la fórmula Ix = b h³ / 12, donde b es el ancho y h la altura paralela al eje de flexión.
 
-**¿Cómo se convierten las unidades de momento de inercia?**  
+### ¿Cómo se convierten las unidades de momento de inercia?
 1 in⁴ equivale exactamente a 416 231 mm⁴; por lo tanto, un valor de I = 5 × 10⁶ mm⁴ corresponde a 12.0 in⁴. Basta multiplicar o dividir por este factor para cambiar entre sistemas.
 
-**¿Qué diferencia existe entre Ix e Iy?**  
+### ¿Qué diferencia existe entre Ix e Iy?
 En un rectángulo de 200 mm × 100 mm (7.87 in × 3.94 in), si la base de 100 mm es horizontal, Ix = 16.67 × 10⁶ mm⁴ (40.0 in⁴) e Iy = 66.67 × 10⁶ mm⁴ (160.2 in⁴). Ix e Iy son los momentos de inercia respecto a los ejes centroidales; el mayor de ellos corresponde al eje fuerte (mayor rigidez).
 
-**¿Cómo influye el momento de inercia en la deflexión?**  
+### ¿Cómo influye el momento de inercia en la deflexión?
 Una viga con I = 10 × 10⁶ mm⁴ (24.0 in⁴) deflecta el doble que otra idéntica con I = 20 × 10⁶ mm⁴ (48.0 in⁴) bajo la misma carga, ya que la flecha es inversamente proporcional a I.
 
-**¿Qué es el módulo de sección y cómo se relaciona con el momento de inercia?**  
+### ¿Qué es el módulo de sección y cómo se relaciona con el momento de inercia?
 El módulo de sección elástico de un rectángulo de 200 mm de alto y 100 mm de ancho es S = 666.7 × 10³ mm³ (40.7 in³). Se obtiene como S = I / c, donde c es la distancia desde el eje neutro hasta la fibra extrema, y determina la tensión máxima en flexión (σ = M / S).
 
 ## Fuentes consultadas

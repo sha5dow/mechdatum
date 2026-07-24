@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los resortes de disco Belleville pueden soportar cargas de trabajo desde 27 N (6 lb) en los diámetros más pequeños hasta más de 38 kN (8650 lb) en las versiones de alta resistencia, con un rango de deflexión típico de 0,08 mm (0.003 in) a 1,0 mm (0.039 in) por disco. Patentados en 1867 por Julien Belleville, son arandelas cónicas de sección anular que trabajan bajo carga axial, tanto estática como dinámica. Su geometría troncocónica les confiere una curva carga‑deflexión no lineal, permitiendo altas fuerzas en espacios reducidos y la posibilidad de combinarse en apilamientos para multiplicar la carga o la deflexión. Se emplean para mantener tensión, separar componentes en ejes, bajo cabezas de tornillos y en válvulas de alta presión. Las configuraciones más habituales son el apilamiento en paralelo (nido, para aumentar la carga), en serie (sentidos alternos, para aumentar la deflexión) y la combinación de ambos.
 
 ## Dimensiones normalizadas
@@ -83,22 +82,22 @@ Una excentricidad en la carga superior a 0,1 mm (0.004 in) puede reducir la vida
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la carga máxima que puede soportar un resorte Belleville?**  
+### ¿Cuál es la carga máxima que puede soportar un resorte Belleville?
 La carga plana máxima (disco totalmente aplastado) en tamaños comerciales estándar alcanza los 55,6 kN (12 500 lb), como en el disco de eje 5/8 in pesado de la tabla. Mediante apilamiento en paralelo se puede multiplicar ese valor por el número de discos en el nido.
 
-**2. ¿Se pueden apilar para aumentar la deflexión?**  
+### ¿Se pueden apilar para aumentar la deflexión?
 Sí. Al colocar tres discos en serie (orientaciones alternas), la deflexión total es tres veces la deflexión individual. Por ejemplo, un disco de 1/4 in que deflecta 0,20 mm (0.008 in) proporcionará 0,60 mm (0.024 in) con tres discos en serie.
 
-**3. ¿Qué material elegir para ambientes corrosivos?**  
+### ¿Qué material elegir para ambientes corrosivos?
 El acero inoxidable 18‑8 resiste la humedad y químicos suaves hasta 300 °C (570 °F); para condiciones extremas de temperatura y corrosión (‑240 °C a 593 °C / ‑400 °F a 1100 °F) se emplea la aleación de níquel 718 (Inconel).
 
-**4. ¿Cómo se calcula la deflexión en un apilamiento mixto?**  
+### ¿Cómo se calcula la deflexión en un apilamiento mixto?
 En un apilamiento con n paquetes en paralelo (cada uno con la misma carga C) y m paquetes en serie, la deflexión total es m × d (donde d es la deflexión de un disco bajo la carga C). Por ejemplo, 2 discos en paralelo que comparten la carga de 200 N (45 lb) del ejemplo anterior cada uno, y 3 de estos paquetes en serie, dan una deflexión de 3 × 0,20 mm = 0,60 mm (0.024 in).
 
-**5. ¿Cuál es la vida útil en fatiga?**  
+### ¿Cuál es la vida útil en fatiga?
 Con tensiones máximas por debajo del 50 % del límite elástico, los resortes Belleville de acero bonificado pueden superar los 10⁶ ciclos. Condiciones de carga asimétrica o excentricidades elevadas reducen drásticamente la vida, en ocasiones a menos de 10⁵ ciclos.
 
-**6. ¿Sirven como arandelas de seguridad en uniones atornilladas?**  
+### ¿Sirven como arandelas de seguridad en uniones atornilladas?
 No. A diferencia de las arandelas Grower o dentadas, los resortes Belleville no poseen capacidad de bloqueo significativa; su función es mantener una precarga constante, pero no impiden el aflojamiento por vibración a menos que se combinen con otros elementos de fijación.
 
 ## Fuentes consultadas

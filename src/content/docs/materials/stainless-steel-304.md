@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero inoxidable 304 (UNS S30400) es el acero inoxidable austenítico más versátil y de mayor consumo mundial, con una producción anual estimada de varios millones de toneladas. Su estructura austenítica estable, conseguida gracias a un balance de cromo (≈18 %) y níquel (≈8 %), le confiere una excelente conformabilidad, soldabilidad y resistencia a la corrosión en una amplia variedad de ambientes. Es la opción predominante en la fabricación de piezas embutidas profundas —como fregaderos, baterías de cocina y menaje hueco— y en componentes arquitectónicos, industriales y de transporte. Las variantes 304L (bajo carbono, UNS S30403) y 304H (alto carbono, UNS S30409) permiten cubrir aplicaciones donde se requiere soldadura de secciones gruesas sin tratamiento posterior o servicio a alta temperatura, respectivamente.
 
 ## Composición química
@@ -106,24 +105,24 @@ El 304 posee una soldabilidad excelente por todos los procedimientos convenciona
 
 Estas equivalencias son orientativas; para requisitos exactos deben consultarse las normas originales de cada país.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción mínima del acero inoxidable 304 en estado recocido?**  
+### ¿Cuál es la resistencia a la tracción mínima del acero inoxidable 304 en estado recocido?
 El valor mínimo según ASTM A240 es de 515 MPa (74,7 ksi), pudiendo alcanzar cifras mucho mayores tras deformación en frío.
 
-**¿Qué densidad tiene el acero 304 y cómo afecta al peso de un componente?**  
+### ¿Qué densidad tiene el acero 304 y cómo afecta al peso de un componente?
 La densidad es de 8000 kg/m³ (0,289 lb/pulg³), lo que supone aproximadamente un 2 % más que la del acero al carbono; un metro cúbico de 304 pesa 8000 kg.
 
-**¿A qué temperatura funde el 304?**  
+### ¿A qué temperatura funde el 304?
 El intervalo de fusión se encuentra entre 1400 y 1450 °C (2550‑2650 °F), típico de los aceros austeníticos con alto contenido de cromo y níquel.
 
-**¿Cuál es la conductividad térmica del 304 y cómo varía con la temperatura?**  
+### ¿Cuál es la conductividad térmica del 304 y cómo varía con la temperatura?
 A 100 °C la conductividad es de 16,2 W/(m·K) (9,36 Btu/(h·ft·°F)), aumentando a 21,5 W/(m·K) (12,4 Btu/(h·ft·°F)) a 500 °C; estos valores son sensiblemente inferiores a los del acero al carbono.
 
-**¿Es magnético el acero inoxidable 304?**  
+### ¿Es magnético el acero inoxidable 304?
 En estado recocido es prácticamente no magnético (permeabilidad magnética cercan a 1) debido a su estructura austenítica; tras un fuerte trabajo en frío puede adquirir un ligero magnetismo.
 
-**¿Qué contenido de cromo y níquel define al 304?**  
+### ¿Qué contenido de cromo y níquel define al 304?
 El cromo se sitúa en el rango 18‑20 % y el níquel entre 8 y 10,5 %, dando lugar a la conocida denominación «18/8» o «18/10» en el ámbito comercial.
 
 ## Fuentes consultadas

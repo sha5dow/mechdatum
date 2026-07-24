@@ -77,22 +77,22 @@ En todos los casos, el área encerrada en el diagrama P‑V equivale al trabajo 
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la eficiencia máxima ideal de un ciclo Carnot entre 300 K y 1500 K?**  
+### ¿Cuál es la eficiencia máxima ideal de un ciclo Carnot entre 300 K y 1500 K?
 La eficiencia ideal es del 80 %, calculada como 1 – (300 K / 1500 K). En la práctica, las irreversibilidades impiden alcanzar este valor.
 
-**¿Qué relación de compresión se necesita en un ciclo Otto para lograr una eficiencia ideal del 60 % con κ = 1,4?**  
+### ¿Qué relación de compresión se necesita en un ciclo Otto para lograr una eficiencia ideal del 60 % con κ = 1,4?
 Se requiere una relación de compresión de aproximadamente 10:1. Con ε = 10, η = 1 – 10<sup>1–1,4</sup> = 1 – 10<sup>–0,4</sup> ≈ 0,60.
 
-**¿Cuál es la eficiencia real típica de un motor diésel de automóvil con relación de compresión 18:1?**  
+### ¿Cuál es la eficiencia real típica de un motor diésel de automóvil con relación de compresión 18:1?
 Un motor diésel moderno alcanza entre 35 % y 40 % de eficiencia térmica real, frente al 63 % ideal que arrojaría la fórmula del ciclo Diésel con Φ=2,0 y κ=1,4.
 
-**¿A qué presión opera la caldera de un ciclo Rankine supercrítico?**  
+### ¿A qué presión opera la caldera de un ciclo Rankine supercrítico?
 Las calderas supercríticas trabajan típicamente a 250 bar / 3600 psi, con temperaturas de vapor de hasta 600 °C / 1112 °F, alcanzando eficiencias reales del 45 % al 48 %.
 
-**¿Qué eficiencia térmica se obtiene en un ciclo Brayton ideal con relación de presión 15 y temperatura de entrada al compresor de 300 K?**  
+### ¿Qué eficiencia térmica se obtiene en un ciclo Brayton ideal con relación de presión 15 y temperatura de entrada al compresor de 300 K?
 Con r<sub>p</sub> = 15, la eficiencia ideal es η = 1 – 15<sup>(1–1,4)/1,4</sup> = 0,557 (55,7 %). Las turbinas de gas reales, con pérdidas, operan entre 35 % y 40 %.
 
-**¿Cuál es el consumo específico de combustible de un motor de ciclo Otto a plena carga?**  
+### ¿Cuál es el consumo específico de combustible de un motor de ciclo Otto a plena carga?
 Los motores Otto de inyección directa presentan un consumo específico de combustible típico de 250 g/kWh (0,55 lb/hp·h). Los motores diésel más eficientes pueden bajar a 200 g/kWh.
 
 ## Fuentes consultadas

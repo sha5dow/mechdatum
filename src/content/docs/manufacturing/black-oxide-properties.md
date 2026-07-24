@@ -111,7 +111,7 @@ En el proceso caliente, el baño de hidróxido de sodio (NaOH) con nitratos y ni
 | Aluminio | No | No aplica | El óxido negro no funciona en aluminio |
 | Titanio | No | No aplica | Requiere anodizado u otros procesos |
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué espesor tiene la capa de óxido negro?
 

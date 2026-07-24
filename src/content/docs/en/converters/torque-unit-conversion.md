@@ -60,28 +60,27 @@ Combining these constants yields **1 lbf·ft = 1,3558179483314004 N·m**, a valu
 
 In technical environments, confusion is common between **pound‑foot (lbf·ft)** and **foot‑pound (ft·lb)**, since the latter formally designates a unit of energy. However, many torque wrenches and manuals use "ft‑lb" to refer to torque. For low torque ranges (below 20 N·m), **pound‑force inch (lbf·in)** or **ounce‑force inch (ozf·in)** are often used. Common torque wrenches usually show dual scales in N·m / lbf·ft or in kgf·m / lbf·ft.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **How many newton meters are in one pound‑force foot?**  
+### How many newton meters are in one pound‑force foot?
    One pound‑force foot (lbf·ft) is exactly equal to 1,355817948 N·m, commonly rounded to 1,3558 N·m.
 
-2. **How to convert 100 N·m to pound‑force feet?**  
+### How to convert 100 N·m to pound‑force feet?
    100 N·m multiplied by 0,737562 gives **73,76 lbf·ft**; in practice it is often stated as 73,8 lbf·ft.
 
-3. **What is the equivalence between kilogram‑force meter and pound‑force foot?**  
+### What is the equivalence between kilogram‑force meter and pound‑force foot?
    One kilogram‑force meter (kgf·m) equals **7,2330 lbf·ft**; conversely, 1 lbf·ft = 0,138255 kgf·m.
 
-4. **What value in N·m corresponds to 50 lbf·in?**  
+### What value in N·m corresponds to 50 lbf·in?
    50 lbf·in equals **5,65 N·m** (50 × 0,112985).
 
-5. **How many ounce‑force inches are in 1 N·m?**  
+### How many ounce‑force inches are in 1 N·m?
    One newton meter contains **141,6 ozf·in** (1 N·m / 0,00706155 ≈ 141,6).
 
-6. **How do small metric units like gf·cm relate to N·m?**  
+### How do small metric units like gf·cm relate to N·m?
    One gram‑force centimeter equals **9,807 × 10⁻⁵ N·m**; therefore, 10 000 gf·cm = 0,9807 N·m.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/torque-d_991.html
 - **unitconverters.net**: https://www.unitconverters.net/torque-converter.html
 - **convertworld.com**: https://www.convertworld.com/en/torque/

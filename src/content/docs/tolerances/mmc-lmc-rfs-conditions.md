@@ -66,24 +66,24 @@ En aplicaciones que requieren un apriete mínimo, se emplea LMC sobre el alojami
 
 La principal diferencia práctica reside en el **Requisito de Envolvente**: en ASME la Regla #1 se asume siempre, mientras que en ISO debe indicarse explícitamente con el símbolo (E). Por lo tanto, un dibujo sin (E) en ISO permite que la pieza exceda la envolvente de forma perfecta en MMC, lo que puede dar lugar a problemas de ensamblaje si no se tiene en cuenta.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-1. **¿Cuánta tolerancia adicional puedo obtener al aplicar MMC en un agujero de 10 H7?**  
+### ¿Cuánta tolerancia adicional puedo obtener al aplicar MMC en un agujero de 10 H7?
    Hasta 0.015 mm / 0.0006 in de bonificación, alcanzando una tolerancia total de posición de 0.115 mm / 0.0046 in si el agujero se fabrica en su LMC (10.015 mm / 0.3943 in).
 
-2. **¿Qué desviación dimensional se necesita para duplicar una tolerancia geométrica de 0.1 mm / 0.004 in?**  
+### ¿Qué desviación dimensional se necesita para duplicar una tolerancia geométrica de 0.1 mm / 0.004 in?
    Para duplicarla a 0.2 mm / 0.008 in, la característica debe desviarse 0.1 mm / 0.004 in de su MMC, siempre que el campo de tolerancia dimensional lo permita; en un agujero 10 H7 esto no es posible porque solo hay 0.015 mm / 0.0006 in de recorrido.
 
-3. **¿Existe algún caso en que MMC no aporte ningún aumento de tolerancia?**  
+### ¿Existe algún caso en que MMC no aporte ningún aumento de tolerancia?
    Cuando la característica se produce exactamente en el MMC (p. ej., agujero de 10.000 mm / 0.3937 in en el ejemplo), la bonificación es 0 mm / 0 in y la tolerancia geométrica se queda en el valor base.
 
-4. **¿Cuánto se puede desplazar un datum con modificador MMC?**  
+### ¿Cuánto se puede desplazar un datum con modificador MMC?
    El desplazamiento máximo del datum virtual es igual a la tolerancia dimensional de la referencia como característica de tamaño. Si un datum de un eje tiene tolerancia dimensional de 0.020 mm / 0.0008 in, la pieza puede desplazarse lateralmente hasta 0.010 mm / 0.0004 in en la peor condición, aprovechando la diferencia entre tamaño en MMC y tamaño real.
 
-5. **¿Qué mejora de productividad se ha documentado al pasar de RFS a MMC?**  
+### ¿Qué mejora de productividad se ha documentado al pasar de RFS a MMC?
    En la industria automotriz se ha reportado una reducción de hasta un 15 % en piezas rechazadas al cambiar tolerancias de posición de RFS a MMC en componentes de chapa con orificios de fijación, al aprovechar la bonificación dimensional.
 
-6. **¿Cuál es la tolerancia máxima combinada (dimensional + geométrica) que permite un ajuste M6 nominal?**  
+### ¿Cuál es la tolerancia máxima combinada (dimensional + geométrica) que permite un ajuste M6 nominal?
    En un agujero de 6 H7 (6.000/6.012 mm / 0.2362/0.2367 in), con tolerancia de posición de 0.05 mm / 0.002 in a MMC, la tolerancia combinada máxima en el peor caso (agujero en LMC) alcanza 0.062 mm / 0.0024 in de desviación posicional admisible.
 
 ## Fuentes consultadas

@@ -105,29 +105,29 @@ La elección del proceso de fundición debe considerar el volumen de producción
 | Espesor mínimo de pared (mm / in) | 3–5 / 0.12–0.20 | 0,5–1,5 / 0.02–0.06 | 0,8–2,0 / 0.03–0.08 |
 | Aleaciones compatibles | Casi todas | Aceros, superaleaciones, aluminio | Principalmente Al, Zn, Mg, Cu |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué tolerancia dimensional se puede esperar en una pieza fundida en arena de 150 mm / 6 in?**
+### ¿Qué tolerancia dimensional se puede esperar en una pieza fundida en arena de 150 mm / 6 in?
 
 Para una dimensión nominal de 150 mm / 5.91 in, la tolerancia lineal típica es de ±2,6 mm / ±0.103 in, según la regla industrial de ±0,76 mm en el primer 25 mm más ±0,38 mm por cada 25 mm adicionales.
 
-**¿Cuál es el espesor mínimo de pared alcanzable en fundición en arena?**
+### ¿Cuál es el espesor mínimo de pared alcanzable en fundición en arena?
 
 En aluminio se pueden obtener espesores de hasta 3,0 mm / 0.12 in, mientras que en acero la pared mínima práctica es de 5,0 mm / 0.20 in, dependiendo del tamaño total de la pieza y de la fluidez del metal.
 
-**¿Qué ángulo de salida se recomienda para moldes de arena?**
+### ¿Qué ángulo de salida se recomienda para moldes de arena?
 
 Se recomienda un ángulo de salida de 1° a 3° en superficies externas y de 3° a 5° en superficies internas, para facilitar el desmoldeo sin dañar la impresión de la arena.
 
-**¿Cuál es la rugosidad superficial típica (Ra) de una pieza recién fundida en arena verde?**
+### ¿Cuál es la rugosidad superficial típica (Ra) de una pieza recién fundida en arena verde?
 
 La rugosidad superficial Ra de una fundición en arena verde sin mecanizar se sitúa entre 12,5 µm / 492 µin y 25 µm / 984 µin, lo que equivale a una textura granular visible y táctil.
 
-**¿Cuál es la contracción volumétrica típica del aluminio durante el enfriamiento?**
+### ¿Cuál es la contracción volumétrica típica del aluminio durante el enfriamiento?
 
 El aluminio presenta una contracción volumétrica de alrededor del 6 % durante la solidificación, lo que debe compensarse con un sobredimensionado del modelo y un diseño adecuado de mazarotas.
 
-**¿Cuánto sobreespesor de mecanizado se debe prever en una pieza fundida en arena?**
+### ¿Cuánto sobreespesor de mecanizado se debe prever en una pieza fundida en arena?
 
 Se recomienda un sobreespesor de mecanizado de 2 mm / 0.08 in a 5 mm / 0.20 in, en función del tamaño de la pieza y del material, para eliminar la corteza de fundición y alcanzar las tolerancias finales.
 

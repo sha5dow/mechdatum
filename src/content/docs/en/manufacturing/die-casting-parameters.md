@@ -79,27 +79,26 @@ Die casting achieves dimensional accuracy of up to **±0.2% of the nominal dimen
 | Magnesium | Transmission cases, portable housings, aerospace components | Lightest of all, high specific stiffness. |
 | Copper / Brass | Valves, electrical connections, marine hardware | High mechanical and wear resistance, good corrosion resistance. |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the maximum pressure in die casting?**  
+### What is the maximum pressure in die casting?
 Injection pressure can reach up to 210 MPa / 30,500 psi in cold chamber machines, while hot chamber processes typically operate between 10 and 35 MPa / 1,450 and 5,000 psi.
 
-**2. What dimensional accuracy is achieved in die casting?**  
+### What dimensional accuracy is achieved in die casting?
 An accuracy of ±0.2% of the nominal dimension is achieved, which is equivalent to ±0.1 mm (±0.004 in) on 50 mm parts, often eliminating subsequent machining.
 
-**3. What is the pouring temperature of aluminum and zinc?**  
+### What is the pouring temperature of aluminum and zinc?
 Aluminum is poured at a temperature of 650 °C / 1200 °F, while zinc is processed at 425 °C / 800 °F, allowing shorter cycles for the latter.
 
-**4. What minimum wall thickness is possible in die casting?**  
+### What minimum wall thickness is possible in die casting?
 With zinc alloys, a minimum thickness of 0.6 mm / 0.025 in is possible; for aluminum, the minimum is 0.9 mm / 0.035 in, and for copper alloys, 1.25 mm / 0.050 in.
 
-**5. Why can't ferrous metals be die cast?**  
+### Why can't ferrous metals be die cast?
 Steels and irons have melting points above 1150 °C / 2100 °F and chemically react with the mold steel, drastically reducing its service life; therefore the process is limited to non-ferrous metals with lower melting points.
 
-**6. How much can die cast parts weigh?**  
+### How much can die cast parts weigh?
 Typical maximum weights are 35 kg / 77 lb for zinc, 32 kg / 70 lb for aluminum, 20 kg / 44 lb for magnesium, and 4.5 kg / 10 lb for brass; in modern automotive applications, aluminum parts over 100 kg / 220 lb have been achieved using advanced technology.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/die_casting.cfm

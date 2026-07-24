@@ -127,24 +127,23 @@ The most common errors in runout specification and measurement include confusing
 
 ## Frequently Asked Questions (FAQ)
 
-### 1. What is the main difference between circular runout and total runout?
+### What is the main difference between circular runout and total runout?
 Circular runout controls each cross-section independently with a typical 2D zone of 0,05 mm / 0.002 in, while total runout controls the entire cumulative surface with a continuous 3D zone up to 0,1 mm / 0.004 in, also requiring axial travel of the indicator during measurement.
 
-### 2. What does a runout reading of 0.07 mm on an 80 mm shaft indicate?
+### What does a runout reading of 0.07 mm on an 80 mm shaft indicate?
 A reading of 0,07 mm / 0.0028 in on an 80 mm / 3.15 in diameter means the surface has a maximum radial variation of 70 micrometers relative to the datum axis, which corresponds approximately to an ISO grade K tolerance for circular runout.
 
-### 3. Can runout be applied without a datum reference?
+### Can runout be applied without a datum reference?
 No, specifying a runout control of 0,02 mm / 0.0008 in without a datum reference is not valid according to ISO 1101 or ASME Y14.5, because the deviation must be referenced to an axis or surface datum to have dimensional meaning.
 
-### 4. How is total runout measured on a 250 mm long shaft?
+### How is total runout measured on a 250 mm long shaft?
 Place an indicator with 0,001 mm / 0.00004 in resolution perpendicular to the surface, rotate the part at least one full revolution, and simultaneously move the indicator along the entire 250 mm / 9.84 in length, recording the maximum cumulative variation which must not exceed the specified tolerance.
 
-### 5. Does rotation speed affect measured runout?
+### Does rotation speed affect measured runout?
 In static measurement with a dial indicator, a low rotation speed of approximately 30 rpm avoids dynamic effects and yields repeatable readings of 0,003 mm / 0.00012 in; at high speeds of 3000 rpm, dynamic eccentricity and vibrations can falsify the measurement by up to an additional 0,02 mm / 0.0008 in.
 
-### 6. What ISO tolerance grade is recommended for a bearing seat?
+### What ISO tolerance grade is recommended for a bearing seat?
 For bearing seats with diameters between 20 mm and 120 mm, a grade H circular runout (0.025 mm to 0,04 mm / 0.001 in to 0.0016 in) or a specified total runout of 0,015 mm / 0.0006 in is recommended, ensuring low vibration and long bearing life.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pumps-t_34.html

@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
 High strength low alloy steels (HSLA) achieve yield strengths **between 275 MPa and over 700 MPa** through a combination of low carbon chemical composition and controlled thermomechanical processing. They are designed to offer superior strength-to-weight ratio, excellent weldability and good toughness, allowing thinner sections than required in conventional carbon steels for the same load.
 
 | Property | HSLA Steel | Conventional Carbon Steel |
@@ -90,28 +89,27 @@ Compared to ASTM A36 carbon steel, an HSLA steel with **550 MPa (80 ksi)** yield
 | Microalloyed HSLA (550 MPa) | 550 / 80 | ~620 / 90 | 1.24 | Very good (low carbon equivalent) |
 | Dual-phase steel (DP 600) | 300 – 400 / 43 – 58 | 600 / 87 | Higher | Limited by martensitic phase |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. What is the minimum yield strength that can be expected from a generic HSLA steel?**  
+### What is the minimum yield strength that can be expected from a generic HSLA steel?
 Most common grades guarantee a minimum yield strength of **275 MPa (40 ksi)**, although special grades exceed **700 MPa (100 ksi)**.
 
-**2. Why is the carbon content of an HSLA below 0.10%?**  
+### Why is the carbon content of an HSLA below 0.10%?
 To preserve weldability and ductility. Contents above **0.25%** increase hardenability and the risk of cold cracking, so they are avoided in this family.
 
-**3. How much additional strength does niobium precipitation provide in these steels?**  
+### How much additional strength does niobium precipitation provide in these steels?
 Nb(C,N) carbides with an average size of **8.2 nm** contribute approximately **84 MPa** to the yield strength, according to studies on 450 MPa grades.
 
-**4. What weight reduction is achieved by replacing a carbon steel with an HSLA?**  
+### What weight reduction is achieved by replacing a carbon steel with an HSLA?
 HSLA structures are typically **between 20% and 30% lighter** than those designed with carbon steel of equal strength.
 
-**5. Is preheating required before welding an HSLA steel?**  
+### Is preheating required before welding an HSLA steel?
 Generally not in thicknesses below **25 mm (1 inch)**, thanks to its low carbon equivalent; for greater thicknesses, moderate preheating of **100-150 °C** may be applied.
 
-**6. How much more expensive is high strength HSLA compared to basic structural steel?**  
+### How much more expensive is high strength HSLA compared to basic structural steel?
 An HSLA grade of **550 MPa (80 ksi)** costs about **24% more** than an A36, which is offset by material savings and reduced dead weight.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=25210
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/young-modulus-d_417.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=561

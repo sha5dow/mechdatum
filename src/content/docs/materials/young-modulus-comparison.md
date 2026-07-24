@@ -100,24 +100,24 @@ Se presenta la rigidez específica (módulo de Young / densidad), parámetro út
 
 Los compuestos de fibra de carbono muestran la mayor rigidez específica entre los materiales de ingeniería comunes.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el módulo de Young del acero inoxidable 304?**
+### ¿Cuál es el módulo de Young del acero inoxidable 304?
 El acero inoxidable 304 presenta un módulo de Young entre 190 GPa y 203 GPa (27,6×10⁶ psi a 29,4×10⁶ psi), dependiendo del tratamiento y la composición exacta dentro de la norma.
 
-**¿Qué material tiene el mayor módulo de Young?**
+### ¿Qué material tiene el mayor módulo de Young?
 El diamante posee el módulo de Young más elevado con 1220 GPa, seguido del grafeno monocapa con aproximadamente 1000 GPa y el carburo de silicio con un intervalo de 450 a 650 GPa.
 
-**¿Cuánto vale el módulo de Young de un acero estructural S275JR?**
+### ¿Cuánto vale el módulo de Young de un acero estructural S275JR?
 El acero estructural S275JR tiene un módulo de Young de aproximadamente 200 GPa (29,0×10⁶ psi), valor similar al de la mayoría de los aceros al carbono no aleados.
 
-**¿Qué material combina alta rigidez y baja densidad?**
+### ¿Qué material combina alta rigidez y baja densidad?
 El plástico reforzado con fibra de carbono (CFRP) alcanza una rigidez específica de alrededor de 93,8 GPa·m³/Mg, aproximadamente 3,7 veces superior a la del acero inoxidable 304.
 
-**¿Cuál es la diferencia de rigidez entre el aluminio y el acero?**
+### ¿Cuál es la diferencia de rigidez entre el aluminio y el acero?
 El aluminio puro tiene un módulo de Young de 69 GPa (10,0×10⁶ psi), mientras que un acero estructural típico alcanza 200 GPa; esto significa que el acero es alrededor de 2,9 veces más rígido que el aluminio.
 
-**¿Cómo se convierte el módulo de Young de GPa a psi?**
+### ¿Cómo se convierte el módulo de Young de GPa a psi?
 La conversión es 1 GPa = 145 038 psi; por ejemplo, un valor de 200 GPa equivale a 29,0×10⁶ psi.
 
 ## Fuentes consultadas

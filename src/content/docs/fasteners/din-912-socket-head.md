@@ -105,7 +105,7 @@ DIN 912 es técnicamente idéntico a la norma internacional **ISO 4762** (tornil
 - ISO 898-1: Propiedades mecánicas de los elementos de fijación de acero al carbono y aleado.
 - ISO 3506-1: Propiedades mecánicas de los elementos de fijación de acero inoxidable.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 1. **¿Qué rango de diámetros abarca la norma DIN 912?** La norma cubre diámetros de rosca métrica de M3 a M24, aunque algunos fabricantes extienden la oferta hasta M36 bajo demanda.
 2. **¿Cuál es el par de apriete máximo para un tornillo M10 de clase 10.9?** En unión seca el par máximo recomendado es de **68 N·m / 50.1 lb·ft**; si se aplica lubricante este valor debe reducirse aproximadamente un 30 %.
 3. **¿Qué broca debo usar para roscar un agujero para M6?** Para una rosca M6×1.0 se necesita una broca de **5.0 mm / 0.197 in**; el agujero pasante en la pieza a unir requiere una broca de 6.6 mm / 0.260 in.

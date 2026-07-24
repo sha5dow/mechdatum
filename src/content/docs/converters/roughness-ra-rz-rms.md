@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción
 La rugosidad superficial se mide con diferentes parámetros normalizados como Ra, Rz, RMS y CLA. Convertir entre ellos permite comparar especificaciones de planos, informes de medición y requisitos de fabricación. Ra (rugosidad media aritmética) es el parámetro más difundido en la norma ISO. CLA (Center Line Average) es un sinónimo histórico británico de Ra, normalmente expresado en micropulgadas (µin). RMS (Root Mean Square, también designado Rq) cuantifica la rugosidad media cuadrática, lo que le da mayor peso a los picos y valles pronunciados. Rz (altura media máxima del perfil) mide la media de cinco profundidades pico‑valle consecutivas, por lo que es más sensible a defectos puntuales. No existe una relación matemática universalmente exacta entre ellos, pero en la práctica se emplean factores aproximados basados en procesos típicos de mecanizado.
 
 ## Tabla de conversión Ra, Rz, RMS, CLA
@@ -68,23 +67,22 @@ Las fórmulas que se indican a continuación son las de uso industrial más acep
 - **Tabla especializada por proceso:** Si se necesita máxima precisión, se recomienda consultar gráficos de equivalencia suministrados por el fabricante de la instrumentación o basados en series medidas sobre patrones certificados.
 
 ## Preguntas frecuentes (FAQ)
-
-**1. ¿Cuánto vale Rz si Ra es 3.2 µm?**  
+### ¿Cuánto vale Rz si Ra es 3.2 µm?
 Para Ra = 3.2 µm / 126 µin, la conversión típica da Rz ≈ 12.5 µm / 492 µin (factor 3.9). En mecanizado suave el valor puede oscilar entre 11 µm y 16 µm / 433–630 µin.
 
-**2. ¿Qué RMS corresponde a una rugosidad Ra de 0.8 µm?**  
+### ¿Qué RMS corresponde a una rugosidad Ra de 0.8 µm?
 Un Ra de 0.8 µm / 31.5 µin se traduce en un RMS de aproximadamente 0.89 µm / 35 µin (factor 1.11). En rectificado de precisión se han reportado valores de hasta 0.93 µm / 37 µin.
 
-**3. ¿Cómo se pasa de CLA a Ra en µm?**  
+### ¿Cómo se pasa de CLA a Ra en µm?
 CLA (µin) equivale a Ra (µin). Así, un CLA de 63 µin corresponde a 1.6 µm (63 / 39.37). Esta conversión es directa y sin factor empírico.
 
-**4. ¿Cuál es el valor de Rz para Ra 1.6 µm?**  
+### ¿Cuál es el valor de Rz para Ra 1.6 µm?
 Para Ra = 1.6 µm / 63 µin, el Rz esperado es 6.3 µm / 248 µin. En procesos de torneado puede variar entre 5 µm y 9 µm / 197–354 µin según el avance y el radio de punta.
 
-**5. ¿Qué Ra resulta de un Rz medido de 25 µm?**  
+### ¿Qué Ra resulta de un Rz medido de 25 µm?
 Aplicando el factor 4, Ra ≈ 6.25 µm / 246 µin, que en la práctica se redondea a 6.3 µm / 248 µin. En superficies de fundición con alto Rz, el Ra podría ser tan bajo como 4 µm / 157 µin si el perfil está muy desigual.
 
-**6. ¿Son válidas estas conversiones para todo material?**  
+### ¿Son válidas estas conversiones para todo material?
 Las conversiones dependen más del proceso de fabricación que del material. No obstante, materiales dúctiles (aluminio, cobre) tienden a generar perfiles más regulares con relaciones Ra/Rz más próximas a 4.0, mientras que fundiciones y aleaciones frágiles pueden mostrar picos aislados que elevan Rz sin afectar tanto a Ra.
 
 ## Fuentes consultadas

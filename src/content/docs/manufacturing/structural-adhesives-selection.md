@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los adhesivos estructurales son formulaciones poliméricas capaces de transmitir cargas entre componentes sin deformación excesiva, reemplazando o complementando uniones mecánicas. El mercado técnico se concentra en epoxis, acrílicos, cianoacrilatos y cementos cerámicos, seleccionados según la resistencia específica requerida —desde 0,055 MPa·m³/kg (aproximadamente 7 800 psi·in³/lb) para epoxi hasta la resistencia a alta temperatura de los cerámicos (980 °C / 1800 °F). La tabla siguiente resume las propiedades clave del adhesivo epoxi como clase representativa de los adhesivos estructurales.
 
 | Propiedad | Valor |
@@ -93,24 +92,24 @@ La elección del adhesivo estructural debe guiarse por las condiciones de servic
 
 *Fuente de los criterios: eFunda (Strain Gage: Materials) y propiedades del epoxi de Engineering Toolbox.*
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-### 1. ¿Cuál es la resistencia a la tracción típica de un adhesivo epoxi estructural?
+### ¿Cuál es la resistencia a la tracción típica de un adhesivo epoxi estructural?
 El adhesivo epoxi sin carga reporta una resistencia a la tracción de 69 MPa / 10 000 psi, valor que puede incrementarse con fibra de vidrio hasta 300 MPa / 43 500 psi.
 
-### 2. ¿Hasta qué temperatura se puede usar un adhesivo cerámico?
+### ¿Hasta qué temperatura se puede usar un adhesivo cerámico?
 Los cementos cerámicos del tipo NBS-x-142 mantienen su integridad hasta 980 °C / 1800 °F, según especificaciones validadas por eFunda.
 
-### 3. ¿Cuánto tiempo requiere un adhesivo cianoacrilato para alcanzar resistencia de manipulación?
+### ¿Cuánto tiempo requiere un adhesivo cianoacrilato para alcanzar resistencia de manipulación?
 El cianoacrilato convencional permite la manipulación de la pieza a los 10 min, con solo 1–2 min de presión suave durante la fase inicial de fijación.
 
-### 4. ¿Qué presión de sujeción es recomendable al aplicar un adhesivo epoxi?
+### ¿Qué presión de sujeción es recomendable al aplicar un adhesivo epoxi?
 Una presión de sujeción de 35–140 kPa / 5–20 psi resulta habitual; para uniones de espesor fino se recomienda 350 kPa / 50 psi, siempre según las instrucciones del fabricante.
 
-### 5. ¿Qué densidad tiene un adhesivo epoxi típico y cómo afecta el peso de la unión?
+### ¿Qué densidad tiene un adhesivo epoxi típico y cómo afecta el peso de la unión?
 La densidad del epoxi sin carga es de 1,25 × 10³ kg/m³ / 78 lb/ft³, lo que lo convierte en una opción ligera frente a uniones mecánicas metálicas equivalentes.
 
-### 6. ¿Cuál es la resistencia específica (relación resistencia‑densidad) de un adhesivo epoxi?
+### ¿Cuál es la resistencia específica (relación resistencia‑densidad) de un adhesivo epoxi?
 El epoxi presenta una resistencia específica de 0,055 MPa·m³/kg (≈ 7 800 psi·in³/lb), un valor que justifica su uso en aplicaciones aeroespaciales y de automoción donde la relación resistencia-peso es crítica.
 
 ## Fuentes consultadas

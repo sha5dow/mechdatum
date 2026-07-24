@@ -109,26 +109,25 @@ This method allows summing equivalent lengths to the physical pipe length and ap
 
 ## Frequently Asked Questions (FAQ)
 
-1. **What is the loss coefficient of a standard 90° threaded elbow?**  
+### What is the loss coefficient of a standard 90° threaded elbow?
    The coefficient ξ is 1.5 for turbulent flow. This implies that each elbow dissipates a velocity head equal to 1.5 × (v²/2g).
 
-2. **What pressure drop does an open globe valve produce with water at 2 m/s and 1000 kg/m³?**  
+### What pressure drop does an open globe valve produce with water at 2 m/s and 1000 kg/m³?
    With ξ = 10, Δp = 10 × (1000 kg/m³ × (2 m/s)² / 2) = 20,000 Pa (20 kPa or 2.9 psi).
 
-3. **Which common fitting has the lowest loss coefficient?**  
+### Which common fitting has the lowest loss coefficient?
    The fully open ball valve (ξ = 0.05) and the threaded union (ξ = 0.08) have the lowest losses, practically negligible in many designs.
 
-4. **How much does the loss increase if a gate valve is closed halfway?**  
+### How much does the loss increase if a gate valve is closed halfway?
    The coefficient goes from 0.15 (fully open) to 2.1 (1/2 closed), a 14-fold increase. The head loss is multiplied by the same factor for a given velocity.
 
-5. **How is the total loss calculated in a section with multiple fittings?**  
+### How is the total loss calculated in a section with multiple fittings?
    Sum the ξ coefficients of all fittings and apply the formula h<sub>L total</sub> = (Σξ) v²/(2g). They can also be converted to equivalent lengths and use the Darcy-Weisbach equation.
 
-6. **Does the loss coefficient vary with pipe diameter?**  
+### Does the loss coefficient vary with pipe diameter?
    For the same type of fitting, ξ is approximately constant in fully developed turbulent flow. However, in elbows the R/D ratio affects the value: a standard flanged 90° elbow (R/D ≈ 1) has ξ = 0.3; a long-radius one (R/D = 1.5) reduces to ξ = 0.2.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/minor-loss-coefficients-pipes-d_626.html
 - **efunda.com**: https://www.efunda.com/formulae/
 - **thermopedia.com**: https://www.thermopedia.com/content/577/

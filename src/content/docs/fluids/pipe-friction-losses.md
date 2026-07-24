@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Las pérdidas por fricción en tuberías, también conocidas como pérdidas mayores, representan la disminución de presión que experimenta un fluido al circular por un conducto recto debido a los esfuerzos viscosos sobre las paredes. La ecuación de Darcy‑Weisbach es el método más preciso y universalmente aceptado para cuantificar esta pérdida en régimen estacionario, incompresible y completamente desarrollado. El factor de fricción (λ) depende del número de Reynolds y de la rugosidad relativa de la tubería.
 
 ## Ecuación de Darcy‑Weisbach
@@ -90,7 +89,7 @@ Al dimensionar sistemas de tuberías con la ecuación de Darcy‑Weisbach se deb
 - **Diámetro económico:** un diámetro mayor reduce la pérdida de presión pero incrementa el coste de material; se optimiza minimizando la suma de costes de bombeo y tubería.
 - **Factor de seguridad:** debido a la incertidumbre inherente en las correlaciones (±10 %), se aconseja sobredimensionar la potencia de bombeo entre 10 y 15 %.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la pérdida de presión por metro en una tubería de acero DN 50 con agua a 2 m/s?
 En una tubería lisa de 0.05 m de diámetro, con agua a 20 °C (ν≈1.0×10⁻⁶ m²/s, ρ=1000 kg/m³), Re = 100 000. Aplicando Blasius (λ≈0.0178) la pérdida de presión es aproximadamente 712 Pa por metro lineal (0.103 psi/ft).
 

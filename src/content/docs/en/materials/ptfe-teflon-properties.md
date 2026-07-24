@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
 Polytetrafluoroethylene (PTFE) is a fully fluorinated, semi-crystalline fluoropolymer with a semi-transparent white color, having a density of 2.15 g/cm³ (2150 kg/m³). It stands out for its exceptional chemical resistance, very low coefficient of friction, high thermal stability (up to 180 °C in continuous use), and excellent dielectric properties. It is a thermoplastic that cannot be processed by conventional melt processing, but rather by powder sintering.
 
 ## Chemical composition
@@ -96,24 +95,24 @@ PTFE is frequently compared with other technical fluoropolymers. Unlike FEP and 
 | Dielectric constant (1 kHz) | 2.1 | 2.0 | 2.1 | 2.6 |
 | Dynamic coefficient of friction | 0.04 – 0.10 | 0.08 – 0.20 | 0.08 – 0.20 | 0.20 – 0.40 |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum continuous use temperature of PTFE?**
+### What is the maximum continuous use temperature of PTFE?
 The recommended maximum continuous use temperature is 180 °C (360 °F), being able to withstand brief peaks near melting (~327 °C) without immediate degradation.
 
-**What is the density of virgin PTFE?**
+### What is the density of virgin PTFE?
 The typical density of unfilled PTFE is 2.15 g/cm³ (2150 kg/m³), although it can vary between 2.10 and 2.20 g/cm³ depending on grade and processing.
 
-**What tensile strength does PTFE have?**
+### What tensile strength does PTFE have?
 The tensile strength of virgin PTFE is 25 MPa (3.6 ksi), with an elongation at break of 400 %, although these values are modified with the addition of fillers.
 
-**Can PTFE be machined?**
+### Can PTFE be machined?
 Yes, PTFE is easily machined using a lathe, milling machine or conventional drill; its Shore D hardness of 63 and low shear strength require sharp tools and occasional cooling.
 
-**What coefficient of friction does PTFE have?**
+### What coefficient of friction does PTFE have?
 The static coefficient of friction of PTFE is between 0.04 and 0.10, being one of the lowest among engineering materials, especially dry against steel.
 
-**What is the dielectric constant of PTFE at 1 kHz?**
+### What is the dielectric constant of PTFE at 1 kHz?
 The dielectric constant at 1 kHz is 2.1, combined with an extremely low dissipation factor of 0.0001, ideal for high frequency applications.
 
 ## References consulted
@@ -122,8 +121,7 @@ The dielectric constant at 1 kHz is 2.1, combined with an extremely low dissipat
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-properties-d_1222.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=804
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-properties-d_1222.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519

@@ -108,22 +108,22 @@ Frente al aluminio de alta resistencia 7075-T6, el Ti-6Al-4V proporciona una res
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la densidad del Ti-6Al-4V?**  
+### ¿Cuál es la densidad del Ti-6Al-4V?
 La densidad típica es de 4.43 g/cm³, lo que representa un ahorro de peso del 45 % frente al acero inoxidable común.
 
-**¿Qué resistencia a la tracción se puede alcanzar?**  
+### ¿Qué resistencia a la tracción se puede alcanzar?
 En estado recocido se obtienen entre 900 y 1000 MPa, mientras que tras solubilización y envejecimiento la resistencia sobrepasa los 1100 MPa.
 
-**¿A qué temperatura funde esta aleación?**  
+### ¿A qué temperatura funde esta aleación?
 El intervalo de fusión se sitúa entre 1 605 °C y 1 660 °C (1 878–1 933 K), típico de las aleaciones de titanio.
 
-**¿Cuál es el módulo de elasticidad?**  
+### ¿Cuál es el módulo de elasticidad?
 El módulo de Young oscila entre 110 y 119 GPa, aproximadamente la mitad que el del acero, lo que otorga mayor flexibilidad.
 
-**¿Cuál es la conductividad térmica?**  
+### ¿Cuál es la conductividad térmica?
 La conductividad térmica a temperatura ambiente es de 7.1–7.3 W/m·K, siendo aproximadamente 1/10 de la del aluminio puro.
 
-**¿Qué resistencia a la corrosión exhibe en agua de mar?**  
+### ¿Qué resistencia a la corrosión exhibe en agua de mar?
 En ambientes marinos la calificación es de 5 sobre 5, indicando inmunidad total a la corrosión por picaduras y grietas.
 
 ## Fuentes consultadas

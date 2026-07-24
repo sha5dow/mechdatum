@@ -222,23 +222,22 @@ Para un perno 3/4"-10 UNC seco con precarga objetivo de 20 000 lb:
 Tseco = 0.20 × 20 000 lb × 0.75 in × (1/12) ft/in = **250 lb·ft / 339 N·m**.
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Cuál es el torque de apriete seco recomendado para un perno 1/2-13 UNC grado 5?**  
+### ¿Cuál es el torque de apriete seco recomendado para un perno 1/2-13 UNC grado 5?
 El torque de apriete seco recomendado es de **57 lb·ft / 77 N·m**, basado en una precarga equivalente al 75 % de la carga de prueba.
 
-**¿Qué torque seco requiere un perno 3/8-24 UNF grado 8?**  
+### ¿Qué torque seco requiere un perno 3/8-24 UNF grado 8?
 Para un 3/8-24 UNF grado 8 seco se necesitan aproximadamente **39 lb·ft / 53 N·m**.
 
-**¿Cómo afecta la lubricación con aceite SAE 30 al torque de un perno 5/8-11 UNC grado 5?**  
+### ¿Cómo afecta la lubricación con aceite SAE 30 al torque de un perno 5/8-11 UNC grado 5?
 Con lubricación SAE 30, el torque se reduce a **68 lb·ft / 92 N·m**, alrededor del 60 % del valor seco de 113 lb·ft / 153 N·m.
 
-**¿Existe diferencia de torque entre rosca fina (UNF) y gruesa (UNC) para el mismo diámetro y grado?**  
+### ¿Existe diferencia de torque entre rosca fina (UNF) y gruesa (UNC) para el mismo diámetro y grado?
 Sí, los pernos UNF suelen requerir un torque entre **10 % y 20 % mayor** que UNC porque poseen un área de esfuerzo de tracción mayor. Por ejemplo, un 1/2-20 UNF grado 5 demanda 67 lb·ft / 91 N·m, frente a los 57 lb·ft / 77 N·m del 1/2-13 UNC.
 
-**¿Qué tamaño de broca se emplea para machuelar un agujero 3/8-16 UNC?**  
+### ¿Qué tamaño de broca se emplea para machuelar un agujero 3/8-16 UNC?
 La broca recomendada es de **5/16 in / 7,94 mm**, que corresponde a la broca pulgada estándar 5/16.
 
-**¿Cuál es el torque máximo en seco para un perno 1-8 UNC grado 8?**  
+### ¿Cuál es el torque máximo en seco para un perno 1-8 UNC grado 8?
 El torque seco máximo asciende a **681 lb·ft / 924 N·m**; superar este valor puede exceder el límite elástico y dañar permanentemente el perno.
 
 ## Fuentes consultadas

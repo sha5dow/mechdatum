@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 The international standard ISO 5817 establishes three quality levels —B, C and D— for imperfections in fusion-welded joints of metallic materials, excluding energy beam welding. Level B represents the highest requirement and is reserved for components subjected to critical loads or fatigue; level C is the intermediate standard for general use in metal structures; level D corresponds to basic requirements where only static strength is required. Evaluation is based on visual inspection and non-destructive testing, establishing quantitative limits for each type of imperfection as a function of weld thickness. The standard covers welds with typical thicknesses between 0,5 mm / 0.02 in and 63 mm / 2.48 in, and is applicable to most arc and autogenous welding processes.
 
 ## Operating parameters
@@ -74,7 +73,6 @@ The choice of quality level is based on the service requirement, required safety
 
 In the food industry, level C is preferred combined with a polished surface finish (Ra ≤ 0,8 µm / 31.5 µin) to prevent bacteria accumulation in pores or spatter. ISO 5817 does not directly address surface roughness, so additional requirements must be specified.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=P%20L%20A

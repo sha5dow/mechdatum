@@ -137,22 +137,22 @@ Para barras de torsión de acero con τ_adm = 400 MPa / 58 000 psi:
 | Tren de aterrizaje (aeronave ligera) | 30 / 1.181 | 800 / 31.50 | 1600 / 14 160 | 7,3 |
 
 ## Preguntas frecuentes (FAQ)
-**¿Qué diferencia hay entre una barra de torsión y un muelle helicoidal de torsión?**  
+### ¿Qué diferencia hay entre una barra de torsión y un muelle helicoidal de torsión?
 La barra de torsión es un elemento macizo o hueco que trabaja a cortante puro; un muelle helicoidal, aunque retorcido, trabaja esencialmente a flexión en el alambre. La barra soporta pares elevados con ángulos pequeños (típicamente 5–10°), mientras el helicoidal admite deflexiones de hasta 360° con pares moderados.
 
-**¿Cómo se calcula el diámetro mínimo de una barra de torsión para transmitir 200 N·m con τ_adm = 250 MPa?**  
+### ¿Cómo se calcula el diámetro mínimo de una barra de torsión para transmitir 200 N·m con τ_adm = 250 MPa?
 Aplicando D_min = 1,72·(T_max / τ_max)^(1/3). Para T = 200 N·m y τ = 250 MPa (250×10⁶ Pa) se obtiene D_min ≈ 1,72·(200 / 250×10⁶)^(1/3) = 1,72·(8×10⁻⁷)^(1/3) = 1,72·0,00928 m = 0,0160 m, es decir, 16 mm / 0.630 in.
 
-**¿Qué ángulo de torsión alcanza un eje macizo de acero (G = 80 GPa) con D = 20 mm, L = 500 mm y un par de 50 N·m?**  
+### ¿Qué ángulo de torsión alcanza un eje macizo de acero (G = 80 GPa) con D = 20 mm, L = 500 mm y un par de 50 N·m?
 Utilizando α_deg ≈ 584·L·T / (G·D⁴) = 584·0,5·50 / (80×10⁹·(0,02)⁴) = 14600 / (80×10⁹·1,6×10⁻⁷) = 14600 / 12800 = 1,14°. En radianes, 0,0199 rad.
 
-**¿Cuánta energía almacena una barra de torsión con rigidez κ = 5000 N·m/rad al deflectarse 15°?**  
+### ¿Cuánta energía almacena una barra de torsión con rigidez κ = 5000 N·m/rad al deflectarse 15°?
 Primero convertir 15° a rad: 15 · π/180 = 0,262 rad. Energía U = ½ κ θ² = ½ · 5000 · (0,262)² ≈ 171,6 J / 126,6 ft·lbf.
 
-**¿Qué constante de muelle tiene un helicoidal con d = 2,5 mm, D = 15 mm, N = 8 y E = 206 GPa?**  
+### ¿Qué constante de muelle tiene un helicoidal con d = 2,5 mm, D = 15 mm, N = 8 y E = 206 GPa?
 κ = E·d⁴ / (64·D·N) = 206×10³ · (2,5⁴) / (64·15·8) ≈ 206×10³·39,06 / (7680) = 8,04×10⁶ / 7680 ≈ 1047 N·mm/rad = 1,047 N·m/rad. Equivale a 0,0183 N·m/°.
 
-**¿Cuál es el par de trabajo de un muelle de pinza de ropa con d = 1 mm, D = 8 mm, N = 4, deflectado 180°?**  
+### ¿Cuál es el par de trabajo de un muelle de pinza de ropa con d = 1 mm, D = 8 mm, N = 4, deflectado 180°?
 Rigidez κ = 206×10³·1⁴ / (64·8·4) = 206×10³ / 2048 ≈ 100,6 N·mm/rad = 0,1006 N·m/rad. Ángulo 180° = π rad ≈ 3,14 rad. Par M = κ·θ = 0,1006·3,14 ≈ 0,316 N·m / 2,80 lbf·in, coherente con la tabla.
 
 ## Fuentes consultadas

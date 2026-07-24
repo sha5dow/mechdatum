@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definition
 The K-factor in sheet metal represents the dimensionless ratio between the position of the neutral axis and the material thickness, and is fundamental for the accurate calculation of the flat pattern development of bent parts. For DC01 steel (according to EN 10130), the K-factor typically ranges between 0.33 and 0.45 in air bending operations, depending on the radius-to-thickness ratio, the rolling direction, and the tool conditions.
 
 ## K-factor formula
@@ -82,24 +81,24 @@ These values assume bending machines with positional repeatability of ±0.01 mm 
 ## Selection guide
 For air bending of DC01 with a standard V-die (opening = 8 × thickness), use the K-factor from the table for the corresponding thickness. If the V/t ratio is larger (10–12), the inside radius increases and a slightly higher K-factor should be selected (add 0.02–0.04). In parts where the grain direction is unknown or mixed, it is recommended to use the average value of 0.40 for thicknesses ≤ 2 mm and 0.35 for thicknesses > 2 mm. It is always advisable to validate the first parts with measurement on a real sample, adjusting the K-factor according to the observed deviation.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the recommended K-factor for DC01 of 1.5 mm thickness in 90° bending?**
+### What is the recommended K-factor for DC01 of 1.5 mm thickness in 90° bending?
 The recommended K-factor is 0.38 for a V-die of 12 mm / 0.472 in and inside radius of 2.0 mm / 0.079 in, bending parallel to the grain.
 
-**What is the K-factor when bending DC01 transverse to the grain?**
+### What is the K-factor when bending DC01 transverse to the grain?
 In transverse grain bending, the K-factor usually increases by 0.02 to 0.05; for a thickness of 2.0 mm / 0.079 in, the value of 0.36 can become 0.38–0.41 depending on the severity of stretching.
 
-**Does the K-factor vary with the bend angle?**
+### Does the K-factor vary with the bend angle?
 For angles between 60° and 120°, the K-factor in DC01 remains practically constant, with variations less than ±0.02 relative to the tabulated values for 90°.
 
-**What development tolerance can I expect using K-factor = 0.40 for DC01 of 1 mm?**
+### What development tolerance can I expect using K-factor = 0.40 for DC01 of 1 mm?
 Using a K-factor of 0.40 for DC01 of 1.0 mm / 0.039 in, the typical tolerance on the total developed length of the part is ±0.12 mm / ±0.005 in.
 
-**Is the K-factor used the same in air bending and bottom stamping?**
+### Is the K-factor used the same in air bending and bottom stamping?
 No: in bottom stamping the material is severely compressed against the tooling and the neutral axis shifts more toward the inside sheet; the K-factor can be 0.05 lower than in air bending under the same nominal conditions.
 
-**For thicknesses above 3 mm / 0.118 in in DC01, can the table be extrapolated?**
+### For thicknesses above 3 mm / 0.118 in in DC01, can the table be extrapolated?
 Above 3 mm / 0.118 in the R/T ratio is usually smaller and the effects of heterogeneous deformation make the K-factor nonlinear; it is recommended to experimentally determine a specific value instead of extrapolating.
 
 ## References consulted
@@ -108,8 +107,7 @@ Above 3 mm / 0.118 in the R/T ratio is usually smaller and the effects of hetero
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/fracture_mechanics/fm_lefm_Kc_Matl.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/platbockning
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/factors-safety-fos-d_1624.html
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/fracture_mechanics/fm_lefm_Kc_Matl.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/platbockning

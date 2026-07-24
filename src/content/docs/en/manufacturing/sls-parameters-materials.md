@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process description
 Selective laser sintering (SLS) is an additive manufacturing method that uses a pulsed laser, usually CO₂, to selectively fuse thermoplastic powder particles layer by layer. The process was developed in the late 1980s and patented in 1989 by Carl Deckard. The powder is spread in a uniform layer over a build platform by a leveling roller; then the laser traces the cross-section of the part, sintering the particles. The platform then descends by one layer thickness — typically less than 0,1 mm — and the cycle repeats until the part is completed. The entire powder bed is maintained at a temperature slightly below the melting point of the material, which facilitates partial fusion by the laser and avoids thermal stresses. The unsintered powder acts as a natural support, eliminating the need for auxiliary structures and allowing nesting of multiple parts in the same chamber.
 
 ## Typical operating parameters
@@ -92,30 +91,29 @@ The decision to use SLS versus other additive technologies should be based on fu
 - Automotive components: ventilation ducts, internal brackets, and housings.
 - Medical applications: anatomical models for surgical planning, orthoses, and custom prostheses.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What dimensional tolerance can be achieved with SLS?**
+### What dimensional tolerance can be achieved with SLS?
 The typical dimensional tolerance in SLS is ±0,3 % with a minimum of ±0,3 mm / ±0,012 in, although it can vary between ±0,25 and ±0,3 mm for small, well-calibrated parts.
 
-**What is the preheating temperature of the powder bed for PA12?**
+### What is the preheating temperature of the powder bed for PA12?
 The PA12 powder bed is preheated to 170 °C / 338 °F, maintained between 168 and 172 °C to ensure sintering without complete melting.
 
-**How long does a typical SLS batch print take?**
+### How long does a typical SLS batch print take?
 The average print time for a 300 x 300 x 300 mm / 11,8 x 11,8 x 11,8 in chamber is 4 to 12 hours, depending on fill volume and total part height.
 
-**What is the laser scanning speed in SLS?**
+### What is the laser scanning speed in SLS?
 The typical scanning speed of the CO₂ laser reaches up to 10 m/s / 32,8 ft/s, allowing fast tracing of the cross-section.
 
-**What percentage of unsintered powder can be reused?**
+### What percentage of unsintered powder can be reused?
 Between 50% and 80% of unsintered powder can be reused after sieving and mixing with virgin material, provided it has not undergone significant thermal degradation.
 
-**What tensile strength does sintered PA12 nylon offer?**
+### What tensile strength does sintered PA12 nylon offer?
 Sintered PA12 parts achieve a tensile strength of 45 to 48 MPa / 6,5 to 7,0 ksi, comparable to injection-molded nylon.
 
-**What is the laser beam diameter in a standard SLS machine?**
+### What is the laser beam diameter in a standard SLS machine?
 The focused beam diameter at the sintering plane is typically 0,3 to 0,5 mm / 0,012 to 0,020 in, which defines the minimum trace width.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sls.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/selective-laser-sintering-sls

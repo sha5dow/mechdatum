@@ -142,8 +142,7 @@ Compared to CPVC, the density is nearly identical (1.4 g/cm³), but CPVC raises 
 - ASTM D2665: PVC pipe for drainage, waste and vent (DWV).  
 - ASTM D2846: CPVC systems in copper tube sizes (CTS) for cold and hot water.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=770
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pvc-cpvc-pipes-dimensions-d_795.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=199

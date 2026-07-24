@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description
 Polyethylene (PE) is a translucent, whitish semicrystalline thermoplastic with a density ranging between 0.91 and 0.97 g/cm³ depending on the grade. It is one of the highest production volume synthetic polymers, known for its excellent toughness, low-temperature impact resistance and high chemical resistance. The main variants are low-density polyethylene (LDPE, branched), linear low-density polyethylene (LLDPE), high-density polyethylene (HDPE, linear) and ultra-high molecular weight polyethylene (UHMWPE, with molecular weights between 3 and 6 million). It is processed by extrusion, blow molding and injection molding.
 
 ## Chemical composition
@@ -66,23 +65,23 @@ Compared to polypropylene (PP), HDPE offers better low-temperature impact resist
 ## Processing
 Polyethylene is processed by extrusion, injection molding and blow molding, among other methods. For HDPE, the melt temperature is maintained between 200 °C and 280 °C, with a mold at 30-70 °C and shrinkage of up to 3%. LDPE is processed at lower melt temperatures (160-240 °C) and requires no pre-drying, since its moisture absorption is negligible. Due to its low continuous service temperature, cooling lines must be sized to ensure stable production cycles.
 
-## FAQ
-**What is the typical density of HDPE and LDPE?**  
+## Frequently Asked Questions (FAQ)
+### What is the typical density of HDPE and LDPE?
 The density of HDPE is 0.96 g/cm³ (59.9 lb/ft³), while that of LDPE is 0.924 g/cm³ (57.7 lb/ft³).
 
-**What maximum continuous service temperature can polyethylene withstand?**  
+### What maximum continuous service temperature can polyethylene withstand?
 HDPE can withstand 55 °C (131 °F) continuously; LDPE can be used up to 65 °C (149 °F) continuously and 90 °C (194 °F) for short periods.
 
-**What is the tensile strength of HDPE?**  
+### What is the tensile strength of HDPE?
 The tensile strength of HDPE is 32 MPa, equivalent to 4641 psi.
 
-**What type of polyethylene is used for gas pipes?**  
+### What type of polyethylene is used for gas pipes?
 Medium-density polyethylene (MDPE) is used, a variant with density and properties intermediate between HDPE and LDPE, which optimizes slow crack growth resistance.
 
-**Is polyethylene resistant to acids?**  
+### Is polyethylene resistant to acids?
 Yes, both HDPE and LDPE exhibit excellent resistance to diluted and concentrated acids, as well as bases and alcohols.
 
-**What is the flexural modulus of HDPE?**  
+### What is the flexural modulus of HDPE?
 The flexural modulus of HDPE is 1.25 GPa (181 ksi), approximately 60% higher than that of LDPE.
 
 ## References
@@ -91,8 +90,3 @@ The flexural modulus of HDPE is 1.25 GPa (181 ksi), approximately 60% higher tha
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/plastics-abbreviations-d_1778.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=5949
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=421
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/plastics-abbreviations-d_1778.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=5949

@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introduction
 AISI 4340 steel is a low-alloy steel with a carbon content between 0.37% and 0.43% that, through heat treatment, achieves high levels of strength and toughness. It is classified as a chromium-nickel-molybdenum steel and is normally supplied in the quenched and tempered or annealed condition. Its ability to harden in thick sections makes it a frequent choice for structural parts subjected to high stresses and fatigue.
 
 ## Chemical composition
@@ -120,28 +119,27 @@ Compared to steel 4140, 4340 includes 1.65‑2.00% nickel, which gives it higher
 
 4340 is usually chosen when the part will be subjected to high levels of fatigue, impact, or large sections requiring homogeneous properties in the core.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the chemical composition of steel 4340?**  
+### What is the chemical composition of steel 4340?
 It contains 0.38‑0.43% carbon, 0.65‑0.90% manganese, 0.70‑0.90% chromium, 1.65‑2.00% nickel, 0.20‑0.30% molybdenum, 0.15‑0.35% silicon, and the balance iron.
 
-**What is the maximum tensile strength that steel 4340 can achieve?**  
+### What is the maximum tensile strength that steel 4340 can achieve?
 It exceeds 1960 MPa (285 ksi) when oil quenched from 845 °C and tempered at about 425 °C.
 
-**What is the maximum hardness that can be obtained in steel 4340?**  
+### What is the maximum hardness that can be obtained in steel 4340?
 It reaches up to 53 HRC (approximately 560 HB) in the as-quenched and low-tempered condition, although hardness decreases as tempering temperature increases.
 
-**What is the European equivalent of steel 4340?**  
+### What is the European equivalent of steel 4340?
 Grade 34CrNiMo6 (EN 1.6582) is the closest standardized equivalent.
 
-**What is the machinability of steel 4340 in the annealed condition?**  
+### What is the machinability of steel 4340 in the annealed condition?
 In the annealed and cold-drawn condition its machinability is 57% compared to steel AISI 1212, which is taken as the 100% reference.
 
-**At what temperature does steel 4340 melt?**  
+### At what temperature does steel 4340 melt?
 Its melting point is around 1427 °C (2600 °F).
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6772
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/aisi-sae-steel-numbering-system-d_1449.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=402

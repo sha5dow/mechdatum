@@ -76,24 +76,24 @@ Thermodynamic properties of moist air at standard atmospheric pressure of 101.32
 | 50 °C / 122 °F | 20 | 29.6 °C / 85.3 °F | 21.1 °C / 70.0 °F | 15.4 / 0.0154 | 89.7 / 38.6 | 0.974 / 15.60 |
 | 50 °C / 122 °F | 40 | 36.5 °C / 97.7 °F | 33.9 °C / 93.0 °F | 32.8 / 0.0328 | 135.4 / 58.2 | 1.007 / 16.13 |
 
-## FAQ: Frequently Asked Questions about the Psychrometric Chart
+## Frequently Asked Questions (FAQ)
 
-**What is the approximate slope of the enthalpy lines on a standard psychrometric chart?**  
+### What is the approximate slope of the enthalpy lines on a standard psychrometric chart?
 The constant enthalpy lines have a slope of approximately −2.4 kJ/kg per g/kg increase in absolute humidity, which is equivalent to −1.03 BTU/lb per lb/lb increase in humidity ratio. This slope is practically parallel to that of the wet-bulb temperature and allows both parameters to be read directly on a single plot.
 
-**At what pressure is the conventional psychrometric chart drawn and how is it corrected for altitude?**  
+### At what pressure is the conventional psychrometric chart drawn and how is it corrected for altitude?
 The most widespread psychrometric chart is drawn at the standard sea-level atmospheric pressure of 101.325 kPa / 14.696 psi. For every 500 m / 1640 ft increase in altitude, the barometric pressure decreases by approximately 6 kPa / 0.87 psi, which requires using a chart specific to the altitude or applying correction factors of 5‑7 % in absolute humidity readings.
 
-**What maximum difference is accepted between the wet-bulb temperature and the adiabatic saturation temperature in the air‑water system?**  
+### What maximum difference is accepted between the wet-bulb temperature and the adiabatic saturation temperature in the air‑water system?
 For the moist air with water system, the difference between the thermodynamic wet-bulb temperature and the adiabatic saturation temperature is less than 0.2 °C / 0.36 °F in the entire comfort range, because the Luikov number is approximately equal to 1. This coincidence allows both lines to be used interchangeably in HVAC calculations.
 
-**How much does the dew point drop when relative humidity is reduced by 10 % at a constant dry-bulb temperature of 25 °C / 77 °F?**  
+### How much does the dew point drop when relative humidity is reduced by 10 % at a constant dry-bulb temperature of 25 °C / 77 °F?
 At 25 °C / 77 °F, a reduction in relative humidity from 60 % to 50 % produces a drop in dew point from approximately 17.4 °C / 63.3 °F to 13.8 °C / 56.8 °F, i.e., a drop close to 3.6 °C / 6.5 °F. This variation is critical in cooling processes to avoid unwanted surface condensation.
 
-**What minimum air velocity must be maintained in an aspiration psychrometer to limit the measurement error to 1 %?**  
+### What minimum air velocity must be maintained in an aspiration psychrometer to limit the measurement error to 1 %?
 To ensure a relative humidity measurement error of less than 1 %, the air velocity over the bulbs of a forced aspiration psychrometer must be at least 4.5 m/s / 885 ft/min. Velocities below 2 m/s / 394 ft/min cause errors above 5 % due to insufficient renewal of the wet boundary layer.
 
-**What increase in absolute humidity occurs when heating air from 10 °C / 50 °F and 60 % RH to 30 °C / 86 °F and injecting vapor until reaching 50 % RH?**  
+### What increase in absolute humidity occurs when heating air from 10 °C / 50 °F and 60 % RH to 30 °C / 86 °F and injecting vapor until reaching 50 % RH?
 When heating air from 10 °C / 50 °F with an initial absolute humidity of 4.6 g/kg / 0.0046 lb/lb and adding vapor until reaching 30 °C / 86 °F and 50 % RH, the final absolute humidity rises to 13.5 g/kg / 0.0135 lb/lb. This represents an addition of 8.9 grams of water vapor per kilogram of dry air processed, equivalent to 62.3 grains of vapor per pound of dry air.
 
 ## References
@@ -101,7 +101,3 @@ When heating air from 10 °C / 50 °F with an initial absolute humidity of 4.6 g
 - **efunda.com**: https://www.efunda.com/
 - **thermopedia.com**: https://www.thermopedia.com/content/1261/
 
-## Sources Consulted
-
-- **efunda.com**: https://www.efunda.com/
-- **thermopedia.com**: https://www.thermopedia.com/content/1261/

@@ -96,22 +96,22 @@ El bronce C932 se suministra de acuerdo con las siguientes especificaciones:
 - SAE J462
 
 ## Preguntas frecuentes (FAQ)
-1. **¿Cuál es la densidad del bronce C932?**  
+### ¿Cuál es la densidad del bronce C932?
    El bronce C932 tiene una densidad de 8,93 g/cm³ (0,323 lb/in³) a temperatura ambiente.
 
-2. **¿Qué resistencia a la tracción presenta en estado de colada?**  
+### ¿Qué resistencia a la tracción presenta en estado de colada?
    La resistencia a la tracción típica es de 240 MPa (34 800 psi), con un límite elástico de 125 MPa (18 100 psi).
 
-3. **¿Cuál es su dureza Brinell?**  
+### ¿Cuál es su dureza Brinell?
    La dureza Brinell media es de 65 HB.
 
-4. **¿Qué índice de maquinabilidad tiene el bronce C932?**  
+### ¿Qué índice de maquinabilidad tiene el bronce C932?
    Posee un índice de maquinabilidad del 70 % respecto al latón de corte libre C36000.
 
-5. **¿Cuál es la conductividad térmica del C932?**  
+### ¿Cuál es la conductividad térmica del C932?
    Aproximadamente 61 W/(m·K), equivalente a 35 Btu/(h·ft·°F) a 20 °C.
 
-6. **¿Es posible soldar este bronce?**  
+### ¿Es posible soldar este bronce?
    No se recomienda la soldadura por arco en ninguna de sus variantes; sin embargo, admite soldadura por brasado y estañado.
 
 ## Fuentes consultadas

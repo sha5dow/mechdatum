@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
-
 La norma ISO 2553 establece el sistema internacional de representación simbólica para uniones soldadas en planos técnicos. Define la estructura, posición y significado de cada elemento gráfico necesario para describir completamente una unión soldada sin recurrir a notas extensas. La designación incluye la línea de referencia, la flecha, los símbolos básicos y suplementarios, y las cotas que indican el tamaño, la longitud y la preparación del borde.
 
 ## Estructura del símbolo
@@ -101,24 +99,24 @@ La aplicación de símbolos ISO 2553 presenta ventajas y limitaciones que el pro
 - La representación de soldaduras con geometrías no recogidas en los símbolos básicos (p. ej., soldaduras por fricción o láser de penetración profunda) necesita notas adicionales, perdiendo la ventaja gráfica.
 - La norma ISO 2553 no especifica tolerancias dimensionales por proceso; estas deben consultarse en normas complementarias (ISO 13920, ISO 5817), lo que obliga a manejar documentación anexa.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la diferencia entre el lado de la flecha y el lado opuesto en un símbolo de soldadura?**  
+### ¿Cuál es la diferencia entre el lado de la flecha y el lado opuesto en un símbolo de soldadura?
 El lado de la flecha se refiere a la superficie de la junta que apunta la flecha en el plano. El símbolo colocado sobre la línea de referencia indica soldadura en ese lado, mientras que el símbolo bajo la línea continua (o sobre la línea de identificación discontinua) indica soldadura en el lado opuesto. La separación entre ambas líneas de referencia y de identificación es de 2.5 mm / 0.1 in como mínimo.
 
-**¿Cómo se indica una soldadura intermitente con ISO 2553?**  
+### ¿Cómo se indica una soldadura intermitente con ISO 2553?
 Se coloca la longitud del cordón a la derecha del símbolo básico, seguida de un guion y la separación entre centros. Por ejemplo, "50-150" indica cordones de 50 mm / 1.97 in de largo con un paso de 150 mm / 5.91 in. La cantidad de cordones y la ubicación exacta se definen con un detalle ampliado si la pieza tiene menos de 200 mm / 7.87 in de longitud total.
 
-**¿Qué altura mínima debe tener el texto en un símbolo de soldadura?**  
+### ¿Qué altura mínima debe tener el texto en un símbolo de soldadura?
 La altura de la letra (h) para cualquier número o letra dentro del símbolo no debe ser inferior a 2.5 mm / 0.1 in. La ISO recomienda 3.5 mm / 0.14 in para formatos A3 y A4, y 5 mm / 0.2 in para formatos A2 y superiores a fin de garantizar la legibilidad en reproducciones reducidas.
 
-**¿Se puede combinar más de un símbolo básico en la misma línea de referencia?**  
+### ¿Se puede combinar más de un símbolo básico en la misma línea de referencia?
 Sí, la ISO 2553 permite múltiples símbolos básicos sobre la misma línea de referencia para indicar soldaduras combinadas, como una unión en ángulo con tapón. Cada símbolo se coloca en su posición normal sobre o bajo la línea, y se asocian cotas independientes separadas por una línea vertical fina de 0.35 mm / 0.014 in de grosor.
 
-**¿Cómo se especifica el acabado superficial tras la soldadura?**  
+### ¿Cómo se especifica el acabado superficial tras la soldadura?
 Se añade una línea horizontal sobre el símbolo básico y, sobre esa línea, la indicación del proceso de acabado, por ejemplo "M" para mecanizado o "G" para esmerilado. Si se requiere un valor de rugosidad, se escribe a continuación; por ejemplo "M Ra 6.3" indica un acabado maquinado con rugosidad media aritmética de 6.3 µm / 248 µin.
 
-**¿Qué indica el círculo en la unión de la flecha con la línea de referencia?**  
+### ¿Qué indica el círculo en la unión de la flecha con la línea de referencia?
 El círculo señala una soldadura periférica, es decir, una junta que debe realizarse en todo el contorno accesible de la pieza. Su diámetro se dibuja entre 3 mm / 0.12 in y 4 mm / 0.16 in y su trazo se refuerza con un grosor de línea de 0.7 mm / 0.028 in para asegurar su visibilidad en el plano.
 
 ## Fuentes consultadas

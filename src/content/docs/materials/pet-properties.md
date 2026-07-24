@@ -115,7 +115,7 @@ El PET se compara a menudo con otros termoplásticos de ingeniería y con el pol
 | PETG (glicol‑modificado) | Mejor termoformabilidad y menor fragilidad en espesores gruesos | Menor temperatura de deflexión y resistencia mecánica |
 | Nylon 6 | Mayor resistencia al desgaste y a la fatiga | Absorbe más humedad, peor estabilidad dimensional |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la densidad del PET en g/cm³ y lb/ft³?
 La densidad típica del PET amorfo es 1.37 g/cm³ (85.5 lb/ft³), mientras que el PET cristalino puede alcanzar 1.455 g/cm³ (90.8 lb/ft³).

@@ -74,7 +74,7 @@ The typical angular misalignment capacity of a jaw coupling is 1° (0,017 rad) w
 
 The recommended operating temperature for standard elastomeric inserts ranges from -40 °C / -40 °F to 100 °C / 212 °F. During mounting, a minimum axial gap of 1,5 mm / 0.06 in must be maintained between hubs to prevent excessive compression of the spider. Hubs with setscrew fixing require a keyway and must be tightened to the specified torque; clamp fixing distributes pressure evenly and is preferable in frequent rotation reversals. Angular misalignment should not exceed 1° for NBR spiders; if greater flexibility is required, use urethane or Hytrel® spiders that allow up to 1,5° [VERIFY]. In the Oldham coupling, the center disc must slide freely in the grooves and periodic lubrication with NLGI 0 grease must be ensured for metal versions.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What maximum torque does an L070 coupling with standard spider support?
 The maximum continuous torque is 27 Nm / 20 lb·ft with an 80 Shore A spider, and 44 Nm / 32 lb·ft with a 92 Shore A spider [VERIFY].
@@ -94,6 +94,5 @@ The total mounted length is 43,66 mm / 1-23/32 in; the individual hub measures a
 ### How is a jaw coupling installed on a shaft without a keyway?
 It is recommended to use hubs with clamp fixing (GS series), which grip the shaft evenly without needing a key and allow fine position adjustments.
 
-## Sources Consulted
-
+## References
 - **mcmaster.com**: https://www.mcmaster.com/products/jaw-couplings/

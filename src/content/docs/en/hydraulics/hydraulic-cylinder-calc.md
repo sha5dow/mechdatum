@@ -110,28 +110,27 @@ _A₂_ = 5027 mm² = 0.005027 m²
 _Q_ = 30 L/min = 0.0005 m³/s  
 _v_ = 0.0005 / 0.005027 = **0.0995 m/s / 3.92 in/s**  
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What thrust force does a cylinder with 100 mm diameter generate at 250 bar?**  
+### What thrust force does a cylinder with 100 mm diameter generate at 250 bar?
 A cylinder with piston diameter of 100 mm (3.94 in) operated at 250 bar (3626 psi) develops a thrust force of 196.3 kN (44,100 lbf), neglecting friction.  
 
-**How does rod diameter affect retraction force?**  
+### How does rod diameter affect retraction force?
 Retraction force is always less than thrust force because the annular area is smaller. For example, with a 45 mm (1.77 in) rod in a 100 mm (3.94 in) cylinder, the traction force at 200 bar (2900 psi) is 113 kN (25,400 lbf), 28% lower than the thrust force.  
 
-**What speed does a cylinder with 80 mm diameter achieve with a flow rate of 40 L/min?**  
+### What speed does a cylinder with 80 mm diameter achieve with a flow rate of 40 L/min?
 With a flow rate of 40 L/min (10.6 gpm), the extension speed of an 80 mm (3.15 in) bore cylinder is approximately 0.133 m/s (5.22 in/s).  
 
-**What pressure is required to lift a load of 50 kN with a 63 mm cylinder?**  
+### What pressure is required to lift a load of 50 kN with a 63 mm cylinder?
 For a cylinder with piston diameter of 63 mm (2.48 in) that must exert 50 kN (11,240 lbf) of thrust, a working pressure of approximately 160 bar (2320 psi) is required.  
 
-**Is the force formula valid for single-acting cylinders?**  
+### Is the force formula valid for single-acting cylinders?
 Yes, in a single-acting cylinder the thrust force is calculated with the same formula _F = P · A_, but the return stroke depends on a spring or external load, not on opposing hydraulic pressure.  
 
-**What margin is recommended to add for friction in force calculations?**  
+### What margin is recommended to add for friction in force calculations?
 Friction from seals and bearings can consume between 5% and 20% of the theoretical force. For preliminary calculations, an increase factor of 10% over the required load is typically applied.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/hydraulic-force-calculator-d_1369.html
 - **engineersedge.com**: https://www.engineersedge.com/fluid_flow/cylinder_piston_velocity.htm
 - **efunda.com**: https://www.efunda.com/designstandards/oring/design_guidelines.cfm

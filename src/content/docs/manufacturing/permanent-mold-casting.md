@@ -56,22 +56,22 @@ La fundición en molde permanente se prefiere cuando se requieren tolerancias di
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Qué diferencia a la fundición en molde permanente de la fundición en arena?**
+### ¿Qué diferencia a la fundición en molde permanente de la fundición en arena?
 La fundición en molde permanente usa un molde metálico reutilizable que ofrece velocidades de enfriamiento superiores, generando un tamaño de grano más fino y propiedades mecánicas más elevadas. Las tolerancias dimensionales se reducen a aproximadamente ±0,25 mm / ±0.010 in frente a ±1,5 mm / ±0.060 in típicos de la arena, y el acabado superficial mejora a un rango de 2,5 µm / 100 µin a 7,5 µm / 250 µin. El costo inicial del utillaje resulta entre 5 y 10 veces mayor, por lo que se justifica solo para corridas de 1000 piezas o más.
 
-**¿Cuál es la temperatura de precalentamiento correcta para un molde permanente?**
+### ¿Cuál es la temperatura de precalentamiento correcta para un molde permanente?
 El molde se precalienta a un rango de 150 °C / 302 °F a 200 °C / 392 °F antes del primer ciclo de colada. Durante la producción continua, el calor residual de las piezas previas mantiene la temperatura operativa sin necesidad de recalentamiento externo.
 
-**¿Qué tolerancias dimensionales se pueden esperar en piezas de aluminio por molde permanente?**
+### ¿Qué tolerancias dimensionales se pueden esperar en piezas de aluminio por molde permanente?
 Las piezas de aluminio obtenidas por molde permanente presentan tolerancias lineales típicas del 2 % de la dimensión nominal, con una capacidad de proceso que puede alcanzar ±0,25 mm / ±0.010 in para dimensiones transversales pequeñas en producción optimizada.
 
-**¿Es posible fabricar piezas con espesor de pared inferior a 3 mm / 0.12 in?**
+### ¿Es posible fabricar piezas con espesor de pared inferior a 3 mm / 0.12 in?
 Sí, para aleaciones de alta fluidez como el zinc se pueden alcanzar espesores mínimos de 1,5 mm / 0.06 in. Para aluminio y magnesio, el espesor práctico mínimo se mantiene en 3 mm / 0.12 in para longitudes de hasta 75 mm / 3 in, y se incrementa proporcionalmente en secciones más extensas.
 
-**¿Cuál es la ventaja principal del molde permanente frente a la fundición a presión?**
+### ¿Cuál es la ventaja principal del molde permanente frente a la fundición a presión?
 La fundición en molde permanente opera con llenado por gravedad, lo que reduce significativamente la porosidad por atrapamiento de gas en comparación con la inyección a alta velocidad de la fundición a presión. Esto permite aplicar tratamientos térmicos posteriores y soldadura en las piezas, prácticas que resultan problemáticas en piezas fundidas a presión con atrapamiento de aire.
 
-**¿Qué materiales no se pueden procesar en molde permanente metálico?**
+### ¿Qué materiales no se pueden procesar en molde permanente metálico?
 Las aleaciones ferrosas con temperaturas de vertido superiores a 1400 °C / 2550 °F, como los aceros al carbono y los aceros inoxidables, no se cuelan en moldes metálicos convencionales porque la temperatura compromete la resistencia a la fatiga térmica hasta del mejor hierro fundido. Para estas aleaciones se emplean moldes de grafito, que toleran el choque térmico pero tienen una vida útil limitada.
 
 ## Fuentes consultadas

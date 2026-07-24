@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
 Ultra-high-molecular-weight polyethylene (UHMWPE) is a semicrystalline thermoplastic, whitish and opaque, chemically equivalent to HDPE but with an extremely high molecular weight, typically 2 to 6 million g/mol. This exceptional chain length gives it such a high melt viscosity that it can only be processed through powder sintering techniques. It possesses outstanding shear strength, wear resistance and toughness, along with excellent chemical resistance, in some respects superior to conventional HDPE. It is odorless, tasteless, non-toxic and has a very low coefficient of friction, comparable to PTFE, but with clearly better abrasion resistance.
 
 ## Chemical composition
@@ -128,7 +127,7 @@ For the production of high-modulus fibers, gel spinning is used followed by extr
 
 UHMWPE surpasses all common thermoplastics in impact resistance and offers the best wear resistance/low coefficient of friction ratio. Compared to PTFE, its abrasion resistance is much higher, although its use at elevated temperatures is more limited. Compared to Nylon and Acetal, UHMWPE has lower tensile strength but much better toughness and slip, especially in abrasive or dusty environments.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 **What is the maximum continuous service temperature of UHMWPE?** 55 °C is the recommended value for permanent service; however, it can withstand brief peaks up to 90 °C without immediate failure, but with progressive loss of mechanical properties.
 
@@ -142,8 +141,7 @@ UHMWPE surpasses all common thermoplastics in impact resistance and offers the b
 
 **Can UHMWPE be injection molded or extruded?** No, its melt viscosity exceeds 10⁸ Pa·s, which forces exclusive use of powder sintering or ram extrusion, preventing conventional melt processing methods.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=854
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/peh-chemical-resistance-d_329.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=714

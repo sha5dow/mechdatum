@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introduction
 Magnesium AZ31B is a lightweight magnesium alloy with a density of 1.77 g/cm³ and an excellent strength-to-weight ratio, used as an alternative to aluminum alloys in numerous applications. It is available in plate, sheet, and bar forms, and its availability is greater than that of other magnesium grades. To improve its corrosion resistance, it is usually subjected to anodizing.
 
 ## Chemical composition
@@ -82,8 +81,7 @@ AZ31B is widely used in the aerospace and transportation industries due to its l
 ## Comparison with other materials
 AZ31B has a density 35 % lower than that of aluminum alloy 6061‑T6 (1.77 vs. 2.70 g/cm³), while its tensile strength is about 60 % of the latter, resulting in a comparable specific strength. Compared to other magnesium alloys such as AZ91 (9 % Al), AZ31B offers better formability and weldability, but lower strength and hardness. The equivalents to European standards identify it as EN‑MAMgAl3Zn1 and with the traditional designation MgAl3Zn1, useful for exchanges with suppliers in the European context.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6707
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_alloy_eu.php?zname_id=12092

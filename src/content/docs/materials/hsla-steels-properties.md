@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Visión general
 Los aceros de alta resistencia y baja aleación (HSLA) alcanzan resistencias a la fluencia **entre 275 MPa y más de 700 MPa** mediante una combinación de composición química pobre en carbono y procesamiento termomecánico controlado. Están diseñados para ofrecer una relación resistencia‑peso superior, excelente soldabilidad y buena tenacidad, lo que permite secciones más delgadas que las requeridas en aceros al carbono convencionales para la misma carga.
 
 | Propiedad | Acero HSLA | Acero al carbono convencional |
@@ -92,22 +91,22 @@ Frente al acero al carbono ASTM A36, un acero HSLA de **550 MPa (80 ksi)** de l�
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es el límite elástico mínimo que se puede esperar de un acero HSLA genérico?**  
+### ¿Cuál es el límite elástico mínimo que se puede esperar de un acero HSLA genérico?
 Los grados más comunes garantizan un límite elástico mínimo de **275 MPa (40 ksi)**, aunque existen calidades especiales que superan los **700 MPa (100 ksi)**.
 
-**2. ¿Por qué el contenido de carbono de un HSLA es inferior al 0.10 %?**  
+### ¿Por qué el contenido de carbono de un HSLA es inferior al 0.10 %?
 Para preservar la soldabilidad y la ductilidad. Contenidos por encima del **0.25 %** aumentan la templabilidad y el riesgo de fisuración en frío, por lo que se evitan en esta familia.
 
-**3. ¿Cuánta resistencia adicional aporta la precipitación de niobio en estos aceros?**  
+### ¿Cuánta resistencia adicional aporta la precipitación de niobio en estos aceros?
 Los carburos de Nb(C,N) con un tamaño medio de **8.2 nm** contribuyen aproximadamente **84 MPa** al límite elástico, según estudios en grados de 450 MPa.
 
-**4. ¿Qué reducción de peso se consigue al sustituir un acero al carbono por uno HSLA?**  
+### ¿Qué reducción de peso se consigue al sustituir un acero al carbono por uno HSLA?
 Las estructuras de HSLA suelen resultar **entre un 20 % y un 30 % más ligeras** que las diseñadas con acero al carbono de igual resistencia.
 
-**5. ¿Es necesario precalentar antes de soldar un acero HSLA?**  
+### ¿Es necesario precalentar antes de soldar un acero HSLA?
 Generalmente no en espesores inferiores a **25 mm (1 pulgada)**, gracias a su bajo carbono equivalente; para mayores espesores pueden aplicarse precalentamientos moderados de **100‑150 °C**.
 
-**6. ¿Cuánto más caro es el HSLA de alta resistencia frente al acero estructural básico?**  
+### ¿Cuánto más caro es el HSLA de alta resistencia frente al acero estructural básico?
 Un grado HSLA de **550 MPa (80 ksi)** cuesta alrededor del **24 % más** que un A36, lo que se compensa con el ahorro de material y la reducción del peso propio.
 
 ## Fuentes consultadas

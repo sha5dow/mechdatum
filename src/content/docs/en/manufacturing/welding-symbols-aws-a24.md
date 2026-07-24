@@ -94,26 +94,25 @@ The tail of the symbol is reserved for identifying the welding process (e.g., GT
 
 ## Frequently Asked Questions (FAQ)
 
-1. **What is the recommended line thickness for welding symbols?**  
+### What is the recommended line thickness for welding symbols?
    **0.35 mm / 0.014 in** for drawing sheets size A and B, **0.5 mm / 0.020 in** for C and D, and **0.7 mm / 0.028 in** for formats E and larger, per AWS A2.4.
 
-2. **What is the minimum length of the reference line?**  
+### What is the minimum length of the reference line?
    Common practice recommends at least **100 mm / 4.0 in**, approximately twice the total symbol length, to ensure reading clarity.
 
-3. **How many multiple reference lines can be stacked?**  
+### How many multiple reference lines can be stacked?
    Up to **4 reference lines** consecutively are allowed before interpretation becomes confusing; for more complex joints, additional notes are preferred.
 
-4. **What dimension should the arrow have?**  
+### What dimension should the arrow have?
    Arrow length is at the drafter's discretion, but the tip angle must be **15° to 30°** relative to the reference line, with a minimum tip length of **3 mm / 0.12 in**.
 
-5. **What is the height of the basic fillet symbol?**  
+### What is the height of the basic fillet symbol?
    The fillet symbol, at drawing scale, measures **3 mm / 0.12 in** in height, matching the standard dimension height on drawings.
 
-6. **Can the tail of the symbol be omitted?**  
+### Can the tail of the symbol be omitted?
    Yes, the tail is omitted when there is no need to specify the process, filler metal, or inspection standard; in those cases, the reference line ends in a dovetail without additional information.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/piping-codes-standards-d_6.html
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?start=1&thread=8717&id=9057
 - **manufacturingguide.com**: https://www.manufacturingguide.com/sv/ordlista/svetsbeteckning

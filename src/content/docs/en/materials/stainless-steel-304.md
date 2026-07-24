@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description
 Stainless steel 304 (UNS S30400) is the most versatile and widely consumed austenitic stainless steel in the world, with an estimated annual production of several million tonnes. Its stable austenitic structure, achieved through a balance of chromium (≈18 %) and nickel (≈8 %), provides excellent formability, weldability and corrosion resistance in a wide variety of environments. It is the predominant choice for the manufacture of deep-drawn parts — such as sinks, kitchenware and hollowware — and in architectural, industrial and transportation components. The 304L (low carbon, UNS S30403) and 304H (high carbon, UNS S30409) variants cover applications requiring welding of thick sections without post-weld heat treatment or service at high temperature, respectively.
 
 ## Chemical composition
@@ -106,28 +105,27 @@ Stainless steel 304 has excellent weldability by all conventional processes (TIG
 
 These equivalents are for guidance; for exact requirements the original standards of each country must be consulted.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the minimum tensile strength of stainless steel 304 in the annealed condition?**  
+### What is the minimum tensile strength of stainless steel 304 in the annealed condition?
 The minimum value per ASTM A240 is 515 MPa (74,7 ksi), and much higher values can be achieved after cold working.
 
-**What is the density of 304 steel and how does it affect component weight?**  
+### What is the density of 304 steel and how does it affect component weight?
 The density is 8000 kg/m³ (0,289 lb/in³), which is approximately 2 % more than that of carbon steel; one cubic meter of 304 weighs 8000 kg.
 
-**At what temperature does 304 melt?**  
+### At what temperature does 304 melt?
 The melting range is between 1400 and 1450 °C (2550‑2650 °F), typical of austenitic steels with high chromium and nickel content.
 
-**What is the thermal conductivity of 304 and how does it vary with temperature?**  
+### What is the thermal conductivity of 304 and how does it vary with temperature?
 At 100 °C the conductivity is 16,2 W/(m·K) (9,36 Btu/(h·ft·°F)), increasing to 21,5 W/(m·K) (12,4 Btu/(h·ft·°F)) at 500 °C; these values are significantly lower than those of carbon steel.
 
-**Is stainless steel 304 magnetic?**  
+### Is stainless steel 304 magnetic?
 In the annealed condition it is practically non-magnetic (magnetic permeability close to 1) due to its austenitic structure; after heavy cold working it may develop slight magnetism.
 
-**What chromium and nickel content defines 304?**  
+### What chromium and nickel content defines 304?
 Chromium is in the range 18‑20 % and nickel between 8 and 10,5 %, giving rise to the well-known commercial designations "18/8" or "18/10".
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?articleid=965
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-310-properties-d_2167.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=880

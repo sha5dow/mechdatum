@@ -87,7 +87,7 @@ Both systems, ISO 286 and ANSI B4.1, classify fits into the same three fundament
 
 The main operational difference lies in that the ANSI designation specifies the resulting fit (the hole-shaft assembly) as a single entity, while ISO separately codes the hole tolerance (e.g., H7) and the shaft tolerance (e.g., f7). The ISO standard also offers greater granularity in choosing tolerance grades (IT grades) and tolerance positions, allowing non-standard combinations for special cases. In contrast, ANSI classes are predefined combinations with complete tables of limit values for each diameter, simplifying selection in basic mechanical design. In North American industrial practice, ANSI designations (RC, LC, FN) are commonly used on shop drawings and component catalogs, while international technical documentation leans toward the ISO system.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### How many clearance fit classes does ANSI B4.1 define?
 ANSI B4.1 defines 9 clearance fit classes, designated RC1 through RC9, where RC1 provides the minimum clearance for highest precision guides and RC9 the maximum clearance for conditions of dirt or extreme expansion.
@@ -107,6 +107,5 @@ LC 5 fits require components to be manufactured with processes in an ANSI tolera
 ### How is a choice made between an RC fit and an LC fit for a guided shaft?
 An LC fit is selected when the priority is location precision with force-free assembly (typical maximum clearance ≤ 25 µm / 0.001 in for small diameters). An RC fit is chosen when continuous free movement or rotation is the primary requirement, accepting larger clearances to guarantee the lubricant film and freedom of movement.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html

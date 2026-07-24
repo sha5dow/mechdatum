@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 La fibra de Kevlar es una poliamida aromática (aramida) de origen sintético, conocida por su excepcional resistencia mecánica, baja densidad y alta estabilidad térmica. Desarrollada por DuPont™, pertenece a la familia de las para-aramidas y se comercializa en distintos grados –principalmente Kevlar 29 y Kevlar 49– para satisfacer requerimientos específicos en sectores como el aeroespacial, militar, automotriz e industrial.
 
 ## Composición química
@@ -71,24 +70,24 @@ La tabla siguiente contrasta las propiedades mecánicas más relevantes del Kevl
 
 El Kevlar destaca por su altísima resistencia específica (resistencia/densidad), comparable o superior a los vidrios y a algunos carbonos, aunque su módulo es inferior a las fibras de carbono de alto módulo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la resistencia a la tracción del Kevlar 29?**  
+### ¿Cuál es la resistencia a la tracción del Kevlar 29?
 El Kevlar 29 tiene una resistencia a la tracción de 2 860 MPa (410 ksi) y una elongación a rotura del 3,5 %.
 
-**2. ¿Qué diferencia al Kevlar 49 del Kevlar 29?**  
+### ¿Qué diferencia al Kevlar 49 del Kevlar 29?
 El Kevlar 49 presenta un módulo de tracción de 124 GPa frente a los 64 GPa del Kevlar 29, y una elongación menor (2,5 % frente a 3,5 %). Esto lo hace preferido para refuerzo estructural en composites.
 
-**3. ¿A qué temperatura se descompone el Kevlar?**  
+### ¿A qué temperatura se descompone el Kevlar?
 La temperatura de descomposición supera los 500 °C, sin que la fibra llegue a fundir, y puede trabajar en servicio continuo hasta unos 160 °C.
 
-**4. ¿El Kevlar es resistente a los impactos balísticos?**  
+### ¿El Kevlar es resistente a los impactos balísticos?
 Sí; el Kevlar 29 absorbe la energía del impacto a través de una resistencia a la tracción de 2 860 MPa y una elongación del 3,5 %, disipando la energía cinética del proyectil.
 
-**5. ¿Cómo afecta la radiación UV al Kevlar?**  
+### ¿Cómo afecta la radiación UV al Kevlar?
 La exposición prolongada a rayos UV provoca una degradación que reduce la resistencia a la tracción. Se recomienda proteger la fibra con recubrimientos cuando se utilice en exteriores.
 
-**6. ¿Cuál es la densidad del Kevlar?**  
+### ¿Cuál es la densidad del Kevlar?
 La densidad de los grados Kevlar 29 y 49 es de 1 440 kg/m³ (0,052 lb/in³), aproximadamente un 55 % de la densidad del vidrio E (2 630 kg/m³).
 
 ## Fuentes consultadas

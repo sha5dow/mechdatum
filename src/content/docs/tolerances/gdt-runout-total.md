@@ -127,22 +127,22 @@ Los errores más comunes en la especificación y medición de oscilación incluy
 
 ## Preguntas frecuentes (FAQ)
 
-### 1. ¿Cuál es la diferencia principal entre oscilación circular y oscilación total?
+### ¿Cuál es la diferencia principal entre oscilación circular y oscilación total?
 La oscilación circular controla cada sección transversal de forma independiente con una zona 2D de 0,05 mm / 0.002 in típica, mientras que la oscilación total controla la superficie completa acumulada con una zona 3D continua de hasta 0,1 mm / 0.004 in, requiriendo además un recorrido axial del indicador durante la medición.
 
-### 2. ¿Qué indica una lectura de oscilación de 0,07 mm en un eje de 80 mm?
+### ¿Qué indica una lectura de oscilación de 0,07 mm en un eje de 80 mm?
 Una lectura de 0,07 mm / 0.0028 in en un diámetro de 80 mm / 3.15 in significa que la superficie presenta una variación radial máxima de 70 micrómetros respecto al eje de referencia, lo cual corresponde aproximadamente a un grado de tolerancia ISO K para oscilación circular.
 
-### 3. ¿Se puede aplicar oscilación sin un datum de referencia?
+### ¿Se puede aplicar oscilación sin un datum de referencia?
 No, especificar un control de oscilación de 0,02 mm / 0.0008 in sin datum de referencia no es válido según las normas ISO 1101 ni ASME Y14.5, ya que la desviación debe referirse obligatoriamente a un eje o superficie de referencia para tener significado dimensional.
 
-### 4. ¿Cómo se mide la oscilación total en un eje de 250 mm de longitud?
+### ¿Cómo se mide la oscilación total en un eje de 250 mm de longitud?
 Se coloca un indicador de resolución 0,001 mm / 0.00004 in perpendicular a la superficie, se gira la pieza al menos una vuelta completa y simultáneamente se desplaza el indicador a lo largo de los 250 mm / 9.84 in de longitud, registrando la variación máxima acumulada que no debe superar la tolerancia especificada.
 
-### 5. ¿Afecta la velocidad de rotación a la oscilación medida?
+### ¿Afecta la velocidad de rotación a la oscilación medida?
 En medición estática con comparador, una velocidad de giro baja de aproximadamente 30 rpm evita efectos dinámicos y se obtienen lecturas repetibles de 0,003 mm / 0.00012 in; a altas velocidades de 3000 rpm la excentricidad dinámica y vibraciones pueden falsear la medición hasta 0,02 mm / 0.0008 in adicionales.
 
-### 6. ¿Qué grado de tolerancia ISO se recomienda para un asiento de rodamiento?
+### ¿Qué grado de tolerancia ISO se recomienda para un asiento de rodamiento?
 Para asientos de rodamientos con diámetros entre 20 mm y 120 mm se recomienda un grado H de oscilación circular (0,025 mm a 0,04 mm / 0.001 in a 0.0016 in) o una oscilación total especificada de 0,015 mm / 0.0006 in, asegurando baja vibración y larga vida útil del rodamiento.
 
 ## Fuentes consultadas

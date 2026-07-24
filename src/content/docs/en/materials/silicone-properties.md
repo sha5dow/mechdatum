@@ -114,26 +114,25 @@ Silicone offers the widest operating temperature range and unmatched low-tempera
 
 ## Frequently Asked Questions (FAQ)
 
-1. **What is the working temperature range of silicone rubber?**  
+### What is the working temperature range of silicone rubber?
    Silicone withstands continuously from **−50 °C to 200 °C** and reaches peaks of **300 °C** in intermittent service.
 
-2. **What chemical resistance does it have?**  
+### What chemical resistance does it have?
    It resists strong acids and bases very well (rating **5/5**) and organic solvents (**4/5**), but oxidizes rapidly at **500 °C** (rating **1/5**).
 
-3. **What is its typical density?**  
+### What is its typical density?
    Density varies between **1.1 and 2.3 g/cm³** (68.7‑143.6 lb/ft³) depending on the amount and type of filler.
 
-4. **How much does it elongate before breaking?**  
+### How much does it elongate before breaking?
    It presents an elongation at break of **80 % to 530 %**; softer formulations can exceed **700 %**.
 
-5. **Is it a good electrical insulator?**  
+### Is it a good electrical insulator?
    Yes, it has a dielectric strength of **11 to 28 kV/mm** and a volume resistivity on the order of **10¹¹‑10¹⁴ Ω·m**.
 
-6. **Can it be used in contact with food?**  
+### Can it be used in contact with food?
    Food-grade silicones (conforming to FDA and EU regulations) are approved for cooking, baking and storing food.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=920
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-operating-temperatures--d_2242.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=427

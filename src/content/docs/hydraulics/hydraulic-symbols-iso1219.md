@@ -164,24 +164,24 @@ Además de los símbolos funcionales ISO 1219, los diagramas de control hidrául
 
 Ejemplo: un indicador de nivel se designa como **LI**, y un transmisor de presión con alarma se denomina **PTA**.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la presión de diseño estándar para un sistema hidráulico según ISO 4413?**  
+### ¿Cuál es la presión de diseño estándar para un sistema hidráulico según ISO 4413?
 La presión de diseño más común en aplicaciones industriales es de 210 bar / 3046 psi, aunque existen líneas de alta presión normalizadas a 350 bar / 5076 psi.
 
-**2. ¿Qué caudal mínimo puede representar un símbolo de estrangulador fijo?**  
+### ¿Qué caudal mínimo puede representar un símbolo de estrangulador fijo?
 El símbolo no define un caudal, pero los microestranguladores comerciales manejan caudales desde 0,05 l/min / 0,013 gpm hasta 2 l/min / 0,53 gpm, con orificios calibrados de 0,2 mm / 0,008 in.
 
-**3. ¿Cuál es la viscosidad recomendada para un aceite hidráulico ISO VG 46 a 40 °C?**  
+### ¿Cuál es la viscosidad recomendada para un aceite hidráulico ISO VG 46 a 40 °C?
 La viscosidad cinemática típica es de 46 mm²/s / 46 cSt a 40 °C, con un rango de funcionamiento óptimo entre 20 y 80 cSt / 20‑80 mm²/s.
 
-**4. ¿Cuántas conexiones roscadas tiene una válvula distribuidora 4/3 CETOP 3?**  
+### ¿Cuántas conexiones roscadas tiene una válvula distribuidora 4/3 CETOP 3?
 La placa base CETOP 3 dispone de 5 orificios roscados, habitualmente G 1/4” (diámetro mayor 13,157 mm / 0,518 in), con un par de apriete recomendado de 55 Nm / 41 lb‑ft.
 
-**5. ¿Qué espesor de línea recomienda ISO 1219‑2 para los diferentes circuitos?**  
+### ¿Qué espesor de línea recomienda ISO 1219‑2 para los diferentes circuitos?
 La línea de presión principal se dibuja con un grosor de línea de 0,5 mm / 0,020 in, mientras que la línea de retorno y la de pilotaje utilizan 0,35 mm / 0,014 in.
 
-**6. ¿Cuál es el tamaño normalizado de un acumulador de vejiga según la directiva PED?**  
+### ¿Cuál es el tamaño normalizado de un acumulador de vejiga según la directiva PED?
 Los acumuladores estándar tienen un volumen desde 0,075 l / 2,54 US fl oz hasta 50 l / 13,2 US gal, con presiones de precarga de N₂ de 10 bar / 145 psi a 210 bar / 3046 psi.
 
 ## Fuentes consultadas

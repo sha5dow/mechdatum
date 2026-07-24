@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Worm gears are a mechanical transmission system by sliding consisting of a worm (also called a worm screw) and a helical gear (worm wheel). The axes of the worm and wheel usually cross at 90°, allowing very high reduction ratios in a single stage, typically between 5:1 and 100:1. One of their most valued characteristics is the possibility of being **self-locking**: when the lead angle of the worm is less than the friction angle, the system cannot be driven from the output, guaranteeing irreversibility of motion in lifting or holding applications.
 
 According to the contact geometry, three types are distinguished: without throat (point contact, light loads), single-throat (wheel with enveloping throat, larger contact surface), and double-throat (both elements wrap the profile, maximum load capacity). The excellent reduction capacity and quiet operation make them suitable for conveyors, elevators, rotary tables, precision positioners, and valve actuators.
@@ -124,26 +123,25 @@ The following table offers a quick guide to choose the most suitable configurati
 | Valve and gate actuators | 20:1 – 60:1, 1 start | 1,0 – 2,0 | Stainless steel / Bronze | Special outdoor grease | 0,40 – 0,60 |
 | Machine tool spindles | 5:1 – 15:1, 2 or 3 starts | 1,5 – 2,5 | Carburized ground steel / Bronze | Oil with EP ISO VG 320 | 0,75 – 0,90 |
 
-## FAQ
-1. What is the maximum transmission ratio that a single-start worm can achieve?  
+## Frequently Asked Questions (FAQ)
+### What is the maximum transmission ratio that a single-start worm can achieve?
    With a single-start worm, the transmission ratio is equal to the number of teeth on the wheel, reaching up to 100:1 in compact single-stage designs, although the most common values are between 5:1 and 60:1.
 
-2. What minimum efficiency is expected from a self-locking gearbox?  
+### What minimum efficiency is expected from a self-locking gearbox?
    The efficiency of a self-locking assembly ranges between 30 % and 50 %, limited by the low lead angle (3°–6°) and the inherent sliding friction with conventional lubrication.
 
-3. What is the standard length of a worm of module 1 with pitch diameter 16 mm?  
+### What is the standard length of a worm of module 1 with pitch diameter 16 mm?
    The standard length for a worm of module 1 and pitch diameter 16 mm is 32 mm / 1.260 in, measured over the threaded body mounted on the shaft.
 
-4. What pressure angle do metric worm gears use?  
+### What pressure angle do metric worm gears use?
    Metric gears predominantly adopt a pressure angle of 20°, while in imperial systems both 14,5° and 20° are found.
 
-5. How many starts must a worm have to achieve an efficiency above 80 %?  
+### How many starts must a worm have to achieve an efficiency above 80 %?
    To exceed 80 % efficiency, at least 2 starts are required; with 3 or more starts and lead angles above 15°, efficiencies from 85 % to 95 % are achieved.
 
-6. What oil viscosity is recommended for a medium to high load worm gear?  
+### What oil viscosity is recommended for a medium to high load worm gear?
    For medium to high load conditions, an ISO VG 460 oil (equivalent to SAE 140) is recommended, preferably with extreme pressure (EP) additives that protect against sliding wear.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gear-output-torque-speed-horsepower-d_1691.html
 - **mcmaster.com**: https://www.mcmaster.com/products/worm-gears/

@@ -101,22 +101,22 @@ El C360 destaca por su capacidad superior de mecanizado y su equilibrio entre re
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la maquinabilidad del latón C360 comparada con otros latones?**  
+### ¿Cuál es la maquinabilidad del latón C360 comparada con otros latones?
 La maquinabilidad del C360 es 100, la referencia máxima de la escala, y supera a la de cualquier otro latón y a la mayoría de las aleaciones de cobre.
 
-**2. ¿Qué densidad tiene el latón C360?**  
+### ¿Qué densidad tiene el latón C360?
 La densidad es de 8.49 g/cm³ (0.307 lb/in³), equivalente a un peso de unos 8.49 kg por cada litro de material.
 
-**3. ¿A qué temperatura funde el latón C360?**  
+### ¿A qué temperatura funde el latón C360?
 Su punto de fusión ronda los 885 °C (1630 °F), lo que lo hace adecuado para la colada en arena y molde permanente.
 
-**4. ¿Cuánta resistencia mecánica tiene en estado recocido?**  
+### ¿Cuánta resistencia mecánica tiene en estado recocido?
 En estado recocido, la resistencia a la tracción es de aproximadamente 338 MPa (49 ksi) y el límite elástico de unos 124 MPa (18 ksi), con una elongación del 53 %.
 
-**5. ¿Qué cantidad de plomo contiene el latón C360?**  
+### ¿Qué cantidad de plomo contiene el latón C360?
 El contenido nominal de plomo es del 3 %, con un rango admisible entre 2.5 % y 3.5 %, necesario para garantizar la fragmentación de la viruta.
 
-**6. ¿Cuál es su conductividad térmica?**  
+### ¿Cuál es su conductividad térmica?
 La conductividad térmica a 20 °C es de 115 W/(m·K) (798 BTU·in/(hr·ft²·°F)), un valor medio dentro de los latones.
 
 ## Fuentes consultadas

@@ -13,11 +13,7 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definition
-
 A tension spring (or extension spring) is an elastic element designed to absorb and store mechanical energy when subjected to an axial tensile force. Unlike compression springs, tension springs incorporate an initial preload—called coil tension—that keeps the coils in firm contact and must be overcome before the spring begins to elongate. The spring stiffness is described by the spring constant k (N/mm or lb/in) and the force–deformation relationship obeys the generalized form of Hooke's law: F = Fᵢ + k·δ, where Fᵢ is the initial tension and δ the extension from free length.
-
-## Operating principle
 
 The behavior of a tension spring results from the elastic torsional deformation of helically wound wire. When an external force is applied, the initial tension Fᵢ that holds the coils together must first be overcome; only then do the coils begin to separate and the elongation becomes linearly proportional to the additional load. Mathematically this is expressed with the modified Hooke's law:
 
@@ -91,27 +87,26 @@ For a quick selection, dimensions and indicative performances for common applica
 | Light trailer hitch | 5.5 mm / 0.217 in | 180 mm / 7.09 in | 4.8 N/mm / 27.4 lb/in | 1500 N / 337 lb |
 | Analog spring balance | 0.7 mm / 0.028 in | 60 mm / 2.36 in | 0.08 N/mm / 0.46 lb/in | 8 N / 1.8 lb |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the typical initial tension for a tension spring of 2 mm diameter steel wire?**  
+### What is the typical initial tension for a tension spring of 2 mm diameter steel wire?
 The initial tension is usually between 12 N / 2.7 lb and 25 N / 5.6 lb, depending on the spring index and winding process, representing approximately 8% of the maximum allowable force.
 
-**How is the spring constant k of an extension spring calculated?**  
+### How is the spring constant k of an extension spring calculated?
 The constant is obtained with the formula k = (F – Fᵢ) / δ, where F is the total applied force, Fᵢ the initial tension, and δ the measured elongation. For a helical spring of round wire, k can also be calculated as k = G·d⁴ / (8·Dm³·Na), with G ≈ 79.3 GPa / 11.5×10⁶ psi for steel.
 
-**What maximum extension can a tension spring reach without losing its elastic properties?**  
+### What maximum extension can a tension spring reach without losing its elastic properties?
 It is recommended not to exceed a deformation that induces a shear stress above 45% of the material's tensile strength, which for an ASTM A228 steel of 2.5 mm / 0.098 in corresponds, for example, to a maximum elongation of about 110 mm / 4.3 in.
 
-**How much does the force of a tension spring vary when temperature increases from 20 °C to 100 °C?**  
+### How much does the force of a tension spring vary when temperature increases from 20 °C to 100 °C?
 In carbon steels, the shear modulus G decreases approximately 1% every 38 °C, so when going from 20 °C to 100 °C the spring constant reduces by about 2.5%, proportionally reducing the force generated for the same extension. The force at 100 °C would be 2.5% lower than at 20 °C.
 
-**What force is needed to open 15 mm a closing door equipped with a tension spring of k = 0.8 N/mm?**  
+### What force is needed to open 15 mm a closing door equipped with a tension spring of k = 0.8 N/mm?
 Assuming an initial tension of 3 N, the required force would be F = 3 N + 0.8 N/mm × 15 mm = 15 N / 3.4 lb. In imperial units: k ≈ 4.6 lb/in, Fᵢ = 0.67 lb, δ = 0.59 in, so F = 0.67 + 4.6 × 0.59 ≈ 3.4 lb.
 
-**How does the number of active coils influence the stiffness of a tension spring?**  
+### How does the number of active coils influence the stiffness of a tension spring?
 Stiffness is inversely proportional to Na. If a constant of 2.8 N/mm with 20 coils is needed, a spring with 10 active coils would double the stiffness to 5.6 N/mm, provided the wire diameter and mean coil diameter are unchanged.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/hookes-law-force-spring-constant-d_1853.html
 - **mcmaster.com**: https://www.mcmaster.com/products/tension-springs/

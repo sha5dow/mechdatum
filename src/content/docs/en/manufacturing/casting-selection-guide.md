@@ -147,28 +147,27 @@ The final selection of the casting process responds to a combination of factors:
 
 For intermediate volumes (500–5000 pieces/year) where die tooling cost is prohibitive, permanent mold casting with sand cores for internal cavities offers an optimal compromise between initial investment, productivity, and quality. In applications with leak-tightness or fatigue requirements, centrifugal casting or investment casting minimize the microporosity that affects fatigue strength.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the most accurate casting process for series production?**
+### What is the most accurate casting process for series production?
 Die casting achieves accuracies of up to 0.2% of nominal dimension and surface roughness Ra 0.8–3.2 µm / 32–126 µin, allowing tolerances of ±0.1 mm / ±0.004 in for aluminum and zinc parts in mass production.
 
-**Which process allows casting steel parts with complex geometries and tight tolerances?**
+### Which process allows casting steel parts with complex geometries and tight tolerances?
 Investment casting (lost wax) processes stainless steels and superalloys with tolerances of ±0.1 mm / ±0.004 in and wall thicknesses from 0.5 mm / 0.02 in, reaching typical masses of up to 50 kg / 110 lb per part.
 
-**What is the relative tooling cost between sand casting and die casting?**
+### What is the relative tooling cost between sand casting and die casting?
 Sand casting has the lowest tooling cost among all casting processes, while die casting has the highest investment due to hardened steel dies that require between 8 and 16 weeks of initial manufacturing.
 
-**Which aluminum alloys are most common in die casting and why?**
+### Which aluminum alloys are most common in die casting and why?
 AA 380 alloy (8.5% Si, 3.5% Cu) is the most widely used for its excellent fluidity and tensile strength of 324 MPa / 47 ksi; AA 390 (17% Si) is used in engine blocks for its high wear resistance; and AA 360 (low copper content, <0.6%) offers corrosion resistance for marine applications.
 
-**What is the maximum mass that can be die cast?**
+### What is the maximum mass that can be die cast?
 Die casting is limited to 35 kg / 77 lb for zinc alloys and 20 kg / 55 lb for magnesium alloys, due to increased gas porosity in larger parts and premature solidification of the melt before reaching the cavity extremities.
 
-**Which process is recommended for casting a ductile iron tube of 500 mm diameter and 3000 mm length?**
+### Which process is recommended for casting a ductile iron tube of 500 mm diameter and 3000 mm length?
 Centrifugal casting is the optimal process for long tubular parts, with capacity up to 5000 kg / 11000 lb and diameters of 50–1500 mm / 2–60 in, achieving a dense, porosity-free structure due to centrifugal force during solidification.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/die_casting.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/search/process?page=2&field_process_parents_is=944

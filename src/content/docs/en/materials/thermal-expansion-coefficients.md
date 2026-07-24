@@ -78,7 +78,7 @@ When comparing families of metals, a clear hierarchy of CTE is observed:
 
 Material selection for fixed joints (welding, adhesive) requires that the CTEs on both sides of the joint do not differ by more than 2–3 × 10⁻⁶ /°C if large thermal cycles are expected.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is the coefficient of thermal expansion?
 Linear CTE is the fractional change in length per degree of temperature; for example, carbon steel has a CTE of approximately 14 × 10⁻⁶ /°C, meaning a 1 m bar elongates 14 µm when increasing 1 °C.
@@ -98,8 +98,7 @@ Yes, CTE is not constant. For example, stainless steel 304 goes from 9.6 × 10�
 ### Which engineering metal has the lowest CTE?
 The Invar alloy (Fe‑36%Ni) exhibits an exceptionally low CTE of 0.67 × 10⁻⁶ in/in·°F (1.2 × 10⁻⁶ /°C) in the range 68–212 °F, almost ten times lower than that of common steel.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=21969
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-expansion-metals-d_859.html
 - **steelnumber.com**: https://www.steelnumber.com/en/standard_steel_eu.php?gost_number=10283

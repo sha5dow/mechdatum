@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Introduction
 Rigid couplings connect two shafts such that there is no relative movement between them, forming a fixed and continuous joint. They transmit torque and rotation without allowing angular, radial, or axial misalignments; any alignment error generates high reactive forces on the shafts and supports. They are used when the positions of both machines can be guaranteed with precision and maximum torsional stiffness is required.
 
 ## Types
@@ -90,23 +89,23 @@ The torque capacity of a rigid coupling is primarily determined by the strength 
 | Servomotors in robotics | Clamp coupling, anodized aluminum | 10 – 100 Nm / 88 – 885 lb·in | Good stiffness-to-weight ratio, maintenance-free, simple disassembly. |
 | Heavy steel industry machinery | Rigid flange with grade 10.9 bolts | 5,000 – 30,000 Nm / 3,688 – 22,125 lb·ft | Oversized flanges and multiple keys are used. Requires laser alignment. |
 
-## FAQ
-**1. What is the maximum torque that a steel flange rigid coupling can transmit for a 25 mm shaft?**  
+## Frequently Asked Questions (FAQ)
+### What is the maximum torque that a steel flange rigid coupling can transmit for a 25 mm shaft?
 The maximum continuous torque reaches 270 Nm / 2,390 lb·in if standardized keys and grade 8.8 bolts are used. In applications with shock loads, this value must be reduced by half.
 
-**2. What is the difference between a split-muff coupling and a solid sleeve coupling?**  
+### What is the difference between a split-muff coupling and a solid sleeve coupling?
 The split-muff consists of two halves joined with screws, allowing the coupling to be disassembled without moving the shafts. The solid sleeve requires moving one shaft longitudinally at least a distance equal to the sleeve length.
 
-**3. What materials are used in rigid couplings?**  
+### What materials are used in rigid couplings?
 The most common are carbon steel (C45 or AISI 1045), 304/316 stainless steel for corrosive environments, aluminum 6061-T6 when low inertia is required, and occasionally GGG-40 nodular cast iron in large couplings.
 
-**4. What alignment accuracy does a rigid coupling require?**  
+### What alignment accuracy does a rigid coupling require?
 The maximum allowable radial misalignment is 0.05 mm / 0.002 in, and angular misalignment must not exceed 0.1°. Exceeding these limits generates cyclic overloads that can reduce the life of the nearest bearing by 80 %.
 
-**5. Can rigid couplings be used at high speeds?**  
+### Can rigid couplings be used at high speeds?
 Yes, provided the shafts are perfectly aligned and the coupling is dynamically balanced. For speeds above 3,000 rpm / 3,600 rpm, a balance grade G 6.3 according to ISO 21940 and a radial runout below 0.02 mm / 0.0008 in are recommended.
 
-**6. How is a flange coupling safely assembled without inducing stress?**  
+### How is a flange coupling safely assembled without inducing stress?
 All bolts must be tightened progressively in an opposing diametral sequence. For an 8-bolt coupling, tighten first to 50 % of the final torque (e.g., 45 Nm / 33 lb·ft), then to 100 % (90 Nm / 66 lb·ft). After tightening, verify with a dial indicator that the radial runout does not exceed 0.03 mm / 0.0012 in.
 
 ## References
@@ -114,7 +113,3 @@ All bolts must be tightened progressively in an opposing diametral sequence. For
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/flanges-bolts-dimensions-d_464.html
 - **mcmaster.com**: https://www.mcmaster.com/products/rigid-shaft-couplings/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/flanges-bolts-dimensions-d_464.html
-- **mcmaster.com**: https://www.mcmaster.com/products/rigid-shaft-couplings/

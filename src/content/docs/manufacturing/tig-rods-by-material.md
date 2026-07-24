@@ -94,24 +94,24 @@ La selección de la varilla TIG adecuada sigue un orden lógico: identificar el 
 - Algunas aleaciones (titanio, magnesio) demandan atmósferas ultrapuras y cámaras de gas, encareciendo el proceso.
 - La ausencia de fundente hace que la preparación y limpieza superficial del metal base sean críticas para la calidad de la soldadura.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la varilla TIG más utilizada para acero al carbono?**  
+### ¿Cuál es la varilla TIG más utilizada para acero al carbono?
    La ER70S‑2 es la más común en aplicaciones generales; presenta una resistencia a la tracción mínima de 483 MPa / 70 ksi y buena desoxidación.
 
-2. **¿Qué diámetro de varilla se recomienda para soldar chapa de acero de 1,5 mm / 0,06 in de espesor?**  
+### ¿Qué diámetro de varilla se recomienda para soldar chapa de acero de 1,5 mm / 0,06 in de espesor?
    Se aconseja un diámetro de 1,6 mm / 1/16 in, con corriente directa en el rango de 40‑70 A según la posición y la velocidad de avance.
 
-3. **¿Se puede usar una varilla de acero inoxidable sobre acero al carbono?**  
+### ¿Se puede usar una varilla de acero inoxidable sobre acero al carbono?
    Solo en ciertos casos disímiles con procedimientos controlados; la diferencia en el coeficiente de expansión térmica (inmediatamente superior en inoxidables austeníticos) puede generar tensiones y fisuración en servicio térmico.
 
-4. **¿Qué gas de protección es el adecuado para soldar aluminio con varilla ER4043?**  
+### ¿Qué gas de protección es el adecuado para soldar aluminio con varilla ER4043?
    Se emplea argón 100 % con corriente alterna de alta frecuencia; el flujo típico es de 10‑12 l/min / 21‑25 ft³/h en boquillas estándar nº 6‑8.
 
-5. **¿Cuál es el amperaje recomendado para una varilla de 2,4 mm / 3/32 in en acero inoxidable 304?**  
+### ¿Cuál es el amperaje recomendado para una varilla de 2,4 mm / 3/32 in en acero inoxidable 304?
    En DCEN con argón, el rango óptimo se sitúa entre 70‑100 A, dependiendo del espesor de la pieza y la posición de soldadura.
 
-6. **¿Qué resistencia a la tracción se puede esperar de un depósito con varilla ER5356 en aluminio?**  
+### ¿Qué resistencia a la tracción se puede esperar de un depósito con varilla ER5356 en aluminio?
    El depósito alcanza típicamente una resistencia a la tracción de 240 MPa / 35 ksi, con un alargamiento del 17 %, suficiente para estructuras navales y de transporte.
 
 ## Fuentes consultadas

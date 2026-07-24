@@ -74,7 +74,7 @@ Las tablas siguientes ofrecen una guía de selección rápida basada en pasos di
 | Alta velocidad continua          | 15°–20° / 0.26–0.35 rad | 20° / 0.35 rad         | Acero al carbono, > 50 HRC / > 50 HRC |
 | Silencioso, baja carga de choque | 30°–45° / 0.52–0.79 rad | 20° / 0.35 rad         | Acero inoxidable, sin templar     |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Qué ángulo de hélice minimiza la carga axial en transmisiones de ejes paralelos?
 Un ángulo de hélice bajo de 15° / 0.26 rad reduce la carga axial a aproximadamente el 27% de la carga tangencial, siendo la opción técnica para minimizar empujes en reductores de alta velocidad.
 

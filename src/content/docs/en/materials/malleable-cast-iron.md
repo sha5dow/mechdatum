@@ -155,7 +155,7 @@ The sensitivity to strain rate is low, allowing cold stamping, bending, or coini
 
 High-production malleable cast iron parts require rigorous control of composition, especially the Mn/S ratio and residual elements such as chromium, boron, or tellurium, which stabilize carbides and can inhibit graphitization during annealing.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
 ### What is the yield strength of ferritic malleable cast iron?
 Ferritic malleable cast iron grade EN‑GJMB‑350‑10 has a yield strength Rp0.2 of 200 MPa for nominal diameters of 12 to 15 mm. In the stronger pearlitic grades such as EN‑GJMB‑650‑2, the yield strength reaches 430 MPa.
@@ -175,8 +175,7 @@ Blackheart malleable cast iron with a fully ferritic matrix (grades EN‑GJMB‑
 ### In which applications is malleable cast iron preferred over gray cast iron?
 It is preferred when ductility, impact resistance, and the ability to withstand deformation without fracture are needed. Typical examples are threaded pipe fittings, overhead line hardware, hand tools, and agricultural machinery parts requiring high toughness. Gray cast iron is more economical but does not tolerate any degree of plastic deformation or significant impacts.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=3864
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/cast-iron-d_1163.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=1558

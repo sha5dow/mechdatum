@@ -54,7 +54,7 @@ Un material con 400 W/(m·K) transfiere aproximadamente 20 veces más calor que 
 | Resistencia química | Media | Alta | Polímeros |
 | Costo relativo de procesamiento | Medio | Bajo | Polímeros |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 *   ¿Cuál es el metal con mayor conductividad térmica? La plata posee la conductividad más alta entre los metales, con 428 W/(m·K) a 0 °C, aunque el cobre es el más utilizado industrialmente con 401 W/(m·K) a 0 °C por su menor costo.
 *   ¿Cómo afecta la temperatura a la conductividad del aluminio? El aluminio puro mantiene 237 W/(m·K) a -73 °C y 220 W/(m·K) a 527 °C; la disminución es gradual hasta los 327 °C y se acelera ligeramente por encima de esta temperatura.
 *   ¿Qué valor de conductividad presenta el acero inoxidable 304? El acero inoxidable 304 tiene una conductividad de 14.4 W/(m·K) a 20 °C, casi 30 veces menor que el cobre puro.

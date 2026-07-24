@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process summary
 Forging is a plastic deformation forming process in which a metal material, usually preheated, is subjected to localized compressive forces applied by hammers, presses, or dies. The objective is to orient the grain structure, improve mechanical properties, and obtain parts with shapes close to the final geometry. Design parameters, such as draft angles, fillet radii, and dimensional tolerances, are critical to ensure the manufacturability and quality of the forged component.
 
 ## Types of forging
@@ -124,27 +123,26 @@ Material selection directly influences draft angles and the match and flash tole
 - Tighter tolerances than in machining, with allowances for finishing.
 - Not suitable for brittle materials or those with low plastic deformation capacity.
 
-## Frequently asked questions
-**1. What dimensional tolerance is expected in a standard forged part?**  
+## Frequently Asked Questions (FAQ)
+### What dimensional tolerance is expected in a standard forged part?
 The usual positive tolerance is approximately 0.3 % of the nominal dimension, rounded to the next 0,5 mm / 0.020 in.
 
-**2. What is the minimum corner radius for a 50 mm protrusion?**  
+### What is the minimum corner radius for a 50 mm protrusion?
 For a height of 50 mm / 2.0 in a minimum corner radius of 5 mm / 0.2 in is recommended.
 
-**3. What draft angle does a stainless steel design need?**  
+### What draft angle does a stainless steel design need?
 Stainless steels require an angle of 5° to 8°; typically 7° is chosen as a safe value.
 
-**4. How much can a die shift in a 30 kg aluminum forging?**  
+### How much can a die shift in a 30 kg aluminum forging?
 For 30 kg / 66 lb (category <50 kg) the die match tolerance is 1,75 mm / 0.070 in.
 
-**5. What maximum flash thickness is accepted in a 600 kg trimmed titanium forging?**  
+### What maximum flash thickness is accepted in a 600 kg trimmed titanium forging?
 For weights >500 kg / >1100 lb, the flash tolerance reaches 12,5 mm / 0.5 in.
 
-**6. How much movement does die closure allow in a small part?**  
+### How much movement does die closure allow in a small part?
 When the projected area is less than 150 cm² / 23 in², the die closure tolerance is 1 mm / 0.040 in.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/forging.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/open-die-forging

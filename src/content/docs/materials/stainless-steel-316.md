@@ -148,24 +148,24 @@ También se encuentra disponible en acabados superficiales que van desde el lami
 
 Siempre debe limpiarse la superficie después de la fabricación para eliminar óxidos térmicos y contaminación férrica que puedan iniciar corrosión.
 
-## Preguntas Frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la densidad del acero inoxidable 316?**  
+### ¿Cuál es la densidad del acero inoxidable 316?
 La densidad es aproximadamente 8.0 g/cm³, lo que equivale a unos 500 lb/ft³ en unidades imperiales.
 
-**¿Qué diferencia hay entre el 316 y el 316L?**  
+### ¿Qué diferencia hay entre el 316 y el 316L?
 El 316L tiene un contenido máximo de carbono de 0.03 %, frente al 0.08 % del 316. Esto reduce el riesgo de corrosión intergranular tras soldadura o tratamientos térmicos, manteniendo el resto de propiedades prácticamente idénticas.
 
-**¿A qué temperatura máxima puede trabajar el 316?**  
+### ¿A qué temperatura máxima puede trabajar el 316?
 En servicio continuo al aire, la temperatura máxima recomendada es de 870 °C. Para exposiciones intermitentes puede alcanzar hasta 925 °C.
 
-**¿Cuál es la resistencia a la tracción mínima en estado recocido?**  
+### ¿Cuál es la resistencia a la tracción mínima en estado recocido?
 La resistencia a la tracción mínima es de 515 MPa (75 ksi). En estado deformado en frío puede superar los 620 MPa.
 
-**¿El 316 es magnético?**  
+### ¿El 316 es magnético?
 No, es esencialmente no magnético en estado recocido. Después de trabajo en frío puede mostrar un ligero magnetismo debido a la transformación parcial a martensita.
 
-**¿Se puede usar acero 316 en agua de mar?**  
+### ¿Se puede usar acero 316 en agua de mar?
 Sí, ofrece buena resistencia a la corrosión en inmersiones cortas o salpicaduras de agua marina, pero no es adecuado para inmersión permanente a alta temperatura o en condiciones de muy baja renovación de oxígeno, donde pueden aparecer picaduras. Para esas aplicaciones se recomiendan aceros superdúplex.
 
 ## Fuentes consultadas

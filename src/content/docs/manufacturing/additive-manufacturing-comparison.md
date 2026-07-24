@@ -66,24 +66,24 @@ Seleccione el proceso en función del criterio principal:
 - **Plazo de entrega urgente → FDM** (menor tiempo máquina para piezas sencillas). Para piezas muy detalladas, SLA puede ser competitivo.
 - **Volumen de producción bajo (hasta 100 unidades) → SLS**, gracias al anidamiento y la ausencia de soportes que reduce el posprocesamiento.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la precisión dimensional típica de SLA?**  
+### ¿Cuál es la precisión dimensional típica de SLA?
    SLA alcanza tolerancias de ±0,1 mm / 0.004 in de forma rutinaria, pudiendo llegar a ±0,05 mm / 0.002 in en máquinas de alta gama.
 
-2. **¿Qué espesor de capa emplea SLS en nailon PA12?**  
+### ¿Qué espesor de capa emplea SLS en nailon PA12?
    El espesor de capa estándar para PA12 en SLS oscila entre 0,1 mm / 0.004 in y 0,15 mm / 0.006 in, lo que determina la rugosidad superficial y el tiempo de construcción.
 
-3. **¿Cuál es la temperatura de la boquilla en FDM para ABS?**  
+### ¿Cuál es la temperatura de la boquilla en FDM para ABS?
    La temperatura del extrusor para ABS se mantiene típicamente entre 220 °C / 428 °F y 250 °C / 482 °F, y la cama calefactada entre 90 °C / 194 °F y 110 °C / 230 °F para evitar el alabeo.
 
-4. **¿Qué rugosidad superficial se puede esperar en piezas SLS sin sellar?**  
+### ¿Qué rugosidad superficial se puede esperar en piezas SLS sin sellar?
    La rugosidad media (Ra) de una pieza SLS sin tratamiento superficial está entre 5 µm / 197 µin y 15 µm / 591 µin, debido a la naturaleza polvorienta del polvo sinterizado.
 
-5. **¿Cuánto tiempo tarda una impresión SLA de 100 mm de altura?**  
+### ¿Cuánto tiempo tarda una impresión SLA de 100 mm de altura?
    Una pieza de 100 mm / 3.94 in de altura suele completarse en 5 a 10 horas con una configuración de capa de 0,1 mm / 0.004 in, dependiendo de la complejidad geométrica y del área de sección transversal.
 
-6. **¿Qué espesor mínimo de pared se puede garantizar en FDM con boquilla de 0,4 mm?**  
+### ¿Qué espesor mínimo de pared se puede garantizar en FDM con boquilla de 0,4 mm?
    El espesor de pared mínimo funcional en FDM es de 0,8 mm / 0.031 in (doble del diámetro de boquilla) para garantizar resistencia estructural, aunque detalles decorativos pueden llegar a 0,4 mm / 0.016 in.
 
 ## Fuentes consultadas

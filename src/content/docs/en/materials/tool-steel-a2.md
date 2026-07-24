@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
-
 A2 tool steel is an air-hardening, medium-alloy cold work steel with a carbon content between 0.95% and 1.05%. Its composition, which includes chromium and molybdenum, provides high hardenability and allows reaching hardnesses of 63–65 HRC with air cooling in sections up to 100 mm in diameter. This behavior minimizes distortion and cracking during hardening. A2 is characterized by good wear resistance, deep hardness, and medium machinability, being suitable for applications where dimensional stability is critical.
 
 ## Chemical composition
@@ -108,26 +106,25 @@ A2 steel is mainly used in dies, cutting knives (slitters), die shapes, and othe
 
 ## Frequently Asked Questions (FAQ)
 
-1. **What is the maximum achievable hardness of A2 steel after air hardening?**  
+### What is the maximum achievable hardness of A2 steel after air hardening?
    A2 steel can achieve a hardness of 63–65 HRC in the air hardened condition.
 
-2. **At what temperature should A2 steel be forged?**  
+### At what temperature should A2 steel be forged?
    Forging must be performed between 1093 °C and 913 °C (2000 °F and 1675 °F), not dropping below 899 °C (1650 °F).
 
-3. **What is the melting temperature of A2 steel?**  
+### What is the melting temperature of A2 steel?
    The melting point of A2 steel is 1424 °C (2595 °F).
 
-4. **What is the coefficient of thermal expansion of A2 steel between 20 °C and 100 °C?**  
+### What is the coefficient of thermal expansion of A2 steel between 20 °C and 100 °C?
    The coefficient of thermal expansion is 10.7 × 10⁻⁶ /°C.
 
-5. **What is the carbon content of A2 steel?**  
+### What is the carbon content of A2 steel?
    The carbon content ranges from 0.95% to 1.05%.
 
-6. **What is the density of A2 steel?**  
+### What is the density of A2 steel?
    The density is 7.86 g/cm³ (0.284 lb/in³).
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6218
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=636

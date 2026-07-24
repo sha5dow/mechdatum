@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process Description
-
 Fused filament fabrication (FFF), commercially referred to as fused deposition modeling (FDM), is an additive manufacturing process that builds parts layer by layer by extruding a continuous thermoplastic filament. The thread-like material is pulled by a roller mechanism into a heated extrusion head; there it melts and is deposited through a nozzle onto a movable build platform. Each horizontal layer reproduces a section of the CAD model. Once completed, the platform lowers (or the head rises) by the distance corresponding to the layer thickness and the next sheet of material is applied. When the design includes overhangs or complex geometries, a support structure is extruded and mechanically removed during post-processing. If a superior surface finish is required, additional operations such as sanding, polishing, or chemical vapor smoothing may be performed.
 
 ## Process Parameters
@@ -91,24 +89,24 @@ It is not recommended for:
 - Details less than 0,8 mm / 0.031 in thickness or geometries with micro-cavities.
 - Mass production where the cycle speed of other methods (injection molding) greatly exceeds 3D printing.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the minimum layer height achievable in FDM?**  
+### What is the minimum layer height achievable in FDM?
 The practical minimum layer height is 0.05 mm / 0.002 in, although most desktop printers work at 0.1 mm / 0.004 in without compromising extrusion reliability.
 
-**What dimensional tolerance is realistic on desktop FDM printers?**  
+### What dimensional tolerance is realistic on desktop FDM printers?
 In the XY axes, an accuracy of ±0.2 mm / 0.008 in is obtained for parts up to 100 mm per side, while in the Z axis the tolerance is ±0.1 mm / 0.004 in, approximately equivalent to one layer height.
 
-**How much material is wasted during an FDM print?**  
+### How much material is wasted during an FDM print?
 Material utilization exceeds 95 %, with waste below 5 % and mainly concentrated in support structures and purges at the start of each job.
 
-**What bed temperature is needed to avoid warping with ABS?**  
+### What bed temperature is needed to avoid warping with ABS?
 ABS requires a heated bed between 80 and 110 °C / 176 – 230 °F; below 80 °C / 176 °F it is very likely that the part will detach and deform.
 
-**What is the maximum recommended print speed for TPU?**  
+### What is the maximum recommended print speed for TPU?
 Flexible filaments are printed at low speed, typically between 20 and 30 mm/s / 0.79 – 1.18 in/s; higher speeds can cause jams in the extruder.
 
-**What nozzle diameter is used as standard in FDM?**  
+### What nozzle diameter is used as standard in FDM?
 The most common nozzle diameter is 0.4 mm / 0.016 in, which offers a balance between build speed and surface detail. Nozzles of 0.2 mm / 0.008 in are also used for high-definition parts and up to 1.0 mm / 0.039 in for fast large-format prints.
 
 ## References
@@ -116,7 +114,3 @@ The most common nozzle diameter is 0.4 mm / 0.016 in, which offers a balance bet
 - **efunda.com**: https://www.efunda.com/designstandards/gdt/3d_hole.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/fused-deposition-modeling-fdm
 
-## Sources Consulted
-
-- **efunda.com**: https://www.efunda.com/designstandards/gdt/3d_hole.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/fused-deposition-modeling-fdm

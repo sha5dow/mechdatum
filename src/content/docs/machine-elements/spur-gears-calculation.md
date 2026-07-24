@@ -87,23 +87,23 @@ La tabla siguiente relaciona sectores de aplicación con recomendaciones típica
 | Transmisiones de vehículos ligeros | 3,0 – 6,0 / DP 8,47 – 4,23 | 20° | Acero 42CrMo4 templado por inducción | Cargas fluctuantes, par típico 500 – 1500 N·m / 369 – 1106 lbf·ft |
 | Minería, transportadores pesados | 8,0 – 12,0 / DP 3,18 – 2,12 | 25° | Acero fundido, cementación profunda | Impactos severos, par > 2000 N·m / 1475 lbf·ft |
 
-## Preguntas frecuentes
-**1. ¿Cuál es la fórmula del diámetro primitivo para un piñón con 20 dientes y módulo 2 mm?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la fórmula del diámetro primitivo para un piñón con 20 dientes y módulo 2 mm?
 El diámetro primitivo es 20 × 2 mm = 40 mm (1,575 pulg). Para módulos estándar esta relación es válida siempre que el número de dientes sea ≥ 17.
 
-**2. ¿Qué valor de backlash se recomienda para un engranaje de módulo 4?**  
+### ¿Qué valor de backlash se recomienda para un engranaje de módulo 4?
 Se recomienda un backlash mínimo de 0,10 mm (0,004 pulg) y máximo de 0,20 mm (0,008 pulg), siguiendo la regla práctica de 0,05 × *m*.
 
-**3. ¿Cuánto vale el paso diametral equivalente a módulo 3?**  
+### ¿Cuánto vale el paso diametral equivalente a módulo 3?
 El paso diametral equivalente es 25,4 / 3 = 8,467 dientes por pulgada. Un engranaje módulo 3 con 30 dientes tendría un diámetro primitivo de 90 mm (3,543 pulg).
 
-**4. ¿Qué eficiencia típica tiene un par de engranajes rectos bien lubricados?**  
+### ¿Qué eficiencia típica tiene un par de engranajes rectos bien lubricados?
 La eficiencia varía entre 94 % y 98 %. Para cálculos preliminares se emplea η = 0,95, lo que implica que con 100 kW (134 hp) de entrada se obtienen 95 kW (127 hp) útiles.
 
-**5. ¿Cuántos dientes mínimos sin corrección se necesitan para un ángulo de presión de 20°?**  
+### ¿Cuántos dientes mínimos sin corrección se necesitan para un ángulo de presión de 20°?
 Para evitar interferencia con ángulo de presión de 20° se requieren al menos 17 dientes en el piñón. Con 25° el mínimo baja a 12 dientes, lo que permite diseños más compactos.
 
-**6. ¿Qué par puede transmitir un engranaje de módulo 4, acero cementado, para vida infinita?**  
+### ¿Qué par puede transmitir un engranaje de módulo 4, acero cementado, para vida infinita?
 Un piñón de 20 dientes con ancho de cara 40 mm, σ_Flim = 350 MPa (50 800 psi), puede transmitir aproximadamente 1200 N·m (885 lbf·ft) siguiendo ISO 6336. El valor exacto depende de la calidad y del factor de servicio.
 
 ## Fuentes consultadas

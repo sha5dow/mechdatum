@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introducción
 El polímero reforzado con fibra de carbono (CFRP, por sus siglas en inglés) es un material compuesto que combina fibras de carbono de alta resistencia y rigidez con una matriz polimérica, habitualmente termoestable. La fracción volumétrica de fibra suele oscilar entre el 50 % y el 70 %, lo que le confiere una relación resistencia/peso excepcional, hasta cinco veces superior a la del acero estructural. Se emplea principalmente en sectores donde la reducción de masa es crítica sin sacrificar el desempeño mecánico.
 
 ## Composición química
@@ -125,24 +124,24 @@ Los ensayos y especificaciones de CFRP se rigen por normativa ASTM e ISO. Alguna
 * ASTM D3410: Ensayo de compresión.
 * ISO 527‑4/-5: Propiedades de tracción de plásticos reforzados.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción típica del CFRP?**  
+### ¿Cuál es la resistencia a la tracción típica del CFRP?
 La resistencia a la tracción longitudinal de un laminado CFRP unidireccional con 60 % de fibra alcanza **1500 MPa** (217 ksi), mientras que la fibra de carbono aislada puede superar los **4000 MPa** (578 ksi).
 
-**¿Qué módulo de elasticidad posee?**  
+### ¿Qué módulo de elasticidad posee?
 El módulo de Young del laminado ronda los **140 GPa** (20.3 Msi), unas diez veces más que el nailon reforzado con vidrio y comparable al del acero (210 GPa) pero con tres cuartas partes menos de peso.
 
-**¿Cuál es la densidad del material?**  
+### ¿Cuál es la densidad del material?
 La densidad del CFRP oscila entre **1.5 y 1.6 g/cm³** (0.054‑0.058 lb/in³), aproximadamente **1,55 g/cm³** (0.056 lb/in³) para un compuesto epoxi‑carbono estándar.
 
-**¿A qué temperatura máxima puede trabajar?**  
+### ¿A qué temperatura máxima puede trabajar?
 La temperatura de servicio continuo para matrices epoxi estándar se sitúa alrededor de **150 °C** (302 °F). Los sistemas con resina PEEK o vitrímeros permiten superar puntualmente los **200 °C** (392 °F) sin degradación.
 
-**¿Es posible reciclar el CFRP?**  
+### ¿Es posible reciclar el CFRP?
 Sí, el desarrollo de matrices vitrímeras ha habilitado un proceso de degradación hidrotérmica en agua a **160 °C** (320 °F) sin catalizador, lo que permite recuperar las fibras de carbono con una resistencia a la tracción similar a la de las fibras vírgenes.
 
-**¿Cuánto pesa una pieza de CFRP en comparación con el acero?**  
+### ¿Cuánto pesa una pieza de CFRP en comparación con el acero?
 Una pieza de CFRP pesa aproximadamente un **70 % menos** que una equivalente de acero estructural, lo que reduce la masa desde **100 kg** a **30 kg** en muchos componentes aeronáuticos.
 
 ## Fuentes consultadas

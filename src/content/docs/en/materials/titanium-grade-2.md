@@ -108,7 +108,7 @@ The following table compares Titanium Grade 2 with other grades of pure titanium
 | Titanium Grade 4    | 483–550              | 550–680                | 15             | 4.51            | Maximum strength among CP Ti             |
 | Ti-6Al-4V (Grade 5) | 828–1100             | 895–1170               | 10             | 4.43            | Very high strength and heat treatable    |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 ### What is the minimum tensile strength of Titanium Grade 2 in annealed condition?
 The minimum tensile strength of annealed Titanium Grade 2 is 345 MPa (50 ksi), with a typical value of 415 MPa. This value is obtained in sheet per ASTM B265 with a minimum elongation of 20%.
 
@@ -127,8 +127,7 @@ The thermal conductivity of Titanium Grade 2 is 16.3–18 W/m·K (113–125 BTU�
 ### What type of weldability does Titanium Grade 2 have?
 Titanium Grade 2 is easily weldable by TIG, MIG and resistance welding, provided the molten zone and back face are protected with inert gas (high-purity argon) to avoid oxygen and nitrogen absorption. With a proper procedure, joints reach 100% of the base metal strength.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=712
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/material-properties-t_24.html
 - **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php

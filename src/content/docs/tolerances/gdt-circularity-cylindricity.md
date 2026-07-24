@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 La circularidad (roundness) controla la variación radial de una sección transversal respecto a un círculo perfecto, mientras que la cilindricidad amplía ese control a toda la superficie cilíndrica, garantizando que el elemento se mantenga simultáneamente redondo y recto a lo largo de su eje. Ambas tolerancias de forma son independientes del tamaño y no requieren datum, evaluando únicamente la desviación geométrica intrínseca de la pieza.
 
 ## Símbolo y Designación
@@ -63,23 +62,23 @@ Ambos sistemas comparten símbolos y definición de zona de tolerancia. La diver
 | Camisa de cilindro hidráulico | Cilindricidad | 0,01 / 0.0004 | Estanqueidad con junta tórica |
 | Rodillo de laminación | Circularidad | 0,02 / 0.0008 | Espesor uniforme de chapa |
 
-## Preguntas Frecuentes (FAQ)
-1. **¿Cuál es la tolerancia de circularidad admisible en un eje de 25 mm según ISO 2768‑2 clase K?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la tolerancia de circularidad admisible en un eje de 25 mm según ISO 2768‑2 clase K?
    La tolerancia general es 0,1 mm / 0.0039 in, ya que el diámetro se encuentra en el rango 10‑30 mm.
 
-2. **¿Qué valor de cilindricidad garantiza el ajuste de un pistón de 50 mm con huelgo mínimo?**  
+### ¿Qué valor de cilindricidad garantiza el ajuste de un pistón de 50 mm con huelgo mínimo?
    Se recomienda una cilindricidad ≤ 0,005 mm / 0.0002 in para asegurar una película de lubricante uniforme y evitar el gripado.
 
-3. **¿Cómo se mide la circularidad con un bloque en V y un comparador de carátula?**  
+### ¿Cómo se mide la circularidad con un bloque en V y un comparador de carátula?
    El método detecta desviaciones por encima de 0,002 mm / 0.00008 in cuando el palpador está calibrado correctamente, aunque la incertidumbre crece con el número de lóbulos.
 
-4. **¿A partir de qué diámetro una pieza torneada puede mantener una circularidad de 0,003 mm / 0.00012 in?**  
+### ¿A partir de qué diámetro una pieza torneada puede mantener una circularidad de 0,003 mm / 0.00012 in?
    Con procesos de precisión, diámetros de hasta 30 mm / 1.181 in pueden alcanzar 0,003 mm / 0.00012 in si se emplean herramientas de corte finas y velocidades controladas.
 
-5. **¿Qué tolerancia de cilindricidad requiere un cojinete hidrodinámico de 100 mm de diámetro para evitar vibraciones de sub-armónicos?**  
+### ¿Qué tolerancia de cilindricidad requiere un cojinete hidrodinámico de 100 mm de diámetro para evitar vibraciones de sub-armónicos?
    Una cilindricidad de 0,008 mm / 0.00031 in resulta suficiente para mantener el espesor mínimo de película, con valores más estrictos según la velocidad de rotación.
 
-6. **¿Cuánto afecta una circularidad de 0,02 mm / 0.0008 in en un sellado de labio de 20 mm?**  
+### ¿Cuánto afecta una circularidad de 0,02 mm / 0.0008 in en un sellado de labio de 20 mm?
    A 6000 rpm, una excentricidad combinada con circularidad de 0,02 mm / 0.0008 in puede provocar fugas del 5‑8 % adicional respecto a una pieza con 0,005 mm / 0.0002 in de circularidad.
 
 ## Fuentes consultadas

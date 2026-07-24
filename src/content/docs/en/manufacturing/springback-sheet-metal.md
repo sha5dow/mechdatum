@@ -15,10 +15,8 @@ verified: true
 
 The elastic recovery after bending, known as springback, modifies the final bending angle with typical values between 2° and 10° for carbon steels and aluminum alloys, depending on the bend radius and thickness.
 
-## General description
 Springback is an inherent phenomenon in cold forming of sheet metal, where the part, once released from the tool, partially recovers its original shape due to the release of elastic stresses accumulated during plastic deformation. As a result, the angle of the bent part is larger than the punch angle, requiring overbending to achieve the desired geometry.
 
-## Operating principle
 During bending, the material undergoes a deformation that combines a plastic component (permanent) and an elastic component (recoverable). When the load is removed, the elastic part relaxes and the geometry changes: the bend radius increases and the angle opens. The magnitude of springback is quantified by the recovery factor Ks = (180° – αf) / (180° – αi), where αf is the final angle and αi is the angle imposed by the tool. Compensation consists of overbending the sheet by an angle equal to the predicted springback.
 
 ## Springback parameters
@@ -72,26 +70,25 @@ The lower values refer to 90° bending in a V-die with R/t=1 and cold-rolled she
 | Brass C26000 | 1.0 mm / 0.039 in | 1.0 mm / 0.039 in | 2° | 88° |
 | Titanium Ti-6Al-4V | 1.5 mm / 0.059 in | 1.5 mm / 0.059 in | 14° | 76° |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the typical springback in a 2 mm thick S235 steel sheet bent to 90°?**
+### What is the typical springback in a 2 mm thick S235 steel sheet bent to 90°?
 Under normal conditions with R/t=1, the springback is approximately 2.5°; for a thickness of 2 mm / 0.079 in, a punch with an angle of 87.5° would be required to compensate.
 
-**How does the bend radius affect springback in 6061-T6 aluminum?**
+### How does the bend radius affect springback in 6061-T6 aluminum?
 With an R/t of 1, springback is around 8°, while for R/t=2 it rises to 12°; doubling the radius adds between 3° and 5° additional, depending on the thickness.
 
-**What precision can be achieved with automatic compensation systems on CNC press brakes?**
+### What precision can be achieved with automatic compensation systems on CNC press brakes?
 Equipment with electronic angle measurement achieves an accuracy of ±0.2°, even on the first part, thanks to real-time adjustment of the overbend during the stroke.
 
-**How much does springback vary due to changes in lot yield strength?**
+### How much does springback vary due to changes in lot yield strength?
 A ±10% variation in yield strength can modify springback by 1° to 2°, especially in stainless steels; therefore, it is recommended to sample each lot before production.
 
-**Should I consider the rolling direction when estimating springback?**
+### Should I consider the rolling direction when estimating springback?
 Yes, springback can differ by up to 1° if bending transversely instead of parallel to the rolling direction, due to the anisotropy of the cold-rolled material.
 
-**Can springback be completely eliminated by heat treatment?**
+### Can springback be completely eliminated by heat treatment?
 Annealing the sheet reduces the yield strength and thus the springback (up to 50% less) but does not eliminate it completely; using heated dies can minimize it further.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/steel-angles-d_1322.html

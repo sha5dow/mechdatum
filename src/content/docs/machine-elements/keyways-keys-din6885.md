@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Las cuñas paralelas DIN 6885, también llamadas chavetas, son elementos de máquina que transmiten torque entre un eje y un cubo mediante un ajuste por forma. La norma cubre cuñas de sección rectangular o cuadrada, con extremos rectos (Forma A) o redondeados (Forma B), para ejes de 6 mm a 500 mm (0,236 in a 19,685 in). Se fabrican habitualmente en acero al carbono C45 (1.0503) con resistencia a la tracción de 590 MPa (85,6 ksi), o en acero inoxidable AISI 304 para ambientes corrosivos. El sistema chavetero–cuña permite montaje fijo o deslizante, según el ajuste seleccionado.
 
 ## Dimensiones normalizadas
@@ -76,7 +75,7 @@ La tabla siguiente propone configuraciones típicas para acoplamientos mecánico
 | Engranaje de caja de cambios          | 70 / 2,756          | 20×12 / 0,787×0,472| 80 / 3,150                     | 2100 / 1549                           |
 | Volante de inercia                    | 90 / 3,543          | 25×14 / 0,984×0,551| 100 / 3,937                    | 4500 / 3319                           |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 **¿Cuál es el chavetero para un eje de 30 mm?** La cuña recomendada tiene un ancho de 10 mm (0,394 in) y un alto de 8 mm (0,315 in), con profundidad de chavetero en el eje de 4 mm (0,157 in) según DIN 6885.
 
 **¿Qué tolerancias se aplican al ancho del chavetero en el eje?** El ancho del chavetero en el eje se mecaniza con tolerancia P9 para ajuste fijo, lo que para una cuña de 8 mm (0,315 in) resulta en una dimensión de 8 mm -0,015/-0,051 (0,315 in -0,0006/-0,0020).

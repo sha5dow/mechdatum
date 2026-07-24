@@ -88,28 +88,27 @@ For threaded connections, apply PTFE tape (2–3 turns in the direction of the t
 Quick couplings require that the coupling surfaces be clean and dry to avoid premature seal wear.  
 Never exceed the maximum tightening torque indicated in the corresponding table, especially when the female component is made of polymeric material.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-1. **What is the maximum working pressure for a 6 mm push‑in fitting?**  
+### What is the maximum working pressure for a 6 mm push‑in fitting?
    The maximum working pressure for a 6 mm / 1/4 in push‑in fitting is typically 10 bar / 145 psi at 20 °C / 68 °F, 8 bar / 116 psi at 40 °C / 104 °F and 6 bar / 87 psi at 60 °C / 140 °F.
 
-2. **What minimum insertion length does a polyurethane tube need in an instant fitting?**  
+### What minimum insertion length does a polyurethane tube need in an instant fitting?
    For an 8 mm / 5/16 in OD polyurethane tube, the minimum insertion depth is 12 mm / 0.47 in; for 10 mm OD it is 14 mm / 0.55 in.
 
-3. **How many turns from manual contact are applied to a 1/2‑14 NPT thread with sealant?**  
+### How many turns from manual contact are applied to a 1/2‑14 NPT thread with sealant?
    For a 1/2‑14 NPT thread, the number of turns from manual tightening (T.F.F.T.) is 2 to 3, with a maximum torque of 30 ft·lb / 40.6 N·m.
 
-4. **What is the maximum tightening torque for a brass connector with 3/8 in NPT thread?**  
+### What is the maximum tightening torque for a brass connector with 3/8 in NPT thread?
    The recommended maximum tightening torque for a 3/8‑18 NPT thread is 23 ft·lb / 31 N·m.
 
-5. **What stress does a torque of 5 in·lb generate in a 1/8 in plastic bushing?**  
+### What stress does a torque of 5 in·lb generate in a 1/8 in plastic bushing?
    With a torque of 5 in·lb / 0.565 N·m, thickness of 1.27 mm / 0.05 in and outer diameter of 3.175 mm / 0.125 in, the calculated circumferential stress is approximately 4800 psi / 33.1 MPa.
 
-6. **Up to what temperature does a fitting with NBR seal work in compressed air?**  
+### Up to what temperature does a fitting with NBR seal work in compressed air?
    Fittings with NBR seals permit service temperatures from ‑20 °C to 80 °C / ‑4 °F to 176 °F; for higher temperatures EPDM (up to 100 °C / 212 °F) or FKM (up to 200 °C / 392 °F) is used.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/din-pipes-tubes-fittings-standards-d_768.html
 - **engineersedge.com**: https://www.engineersedge.com/hardware/pipe_thread_installation_13424.htm
 - **efunda.com**: https://www.efunda.com/designstandards/sensors/flowmeters/flowmeter_intro.cfm?search_string=installation%20intr

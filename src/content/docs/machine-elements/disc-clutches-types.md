@@ -169,7 +169,7 @@ Una variante especial es el embrague centrífugo, donde los discos de fricción 
 - **Patinaje (slippage):** Deslizamiento relativo controlado entre las superficies de fricción durante el acoplamiento; necesario para arrancar suavemente pero perjudicial si es prolongado por desgaste acelerado y sobrecalentamiento.
 - **Volante bimasa (dual-mass flywheel):** Volante de inercia dividido en dos masas unidas por un sistema de muelles-amortiguador, que absorbe las vibraciones torsionales del motor diésel y reduce el esfuerzo sobre el disco de embrague.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 1. **¿Cuál es el espesor mínimo admisible del forro de un disco de embrague monodisco?** El espesor mínimo antes de la sustitución suele ser de 2,0 mm / 0,079 in medido desde la superficie del forro hasta la cabeza de los remaches, aunque esta cota varía entre fabricantes entre 1,5 mm / 0,06 in y 3,0 mm / 0,12 in.
 

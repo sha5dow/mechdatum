@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 La tolerancia de perfil de línea y superficie define una zona de tolerancia uniforme que sigue la forma nominal de una característica. Se utiliza un control geométrico para limitar la desviación de la superficie real respecto a la geometría teórica exacta definida por cotas básicas. La zona de tolerancia está formada por dos contornos equidistantes —dos curvas para el perfil de línea y dos superficies para el perfil de superficie— separados por el valor de tolerancia total. Este control puede aplicarse a cualquier forma, incluyendo contornos abiertos y cerrados, y es el único medio para controlar simultáneamente forma, orientación y, cuando se utilizan referencias datum, también la localización de una característica.
 
 ## Símbolos y especificación

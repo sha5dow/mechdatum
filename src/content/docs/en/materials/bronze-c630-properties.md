@@ -89,28 +89,27 @@ The corrosion resistance and high mechanical properties of bronze C630 make it s
 
 Compared to nickel-free aluminum bronzes (for example, CuAl10Fe3), C630 offers higher marine corrosion resistance and retention of mechanical properties at elevated temperatures due to its nickel content. Compared to austenitic stainless steels, it has 5‑10% lower density, four times higher thermal conductivity, and is non-magnetic, making it ideal for sonar enclosures and equipment sensitive to magnetic fields. Compared to other bronzes of the C632 series (CuAl9Ni4Fe4), C630 is distinguished by a slightly richer aluminum composition and lower iron content, which gives it higher tensile strength but more limited weldability.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of bronze C630?**
+### What is the tensile strength of bronze C630?
 The tensile strength of bronze C630 is 760 MPa in the forged condition.
 
-**What is the Rockwell B hardness of bronze C630?**
+### What is the Rockwell B hardness of bronze C630?
 The Rockwell B hardness of bronze C630 is 94.
 
-**At what temperature does bronze C630 melt?**
+### At what temperature does bronze C630 melt?
 Bronze C630 melts at 1035 °C.
 
-**What is the machinability rating of bronze C630?**
+### What is the machinability rating of bronze C630?
 The machinability rating of bronze C630 is 30, referenced to a scale where brass C36000 equals 100.
 
-**What is the thermal conductivity of bronze C630 at 20 °C?**
+### What is the thermal conductivity of bronze C630 at 20 °C?
 The thermal conductivity of bronze C630 at 20 °C is 37.7 W/m·K.
 
-**What is the coefficient of thermal expansion of bronze C630 between 20 °C and 300 °C?**
+### What is the coefficient of thermal expansion of bronze C630 between 20 °C and 300 °C?
 The coefficient of thermal expansion of bronze C630 between 20 °C and 300 °C is 16.2 µm/m·°C.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=8922
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=2172

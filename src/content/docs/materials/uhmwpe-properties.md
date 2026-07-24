@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El polietileno de ultra alto peso molecular (UHMWPE, por sus siglas en inglés) es un termoplástico semicristalino, blanquecino y opaco que químicamente equivale a un HDPE con un peso molecular extremadamente alto, típicamente de 2 a 6 millones de g/mol. Esta longitud de cadena excepcional le confiere una viscosidad en fundido tan elevada que solo puede procesarse mediante técnicas de sinterizado de polvo. Posee una resistencia al corte, al desgaste y una tenacidad sobresalientes, junto con una resistencia química excelente, en algunos aspectos superior a la del HDPE convencional. Es inodoro, insípido, no tóxico y presenta un coeficiente de fricción muy bajo, comparable al del PTFE, pero con una resistencia a la abrasión claramente mejor.
 
 ## Composición química
@@ -128,7 +127,7 @@ Para la producción de fibras de alto módulo se utiliza hilado por gel (gel spi
 
 El UHMWPE supera a todos los termoplásticos comunes en resistencia al impacto y ofrece la mejor relación resistencia al desgaste/bajo coeficiente de fricción. Frente al PTFE, su resistencia a la abrasión es muy superior, aunque su uso a temperaturas elevadas es más limitado. En comparación con Nylon y Acetal, el UHMWPE presenta menor resistencia a la tracción pero una tenacidad y un deslizamiento mucho mejores, especialmente en entornos abrasivos o con polvo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 **¿Cuál es la temperatura máxima de uso continuo del UHMWPE?** 55 °C es el valor recomendado para servicio permanente; sin embargo, puede soportar picos breves de hasta 90 °C sin fallo inmediato, aunque con pérdida progresiva de propiedades mecánicas.
 

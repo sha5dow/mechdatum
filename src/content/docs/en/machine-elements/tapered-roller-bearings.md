@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Tapered roller bearings are manufactured in bore diameters from 15 mm / 0.591 in to over 1 500 mm / 59.06 in, and their internal geometry is based on cones whose generatrices converge at a common point on the bearing axis. This configuration allows pure rolling motion without sliding in the contact zone, and enables absorption of combined radial and axial loads. The rolling elements are truncated conical rollers, stabilized by a rib on the inner ring that prevents their expulsion (“pumpkin seed effect”). The outer race (cup) and the inner assembly (cone) are separable, facilitating mounting and adjustment of internal clearance or preload.
 
 ## Types and designations according to ISO 355
@@ -74,27 +73,26 @@ The inner ring and cup of a tapered roller bearing are mounted separately; the a
 | Rolling mill | Severe radial and thrust | 3FC (303) or 4FE (323) | 80 mm – 500 mm / 3.15 in – 19.69 in | Used in multi-row configurations |
 | Wind turbine | Variable thrust | 2FB or 3FB (302/322) | 100 mm – 600 mm / 3.94 in – 23.62 in | Requires long-life lubrication and controlled preload |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the expected service life of a tapered roller bearing in a gearbox?**  
+### What is the expected service life of a tapered roller bearing in a gearbox?
 A tapered roller bearing operating at full load in an industrial gearbox can achieve a L10h life of 20 000 h if the C/P ratio is approximately 4. With reduced loads it can exceed 60 000 h.
 
-**What dynamic load capacity does a tapered roller bearing with a 40 mm bore have?**  
+### What dynamic load capacity does a tapered roller bearing with a 40 mm bore have?
 A 30208 bearing (40 mm / 1.575 in) has a dynamic capacity of 62 kN / 13 940 lbf, sufficient for support roller applications and intermediate shafts with moderate loads.
 
-**How is the equivalent axial load calculated in a tapered roller bearing?**  
+### How is the equivalent axial load calculated in a tapered roller bearing?
 The equivalent axial load is determined by the formula Pa = 0.4 Fr + Y Fa, where Y is the axial load factor specific to the bearing; for a 30206, Y ≈ 1.6.
 
-**What is the maximum operating temperature of a standard tapered roller bearing?**  
+### What is the maximum operating temperature of a standard tapered roller bearing?
 Thermally stabilized tapered roller bearings (S1) operate up to 150 °C / 302 °F. Exceeding 120 °C / 248 °F requires special steels and high-temperature lubrication.
 
-**What axial clearance is recommended in a face-to-face paired mounting?**  
+### What axial clearance is recommended in a face-to-face paired mounting?
 In a back-to-back mounting of 302 series bearings with a diameter of 50 mm / 1.969 in, an axial clearance of 0.03 mm / 0.0012 in to 0.05 mm / 0.0020 in is set to compensate for thermal expansion.
 
-**How much static load can a tapered roller bearing withstand without damage?**  
+### How much static load can a tapered roller bearing withstand without damage?
 A 32312 bearing withstands a static load of up to 260 kN / 58 450 lbf; exceeding it can cause plastic deformation of the raceways greater than 0.0001 of the roller diameter.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **mcmaster.com**: https://www.mcmaster.com/products/tapered-rollers/

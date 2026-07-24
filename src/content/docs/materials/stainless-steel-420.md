@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción General
 El acero inoxidable 420 es un acero martensítico de alto carbono con un contenido mínimo de cromo del 12 %, capaz de alcanzar la mayor dureza entre los aceros inoxidables con 12 % de cromo (hasta 50 HRC). Ofrece buena ductilidad en estado recocido y una excelente resistencia a la corrosión cuando está pulido, rectificado o endurecido superficialmente. Su capacidad de temple por tratamiento térmico lo convierte en una opción ideal para piezas que requieren alta resistencia mecánica y resistencia al desgaste.
 
 ## Composición Química
@@ -90,23 +89,23 @@ La elección del acero 420 frente a otros grados se basa en el equilibrio entre 
 | 440C | Se selecciona si se necesita una dureza o resistencia endurecida superior a la que puede ofrecer el 420 (hasta 60 HRC). |
 | 420F | Variante de fácil mecanizado con mayor contenido de azufre, pero con una resistencia a la corrosión ligeramente menor. |
 
-## Preguntas Frecuentes
-1. **¿Cuál es la dureza máxima alcanzable del acero 420?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la dureza máxima alcanzable del acero 420?
    La dureza máxima es de 50 HRC, la más alta entre todos los aceros inoxidables con un 12 % de cromo.
 
-2. **¿Hasta qué temperatura máxima puede trabajar sin perder excesiva resistencia?**  
+### ¿Hasta qué temperatura máxima puede trabajar sin perder excesiva resistencia?
    Puede utilizarse en servicio continuo hasta aproximadamente 600 °C, siempre que se evite el intervalo de fragilización de revenido (425‑600 °C).
 
-3. **¿Qué tratamiento térmico se recomienda para obtener la máxima dureza?**  
+### ¿Qué tratamiento térmico se recomienda para obtener la máxima dureza?
    Temple a 1010 °C con enfriamiento en aceite seguido de un revenido bajo alrededor de 205 °C, logrando una dureza de 50 HRC.
 
-4. **¿Cuál es la resistencia a la tracción típica en estado recocido?**  
+### ¿Cuál es la resistencia a la tracción típica en estado recocido?
    En condición recocida, la resistencia a la tracción es de 655 MPa (aproximadamente 95 ksi).
 
-5. **¿Cuál es la conductividad térmica a temperatura ambiente?**  
+### ¿Cuál es la conductividad térmica a temperatura ambiente?
    La conductividad térmica medida a 100 °C es de 24.9 W/m·K, equivalente a 14.4 Btu/(h·ft·°F).
 
-6. **¿Qué porcentaje de elongación ofrece en estado recocido?**  
+### ¿Qué porcentaje de elongación ofrece en estado recocido?
    El alargamiento mínimo en probeta de 50 mm es del 25 %, lo que indica una buena ductilidad antes del endurecimiento.
 
 ## Fuentes consultadas

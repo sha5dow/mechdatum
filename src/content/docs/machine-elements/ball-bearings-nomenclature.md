@@ -117,7 +117,7 @@ El juego radial interno y la clase de precisión dimensional son parámetros cr�
 | P4 | Clase 4 ISO 492 | 2.5 µm / 98 µin | Husillos de alta velocidad, instrumentos de medición |
 | PA9A | Superprecisión ABEC 9 (ANSI) | 1.5 µm / 59 µin | Instrumentos de ultra precisión |
 
-## Sección FAQ
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué significa el código 6205-2RSH/C3 en la nomenclatura SKF?
 

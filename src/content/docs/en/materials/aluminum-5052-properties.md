@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introduction
-
 Aluminum 5052 is a 5000 series aluminum‑magnesium alloy, with a density of 2,68 g/cm³, not heat treatable but hardenable by cold working. It stands out for its excellent corrosion resistance, especially against seawater and saline environments, and for its good weldability, which makes it a frequent choice in marine applications, pressure vessels and architectural elements.
 
 ## Chemical composition
@@ -103,7 +101,7 @@ Thanks to its high corrosion resistance in marine environments and good formabil
 
 5052 excels over 6061 in marine environments due to its immunity to stress corrosion, while compared to 3003 it offers a distinctly higher strength‑to‑weight ratio.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the tensile strength of aluminum 5052 in H32 temper?
 The tensile strength of 5052‑H32 is 228 MPa (33 ksi) as a typical value, with a yield strength of 193 MPa (28 ksi). According to ASTM B209, the allowed range may vary between 31,0 and 38,0 ksi.
@@ -129,8 +127,3 @@ The main difference is that 6061 is heat treatable and reaches higher strengths 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1088
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6626
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1088

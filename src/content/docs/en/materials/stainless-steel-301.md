@@ -109,26 +109,25 @@ Stainless steel 301 is distinguished by its ability to harden drastically throug
 
 ## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of Stainless Steel 301 in the annealed condition?**  
+### What is the tensile strength of Stainless Steel 301 in the annealed condition?
 The minimum tensile strength is 515 MPa (75 ksi) and can rise up to 620 MPa depending on thickness.
 
-**What is the typical hardness of 301 in the full hard condition?**  
+### What is the typical hardness of 301 in the full hard condition?
 A hardness of approximately 41 HRC is reached, equivalent to about 375 HB on the Brinell scale.
 
-**How much chromium does steel 301 contain?**  
+### How much chromium does steel 301 contain?
 The chromium content is between 16% and 18%, sufficient to ensure the protective passive layer.
 
-**What is the thermal conductivity at room temperature?**  
+### What is the thermal conductivity at room temperature?
 The thermal conductivity is approximately 15 W/m·K (8.7 BTU/h·ft·°F), notably lower than that of carbon steels.
 
-**At what temperature does Stainless Steel 301 melt?**  
+### At what temperature does Stainless Steel 301 melt?
 Its melting point is in the range of 1400–1420 °C (2550–2590 °F).
 
-**What is the density of stainless steel 301?**  
+### What is the density of stainless steel 301?
 The typical density is 7.93 g/cm³ (0.286 lb/in³), a common value for chromium-nickel austenitic stainless steels.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=960
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=2991

@@ -94,22 +94,22 @@ La cola del símbolo se reserva para identificar el proceso de soldadura (por ej
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es el espesor de línea recomendado para los símbolos de soldadura?**  
+### ¿Cuál es el espesor de línea recomendado para los símbolos de soldadura?
    **0.35 mm / 0.014 in** para hojas de dibujo tamaño A y B, **0.5 mm / 0.020 in** para C y D, y **0.7 mm / 0.028 in** para formatos E y superiores, conforme a AWS A2.4.
 
-2. **¿Cuál es la longitud mínima de la línea de referencia?**  
+### ¿Cuál es la longitud mínima de la línea de referencia?
    La práctica habitual recomienda al menos **100 mm / 4.0 in**, equivalente aproximadamente a dos veces la longitud total del símbolo, para garantizar claridad en la lectura.
 
-3. **¿Cuántas líneas de referencia múltiples se pueden apilar?**  
+### ¿Cuántas líneas de referencia múltiples se pueden apilar?
    Se admiten hasta **4 líneas de referencia** consecutivas antes de que la interpretación se vuelva confusa; para uniones más complejas se prefiere el uso de notas adicionales.
 
-4. **¿Qué dimensión debe tener la flecha?**  
+### ¿Qué dimensión debe tener la flecha?
    La longitud de la flecha es a criterio del dibujante, pero el ángulo de la punta debe ser de **15° a 30°** respecto a la línea de referencia, con una longitud mínima de la punta de **3 mm / 0.12 in**.
 
-5. **¿Qué altura tiene el símbolo básico de filete?**  
+### ¿Qué altura tiene el símbolo básico de filete?
    El símbolo del filete, a escala de dibujo, mide **3 mm / 0.12 in** de altura, coincidiendo con la altura normalizada de las cotas en los planos.
 
-6. **¿Se puede omitir la cola del símbolo?**  
+### ¿Se puede omitir la cola del símbolo?
    Sí, la cola se omite cuando no hay necesidad de especificar el proceso, el metal de aporte o la norma de inspección; en esos casos, la línea de referencia termina en la cola de milano sin información adicional.
 
 ## Fuentes consultadas

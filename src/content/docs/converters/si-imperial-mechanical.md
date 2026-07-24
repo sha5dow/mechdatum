@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
-
 La conversión entre el Sistema Internacional de Unidades y el sistema Imperial es una tarea diaria en ingeniería mecánica, donde coexisten planos, especificaciones y equipos de distintos orígenes. Esta referencia proporciona factores de conversión verificados para las magnitudes mecánicas más utilizadas: desde longitud, masa y fuerza hasta presión, energía, potencia, par torsor, densidad, velocidad y momento de inercia. Cada factor se presenta con su fórmula directa e inversa, y se incluyen notas sobre el número de cifras significativas adecuado para cálculos de taller y diseño. La precisión de los factores sigue las definiciones internacionales establecidas por el BIPM y las normas ASTM E380 / IEEE/ASTM SI 10.
 
 ## Unidades base y derivadas del SI
@@ -121,23 +119,22 @@ Para el par torsor, es crítico no confundir libra fuerza pie con libra fuerza p
 La densidad del agua a 4 °C y 1 atm de presión es 1000 kg/m³ o 62,4280 lb/ft³. Este valor se utiliza como referencia en cálculos de gravedad específica. En el sistema Imperial, la densidad también se expresa frecuentemente en libras por galón: 1 lb/gal = 0,119826 kg/L. Un galón Imperial británico (4,54609 L) difiere del galón estadounidense (3,78541 L); todas las conversiones en esta referencia utilizan el galón estadounidense por ser el estándar en documentación técnica de ingeniería americana.
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Cuál es el factor exacto para convertir milímetros a pulgadas?**
+### ¿Cuál es el factor exacto para convertir milímetros a pulgadas?
 La pulgada internacional se define como exactamente 25,4 mm, por lo que 1 mm equivale exactamente a 0,0393700787401575 in. Para trabajo de ingeniería mecánica general, utilice 1 mm = 0,03937 in con cuatro decimales, o 1 in = 25,4 mm de forma exacta.
 
-**¿Cómo convierto MPa a ksi para leer especificaciones de acero?**
+### ¿Cómo convierto MPa a ksi para leer especificaciones de acero?
 Divida el valor en MPa entre 6,89476 para obtener ksi. Por ejemplo, un acero con límite elástico de 345 MPa tiene un límite elástico de 50 ksi (345 ÷ 6,89476 ≈ 50,04). El valor típico de 250 MPa equivale a 36,3 ksi, que corresponde al acero estructural ASTM A36.
 
-**¿Por qué hay dos factores de conversión para la masa y la fuerza en el sistema Imperial?**
+### ¿Por qué hay dos factores de conversión para la masa y la fuerza en el sistema Imperial?
 El sistema Imperial distingue entre libra masa y libra fuerza, a diferencia del SI donde kilogramo es masa y newton es fuerza. Una libra fuerza es la fuerza que ejerce la gravedad terrestre estándar sobre una libra masa. Por eso 1 kg de masa equivale a 2,20462 lb de masa, pero 1 N de fuerza equivale a 0,224809 lbf. En cálculos de ingeniería mecánica, debe identificar si la especificación se refiere a masa o fuerza para elegir el factor correcto.
 
-**¿Cómo convierto correctamente una tolerancia dimensional de micrómetros a pulgadas?**
+### ¿Cómo convierto correctamente una tolerancia dimensional de micrómetros a pulgadas?
 Divida el valor en micrómetros (µm) entre 25,4 para obtener milipulgadas, también llamadas «mil» (0,001 in). Una tolerancia de 5 µm equivale a 0,000197 in o 0,197 mil. Para rugosidad superficial, 3,2 µm Ra equivalen a 126 µin (micropulgadas). Recuerde que 1 µm = 39,37 µin.
 
-**¿Cuál es la diferencia entre galón Imperial y galón estadounidense al convertir caudales?**
+### ¿Cuál es la diferencia entre galón Imperial y galón estadounidense al convertir caudales?
 El galón estadounidense equivale a 3,78541 litros, mientras que el galón Imperial británico equivale a 4,54609 litros. Al convertir 1 m³/s a galones por minuto, obtendrá 15 850,3 gpm si utiliza galones estadounidenses, pero solo 13 198,2 gpm si utiliza galones Imperiales. En documentación de ingeniería americana, el galón estadounidense es el estándar.
 
-**¿Qué precisión debo usar al convertir temperaturas para cálculos de dilatación térmica?**
+### ¿Qué precisión debo usar al convertir temperaturas para cálculos de dilatación térmica?
 Para diferencias de temperatura utilice el factor exacto Δ°F = Δ°C × 1,8. Si la temperatura puntual es de 20 °C, la diferencia con la temperatura ambiente de referencia no se convierte con la fórmula completa, sino multiplicando por 1,8. Un incremento de 50 °C equivale exactamente a un incremento de 90 °F.
 
 ## Fuentes consultadas

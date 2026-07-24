@@ -152,22 +152,22 @@ El tungsteno, con un punto de fusión de 3400 °C (6152 °F), supera en más de 
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es el metal con el punto de fusión más alto?**  
+### ¿Cuál es el metal con el punto de fusión más alto?
 El tungsteno posee el punto de fusión más alto entre los metales puros, con 3400 °C (6152 °F), utilizado en filamentos y electrodos.
 
-**2. ¿Qué metal se funde a menor temperatura?**  
+### ¿Qué metal se funde a menor temperatura?
 El mercurio es el metal con el punto de fusión más bajo, −38,86 °C (−37,95 °F), siendo líquido a temperatura ambiente.
 
-**3. ¿A qué temperatura se funde el acero inoxidable?**  
+### ¿A qué temperatura se funde el acero inoxidable?
 El acero inoxidable tiene un punto de fusión de aproximadamente 1510 °C (2750 °F), lo que exige hornos de inducción o arco eléctrico para su colada.
 
-**4. ¿Cuál es el punto de fusión del aluminio?**  
+### ¿Cuál es el punto de fusión del aluminio?
 El punto de fusión del aluminio puro es de 660 °C (1220 °F), lo que permite su fundición en hornos de gas o resistencia eléctrica.
 
-**5. ¿Cómo afecta la aleación al punto de fusión?**  
+### ¿Cómo afecta la aleación al punto de fusión?
 La adición de elementos de aleación generalmente reduce el punto de fusión; por ejemplo, el latón se funde entre 900 y 940 °C (1652‑1724 °F), una temperatura inferior a la del cobre puro (1084 °C).
 
-**6. ¿Por qué es importante conocer los puntos de fusión en la industria?**  
+### ¿Por qué es importante conocer los puntos de fusión en la industria?
 El punto de fusión determina los procesos de fundición, soldadura y conformado; por ejemplo, el acero al carbono se forja entre 1425 y 1540 °C (2597‑2800 °F), según su contenido de carbono.
 
 ## Fuentes consultadas

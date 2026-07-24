@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero herramienta M2 es un acero rápido al molibdeno del grupo M según la clasificación AISI, representando más del 95 % de los aceros rápidos fabricados en Estados Unidos. Posee un contenido de carbono elevado y una resistencia al desgaste superior a la del acero rápido M1. Su combinación de molibdeno, tungsteno y vanadio le confiere una excelente capacidad de corte a altas temperaturas, manteniendo durezas superiores a 60 HRC incluso en condiciones severas de trabajo. Se suministra normalmente en estado recocido y puede ser recubierto con nitruro de titanio o carburo de titanio mediante deposición física de vapor para mejorar aún más su vida útil.
 
 ## Composición química
@@ -108,24 +107,24 @@ El acero M2 se emplea ampliamente en la fabricación de herramientas de corte y 
 | Coste relativo | 100 % | 110 – 120 % | 130 – 140 % | 150 – 180 % |
 | Aplicación principal | Uso universal | Brocas y fresas pequeñas | Herramientas desgaste extremo | Trabajos pesados |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la dureza máxima que puede alcanzar el acero M2 después del tratamiento térmico?**  
+### ¿Cuál es la dureza máxima que puede alcanzar el acero M2 después del tratamiento térmico?
 La dureza máxima en estado templado es de 65 HRC, y tras un revenido típico a 540 – 600 °C se obtiene 62 – 65 HRC.
 
-**¿Qué temperatura de trabajo máxima soporta el acero M2 sin perder su filo?**  
+### ¿Qué temperatura de trabajo máxima soporta el acero M2 sin perder su filo?
 Puede trabajar de forma continua a temperaturas de hasta 560 °C manteniendo una dureza superior a 58 HRC, lo que equivale a una velocidad de corte significativamente mayor que la de los aceros al carbono.
 
-**¿Cuánto molibdeno y tungsteno contiene aproximadamente la aleación M2?**  
+### ¿Cuánto molibdeno y tungsteno contiene aproximadamente la aleación M2?
 El contenido nominal es de 5 % de molibdeno y 6 % de tungsteno, sumando alrededor del 11 % en peso de elementos formadores de carburos.
 
-**¿Qué norma europea equivale directamente al acero M2?**  
+### ¿Qué norma europea equivale directamente al acero M2?
 El equivalente más cercano es el acero HS6-5-2 según EN ISO 4957, también identificado con el número de material 1.3339.
 
-**¿Cuál es el valor típico del coeficiente de dilatación térmica entre 20 °C y 500 °C?**  
+### ¿Cuál es el valor típico del coeficiente de dilatación térmica entre 20 °C y 500 °C?
 El coeficiente de dilatación térmica lineal es de 12.2 μm/m·°C en ese intervalo, lo que lo sitúa en un valor moderado entre los aceros herramienta.
 
-**¿Cuánto vale la resistencia a la compresión del M2 después de un revenido a 149 °C?**  
+### ¿Cuánto vale la resistencia a la compresión del M2 después de un revenido a 149 °C?
 La resistencia a la compresión alcanza 3250 MPa, indicando una excelente capacidad para soportar cargas en herramientas de deformación y corte.
 
 ## Fuentes consultadas

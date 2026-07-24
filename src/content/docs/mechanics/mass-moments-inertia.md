@@ -123,28 +123,27 @@ En unidades imperiales: τ ≈ 283,8 lb·ft² × 6,28 rad/s² ≈ 55,6 lb·ft
 El motor debe suministrar un torque neto de 75,4 N·m para lograr la aceleración deseada. Si además existen pérdidas por fricción en los cojinetes estimadas en 5 N·m, el torque total requerido sería de 80,4 N·m / 59,3 lb·ft. La selección del motor deberá considerar este valor más un factor de servicio adecuado a la aplicación.
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Cuál es la diferencia entre momento de inercia de masa y segundo momento de área?**
+### ¿Cuál es la diferencia entre momento de inercia de masa y segundo momento de área?
 
 El momento de inercia de masa mide la resistencia a la aceleración rotacional y depende de la masa del cuerpo, con unidades de masa × longitud² (kg·m² o lb·ft²). El segundo momento de área es una propiedad puramente geométrica de la sección transversal de una viga, con unidades de longitud⁴ (mm⁴ o in⁴), y se usa en cálculos de flexión y deflexión. Por ejemplo, un cilindro de acero de 50 kg y 2 m de longitud puede tener un momento de inercia de masa de 1,2 kg·m² / 0,88 lb·ft² respecto a su eje longitudinal, mientras que el segundo momento de área de su sección circular de 100 mm / 3,94 in de diámetro es de aproximadamente 4,91 × 10⁶ mm⁴ / 11,8 in⁴. No se deben confundir ni intercambiar en los cálculos.
 
-**¿Cómo se aplica el teorema de ejes paralelos en un caso real?**
+### ¿Cómo se aplica el teorema de ejes paralelos en un caso real?
 
 Si se conoce el momento de inercia de un motor eléctrico respecto a su centro de masa, valor típico de 0,05 kg·m² / 0,037 lb·ft² para un motor pequeño de 10 kg / 22 lb, y se monta sobre una bancada a 0,3 m / 11,8 in del eje de pivote, el momento de inercia total respecto al pivote será I = 0,05 + 10 × (0,3)² = 0,05 + 0,9 = 0,95 kg·m² / 0,70 lb·ft². El término M d² suele dominar cuando la distancia es grande comparada con las dimensiones del cuerpo, como en este caso donde el desplazamiento de 300 mm / 11,8 in contribuye 0,9 kg·m² frente a los 0,05 kg·m² originales.
 
-**¿Qué forma geométrica proporciona el mayor momento de inercia para una masa y radio dados?**
+### ¿Qué forma geométrica proporciona el mayor momento de inercia para una masa y radio dados?
 
 Para una masa M y un radio exterior R fijos, el aro delgado (o cilindro hueco de pared delgada) proporciona el mayor momento de inercia posible: I = M R². En el otro extremo, la esfera sólida concentra más masa cerca del eje y presenta el valor más bajo entre las formas comunes: I = (2/5) M R² = 0,4 M R². La relación entre ambos es de 2,5 veces. Para un volante de inercia de automóvil con masa 8 kg / 17,6 lb y radio 0,15 m / 5,9 in, los valores serían 0,18 kg·m² / 0,13 lb·ft² para un aro y 0,072 kg·m² / 0,053 lb·ft² para una esfera sólida del mismo radio exterior.
 
-**¿Cómo influye la distribución de la masa en el radio de giro de un cilindro hueco?**
+### ¿Cómo influye la distribución de la masa en el radio de giro de un cilindro hueco?
 
 El radio de giro de un cilindro hueco con radios Rᵢ y Rₒ es k = √[(Rᵢ² + Rₒ²) / 2]. Para un cilindro sólido (Rᵢ = 0), k = Rₒ / √2 ≈ 0,707 Rₒ. Para un tubo de pared delgada (Rᵢ ≈ Rₒ), k ≈ Rₒ. Por ejemplo, un tubo de acero con Rₒ = 50 mm / 1,97 in y Rᵢ = 40 mm / 1,57 in tiene k = √[(40² + 50²) / 2] = √[(1600 + 2500)/2] = √2050 ≈ 45,3 mm / 1,78 in, lo que representa un 90,6 % del radio exterior. Esto demuestra cómo al desplazar la masa hacia la periferia se incrementa el radio de giro y, por tanto, la inercia rotacional para la misma masa total.
 
-**¿Qué torque se necesita para detener un volante de inercia en un tiempo determinado?**
+### ¿Qué torque se necesita para detener un volante de inercia en un tiempo determinado?
 
 El torque de frenado se calcula con τ = I × α, donde α = Δω / Δt. Un volante con I = 20 kg·m² / 14,75 lb·ft² que gira a 1500 rpm (157,1 rad/s) y debe detenerse en 3 segundos requiere una desaceleración de α = 157,1 / 3 = 52,37 rad/s². El torque de frenado será τ = 20 × 52,37 = 1047,4 N·m / 772,6 lb·ft. Si el sistema de frenos actúa a un radio efectivo de 0,25 m / 9,84 in, la fuerza tangencial necesaria en el disco de freno será F = τ / r = 1047,4 / 0,25 ≈ 4189 N / 941,7 lbf. Este nivel de fuerza debe ser soportado por los componentes del freno y disipado como calor en el sistema.
 
-**¿Es correcto sumar momentos de inercia de diferentes componentes de un sistema?**
+### ¿Es correcto sumar momentos de inercia de diferentes componentes de un sistema?
 
 Sí, siempre que todos los momentos de inercia estén referidos al mismo eje de rotación. El momento de inercia es una propiedad aditiva. Por ejemplo, un sistema rotor compuesto por un eje de acero (I₁ = 0,002 kg·m² / 0,0015 lb·ft²), un disco (I₂ = 0,15 kg·m² / 0,11 lb·ft²) y un acoplamiento (I₃ = 0,008 kg·m² / 0,0059 lb·ft²) tendrá un momento de inercia total de 0,16 kg·m² / 0,118 lb·ft² respecto al eje común. Si algún componente no comparte el mismo eje, deberá trasladarse su momento de inercia mediante el teorema de ejes paralelos antes de sumarlo.
 

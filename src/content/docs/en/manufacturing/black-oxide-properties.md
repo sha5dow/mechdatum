@@ -111,7 +111,7 @@ In the hot process, the sodium hydroxide (NaOH) bath with nitrates and nitrites 
 | Aluminum | No | Not applicable | Black oxide does not work on aluminum |
 | Titanium | No | Not applicable | Requires anodizing or other processes |
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
 ### What is the thickness of the black oxide layer?
 
@@ -137,4 +137,4 @@ Specification MIL-DTL-13924 is the oldest and most widely used military standard
 
 The hot process converts the surface into magnetite (Fe₃O₄) at 141 °C / 286 °F and offers higher abrasion resistance, while the cold process deposits copper selenide (Cu₂Se) at 20–30 °C / 68–86 °F and tends to flake off easily, requiring mandatory sealing with oil, wax, or lacquer.
 
-## Sources consulted
+## References

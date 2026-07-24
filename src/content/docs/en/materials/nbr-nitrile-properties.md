@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
 Nitrile butadiene rubber (NBR) is a synthetic elastomer copolymer of acrylonitrile (ACN) and butadiene, commercially developed in Germany in 1935. Its ACN content typically ranges from 18% to 50%, providing excellent resistance to oils, fuels, greases, and many chemicals. NBR is supplied in a wide range of Shore A hardnesses, from 30 to 95, and is extensively used in the automotive, aerospace, oil and gas, and medical industries.
 
 ## Chemical composition
@@ -143,8 +142,7 @@ Sources consulted:
 - https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html  
 - https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1724
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519

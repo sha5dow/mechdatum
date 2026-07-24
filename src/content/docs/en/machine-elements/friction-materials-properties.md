@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General Description
-
 Friction materials are compounds designed to convert kinetic energy into heat through controlled friction in brakes and clutches. They consist of a binder matrix (phenolic resin, rubber, or sintered metal), fibrous reinforcements (aramid, glass, carbon, steel), and friction modifiers (graphite, ceramic particles, metallic sulfides) that adjust the coefficient of friction, wear resistance, and thermal stability. In electromagnetic applications, the friction material is mounted flush with the steel surface of the rotor or electromagnet, allowing the magnetic flux to close the circuit through the air gap while the friction layer reduces steel wear (principle of electromagnetic clutches and brakes). The exact combination of components determines behavior with respect to temperature, contact pressure, sliding speed, and environment (dry, wet, lubricated).
 
 ## Technical Properties
@@ -103,26 +101,25 @@ The service life of a friction material is expressed in number of cycles, kilome
 - **Reference dimensions:** Commercial thicknesses of friction sheets start at 0,076 mm / 0.003 in and reach up to 0,508 mm / 0.020 in, per industrial supply catalogs (McMaster-Carr). The replacement thickness must exactly match the original design to preserve air gap dimensions and actuator stroke.
 - **End-of-life symptoms:** Metallic squeal, vibration when braking, increased pedal or lever travel, and reduction of the coefficient of friction below 70 % of its nominal value indicate the material has reached its minimum thickness.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the typical coefficient of friction of a dry organic material against steel?**  
+### What is the typical coefficient of friction of a dry organic material against steel?
 The dynamic coefficient is between 0.32 and 0.38 at 20 °C / 68 °F, with a slightly higher static value (0.35–0.42). These values may drop by 20–30 % if the surface temperature exceeds 300 °C / 572 °F.
 
-**2. What maximum temperature does a sintered friction material withstand without losing performance?**  
+### What maximum temperature does a sintered friction material withstand without losing performance?
 Copper-base sintered materials maintain a stable coefficient up to approximately 600 °C / 1112 °F. Above this temperature, metal oxidation accelerates and material transfer to the disc may occur.
 
-**3. How often should the friction material be replaced in a conventional automotive disc brake?**  
+### How often should the friction material be replaced in a conventional automotive disc brake?
 The average life of a semi-metallic pad in mixed city/highway use ranges from 30 000 to 50 000 km / 18 600–31 000 mi, depending on topography and driving style.
 
-**4. What minimum lining thickness is recommended before replacement?**  
+### What minimum lining thickness is recommended before replacement?
 For bonded pads, a remaining thickness of 2 mm / 0.078 in over the metal plate is considered safe, while for riveted linings the thickness above the rivet head must not be less than 1 mm / 0.039 in.
 
-**5. How does moisture affect the coefficient of friction of a brake material?**  
+### How does moisture affect the coefficient of friction of a brake material?
 In organic and semi-metallic materials, the presence of water can reduce the static coefficient by up to 30 % (e.g., from 0.40 to 0.28) until the heat generated evaporates the moisture. Friction materials for oil baths are specifically designed to operate with low and constant μ in a lubricated environment.
 
-**6. Can torque capacity be increased simply by using a material with a higher coefficient of friction?**  
+### Can torque capacity be increased simply by using a material with a higher coefficient of friction?
 An increase in the static coefficient from 0.35 to 0.50 can increase theoretical torque by up to 43 % for the same actuation force, but it may also cause local overheating, increased wear, and exceed the thermal and PV limits of the system, so it must always be evaluated as a whole.
 
-## Sources Consulted
-
+## References
 - **mcmaster.com**: https://www.mcmaster.com/products/friction-material/

@@ -146,24 +146,24 @@ Según la tabla de grados de tolerancia ANSI B4.1 para mecanizado, los procesos 
 
 Valores orientativos; la posición verdadera exigible depende además de la rigidez del conjunto, el tipo de ajuste y la presencia de MMC/LMC.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué mejora supone la zona de tolerancia cilíndrica de 0,1 mm / 0.0039 in respecto a una tolerancia cartesiana equivalente?**  
+### ¿Qué mejora supone la zona de tolerancia cilíndrica de 0,1 mm / 0.0039 in respecto a una tolerancia cartesiana equivalente?
 La zona cilíndrica de diámetro 0,1 mm / 0.0039 in ofrece un 57 % más de área útil que una zona cuadrada de lado 0,1 mm / 0.0039 in, ya que elimina las restricciones rígidas de las esquinas y admite desplazamientos diagonales completos.
 
-**¿Cómo se calcula la tolerancia adicional cuando se aplica el modificador Ⓜ a un agujero de 6,5 mm / 0.256 in con tolerancia dimensional +0,2 mm / 0?**  
+### ¿Cómo se calcula la tolerancia adicional cuando se aplica el modificador Ⓜ a un agujero de 6,5 mm / 0.256 in con tolerancia dimensional +0,2 mm / 0?
 Si el diámetro real es 6,7 mm / 0.264 in, el bonus es la diferencia entre el diámetro real y el MMC (6,5 mm / 0.256 in), es decir 0,2 mm / 0.008 in, que se suma a la tolerancia de posición especificada.
 
-**¿Qué valor de posición verdadera se recomienda para un agujero pasante de M8 con diámetro 9,0 mm / 0.354 in?**  
+### ¿Qué valor de posición verdadera se recomienda para un agujero pasante de M8 con diámetro 9,0 mm / 0.354 in?
 Con un diámetro de agujero 9,0 mm / 0.354 in y un tornillo M8, la tolerancia de posición sugerida es ∅0,3 mm / ∅0.012 in aplicada con MMC para garantizar la intercambiabilidad.
 
-**¿Cuál es el tamaño virtual de máximo material (MMVS) para un agujero de 10,0 mm / 0.3937 in con tolerancia de posición ∅0,1 mm / ∅0.0039 in?**  
+### ¿Cuál es el tamaño virtual de máximo material (MMVS) para un agujero de 10,0 mm / 0.3937 in con tolerancia de posición ∅0,1 mm / ∅0.0039 in?
 El MMVS resulta de restar la tolerancia de posición al MMC: 10,0 mm – 0,1 mm = 9,9 mm / 0.3898 in. Representa el diámetro del pasador de montaje en peor condición.
 
-**¿Un marco de control con ∅0,2 mm / ∅0.008 in y sin modificador permite movimiento radial de 0,2 mm / 0.008 in?**  
+### ¿Un marco de control con ∅0,2 mm / ∅0.008 in y sin modificador permite movimiento radial de 0,2 mm / 0.008 in?
 No; al ser una zona cilíndrica, el valor ∅0,2 mm / ∅0.008 in es el diámetro total admisible. El eje puede desplazarse un máximo de 0,1 mm / 0.004 in radialmente desde su posición teórica.
 
-**¿Cómo afecta el principio de independencia de ISO a la posición verdadera sin modificador?**  
+### ¿Cómo afecta el principio de independencia de ISO a la posición verdadera sin modificador?
 En ISO, si no se especifica Ⓜ o (E), el tamaño del elemento no influye en la tolerancia geométrica: un agujero de 10,0 mm / 0.3937 in mantiene su zona de posición fija, aunque su diámetro real varíe, a diferencia del RFS de ASME que tampoco otorga bonus pero sí exige el cumplimiento de envolvente.
 
 ## Fuentes consultadas

@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process Description
-
 Stereolithography (SLA) and Digital Light Processing (DLP) are vat photopolymerization additive manufacturing technologies. In SLA, an ultraviolet laser selectively traces each layer on the surface of a liquid photosensitive resin, solidifying it. In DLP, a digital projector exposes a complete image of the layer at once, curing the entire section simultaneously. In both cases, the build platform moves vertically after each layer (typically between 0,025 mm / 0.001 in and 0,15 mm / 0.006 in) and a wiper or recoater blade spreads fresh resin. After printing, the part requires solvent cleaning to remove uncured resin and post‑curing in a UV oven or light chamber to achieve final mechanical properties.
 
 ## Operational Parameters
@@ -77,7 +75,7 @@ SLA/DLP technology offers a combination of high resolution and good surface qual
 5.  **Jewelry and casting**: use castable resins with low ash content, layer thickness of 0,025–0,05 mm / 0.001–0.002 in and orientation that places supports in non-visible or easily removable areas.
 6.  **Biocompatibility**: select ISO 10993 certified resins, with washing and post‑curing according to the manufacturer's instructions. Do not skip post‑curing, as incomplete conversion releases residual monomers.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 1.  **What is the typical layer resolution in SLA?** Layer resolution typically ranges from 0,025 mm / 0.001 in to 0,15 mm / 0.006 in; the most common value is 0,05 mm / 0.002 in for a balance of detail and speed.
 
@@ -95,6 +93,3 @@ SLA/DLP technology offers a combination of high resolution and good surface qual
 
 - **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sla.cfm
 
-## Sources Consulted
-
-- **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sla.cfm

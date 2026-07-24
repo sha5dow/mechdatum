@@ -71,24 +71,24 @@ Para tuberías comerciales en la zona de transición, la ecuación de Colebrook-
 
 En sistemas con fluidos no newtonianos o flujo multifásico, el diagrama de Moody estándar no es directamente aplicable y se requieren correlaciones específicas. Para tuberías no circulares, se utiliza el diámetro hidráulico D_h = 4A/P, donde A es el área de la sección transversal y P el perímetro mojado, manteniendo la misma formulación. La precisión del método gráfico original es suficiente para la mayoría de aplicaciones de ingeniería, con valores típicos de f_D entre 0,008 y 0,08.
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la fórmula del factor de fricción para flujo laminar?**
+### ¿Cuál es la fórmula del factor de fricción para flujo laminar?
 El factor de fricción de Darcy-Weisbach (f_D) para flujo laminar se calcula analíticamente como f_D = 64/Re, válido para números de Reynolds (Re) inferiores a 2100. Esta expresión, derivada de la ecuación de Hagen-Poiseuille, es independiente de la rugosidad de la tubería y produce valores que oscilan entre 0,03 (Re ≈ 2100) y 0,064 (Re = 1000).
 
-**¿Cómo se determina el factor de fricción en la zona de transición (2100 < Re < 4000)?**
+### ¿Cómo se determina el factor de fricción en la zona de transición (2100 < Re < 4000)?
 En la zona de transición (2100 < Re < 4000), el flujo alterna entre características laminares y turbulentas, y el factor de fricción no puede determinarse con precisión. La práctica habitual consiste en interpolar linealmente entre el valor laminar a Re = 2100 (f_D = 64/2100 ≈ 0,0305) y el valor turbulento a Re = 4000, calculado con la ecuación de Colebrook-White para la rugosidad relativa correspondiente.
 
-**¿Qué diferencia existe entre el factor de fricción de Darcy-Weisbach y el de Fanning?**
+### ¿Qué diferencia existe entre el factor de fricción de Darcy-Weisbach y el de Fanning?
 El factor de fricción de Darcy-Weisbach (f_D) es exactamente cuatro veces mayor que el factor de Fanning (f_F): f_D = 4 · f_F. El factor de Darcy-Weisbach (también denominado λ) se utiliza en la ecuación de pérdida de carga h_f = f_D·(L/D)·(V²/2g), mientras que el factor de Fanning (f_F) aparece en la definición de esfuerzo cortante τ_w = f_F·(ρV²/2). Es esencial identificar cuál de los dos se está utilizando al leer valores del diagrama, ya que una confusión introduce un error de factor 4.
 
-**¿Para qué valor de rugosidad relativa se puede considerar una tubería como lisa?**
+### ¿Para qué valor de rugosidad relativa se puede considerar una tubería como lisa?
 Una tubería se considera hidráulicamente lisa cuando el parámetro adimensional de rugosidad u*ε/ν está entre 0 y 5, donde u* = √(τ_w/ρ) es la velocidad de fricción y ν la viscosidad cinemática. En términos prácticos, para Re = 10⁵, esto corresponde aproximadamente a ε/D < 0,000001; para Re = 10⁶, ε/D < 0,00001. En estas condiciones, las asperezas quedan sumergidas dentro de la subcapa viscosa y no afectan el factor de fricción.
 
-**¿Qué incertidumbre tienen las caídas de presión calculadas con el diagrama de Moody?**
+### ¿Qué incertidumbre tienen las caídas de presión calculadas con el diagrama de Moody?
 Las caídas de presión calculadas mediante el diagrama de Moody presentan una incertidumbre de al menos un 10%, atribuible a la dispersión de los datos experimentales que sustentan las curvas y a las diferencias entre la rugosidad artificial uniforme (arena de Nikuradse) y los patrones irregulares de rugosidad en tuberías comerciales. Para aplicaciones críticas se recomienda verificación experimental o el uso de factores de seguridad adecuados.
 
-**¿Cómo se calcula el factor de fricción sin utilizar el gráfico?**
+### ¿Cómo se calcula el factor de fricción sin utilizar el gráfico?
 El factor de fricción puede calcularse numéricamente sin recurrir al gráfico mediante la ecuación de Colebrook-White: 1/√f_D = -2,0·log₁₀[(ε/D)/3,7 + 2,51/(Re·√f_D)]. Por ser implícita, requiere iteración; el método de Newton-Raphson es el más utilizado y converge típicamente en 3 a 5 iteraciones. Existen también aproximaciones explícitas como la ecuación de Swamee-Jain, válida para 10⁻⁶ < ε/D < 10⁻² y 5000 < Re < 10⁸: f_D = 0,25 / [log₁₀((ε/D)/3,7 + 5,74/Re^0,9)]².
 
 ## Fuentes consultadas

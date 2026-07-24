@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El caucho de nitrilo butadieno (NBR, del inglés *nitrile butadiene rubber*) es un elastómero sintético copolímero de acrilonitrilo (ACN) y butadieno, desarrollado comercialmente en Alemania en 1935. Su contenido de ACN oscila típicamente entre 18 % y 50 %, lo que le confiere una excelente resistencia a aceites, combustibles, grasas y muchos productos químicos. El NBR se suministra en una amplia gama de durezas Shore A, desde 30 hasta 95, y se utiliza masivamente en las industrias automotriz, aeronáutica, petrolera y médica.
 
 ## Composición química

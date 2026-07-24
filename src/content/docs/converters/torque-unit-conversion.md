@@ -60,24 +60,23 @@ Combinando estas constantes se obtiene que **1 lbf·ft = 1,3558179483314004 N·m
 
 En entornos técnicos es frecuente la confusión entre **pound‑foot (lbf·ft)** y **foot‑pound (ft·lb)**, ya que este último designa formalmente una unidad de energía. No obstante, muchas llaves dinamométricas y manuales usan «ft‑lb» para referirse al torque. Para rangos bajos de torque (por debajo de 20 N·m) se suelen emplear **libra‑fuerza pulgada (lbf·in)** u **onza‑fuerza pulgada (ozf·in)**. Las llaves dinamométricas de uso común suelen mostrar escalas duales en N·m / lbf·ft o en kgf·m / lbf·ft.
 
-## Preguntas frecuentes
-
-1. **¿Cuántos newton metro tiene un pie‑libra fuerza?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuántos newton metro tiene un pie‑libra fuerza?
    Un pie‑libra fuerza (lbf·ft) equivale exactamente a 1,355817948 N·m, que se redondea habitualmente a 1,3558 N·m.
 
-2. **¿Cómo convertir 100 N·m a libras‑fuerza pie?**  
+### ¿Cómo convertir 100 N·m a libras‑fuerza pie?
    100 N·m multiplicados por 0,737562 dan como resultado **73,76 lbf·ft**; en la práctica se suele indicar 73,8 lbf·ft.
 
-3. **¿Cuál es la equivalencia entre kilogramo‑fuerza metro y libra‑fuerza pie?**  
+### ¿Cuál es la equivalencia entre kilogramo‑fuerza metro y libra‑fuerza pie?
    Un kilogramo‑fuerza metro (kgf·m) equivale a **7,2330 lbf·ft**; de forma inversa, 1 lbf·ft = 0,138255 kgf·m.
 
-4. **¿Qué valor en N·m corresponde a 50 lbf·in?**  
+### ¿Qué valor en N·m corresponde a 50 lbf·in?
    50 lbf·in equivalen a **5,65 N·m** (50 × 0,112985).
 
-5. **¿Cuántas onzas‑fuerza pulgada hay en 1 N·m?**  
+### ¿Cuántas onzas‑fuerza pulgada hay en 1 N·m?
    Un newton metro contiene **141,6 ozf·in** (1 N·m / 0,00706155 ≈ 141,6).
 
-6. **¿Cómo se relacionan las unidades métricas pequeñas, como gf·cm, con el N·m?**  
+### ¿Cómo se relacionan las unidades métricas pequeñas, como gf·cm, con el N·m?
    Un gramo‑fuerza centímetro es igual a **9,807 × 10⁻⁵ N·m**; por tanto, 10 000 gf·cm = 0,9807 N·m.
 
 ## Fuentes consultadas

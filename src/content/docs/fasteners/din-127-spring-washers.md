@@ -136,24 +136,23 @@ Las arandelas DIN 127 se emplean en uniones atornilladas sometidas a **cargas di
 - El extremo cortado se orienta hacia la pieza fija y el extremo elevado hacia la cabeza del tornillo o la tuerca.
 - Para diámetros superiores a M39 se recurre a arandelas elásticas onduladas o a sistemas de bloqueo químico.
 
-## FAQ
-
-**1. ¿Qué dimensiones tiene una arandela DIN 127 para tornillo M10?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué dimensiones tiene una arandela DIN 127 para tornillo M10?
 La arandela DIN 127 B para M10 presenta un diámetro interior de 10,2 mm / 0.402 in, diámetro exterior de 18,1 mm / 0.713 in y espesor de 2,5 mm / 0.098 in, con un peso aproximado de 1,64 g / 0.058 oz por unidad.
 
-**2. ¿Cuál es el par de apriete recomendado para un tornillo M8 8.8 con arandela de presión en seco?**  
+### ¿Cuál es el par de apriete recomendado para un tornillo M8 8.8 con arandela de presión en seco?
 El par de apriete recomendado en seco para M8 clase 8.8 es de 23 Nm / 16.96 ft·lb; si el tornillo está lubricado, el par se reduce a 17 Nm / 12.54 ft·lb para evitar sobrecarga en la arandela.
 
-**3. ¿Hasta qué fuerza máxima se puede apretar un M12 clase 8.8 con arandela DIN 127?**  
+### ¿Hasta qué fuerza máxima se puede apretar un M12 clase 8.8 con arandela DIN 127?
 La fuerza de apriete máxima admisible para M12 8.8 es de 37,9 kN / 8.53 kip, equivalente al 75 % de la carga de prueba del tornillo, lo que mantiene la arandela dentro del régimen elástico.
 
-**4. ¿Qué norma ANSI equivale a la DIN 127?**  
+### ¿Qué norma ANSI equivale a la DIN 127?
 El equivalente funcional en pulgadas es la ASME B18.21.1 (arandelas de seguridad helicoidales), que define dos tipos: el tipo A con extremos biselados similar a DIN 127 A, y el tipo B con extremos planos análogo a DIN 127 B.
 
-**5. ¿Qué material predomina en las arandelas DIN 127 y qué dureza alcanza?**  
+### ¿Qué material predomina en las arandelas DIN 127 y qué dureza alcanza?
 El material estándar es acero para muelles C67S templado y revenido, con una dureza superficial de 42 a 50 HRC; las versiones inoxidables A2 presentan una dureza de 25 a 35 HRC / 255 a 335 HV.
 
-**6. ¿Cuál es el límite de temperatura de servicio de una arandela DIN 127 de acero al carbono?**  
+### ¿Cuál es el límite de temperatura de servicio de una arandela DIN 127 de acero al carbono?
 La versión en acero al carbono conserva sus propiedades elásticas hasta 200 °C / 392 °F; por encima de esta temperatura se produce pérdida de revenido y relajación del muelle, mientras que las variantes en inoxidable A2 pueden operar hasta 300 °C / 572 °F.
 
 ## Fuentes consultadas

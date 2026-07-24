@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
-
 Concentricity and symmetry are geometric tolerances of location that control the position of the central axis (concentricity) or the median plane (symmetry) of a part relative to a reference datum feature. Both tolerances are used to ensure dynamic balance, assembly alignment, and interchangeability, although in modern practice they are often replaced by position or profile tolerances due to their greater ease of verification.
 
 The tolerance zone for concentricity is a cylinder whose diameter equals the specified tolerance value; the derived axis of the part must lie entirely within this cylinder. For symmetry, the tolerance zone consists of two parallel planes separated by a distance equal to the tolerance value, and the actual median plane must lie between them.
@@ -68,26 +66,25 @@ In practice, many designers replace concentricity/symmetry with position toleran
 
 **Bearing housing in a split casing.** The two half-cylinders that house a bearing must be coaxial with each other and concentric with the base reference plane. A composite concentricity is applied: the manufacturer uses a position tolerance of **0.03 mm / 0.0012 in** (Ø0.03 mm) that simultaneously controls location and orientation, simplifying inspection compared to pure concentricity.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the typical concentricity tolerance offered by cylindrical grinding?**  
+### What is the typical concentricity tolerance offered by cylindrical grinding?
 For a 25 mm diameter shaft, cylindrical grinding can maintain a concentricity between **0.009 mm (0.00035 in) and 0.021 mm (0.00083 in)**, corresponding to grades IT5 to IT7.
 
-**2. What numerical value should appear in the feature control frame for a symmetry of 0.08 mm?**  
+### What numerical value should appear in the feature control frame for a symmetry of 0.08 mm?
 The frame would indicate the symmetry symbol and the number **0.08**, which is equivalent to a flat zone of **0.08 mm / 0.00315 in** thickness; the actual median plane must lie within that zone relative to the specified datum.
 
-**3. Why was concentricity removed from ASME Y14.5‑2009 and then reintroduced?**  
+### Why was concentricity removed from ASME Y14.5‑2009 and then reintroduced?
 It was removed in 2009 due to the difficulty of measuring the "median of opposite points" and the preference for position; it was reintroduced in 2018 with measurement based on the functional envelope, but maintaining the classic symbol (⊗).
 
-**4. How is concentricity related to the eccentricity measured by a dial indicator?**  
+### How is concentricity related to the eccentricity measured by a dial indicator?
 The measured eccentricity (TIR – Total Indicator Reading) is twice the radial offset; if an indicator registers **0.04 mm (0.0016 in)** of total variation, the concentricity (axis deviation) is **0.02 mm / 0.0008 in**.
 
-**5. What is the minimum ISO grade to guarantee a symmetry of 0.1 mm in a keyway?**  
+### What is the minimum ISO grade to guarantee a symmetry of 0.1 mm in a keyway?
 For a nominal width of 10 mm, grade **IT11** (tolerance 0.09 mm / 0.0035 in) or **IT10** (0.058 mm / 0.0023 in) can meet 0.1 mm; conventional milling achieves IT9‑IT11.
 
-**6. Does the length of the part influence the concentricity tolerance?**  
+### Does the length of the part influence the concentricity tolerance?
 Yes, the length/diameter ratio can cause angular deviation to amplify the error; a part 100 mm (3.94 in) long with a concentricity of **0.03 mm / 0.0012 in** requires the process to maintain very strict straightness, often an additional **0.005 mm / 0.0002 in** in the prior cylindrical turning.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html

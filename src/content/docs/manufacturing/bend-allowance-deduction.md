@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 El cálculo preciso de la **longitud desarrollada** en piezas de chapa plegada depende de dos conceptos complementarios: la **tolerancia de doblado** (*Bend Allowance*, BA) y la **deducción de plegado** (*Bend Deduction*, BD). La BA representa la longitud del arco de la fibra neutra a lo largo del radio de doblado, mientras que la BD es la cantidad que debe restarse de la suma de las dimensiones externas de las alas para obtener la longitud total de la chapa plana. Ambos valores dependen del espesor del material, del radio interior, del ángulo de plegado y del factor **K**, que define la posición de la fibra neutra. Utilizar las fórmulas correctas evita errores dimensionales y garantiza que la pieza final cumpla las especificaciones.
 
 ## Fórmulas de cálculo

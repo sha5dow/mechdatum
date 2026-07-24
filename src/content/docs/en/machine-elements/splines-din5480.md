@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 DIN 5480 defines involute profile splines with a 30° pressure angle, used in sliding or fixed power transmissions for shafts and hubs. The involute tooth form offers higher fatigue strength and torque capacity compared to straight-sided splines, making them suitable for high-load applications in mechanical engineering, automotive and aerospace. The system is based on the module (m) as the main dimensional parameter, working preferably with centering on the inside or outside diameter depending on service conditions.
 
 ## Standard dimensions
@@ -66,28 +65,25 @@ The selection of the standard spline is based on the module and the number of te
 
 ---
 
-## FAQ
-**What is the smallest module defined in DIN 5480?**  
+## Frequently Asked Questions (FAQ)
+### What is the smallest module defined in DIN 5480?
 The standard minimum module is 0,5 mm / 0.0197 in, although common catalogs start at 0,8 mm / 0.0315 in. For smaller modules, reference the supplementary standard DIN 5480‑1.
 
-**What pressure angle does DIN 5480 use?**  
+### What pressure angle does DIN 5480 use?
 The pressure angle is 30°, which provides an optimal compromise between bending strength and contact pressure, reducing sensitivity to centering errors by approximately 15% compared to the 20° angle.
 
-**How is the reference diameter determined?**  
+### How is the reference diameter determined?
 The reference diameter is calculated by multiplying the module by the number of teeth (d<sub>ref</sub> = m × Z). Thus, for module 2 mm / 0.0787 in and 25 teeth, d<sub>ref</sub> is 50 mm / 1.9685 in.
 
-**What minimum coupling length is recommended?**  
+### What minimum coupling length is recommended?
 The minimum coupling length should be 0,5 times the reference diameter for fixed joints under nominal torque. In sliding joints with full load, at least 0,8 times the reference diameter is recommended to keep the specific pressure below 30 N/mm² / 4,351 psi.
 
-**Does material hardness affect load capacity?**  
+### Does material hardness affect load capacity?
 Yes, a surface hardness below 58 HRC reduces the admissible pressure by more than 40%. For case-hardened steels with surface hardening (60‑62 HRC), the admissible pressure in a fixed joint can reach 150 N/mm² / 21,756 psi, while in quenched and tempered steels at 300 HB it drops to about 70 N/mm² / 10,152 psi.
 
-**What concentricity tolerances are achieved with external centering?**  
+### What concentricity tolerances are achieved with external centering?
 External centering allows eccentricity tolerances of up to 0,015 mm / 0.0006 in for reference diameters up to 50 mm / 1.97 in, a precision up to three times higher than that of internal centering under the same conditions.
 
 ## References
 - **mcmaster.com**: https://www.mcmaster.com/products/shafts/spline-type~involute/
 
-## Sources Consulted
-
-- **mcmaster.com**: https://www.mcmaster.com/products/shafts/spline-type~involute/

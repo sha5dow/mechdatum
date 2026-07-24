@@ -113,22 +113,22 @@ El Monel 400 admite con facilidad los procesos más habituales: soldadura por ar
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la resistencia máxima a la tracción del Monel 400 en estado recocido?**  
+### ¿Cuál es la resistencia máxima a la tracción del Monel 400 en estado recocido?
    La resistencia a la tracción en estado recocido puede alcanzar los 620 MPa (90 ksi), lo que permite su uso en componentes estructurales sometidos a cargas moderadas.
 
-2. **¿Hasta qué temperatura mantiene el Monel 400 propiedades mecánicas adecuadas?**  
+### ¿Hasta qué temperatura mantiene el Monel 400 propiedades mecánicas adecuadas?
    El Monel 400 conserva buena resistencia y tenacidad hasta aproximadamente 540 °C (1000 °F) en servicio continuo en atmósferas oxidantes, y a temperaturas criogénicas de hasta –196 °C no presenta transición dúctil–frágil.
 
-3. **¿Qué densidad tiene el Monel 400?**  
+### ¿Qué densidad tiene el Monel 400?
    La densidad del Monel 400 es de 8.8 g/cm³ (0.318 lb/in³), un valor ligeramente superior al de los aceros inoxidables comunes.
 
-4. **¿Es posible soldar Monel 400 con procesos convencionales?**  
+### ¿Es posible soldar Monel 400 con procesos convencionales?
    Sí, el Monel 400 se puede soldar con procesos como SMAW, GTAW, GMAW y SAW utilizando metales de aporte compatibles (por ejemplo, ERNiCu-7), siempre que se limpien adecuadamente las superficies.
 
-5. **¿Qué resistencia ofrece el Monel 400 frente al ácido fluorhídrico?**  
+### ¿Qué resistencia ofrece el Monel 400 frente al ácido fluorhídrico?
    El Monel 400 resiste todas las concentraciones de ácido fluorhídrico hasta la temperatura de ebullición, siendo una de las pocas aleaciones de ingeniería que puede soportar exposiciones prolongadas a este ácido en condiciones reductoras.
 
-6. **¿Cuál es el módulo de elasticidad del Monel 400?**  
+### ¿Cuál es el módulo de elasticidad del Monel 400?
    El módulo de elasticidad del Monel 400 es de 179 GPa (26 000 ksi), lo que le confiere una rigidez intermedia entre los aceros y las aleaciones de aluminio.
 
 ## Fuentes consultadas

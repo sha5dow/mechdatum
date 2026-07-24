@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 El taladrado es un proceso de mecanizado por arranque de viruta que emplea una herramienta rotativa de corte múltiple (broca helicoidal) para generar agujeros cilíndricos. La velocidad de corte superficial (Vc) se sitúa típicamente entre 20 m/min y 150 m/min (66 ft/min y 492 ft/min) según el material de la pieza, mientras que el avance por revolución oscila entre 0,02 mm/rev (0.0008 in/rev) para brocas de diámetro inferior a 1,5 mm (0.06 in) y 0,60 mm/rev (0.024 in/rev) para diámetros superiores a 25 mm (1 in). La refrigeración adecuada, la evacuación de viruta y la estabilidad dinámica del husillo determinan la calidad final del agujero.
 
 ## Parámetros operativos
@@ -86,24 +85,24 @@ La selección de los parámetros sigue esta secuencia lógica:
 4. Verificar que la potencia del husillo sea suficiente para el par demandado por la operación, especialmente en diámetros grandes y materiales de baja maquinabilidad.
 5. Ajustar el caudal de refrigerante: para aluminio se recomienda emulsión soluble 5‑7 %, para aceros aceite de corte o emulsión semisintética, y para materiales compuestos se prefiere taladrado en seco o con aspiración de polvo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la velocidad de corte recomendada para taladrar acero inoxidable 304?**
+### ¿Cuál es la velocidad de corte recomendada para taladrar acero inoxidable 304?
 Para acero inoxidable 304 con broca de acero rápido (HSS) se recomienda una velocidad de corte entre 10 m/min (33 ft/min) y 18 m/min (59 ft/min), utilizando abundante refrigeración para evitar el endurecimiento por deformación del material en la zona de corte.
 
-**¿Qué avance por revolución debe usarse en una broca de 10 mm (0.394 in) sobre aluminio 6061?**
+### ¿Qué avance por revolución debe usarse en una broca de 10 mm (0.394 in) sobre aluminio 6061?
 En aluminio 6061 con una broca HSS de 10 mm (0.394 in), el avance por revolución recomendado está entre 0,12 mm/rev (0.0047 in/rev) y 0,18 mm/rev (0.0071 in/rev), lo que equivale a una velocidad de penetración de aproximadamente 180‑360 mm/min (7‑14 in/min) a una velocidad de giro de 2 500‑3 000 RPM.
 
-**¿Cómo afecta la relación longitud/diámetro a los parámetros de taladrado?**
+### ¿Cómo afecta la relación longitud/diámetro a los parámetros de taladrado?
 Cuando la relación longitud/diámetro supera 3:1, se debe reducir el avance entre un 20 % y un 40 % para minimizar la desviación de la broca y el riesgo de rotura. Para relaciones superiores a 10:1 es imprescindible el uso de ciclos de picoteo (peck drilling) con retrocesos cada 1,5 a 2 diámetros.
 
-**¿Cuántas revoluciones por minuto necesita una broca de 6 mm (0.236 in) para taladrar acero al carbono?**
+### ¿Cuántas revoluciones por minuto necesita una broca de 6 mm (0.236 in) para taladrar acero al carbono?
 Para una broca de 6 mm (0.236 in) en acero al carbono con Vc de 28 m/min (92 ft/min), la velocidad de giro calculada es de aproximadamente 1 485 RPM, valor que en la práctica se ajusta al escalón más próximo del husillo, normalmente 1 500 RPM.
 
-**¿Qué tolerancia diametral se puede conseguir en un taladrado convencional sin escariar?**
+### ¿Qué tolerancia diametral se puede conseguir en un taladrado convencional sin escariar?
 En taladrado con broca helicoidal afilada correctamente, la tolerancia diametral se sitúa en el rango IT11‑IT13, lo que para un diámetro nominal de 10 mm (0.394 in) supone una variación admisible de 0,09 mm (0.0035 in) a 0,22 mm (0.0087 in).
 
-**¿Cuándo es preferible el taladrado orbital frente al convencional?**
+### ¿Cuándo es preferible el taladrado orbital frente al convencional?
 El taladrado orbital es especialmente ventajoso cuando se mecanizan materiales compuestos (como CFRP) o apliamientos multimaterial (por ejemplo, titanio‑compuesto), donde la fuerza axial se reduce entre un 70 % y un 80 %, permitiendo tolerancias inferiores a 0,02 mm (0.0008 in) y eliminando la delaminación interlaminar.
 
 ## Fuentes consultadas

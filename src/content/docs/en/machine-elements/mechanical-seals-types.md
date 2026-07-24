@@ -97,7 +97,7 @@ The selection of the mechanical seal is determined by the following process para
 | Metal bellows | 40 bar / 580 psi | 400 °C / 752 °F | High (self-cleaning) | 2x |
 | Single cartridge | 25 bar / 363 psi | 200 °C / 392 °F | Low | 1.8x |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum pressure that a single mechanical seal can withstand?
 The maximum pressure in an unbalanced single seal is 20 bar / 290 psi, while a balanced seal reaches 50 bar / 725 psi without external support. For pressures above 70 bar / 1015 psi, a double configuration with barrier pressure control is required.
@@ -117,7 +117,6 @@ The diametral clearance between the shaft and the seal should be 0.1 to 0.2 mm /
 ### How is wear on a mechanical seal measured?
 Wear is evaluated by inspecting the depth of the track on the stationary face; wear greater than 0.5 mm / 0.020 in or loss of flatness greater than 0.9 µm / 35 µin indicates need for replacement. Flatness must be maintained within 0.3 µm / 12 µin per 25 mm / 1 in of diameter.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/ductwork-seal-classes-d_2152.html
 - **mcmaster.com**: https://www.mcmaster.com/products/mechanical-seals

@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Introducción
-
 En el diseño mecánico de precisión, un ajuste de interferencia (también llamado *press fit* o ajuste forzado) se produce cuando el diámetro del eje es mayor que el diámetro del agujero antes del montaje, generando una unión sólida por contacto sin necesidad de elementos de fijación adicionales. La norma ISO 286 establece un sistema de tolerancias con designaciones alfanuméricas que permite seleccionar la magnitud de la interferencia de forma estandarizada. En un ajuste de interferencia, las piezas deben montarse mediante prensado en frío, calentamiento del agujero o enfriamiento del eje, y la diferencia dimensional garantiza la transmisión de esfuerzos, la inmovilización relativa o el centrado permanente. La elección del ajuste depende de la solicitación mecánica, el material, el diámetro nominal y la calidad de fabricación requerida.
 
 ## Clasificación de los ajustes de interferencia según ISO
@@ -126,24 +124,24 @@ La norma estadounidense ANSI B4.1 clasifica los ajustes de interferencia con las
 
 En diámetros superiores a 120 mm se recomienda verificar los límites exactos, ya que las series ANSI presentan intervalos de tolerancia diferentes que pueden modificar la interferencia esperada en más de un 10 %.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-### 1. ¿Qué interferencia se obtiene con un ajuste H7/p6 en un eje de 50 mm de diámetro?
+### ¿Qué interferencia se obtiene con un ajuste H7/p6 en un eje de 50 mm de diámetro?
 La interferencia puede variar entre -0,004 mm / -0.0002 in (juego muy pequeño en el peor caso) y un máximo de 0,045 mm / 0.0018 in, por lo que no se garantiza una interferencia positiva en el 100 % de las piezas. Para asegurar interferencia neta se recomienda pasar a H7/r6.
 
-### 2. ¿Cuál es la interferencia mínima que garantiza un ajuste H7/s6 para un diámetro de 100 mm?
+### ¿Cuál es la interferencia mínima que garantiza un ajuste H7/s6 para un diámetro de 100 mm?
 El ajuste H7/s6 ofrece una interferencia mínima de 0,037 mm / 0.0015 in y una máxima de 0,094 mm / 0.0037 in en un diámetro nominal de 100 mm, lo que permite transmitir esfuerzos moderados sin elementos de unión adicionales.
 
-### 3. ¿Qué ajuste ISO proporciona al menos 0,025 mm de interferencia mínima en un diámetro de 30 mm?
+### ¿Qué ajuste ISO proporciona al menos 0,025 mm de interferencia mínima en un diámetro de 30 mm?
 Para un diámetro de 30 mm, el ajuste H7/t6 otorga una interferencia mínima de 0,018 mm / 0.0007 in (insuficiente), por lo que se debe recurrir a H7/u6, que asegura una interferencia mínima de 0,030 mm / 0.0012 in, superando el requisito de 0,025 mm.
 
-### 4. ¿Qué diferencia de temperaturas se necesita para montar por dilatación un ajuste H7/u6 de 200 mm de diámetro en acero?
+### ¿Qué diferencia de temperaturas se necesita para montar por dilatación un ajuste H7/u6 de 200 mm de diámetro en acero?
 Considerando una interferencia máxima de 0,256 mm / 0.0101 in y un coeficiente de dilatación lineal del acero de 12 × 10⁻⁶ °C⁻¹, la dilatación diametral necesaria es de 0,256 mm. El incremento de temperatura requerido es de aproximadamente 107 °C (ΔT = 0,256 / (200 × 12 × 10⁻⁶) ≈ 106,7 °C). Partiendo de una temperatura ambiente de 20 °C / 68 °F, el agujero debe calentarse hasta unos 127 °C / 260 °F.
 
-### 5. ¿Cuánto varía la interferencia entre un ajuste H7/r6 y H7/s6 para un diámetro de 150 mm?
+### ¿Cuánto varía la interferencia entre un ajuste H7/r6 y H7/s6 para un diámetro de 150 mm?
 Con un diámetro de 150 mm, H7/r6 produce una interferencia de 0,018 mm / 0.0007 in a 0,083 mm / 0.0033 in, mientras que H7/s6 la eleva a un rango de 0,053 mm / 0.0021 in a 0,118 mm / 0.0046 in. La diferencia en interferencia mínima es de 0,035 mm / 0.0014 in y en máxima de 0,035 mm / 0.0014 in, lo que supone un incremento de presión de contacto notable.
 
-### 6. ¿Qué calidad de eje se utiliza habitualmente con H7 en ajustes de interferencia y qué valor de interferencia máxima se alcanza en H7/u6 para 400 mm?
+### ¿Qué calidad de eje se utiliza habitualmente con H7 en ajustes de interferencia y qué valor de interferencia máxima se alcanza en H7/u6 para 400 mm?
 Se utiliza generalmente un eje de calidad IT6, más precisa que IT7, para controlar mejor la interferencia. Para un diámetro de 400 mm, el ajuste H7/u6 alcanza una interferencia máxima de 0,517 mm / 0.0204 in, la más alta de las combinaciones listadas en la tabla.
 
 ## Fuentes consultadas

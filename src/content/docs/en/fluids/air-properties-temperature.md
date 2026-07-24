@@ -63,27 +63,26 @@ Values in cSt are obtained directly from μ (μPa·s) and ρ (kg/m³): ν [cSt] 
 
 The temperature range of application of this table is −20 °C to 50 °C (−4 °F to 122 °F) at an absolute pressure of 101.325 kPa (14.696 psi). These values represent the properties of dry air (0% relative humidity) and are suitable for most engineering calculations in ventilation, air conditioning, subsonic aerodynamics, and heat transfer where temperatures do not exceed 200 °C or pressures far from atmospheric. For conditions involving significant humidity, high altitude, or extreme temperatures, corrections for partial vapor pressure and real gas behavior should be applied, or specialized software with thermophysical databases such as REFPROP should be consulted.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the density of air at 20 °C and 1 atm?**  
+### What is the density of air at 20 °C and 1 atm?
 The density of dry air at 20 °C and 101.325 kPa is 1.205 kg/m³ (0.0752 lb/ft³). This value decreases by approximately 0.4% if the relative humidity reaches 50% at that temperature.
 
-**2. How does the dynamic viscosity of air vary with temperature?**  
+### How does the dynamic viscosity of air vary with temperature?
 At 0 °C, the dynamic viscosity is 17.22 μPa·s, and it increases with temperature according to Sutherland's law. At 50 °C it reaches 19.59 μPa·s and at 100 °C it would be approximately 21.8 μPa·s.
 
-**3. What is the speed of sound in air at 15 °C?**  
+### What is the speed of sound in air at 15 °C?
 The speed of sound in dry air at 15 °C is 340.3 m/s (1116.5 ft/s). This value is adopted by the International Standard Atmosphere (ISA) and increases by approximately 0.6 m/s per degree Celsius.
 
-**4. What is the Prandtl number of air at 25 °C?**  
+### What is the Prandtl number of air at 25 °C?
 The Prandtl number of dry air at 25 °C and 1 atm is 0.704. This dimensionless number remains close to 0.71 over a wide range of ambient temperatures, indicating that momentum diffusivity and thermal diffusivity are similar.
 
-**5. What is the thermal conductivity of air at 0 °C?**  
+### What is the thermal conductivity of air at 0 °C?
 The thermal conductivity of dry air at 0 °C and 1 atm is 0.0244 W/(m·K) (0.0141 Btu/(h·ft·°F)). This value nearly triples when the air reaches 1000 °C, although it usually remains low compared to solids and liquids.
 
-**6. What is the kinematic viscosity of air at 20 °C?**  
+### What is the kinematic viscosity of air at 20 °C?
 The kinematic viscosity of air at 20 °C and 101.325 kPa is 15.11 cSt (1.626×10⁻⁴ ft²/s). This value is approximately double the kinematic viscosity of water at the same temperature (~1 cSt), which is relevant in dynamic similarity analysis.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/air-properties-d_156.html
 - **thermopedia.com**: https://www.thermopedia.com/content/553/

@@ -90,23 +90,23 @@ La tabla siguiente sugiere series y tipos de rodamientos de rodillos cilíndrico
 
 Las velocidades indicadas son orientativas y dependen del método de lubricación, carga y temperatura. Para cada caso concreto debe verificarse el factor de velocidad n x dm del fabricante.
 
-## Preguntas frecuentes
-**1. ¿Cuál es la vida útil típica de un rodamiento de rodillos cilíndricos?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la vida útil típica de un rodamiento de rodillos cilíndricos?
 La vida nominal L10 para un rodamiento de rodillos cilíndricos de tamaño medio (por ejemplo, diámetro interior 40 mm / 1.6 in) es de aproximadamente 20 000 horas bajo carga equivalente a un 10 % de la capacidad dinámica, con lubricación adecuada y alineación correcta.
 
-**2. ¿Cuánto desalineamiento puede absorber sin daño?**  
+### ¿Cuánto desalineamiento puede absorber sin daño?
 El error angular admisible para rodamientos estándar de rodillos cilíndricos es inferior a 4 minutos de arco (0.066 grados), aunque algunos diseños con rodillos perfilados pueden tolerar hasta 10 minutos de arco sin reducción significativa de vida.
 
-**3. ¿Qué temperatura máxima de trabajo puede soportar?**  
+### ¿Qué temperatura máxima de trabajo puede soportar?
 Un rodamiento de rodillos cilíndricos estándar en acero 100Cr6 estabilizado dimensionalmente puede operar de forma continua hasta 150 °C / 302 °F. Con tratamiento térmico especial (temperatura de revenido mayor) y jaula metálica, se alcanzan 200 °C / 392 °F, y con aceros para alta temperatura hasta 300 °C / 572 °F.
 
-**4. ¿Qué cantidad de carga axial admite un rodamiento tipo NJ?**  
+### ¿Qué cantidad de carga axial admite un rodamiento tipo NJ?
 La carga axial admisible para un NJ de tamaño medio (diámetro 50 mm / 1.97 in) no supera típicamente el 15-20 % de la capacidad de carga radial dinámica, es decir, del orden de 3000-4000 N / 675-900 lbf, y siempre en presencia de una carga radial suficiente para mantener los rodillos en contacto uniforme.
 
-**5. ¿Cómo se determina el juego radial interno correcto?**  
+### ¿Cómo se determina el juego radial interno correcto?
 El juego radial interno debe seleccionarse en función del ajuste del aro en el eje y en el alojamiento. Para un ajuste con interferencia de 0.02 mm / 0.0008 in en el eje y temperatura de servicio 70 °C / 158 °F, se recomienda juego C3, que para un diámetro de 40 mm / 1.57 in corresponde a un rango de juego radial de 25 a 51 µm / 0.00098 a 0.00201 in.
 
-**6. ¿Cuál es el apriete mínimo recomendado para el ajuste en el eje?**  
+### ¿Cuál es el apriete mínimo recomendado para el ajuste en el eje?
 Para un eje de acero y un rodamiento de diámetro interior 50 mm / 1.97 in sometido a carga rotativa respecto al eje, se recomienda un apriete de entre 0.005 mm y 0.030 mm / 0.0002-0.0012 in, dependiendo de la magnitud de la carga y del espesor del aro.
 
 ## Fuentes consultadas

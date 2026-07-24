@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General description
 Dimensionless numbers are fundamental parameters in fluid mechanics and heat transfer, obtained by non-dimensionalizing the equations governing motion. They allow characterizing the flow regime, predicting transitions, and comparing geometrically similar systems without relying on dimensional scales. Below is a comprehensive table with their definition, physical interpretation, and fields of application, followed by typical Prandtl number values for water and air, practical selection criteria, and answers to frequently asked questions.
 
 ## Table of dimensionless numbers
@@ -59,7 +58,7 @@ The choice of the appropriate dimensionless number depends on the dominant pheno
 5. **Simultaneous mass transfer:** the Schmidt number (Sc) and Lewis number (Le) control the analogy between thermal and concentration boundary layers.
 6. **Surface tension effects:** in jets, drops or bubbles, the Weber number (We) determines interface breakup. High values (>8‑10) tend to fragment the fluid.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 ### What is the critical Reynolds number in a smooth circular pipe?
 The critical Reynolds number for the transition from laminar to turbulent flow in pipes is approximately 2 300. Below this value, the flow remains laminar unless strong external disturbances exist.
 
@@ -78,8 +77,7 @@ The critical Weber number for droplet breakup in gas flows is around 10 to 12, d
 ### What dimensionless number determines the flow pattern in a natural convection heat exchanger?
 The Rayleigh number, product of the Grashof number times the Prandtl number (Ra = Gr·Pr), governs the transition from conduction to natural convection; Ra values greater than 1 708 predict the onset of convection cells in horizontal cavities.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/dimensionless-number-quantity-symbol-application-d_1982.html
 - **efunda.com**: https://www.efunda.com/formulae/heat_transfer/convection/nondim_params.cfm
 - **thermopedia.com**: https://www.thermopedia.com/navigation/1513/

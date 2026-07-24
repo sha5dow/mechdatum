@@ -80,7 +80,7 @@ Cada proceso de fabricación puede alcanzar de manera económica un intervalo de
 ## Comparativa entre sistemas ISO y ANSI
 El sistema ANSI B4.1 define clases de ajuste (RC = running/sliding, LC = locational clearance, LT = transition, LN = locational interference, FN = force/shrink) y no emplea los grados IT. Sin embargo, es posible una correspondencia práctica basada en la magnitud de la tolerancia. Por ejemplo, un ajuste ISO H7/f7 (agujero base) se asemeja al ajuste ANSI RC3 o RC4 para diámetros medios, mientras que H7/h6 se alinea con una clase de transición LC. En general, la calidad IT7 equivale a una clase de tolerancia ANSI alrededor de 7‑8, y IT8‑IT9 corresponden a clases más abiertas comunes en fabricación general.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué representa el número después de las letras IT en una especificación geométrica?
 El número indica la magnitud de la banda de tolerancia según la norma ISO 286. Por ejemplo, IT7 para un diámetro de 10 mm tiene un valor de 15 µm / 0,00059 in, mientras que IT14 para el mismo diámetro alcanza 0,36 mm / 0,014 in.

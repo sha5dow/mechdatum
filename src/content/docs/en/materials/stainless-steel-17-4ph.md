@@ -115,27 +115,26 @@ Thanks to its excellent combination of mechanical strength, hardness and corrosi
 ## Comparison with Similar Materials
 Compared to austenitic stainless steels such as 304, 17-4PH offers up to three times higher tensile strength and much higher hardness, although its corrosion resistance in very aggressive environments (e.g., stagnant seawater) is inferior, and it can suffer pitting corrosion. With respect to 15-5PH, the main difference lies in the microstructure and weldability; 17-4PH has a slightly higher carbon content, which favors the hardening response, while 15-5PH shows a lower tendency to cracking in thick weldments. Compared to traditional martensitic steels such as 410, 17-4PH retains much better corrosion resistance and can operate at higher temperatures without losing mechanical properties.
 
-## FAQ
-1. **What is the maximum tensile strength of 17-4PH?**
+## Frequently Asked Questions (FAQ)
+### What is the maximum tensile strength of 17-4PH?
    It reaches 1 310 MPa (190 ksi) in condition H900, and 1 300 MPa (190 ksi) as a typical reference value.
 
-2. **What Rockwell hardness can be obtained with the H900 treatment?**
+### What Rockwell hardness can be obtained with the H900 treatment?
    A hardness of 44 HRC is achieved in the H900 (482 °C) aging condition.
 
-3. **What is the machinability of 17-4PH compared to a reference steel?**
+### What is the machinability of 17-4PH compared to a reference steel?
    In the annealed state, its machinability is 48 % relative to AISI 1212 steel, which has 100 % relative machinability.
 
-4. **Up to what maximum temperature can 17-4PH work while maintaining its properties?**
+### Up to what maximum temperature can 17-4PH work while maintaining its properties?
    The recommended maximum continuous service temperature is 300 °C (572 °F) to preserve strength and hardness.
 
-5. **Is 17-4PH stainless steel magnetic?**
+### Is 17-4PH stainless steel magnetic?
    Yes, its martensitic structure makes it ferromagnetic, unlike austenitic steels such as 304.
 
-6. **Can 17-4PH be welded and what method is recommended?**
+### Can 17-4PH be welded and what method is recommended?
    It is weldable by all common fusion and resistance methods (TIG, MIG, plasma), but oxyacetylene welding is not advised; post‑weld treatment is often required.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6778
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machinability-metals-d_1450.html
 - **steelnumber.com**: https://www.steelnumber.com/index.php

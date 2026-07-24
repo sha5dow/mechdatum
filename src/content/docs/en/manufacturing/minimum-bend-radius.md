@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Overview
 The minimum bend radius for sheet metal is the smallest inside radius that can be achieved without causing fractures, excessive deformation, or significant reduction in part service life. It is generally expressed as a multiple of the material thickness (T) and is a fundamental parameter in the design of parts formed by bending. The most widespread rule — applicable to most metals — states that the minimum inside radius should be at least equal to the sheet thickness (1T). However, the exact value depends on the material's ductility, its heat treatment condition, and the orientation of the bend relative to the rolling direction.
 
 ## Parameters by Material
@@ -77,27 +76,26 @@ It is recommended to dimension considering tolerance accumulation and to provide
 
 Always perform a trial with actual sheet metal before series production; the tabulated values are generic recommendations.
 
-## Frequently Asked Questions
-**What is the recommended minimum bend radius for most metals?**  
+## Frequently Asked Questions (FAQ)
+### What is the recommended minimum bend radius for most metals?
 The minimum inside radius is **1 times the material thickness (1T)**, which is equivalent, for example, to **1,52 mm / 0.0598 in** for a 16-gauge carbon steel sheet. This value constitutes a safe starting point for steel, stainless steel, and aluminum in commercial supply condition.
 
-**Does the rolling direction affect the bend radius?**  
+### Does the rolling direction affect the bend radius?
 Yes, significantly. For cold-rolled steel with hardness **Rb 70 to 85**, bending parallel to the rolling direction is not recommended, and if the hardness exceeds **Rb 85**, no bending should be performed. Hot-rolled steel allows parallel bending without restrictions.
 
-**What is the minimum flange width required for reliable bending?**  
+### What is the minimum flange width required for reliable bending?
 The flange must measure at least **4 times the material thickness plus the bend radius**. For example, for a sheet of **1,52 mm / 0.0598 in** with a 1T radius, the minimum flange is **2 × 1,52 mm = 3,04 mm / 0.1196 in** (computing 4T + R). Respecting this dimension prevents distortion and die slippage risks.
 
-**How far from the bend can I place a hole without it deforming?**  
+### How far from the bend can I place a hole without it deforming?
 Holes or slots must be separated at least **3 times the thickness plus the bend radius (3T + R)**. If the distance is reduced, the hole must be extended beyond the bend line so that deformation does not affect it directly.
 
-**Can aluminum be bent with a radius tighter than 1T?**  
+### Can aluminum be bent with a radius tighter than 1T?
 Yes, annealed aluminum and other highly ductile alloys can be bent with radii as small as **0.5T** (for example, **0,65 mm / 0.0256 in** radius for 20-gauge). This must be confirmed with the material supplier and validated through trials, as temper and rolling direction influence the result.
 
-**What happens if a bend radius smaller than the minimum is used?**  
+### What happens if a bend radius smaller than the minimum is used?
 The material will crack on the outer tension side of the bend, possibly leading to complete fracture. In cold-rolled steels with hardness above **Rb 85**, the simple attempt to bend causes breakage, regardless of the radius used.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gauge-sheet-d_915.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/bending_design.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/sites/default/files/company-presentation/smicut_eng_2021-09.pdf

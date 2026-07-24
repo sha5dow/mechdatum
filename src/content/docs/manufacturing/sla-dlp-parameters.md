@@ -77,7 +77,7 @@ La tecnología SLA/DLP ofrece una combinación de alta resolución y buena calid
 5.  **Joyería y fundición**: usar resinas colables con bajo contenido de cenizas, capa de 0,025–0,05 mm / 0.001–0.002 in y orientación que coloque los soportes en zonas no visibles o de fácil remoción.
 6.  **Biocompatibilidad**: seleccionar resinas certificadas ISO 10993, con lavado y post‑curado conforme a las instrucciones del fabricante. No omitir el post‑curado, ya que la conversión incompleta libera monómeros residuales.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 1.  **¿Cuál es la resolución de capa típica en SLA?** La resolución de capa suele variar entre 0,025 mm / 0.001 in y 0,15 mm / 0.006 in; el valor más común es 0,05 mm / 0.002 in para equilibrio entre detalle y velocidad.
 

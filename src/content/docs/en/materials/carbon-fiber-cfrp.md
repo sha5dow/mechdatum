@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introduction
 Carbon fiber reinforced polymer (CFRP) is a composite material that combines high-strength and high-stiffness carbon fibers with a polymer matrix, usually thermosetting. The fiber volume fraction typically ranges between 50% and 70%, giving it an exceptional strength-to-weight ratio, up to five times that of structural steel. It is mainly used in sectors where mass reduction is critical without sacrificing mechanical performance.
 
 ## Chemical composition
@@ -125,28 +124,27 @@ CFRP tests and specifications are governed by ASTM and ISO standards. Some of th
 * ASTM D3410: Compression test.
 * ISO 527‑4/-5: Tensile properties of reinforced plastics.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the typical tensile strength of CFRP?**  
+### What is the typical tensile strength of CFRP?
 The longitudinal tensile strength of a unidirectional CFRP laminate with 60% fiber reaches **1500 MPa** (217 ksi), while the isolated carbon fiber can exceed **4000 MPa** (578 ksi).
 
-**What elastic modulus does it have?**  
+### What elastic modulus does it have?
 The Young's modulus of the laminate is around **140 GPa** (20.3 Msi), about ten times that of glass-reinforced nylon and comparable to steel (210 GPa) but with three-quarters less weight.
 
-**What is the density of the material?**  
+### What is the density of the material?
 The density of CFRP ranges between **1.5 and 1.6 g/cm³** (0.054‑0.058 lb/in³), approximately **1.55 g/cm³** (0.056 lb/in³) for a standard epoxy-carbon composite.
 
-**What maximum temperature can it work at?**  
+### What maximum temperature can it work at?
 The continuous service temperature for standard epoxy matrices is around **150 °C** (302 °F). Systems with PEEK resin or vitrimers can temporarily exceed **200 °C** (392 °F) without degradation.
 
-**Is it possible to recycle CFRP?**  
+### Is it possible to recycle CFRP?
 Yes, the development of vitrimer matrices has enabled a hydrothermal degradation process in water at **160 °C** (320 °F) without catalyst, allowing recovery of carbon fibers with tensile strength similar to that of virgin fibers.
 
-**How much does a CFRP part weigh compared to steel?**  
+### How much does a CFRP part weigh compared to steel?
 A CFRP part weighs approximately **70% less** than an equivalent structural steel part, reducing mass from **100 kg** to **30 kg** in many aeronautical components.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=20111
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-composite-fibers-d_1226.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1361

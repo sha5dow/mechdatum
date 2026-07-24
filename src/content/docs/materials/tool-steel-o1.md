@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introducción
 El acero herramienta O1 es un acero de trabajo en frío templable en aceite con un contenido de carbono entre 0.85 % y 1.00 %, lo que le confiere alta dureza tras el tratamiento térmico.
 
 ## Composición química
@@ -135,24 +134,24 @@ Frente al acero A2 de temple al aire, el O1 presenta una maquinabilidad aproxima
 | Estabilidad dimensional en temple | Moderada | Alta | Alta |
 | Maquinabilidad en recocido | 90 % | 65 % | 45 % |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la dureza máxima que puede alcanzar el acero O1 tras temple y revenido?**  
+### ¿Cuál es la dureza máxima que puede alcanzar el acero O1 tras temple y revenido?
 El acero O1 puede alcanzar una dureza de 64 HRC mediante temple en aceite seguido de un revenido bajo.
 
-**¿A qué temperatura se realiza el temple del acero O1?**  
+### ¿A qué temperatura se realiza el temple del acero O1?
 La temperatura de austenización para temple oscila entre 788 °C y 816 °C, con mantenimiento de 10 a 30 minutos antes del enfriamiento en aceite.
 
-**¿Cuál es la temperatura de forja recomendada para el O1?**  
+### ¿Cuál es la temperatura de forja recomendada para el O1?
 La forja se lleva a cabo en el intervalo de 1038 °C a 857 °C y nunca por debajo de 816 °C.
 
-**¿Qué porcentaje de carbono contiene el acero herramienta O1?**  
+### ¿Qué porcentaje de carbono contiene el acero herramienta O1?
 El contenido de carbono se sitúa entre 0.85 % y 1.00 %, lo que le proporciona alta templabilidad.
 
-**¿Cuál es la densidad del acero O1 a temperatura ambiente?**  
+### ¿Cuál es la densidad del acero O1 a temperatura ambiente?
 A 20 °C y endurecido a 62 HRC, la densidad es de 7.81 g/cm³ (0.282 lb/in³).
 
-**¿Cuál es el coeficiente de dilatación térmica del O1?**  
+### ¿Cuál es el coeficiente de dilatación térmica del O1?
 El coeficiente de expansión térmica lineal es de 10.6 × 10⁻⁶ / °C en el rango de 20 °C a 260 °C.
 
 ## Fuentes consultadas

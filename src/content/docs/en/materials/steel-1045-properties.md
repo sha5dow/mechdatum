@@ -145,7 +145,7 @@ Thanks to its cost‑strength ratio, 1045 steel is used in a wide variety of com
 - 4140, being a Cr‑Mo alloy steel, allows complete hardening in thicker sections (up to 75‑100 mm) and retains high toughness; however, its cost is higher.  
 - 1141 improves machinability due to sulfur addition, although it slightly reduces toughness.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum tensile strength that 1045 steel can achieve?
 
@@ -184,8 +184,3 @@ The thermal conductivity of 1045 steel at **20 °C** is approximately **49.8 W/(
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=138
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6130
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=138

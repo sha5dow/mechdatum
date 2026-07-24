@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 La planitud y la rectitud son tolerancias geométricas de forma que limitan la desviación de un elemento respecto a su geometría ideal. La planitud controla cuánto se aparta una superficie de un plano perfecto, mientras que la rectitud restringe la variación de una línea o un eje respecto a una línea recta teórica. Ambas tolerancias se especifican en el marco de control de características según las normas ISO 1101 y ASME Y14.5, y son independientes de cualquier referencia (datum), definiendo únicamente la forma del elemento. Su aplicación abarca desde placas base de máquinas hasta ejes de transmisión, garantizando el correcto funcionamiento y montaje de componentes mecánicos.
 
 ## Símbolo y representación
@@ -78,7 +77,7 @@ Los procesos de mecanizado permiten obtener distintos grados de precisión en fo
 | Tolerancias generales | ISO 2768-2 define tolerancias de forma por defecto | No tiene equivalente directo; deben especificarse en el dibujo |
 | Aplicación en superficies curvas | La planitud se aplica solo a superficies nominalmente planas | Igual criterio |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la tolerancia de planitud típica para una placa de apoyo de 200 mm × 200 mm?
 Una placa de 200 mm / 7.87 in de lado suele recibir una tolerancia de planitud de 0,05 mm / 0.002 in para asientos de precisión, valor que se encuentra dentro de la clase H de ISO 2768-2 para esa longitud.
 

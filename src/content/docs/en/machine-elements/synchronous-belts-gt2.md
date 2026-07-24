@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General characteristics
 Toothed synchronous belts transmit motion without slipping with a mechanical efficiency that can reach **98%**, thanks to the positive engagement between the belt teeth and the pulleys. The GT2, HTD and XL profiles represent three families widely used in automation, 3D printing and light machine tools. Their design eliminates the need for lubrication, reduces maintenance and allows fixed transmission ratios. The GT2 profile, with a 2 mm pitch, is the current standard in precision positioning systems, while HTD (High Torque Drive) is used where higher load capacity is required and the XL profile (5,08 mm pitch) remains in legacy equipment and general transmission applications.
 
 ## Tooth profiles and nomenclature
@@ -100,26 +99,25 @@ Proper installation begins with pulley alignment, which must be maintained withi
 - **Food and pharmaceutical industry**: HTD belts in stainless steel for synchronized conveyors, operating in temperature ranges from **‑10 °C to 80 °C / 14 °F to 176 °F**.
 - **Machine tools**: HTD 8M and 14M profiles are used in secondary drives of milling machines and lathes with powers from **1 kW to 5 kW / 1,34 HP to 6,7 HP**.
 
-## Frequently asked questions
-1. **What is the exact pitch of a GT2 belt?**  
+## Frequently Asked Questions (FAQ)
+### What is the exact pitch of a GT2 belt?
    The pitch is **2 mm / 0,0787 in**, and it is the same for all lengths and widths of the series.
 
-2. **What maximum temperature can a GT2 neoprene belt withstand?**  
+### What maximum temperature can a GT2 neoprene belt withstand?
    The continuous working temperature reaches **82 °C / 180 °F**; above **100 °C / 212 °F** the material degrades rapidly.
 
-3. **How much torque can a 6 mm GT2 transmit at 1 000 rpm?**  
+### How much torque can a 6 mm GT2 transmit at 1 000 rpm?
    With a 20-tooth pulley it can transmit approximately **1,15 N·m / 0,85 lbf·ft**, equivalent to about **0,12 kW / 0,16 HP**.
 
-4. **What is the expected service life of an HTD belt under normal conditions?**  
+### What is the expected service life of an HTD belt under normal conditions?
    Manufacturers estimate between **15 000 and 20 000 hours** of continuous operation if tensioning and alignment conditions are respected.
 
-5. **How often should the tension of a synchronous belt be inspected?**  
+### How often should the tension of a synchronous belt be inspected?
    It is recommended to check the tension every **500 service hours** or at each scheduled maintenance stop.
 
-6. **Does the number of pulley teeth affect the transmissible power?**  
+### Does the number of pulley teeth affect the transmissible power?
    Yes; when decreasing from **20 to 14 teeth** on a GT2 pulley, the allowable power is reduced by about **15 %** due to the smaller wrap angle.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/belt-transmission-power-efficciency-d_1378.html
 - **mcmaster.com**: https://www.mcmaster.com/products/gt-timing-belts

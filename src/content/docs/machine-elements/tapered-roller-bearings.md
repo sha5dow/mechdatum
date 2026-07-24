@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los rodamientos de rodillos cónicos se fabrican en diámetros de agujero desde 15 mm / 0.591 in hasta más de 1 500 mm / 59.06 in, y su geometría interna se basa en conos cuyas generatrices convergen en un punto común sobre el eje del rodamiento. Esta configuración permite un movimiento de rodadura pura, sin deslizamiento en la zona de contacto, y habilita la absorción de cargas radiales y axiales combinadas. Los elementos rodantes son rodillos troncocónicos, estabilizados por una pestaña en el aro interior que evita su expulsión (“efecto semilla de calabaza”). La pista exterior (copa) y el conjunto interior (cono) son separables, lo que facilita el montaje y el ajuste del juego interno o la precarga.
 
 ## Tipos y denominaciones según ISO 355
@@ -76,22 +75,22 @@ El aro interior y la copa de un rodamiento cónico se montan por separado; el ju
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la vida útil esperada de un rodamiento cónico en una caja de cambios?**  
+### ¿Cuál es la vida útil esperada de un rodamiento cónico en una caja de cambios?
 Un rodamiento cónico operando a plena carga en una caja de cambios industrial puede alcanzar 20 000 h de vida L10h si la relación C/P es aproximadamente 4. Con cargas reducidas puede superar las 60 000 h.
 
-**¿Qué capacidad de carga dinámica tiene un rodamiento cónico de agujero 40 mm?**  
+### ¿Qué capacidad de carga dinámica tiene un rodamiento cónico de agujero 40 mm?
 Un rodamiento 30208 (40 mm / 1.575 in) presenta una capacidad dinámica de 62 kN / 13 940 lbf, suficiente para aplicaciones de rodillos de apoyo y ejes intermedios con cargas moderadas.
 
-**¿Cómo se calcula la carga axial equivalente en un rodamiento cónico?**  
+### ¿Cómo se calcula la carga axial equivalente en un rodamiento cónico?
 La carga axial equivalente se determina con la fórmula Pa = 0.4 Fr + Y Fa, donde Y es el factor de carga axial específico del rodamiento; para un 30206, Y ≈ 1.6.
 
-**¿Cuál es la temperatura máxima de funcionamiento de un rodamiento cónico estándar?**  
+### ¿Cuál es la temperatura máxima de funcionamiento de un rodamiento cónico estándar?
 Los rodamientos cónicos estabilizados térmicamente (S1) operan hasta 150 °C / 302 °F. Superar los 120 °C / 248 °F exige aceros especiales y lubricación de alta temperatura.
 
-**¿Qué holgura axial se recomienda en un montaje en pareja “cara a cara”?**  
+### ¿Qué holgura axial se recomienda en un montaje en pareja “cara a cara”?
 En un montaje en O de rodamientos serie 302 con diámetro de 50 mm / 1.969 in, se ajusta un juego axial de 0,03 mm / 0.0012 in a 0,05 mm / 0.0020 in para compensar la dilatación térmica.
 
-**¿Cuánta carga estática puede soportar un rodamiento cónico sin dañarse?**  
+### ¿Cuánta carga estática puede soportar un rodamiento cónico sin dañarse?
 Un rodamiento 32312 soporta una carga estática de hasta 260 kN / 58 450 lbf; superarla puede provocar deformación plástica de los caminos de rodadura superior a 0,0001 del diámetro del rodillo.
 
 ## Fuentes consultadas

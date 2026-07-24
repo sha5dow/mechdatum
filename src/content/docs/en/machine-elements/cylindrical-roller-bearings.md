@@ -13,10 +13,8 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definition
 Cylindrical roller bearings are a type of rolling-element bearing that uses cylinders as rolling bodies, guided between an inner ring and an outer ring. They are designed to support high radial loads due to the linear geometry of the contact between the rollers and the raceways, and can operate at moderate and high speeds. The radial load capacity is typically higher than that of a deep groove ball bearing of equivalent dimensions.
 
-## Operating principle
 The cylindrical rollers rotate about their own axes and roll on the raceways of the inner and outer rings. The line contact distributes the load over a larger area compared to the point contact of ball bearings, which reduces contact pressure and allows greater radial forces to be supported. The cage keeps the rollers separated to prevent friction between them and ensure uniform load distribution. Some designs allow free axial displacement of the ring relative to the rollers (types NU, N) to absorb thermal expansion of the shaft, while others include flanges to guide the bearing in one axial direction (NJ, NUP).
 
 ## Characteristics
@@ -90,26 +88,25 @@ The following table suggests series and types of cylindrical roller bearings for
 
 The indicated speeds are approximate and depend on the lubrication method, load, and temperature. For each specific case, the manufacturer's n x dm speed factor should be verified.
 
-## Frequently asked questions
-**1. What is the typical service life of a cylindrical roller bearing?**  
+## Frequently Asked Questions (FAQ)
+### What is the typical service life of a cylindrical roller bearing?
 The L10 nominal life for a medium-size cylindrical roller bearing (e.g., inner diameter 40 mm / 1.6 in) is approximately 20,000 hours under a load equivalent to 10 % of the dynamic capacity, with proper lubrication and correct alignment.
 
-**2. How much misalignment can it absorb without damage?**  
+### How much misalignment can it absorb without damage?
 The permissible angular error for standard cylindrical roller bearings is less than 4 arc-minutes (0.066 degrees), although some designs with profiled rollers can tolerate up to 10 arc-minutes without significant life reduction.
 
-**3. What maximum working temperature can it withstand?**  
+### What maximum working temperature can it withstand?
 A standard cylindrical roller bearing in dimensionally stabilized 100Cr6 steel can operate continuously up to 150 °C / 302 °F. With special heat treatment (higher tempering temperature) and a metal cage, 200 °C / 392 °F can be reached, and with high-temperature steels up to 300 °C / 572 °F.
 
-**4. How much axial load can an NJ type bearing support?**  
+### How much axial load can an NJ type bearing support?
 The permissible axial load for a medium NJ (diameter 50 mm / 1.97 in) typically does not exceed 15-20 % of the radial dynamic load capacity, i.e., on the order of 3000-4000 N / 675-900 lbf, and always in the presence of sufficient radial load to keep the rollers in uniform contact.
 
-**5. How is the correct internal radial clearance determined?**  
+### How is the correct internal radial clearance determined?
 The internal radial clearance must be selected based on the fit of the ring on the shaft and in the housing. For an interference fit of 0.02 mm / 0.0008 in on the shaft and a service temperature of 70 °C / 158 °F, clearance C3 is recommended, which for a 40 mm / 1.57 in diameter corresponds to a radial clearance range of 25 to 51 µm / 0.00098 to 0.00201 in.
 
-**6. What is the minimum recommended interference for the shaft fit?**  
+### What is the minimum recommended interference for the shaft fit?
 For a steel shaft and a bearing with inner diameter 50 mm / 1.97 in subjected to a rotating load relative to the shaft, an interference between 0.005 mm and 0.030 mm / 0.0002-0.0012 in is recommended, depending on the load magnitude and ring thickness.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/iso-threads-d_752.html
 - **mcmaster.com**: https://www.mcmaster.com/products/cylindrical-roller-bearings

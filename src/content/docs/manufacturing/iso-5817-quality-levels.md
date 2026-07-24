@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 La norma internacional ISO 5817 establece tres niveles de calidad —B, C y D— para imperfecciones en uniones soldadas por fusión de materiales metálicos, excluyendo el soldeo por haz de energía. El nivel B representa la máxima exigencia y se reserva para componentes sometidos a cargas críticas o fatiga; el nivel C es el estándar intermedio de uso general en estructuras metálicas; el nivel D corresponde a requisitos básicos donde solo se requiere resistencia estática. La evaluación se basa en la observación visual y ensayos no destructivos, fijando límites cuantitativos para cada tipo de imperfección en función del espesor de la soldadura. La norma cubre cordones con espesores típicos entre 0,5 mm / 0.02 in y 63 mm / 2.48 in, y es aplicable a la mayoría de los procesos de soldadura por arco y autógena.
 
 ## Parámetros operativos

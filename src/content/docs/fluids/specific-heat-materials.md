@@ -103,23 +103,23 @@ La elección de un material con base en su calor específico responde a la funci
 
 Para fluidos térmicos en intercambiadores de calor se prefiere un alto \(c_p\) porque reduce el caudal másico necesario para transportar una cantidad de calor dada, disminuyendo el consumo de bombeo. En procesos de temple o enfriamiento rápido, un bajo calor específico permite que el material alcance la temperatura deseada con menor inversión energética.
 
-## Preguntas frecuentes
-**¿Cuál es el calor específico del agua y por qué es tan alto?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el calor específico del agua y por qué es tan alto?
 El agua líquida a 20 °C tiene un calor específico de 4182 J/(kg·°C) / 1,000 Btu/(lb·°F), uno de los más altos entre los líquidos comunes. Este valor elevado se debe a los fuertes puentes de hidrógeno que almacenan parte de la energía suministrada en forma de energía potencial intermolecular, retrasando el aumento de temperatura.
 
-**¿Cuál es el metal con mayor calor específico?**  
+### ¿Cuál es el metal con mayor calor específico?
 El litio presenta 3582 J/(kg·°C) / 0,856 Btu/(lb·°F), el valor más alto registrado para un metal puro a temperatura ambiente. Le siguen el berilio (1020 J/(kg·°C)) y el magnesio (1050 J/(kg·°C)), adecuados para aplicaciones aeroespaciales donde se busca ligereza y capacidad de absorción térmica.
 
-**¿Qué material de uso masivo tiene el calor específico más bajo?**  
+### ¿Qué material de uso masivo tiene el calor específico más bajo?
 El plomo, con 129 J/(kg·°C) / 0,031 Btu/(lb·°F), comparte el valor más bajo entre los metales comunes junto con el oro. Esta propiedad, combinada con su alta densidad, lo hace útil en blindajes contra radiación donde se desea una baja acumulación de calor.
 
-**¿Cuánta energía se necesita para calentar 1 litro de agua de 20 °C a ebullición?**  
+### ¿Cuánta energía se necesita para calentar 1 litro de agua de 20 °C a ebullición?
 Para elevar la temperatura de 1 L de agua (masa ≈ 1 kg) desde 20 °C hasta 100 °C se requieren aproximadamente 334 560 J (80 kcal), calculado con \(Q = 1\,\text{kg} \times 4182\,\text{J/(kg·°C)} \times 80\,\text{°C}\). En unidades imperiales equivale a cerca de 317 Btu.
 
-**¿Cómo varía el calor específico del aire seco a diferente temperatura?**  
+### ¿Cómo varía el calor específico del aire seco a diferente temperatura?
 A 0 °C, el \(c_p\) del aire seco es aproximadamente 1005 J/(kg·°C) / 0,240 Btu/(lb·°F); a 100 °C sube a cerca de 1009 J/(kg·°C) / 0,241 Btu/(lb·°F). La variación es mínima en aplicaciones HVAC, por lo que se toma constante en la mayoría de los cálculos de ingeniería.
 
-**¿Qué influencia tiene el calor específico en el diseño de un intercambiador de calor?**  
+### ¿Qué influencia tiene el calor específico en el diseño de un intercambiador de calor?
 Un fluido secundario con alto calor específico, como el agua (4182 J/(kg·°C)), puede transportar más energía por unidad de masa, reduciendo el caudal necesario y el tamaño del intercambiador. Por contraste, fluidos con bajo \(c_p\) exigen mayores caudales para la misma transferencia térmica, lo que incrementa los costos operativos.
 
 ## Fuentes consultadas

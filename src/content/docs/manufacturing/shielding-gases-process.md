@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Resumen
 En los procesos de soldadura por arco con protección gaseosa (GMAW y GTAW) los caudales típicos oscilan entre 5 y 25 L/min (0.18 y 0.88 cfm), según el material base, la mezcla de gases y la posición de soldeo. Los gases de protección cumplen la función de desplazar el oxígeno y el vapor de agua de la zona de fusión, evitando oxidación, porosidad y salpicaduras excesivas. Se clasifican en inertes —argón (Ar) y helio (He)— y activos —dióxido de carbono (CO₂), oxígeno (O₂), nitrógeno (N₂) e hidrógeno (H₂)—, estos últimos empleados solo en GMAW sobre metales ferrosos. La elección correcta del gas determina la penetración, estabilidad del arco, velocidad de soldadura y propiedades mecánicas del cordón.
 
 ## Parámetros operativos
@@ -80,23 +79,23 @@ En los procesos de soldadura por arco con protección gaseosa (GMAW y GTAW) los 
 6. **Materiales disímiles**: TIG con Ar puro o Ar/He (70/30) es la opción más versátil; GMAW solo si la combinación metalúrgica es favorable con el consumible adecuado.
 7. **Verifique siempre la pureza del gas**: Ar ≥ 99.995 %, He ≥ 99.996 %, CO₂ ≥ 99.8 %.
 
-## FAQ
-1. **¿Qué caudal de gas se recomienda para soldadura MIG de acero al carbono con mezcla 75 % Ar / 25 % CO₂?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué caudal de gas se recomienda para soldadura MIG de acero al carbono con mezcla 75 % Ar / 25 % CO₂?
    Para acero al carbono con alambre sólido y mezcla 75/25 se recomienda un caudal de 12 a 18 L/min (0.42–0.64 cfm), ajustando dentro de ese rango según la posición de soldadura y la velocidad del viento en el entorno.
 
-2. **¿Se puede usar CO₂ puro en soldadura TIG?**  
+### ¿Se puede usar CO₂ puro en soldadura TIG?
    No. En TIG, el electrodo de tungsteno exige un gas estrictamente inerte; cualquier presencia de CO₂ provoca su oxidación inmediata. El argón debe tener una pureza mínima de 99.995 % (grado 4.5) para garantizar la estabilidad del arco.
 
-3. **¿Qué gas proporciona la mayor penetración en MIG sobre acero?**  
+### ¿Qué gas proporciona la mayor penetración en MIG sobre acero?
    El CO₂ puro produce una penetración hasta un 30 % mayor que la mezcla 75/25 de Ar/CO₂, aunque a costa de un arco más inestable y mayor cantidad de salpicaduras.
 
-4. **¿Qué mezcla de protección se recomienda para soldar aluminio con MIG?**  
+### ¿Qué mezcla de protección se recomienda para soldar aluminio con MIG?
    Para aluminio con MIG se utiliza argón puro o mezcla de argón con 25–50 % de helio, con un caudal de 15–25 L/min (0.53–0.88 cfm) para asegurar una cobertura efectiva y evitar la oxidación.
 
-5. **¿Cuál es el espesor mínimo que puede soldarse con TIG?**  
+### ¿Cuál es el espesor mínimo que puede soldarse con TIG?
    El proceso TIG permite soldar espesores desde 0.125 mm (0.005 in), lo que lo convierte en la opción preferida para láminas muy finas y aplicaciones de alta precisión.
 
-6. **¿Por qué se añaden pequeñas cantidades de O₂ o CO₂ al argón en GMAW?**  
+### ¿Por qué se añaden pequeñas cantidades de O₂ o CO₂ al argón en GMAW?
    La adición de 2–5 % de O₂ o 5–25 % de CO₂ al argón mejora la estabilidad del arco, reduce la tensión superficial del baño fundido y aumenta la mojabilidad. Con estas mezclas se trabaja normalmente con caudales de 12–18 L/min (0.42–0.64 cfm).
 
 ## Fuentes consultadas

@@ -103,23 +103,22 @@ Existen múltiples técnicas para asegurar que la tensión en el tornillo se apr
 La selección del método depende de la criticidad de la unión, el tamaño del tornillo y la producción. Los sistemas de control torque-ángulo dominan en la industria automotriz y aeroespacial por su trazabilidad.
 
 ## Preguntas frecuentes (FAQ)
-
-1.  **¿Cuál es la fórmula general para calcular el torque de apriete en tornillos?**
+### ¿Cuál es la fórmula general para calcular el torque de apriete en tornillos?
     La expresión más utilizada es \(T = K F d (1 - l/100)\), donde el torque \(T\) se obtiene multiplicando la constante de torque \(K\) (típicamente 0,2 para acero seco normal), la precarga \(F\) y el diámetro nominal \(d\), afectada por la reducción por lubricación \(l\). No considera el paso de rosca y supone una precisión de llave de ±25 %.
 
-2.  **¿Qué valor de constante K se recomienda para un tornillo de acero sin lubricar?**
+### ¿Qué valor de constante K se recomienda para un tornillo de acero sin lubricar?
     Para un tornillo de acero de resistencia media, seco y sin recubrimiento, \(K = 0,2\). Si el acabado es negro no revestido puede subir a 0,3, mientras que un tornillo ligeramente lubricado baja a 0,18.
 
-3.  **¿Cuánto reduce la lubricación el torque necesario?**
+### ¿Cuánto reduce la lubricación el torque necesario?
     Al lubricar con aceite SAE 30, el torque requerido para alcanzar la misma precarga se reduce aproximadamente un 40 % respecto al valor en seco. Por ello, si se aplica el torque seco a una unión lubricada, la precarga real puede exceder la resistencia del tornillo y producir rotura.
 
-4.  **¿Cuál es la precarga objetivo habitual respecto a la resistencia del tornillo?**
+### ¿Cuál es la precarga objetivo habitual respecto a la resistencia del tornillo?
     El torque estándar en seco se calcula para generar una tensión de tracción igual al 75 % de la carga de prueba (proof load) o al 70 % de la resistencia a la tracción mínima del tornillo, según la práctica general de ingeniería.
 
-5.  **¿Qué torque se requiere para apretar un tornillo métrico M30 clase 8.8 en seco?**
+### ¿Qué torque se requiere para apretar un tornillo métrico M30 clase 8.8 en seco?
     Para un M30 clase 8.8 con carga de prueba de 337 kN (aproximadamente 325 kN en tabla) en condiciones secas (K=0,2) se necesita un torque de 2022 Nm / 1492 ft·lb. Con lubricación, el torque se reduce a unos 1213 Nm / 895 ft·lb.
 
-6.  **¿Cuáles son los métodos de control de precarga más utilizados en la industria?**
+### ¿Cuáles son los métodos de control de precarga más utilizados en la industria?
     El control por torque con llave dinamométrica es el más simple y extendido. Le siguen el método torque-ángulo (torque hasta umbral + giro adicional), el apriete por control de ángulo puro y, en aplicaciones críticas, los sistemas de estiramiento hidráulico y los indicadores de tensión directa.
 
 ## Fuentes consultadas

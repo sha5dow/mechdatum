@@ -111,24 +111,24 @@ Among its most frequent applications are pinions and transmission gears, cranksh
 
 Compared to lower-grade carburizing steels such as AISI 8620H, the standard variant offers a narrower compositional range that ensures a more predictable hardening response. In comparison with chromium-manganese steels like 5115, 8620 provides greater core toughness due to the presence of nickel. Regarding higher-hardenability alloys like AISI 4320, 8620 is a more economical alternative while maintaining sufficient performance for most medium-duty applications. When compared to through-hardening steels like AISI 4140, 8620 is distinguished by its ability to be carburized, achieving much harder surfaces without sacrificing core ductility.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum surface hardness obtainable by carburizing 8620 steel?**
+### What is the maximum surface hardness obtainable by carburizing 8620 steel?
 The maximum surface hardness after carburizing and low-temperature tempering is between 58 HRC and 62 HRC when the case reaches an eutectoid carbon content.
 
-**What tempering temperature is recommended to obtain a tensile strength of 800 MPa in the core?**
+### What tempering temperature is recommended to obtain a tensile strength of 800 MPa in the core?
 A tempering between 150 °C and 200 °C after hardening allows obtaining core tensile strengths close to 800 MPa in carburized parts.
 
-**How much carbon does the surface of 8620 steel absorb during a standard carburizing?**
+### How much carbon does the surface of 8620 steel absorb during a standard carburizing?
 During the carburizing phase at 925 °C with controlled carbon potential, the surface absorbs approximately between 0.80% and 1.00% carbon.
 
-**What is the hardness difference between the carburized case and the core in a treated gear?**
+### What is the hardness difference between the carburized case and the core in a treated gear?
 The carburized case typically reaches 60 HRC, while the core remains between 25 HRC and 35 HRC, representing a difference of up to 35 Rockwell C points.
 
-**What carburized case depth is specified in automotive pinion applications?**
+### What carburized case depth is specified in automotive pinion applications?
 The effective case depth commonly specified for transmission pinions ranges from 0.5 mm to 1.5 mm, depending on the gear module.
 
-**What is the advantage of using 8620 over a plain carbon steel for wear parts?**
+### What is the advantage of using 8620 over a plain carbon steel for wear parts?
 8620 steel develops a surface hardness exceeding 58 HRC after treatment, doubling the wear resistance of a plain carburized carbon steel, which rarely exceeds 45 HRC effective in service.
 
 ## Sources
@@ -137,8 +137,7 @@ The effective case depth commonly specified for transmission pinions ranges from
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_alloy_eu.php?zname_id=1384
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6754
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_alloy_eu.php?zname_id=1384

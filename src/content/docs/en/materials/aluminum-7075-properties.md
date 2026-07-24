@@ -141,24 +141,24 @@ Aluminum 7075 in T6 temper achieves a tensile strength around 540 MPa, compared 
 | 6061 T6 | 290 – 310 | 240 – 260 | 12 – 17 | Very good | Good |
 | 2024 T3 | 470 – 480 | 325 – 345 | 18 – 20 | Poor | Very limited |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of aluminum 7075 in temper T6?**  
+### What is the tensile strength of aluminum 7075 in temper T6?
 The tensile strength of aluminum 7075 T6 ranges between 510 and 570 MPa (74,000 – 83,000 psi), depending on the thickness and shape of the product.
 
-**How much does aluminum 7075 weigh compared to steel?**  
+### How much does aluminum 7075 weigh compared to steel?
 With a density of 2.81 g/cm³, aluminum 7075 weighs approximately 65% less than a typical carbon steel (7.85 g/cm³), while maintaining a specific strength comparable to many structural steels.
 
-**Can aluminum 7075 be welded without losing strength?**  
+### Can aluminum 7075 be welded without losing strength?
 There are no fusion welding processes that fully preserve the strength of 7075 in the joint. The weld strength is usually 50–60% lower than that of the T6 base metal, so mechanical joints (rivets) or friction stir welding are preferred.
 
-**What does temper T651 mean?**  
+### What does temper T651 mean?
 Temper T651 corresponds to a T6 treatment (solution, quench and artificial aging) to which a stress relief is added by controlled stretching of the order of 1.5 to 3%. It reduces residual stresses without significantly affecting static mechanical properties.
 
-**What is the maximum working temperature of aluminum 7075?**  
+### What is the maximum working temperature of aluminum 7075?
 The recommended maximum continuous working temperature for aluminum 7075 is 160 °C; above this temperature, the alloy in T6 temper undergoes overaging with loss of strength and hardness.
 
-**What hardness does aluminum 7075 have in T6 condition?**  
+### What hardness does aluminum 7075 have in T6 condition?
 The hardness of aluminum 7075 T6 is 150 HBW (Brinell) or 87 HRB (Rockwell B), values that decrease to 60 HBW in the annealed condition (temper O).
 
 ## References
@@ -167,8 +167,3 @@ The hardness of aluminum 7075 T6 is 150 HBW (Brinell) or 87 HRB (Rockwell B), va
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1195
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/metals/aluminum-grade-7xxx-series-alloys_grade-7075-(uns-a97075)
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1195

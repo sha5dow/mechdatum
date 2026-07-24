@@ -154,7 +154,7 @@ Grade EN-GJS-500-7 has a minimum tensile strength of 500 MPa and a minimum elong
 
 For thick sections (30‑60 mm and 60‑200 mm) the minimum properties are reduced as stipulated in the standard. Additional equivalents can be found in ASTM A536, A395 and other regional standards.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the typical tensile strength of ductile iron?
 The tensile strength of ductile iron ranges from 350 MPa (50.8 ksi) in ferritic grades to 1000 MPa (145 ksi) in heat-treated grades such as ADI. The exact value depends on grade, thickness, and applied heat treatment.
@@ -174,8 +174,7 @@ Brinell hardness can range from 115 HB to 326 HB (approximately 1150‑3200 MPa 
 ### How does its fatigue resistance compare to that of steel?
 The fatigue limit of 180‑330 MPa (26‑48 ksi) typically represents between 40% and 55% of its tensile strength, a behavior very similar to that of many structural steels. This ability to withstand cyclic loads makes ductile iron a viable alternative for components such as crankshafts and suspension elements.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=797
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/cast-iron-d_1163.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=1522

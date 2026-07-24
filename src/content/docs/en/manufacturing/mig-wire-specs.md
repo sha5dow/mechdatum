@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Overview
 MIG/MAG (GMAW) welding wire is a continuous consumable electrode supplied in coils and spools, designed to be automatically fed through the torch. Its diameter is standardized according to specifications such as AWS A5.18, A5.9, and A5.10, ranging from 0.6 mm / 0.023 in to 2.4 mm / 0.094 in in the heaviest applications. Wire selection depends on the base metal to be welded, welding position, transfer mode, and shielding gas used. The specifications cover carbon steels, stainless steels, aluminum, and other alloys, ensuring defined mechanical properties and metallurgical compatibility.
 
 ## Applications
@@ -134,22 +133,22 @@ Typical mechanical properties of deposited metal (100% Ar):
 For thin thicknesses (≤ 3 mm / 0.12 in) in any material, wire of 0.8–0.9 mm / 0.030–0.035 in is used with short circuit transfer. For medium and thick thicknesses, diameters of 1.2 mm / 0.045 in or larger and spray transfer are chosen.
 
 ## Frequently Asked Questions (FAQ)
-**1. What is the minimum tensile strength of ER70S-6 wire?**  
+### What is the minimum tensile strength of ER70S-6 wire?
 The minimum tensile strength specified by AWS A5.18 is 480 MPa / 70 ksi, although typical values range between 500 and 560 MPa / 72 and 81 ksi when using an argon/CO₂ gas mixture.
 
-**2. What wire diameters are most common for welding aluminum with ER4043?**  
+### What wire diameters are most common for welding aluminum with ER4043?
 The most commonly used diameters are 1.2 mm / 0.047 in and 1.6 mm / 0.063 in; for thicknesses above 6 mm / 0.24 in, 2.4 mm / 0.094 in is preferred, always using special feeding equipment.
 
-**3. What preheat temperature should be applied to a low-alloy steel before using ER100S-1?**  
+### What preheat temperature should be applied to a low-alloy steel before using ER100S-1?
 Preheating between 150 °C / 302 °F and 200 °C / 392 °F is recommended, depending on thickness and carbon equivalent, to avoid hydrogen cracking.
 
-**4. What arc length is maintained when welding stainless steel with short circuit transfer and 1.0 mm wire?**  
+### What arc length is maintained when welding stainless steel with short circuit transfer and 1.0 mm wire?
 The ideal arc length is approximately 3 to 6 mm / 0.12 to 0.24 in, equivalent to a voltage of 17–20 V, which produces stable transfer and low spatter.
 
-**5. What minimum elongation is required for the weld deposit of an ER308L wire?**  
+### What minimum elongation is required for the weld deposit of an ER308L wire?
 AWS A5.9 requires a minimum elongation of 35%, ensuring adequate ductility for subsequent forming and cold service.
 
-**6. What shielding gas flow rate is normally set when welding aluminum with 1.6 mm wire?**  
+### What shielding gas flow rate is normally set when welding aluminum with 1.6 mm wire?
 A flow rate of 15 to 20 L/min / 32 to 42 ft³/h of pure argon is established, sufficient to maintain gas coverage without generating turbulence that could introduce air.
 
 ## References
@@ -157,7 +156,3 @@ A flow rate of 15 to 20 L/min / 32 to 42 ft³/h of pure argon is established, su
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/awg-wire-gauge-d_731.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/inductive-magnetic-forming-pipes
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/awg-wire-gauge-d_731.html
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/inductive-magnetic-forming-pipes

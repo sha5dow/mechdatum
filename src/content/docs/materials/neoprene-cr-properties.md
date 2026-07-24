@@ -131,22 +131,22 @@ El neopreno se suministra en forma de láminas sólidas, cintas, látex o gránu
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la temperatura máxima de uso continuo del neopreno?**  
+### ¿Cuál es la temperatura máxima de uso continuo del neopreno?
 La temperatura máxima de uso continuo es de 115 °C (239 °F). Por encima de este valor, la degradación del cloro reduce la vida útil del elastómero.
 
-**¿Qué dureza Shore A tiene un neopreno típico para juntas?**  
+### ¿Qué dureza Shore A tiene un neopreno típico para juntas?
 Las juntas de neopreno presentan normalmente una dureza entre 50 y 70 Shore A. Para aplicaciones que requieren mayor flexibilidad se emplean grados de 30 a 50 Shore A.
 
-**¿Es el neopreno resistente al aceite de motor?**  
+### ¿Es el neopreno resistente al aceite de motor?
 El neopreno resiste aceites minerales de base parafínica con un hinchamiento inferior al 15 %, pero los aceites que contienen aditivos aromáticos pueden provocar hinchamientos superiores al 50 %.
 
-**¿Cómo afecta la temperatura baja al neopreno?**  
+### ¿Cómo afecta la temperatura baja al neopreno?
 Por debajo de –40 °C (–40 °F) el neopreno pierde flexibilidad significativamente debido a la cristalización parcial de la matriz polimérica. Con plastificantes adecuados puede mantenerse flexible hasta –50 °C.
 
-**¿Qué espesor mínimo tiene una lámina de neopreno espumado?**  
+### ¿Qué espesor mínimo tiene una lámina de neopreno espumado?
 Las láminas de neopreno espumado están disponibles comercialmente a partir de 1 mm (0.039 in) de espesor. Para trajes de buceo se emplean grosores entre 3 mm y 7 mm.
 
-**¿Cuánto absorbe de agua un neopreno sólido?**  
+### ¿Cuánto absorbe de agua un neopreno sólido?
 La absorción de agua a 24 h y 23 °C es inferior al 1 % en volumen. Esta baja absorción lo hace adecuado para sellos en contacto con agua de mar.
 
 ## Fuentes consultadas

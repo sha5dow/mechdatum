@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General Description
 Aluminum 1100 is a commercially pure alloy from the 1000 series with a minimum aluminum content of 99.0%. It exhibits excellent corrosion resistance, high electrical and thermal conductivity, and outstanding formability. It is not precipitation heat treatable, so its mechanical properties are improved by cold working (strain hardening). It is used in sectors requiring ductility and chemical stability, in the form of sheets, tubes, and extruded profiles.
 
 ## Chemical Composition
@@ -87,8 +86,7 @@ Aluminum 1100 offers excellent resistance to atmospheric corrosion, in contact w
 | 5052 (Al Mg) | Al-2.5% Mg | Better marine corrosion resistance and higher mechanical strength (Rm ~ 190–260 MPa). Used in more aggressive environments. |
 | 1100 vs 1350 | 1350 (min. 99.5% Al) | 1350 is optimized for electrical conductivity (min. 61.0% IACS), while 1100 balances purity, formability, and cost. |
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6588
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1019

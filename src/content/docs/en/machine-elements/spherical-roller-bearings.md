@@ -135,23 +135,23 @@ During mounting, ensure that the bearing has adequate internal radial clearance,
 ## Advantages and limitations
 The main advantages are self-alignment, high radial and axial load capacity, suitability for regimes with impact loads, and the possibility of mounting on tapered sleeves. As limitations, they have higher friction than rigid ball bearings and a lower limiting speed. Internal friction and heat generation increase significantly when the permitted misalignment is exceeded, reducing service life.
 
-## Frequently asked questions
-1. The maximum misalignment in a series 222 bearing is 1.5° under light load, and for series 230 it can reach 2.5°. Can permanent misalignments be compensated?  
+## Frequently Asked Questions (FAQ)
+### The maximum misalignment in a series 222 bearing is 1.5° under light load, and for series 230 it can reach 2.5°. Can permanent misalignments be compensated?
 Yes, as long as the angular misalignment does not exceed the admissible value for the series and the load does not exceed 30 % of the dynamic capacity. Higher misalignment accelerates wear and can damage the cage.
 
-2. A bearing 22320 has a dynamic load rating of 710 kN / 159 600 lbf and a static load rating of 880 kN / 197 800 lbf. What does this mean in practice?  
+### A bearing 22320 has a dynamic load rating of 710 kN / 159 600 lbf and a static load rating of 880 kN / 197 800 lbf. What does this mean in practice?
 The basic dynamic load rating C is the load at which 90 % of a sample of identical bearings can achieve one million revolutions without fatigue. The static load rating C₀ indicates the limit beyond which permanent deformations occur at the contacts.
 
-3. The limiting speed with grease for a bearing 22216 is 4300 rpm. Can it be operated above if oil is used?  
+### The limiting speed with grease for a bearing 22216 is 4300 rpm. Can it be operated above if oil is used?
 Yes, with oil or oil mist lubrication the limiting speed can be increased by 20 % to 30 %, provided the lubrication system guarantees cooling and heat dissipation.
 
-4. A spherical roller bearing of series 232 has a more slender radial cross-section than the corresponding series 223. When is series 232 preferred?  
+### A spherical roller bearing of series 232 has a more slender radial cross-section than the corresponding series 223. When is series 232 preferred?
 When the available housing height space is limited but high load capacity is required, such as in compact gearboxes or large-diameter conveyor rollers.
 
-5. The maximum temperature for a polyamide cage is 120 °C / 248 °F. Can a bearing with this cage work at 130 °C?  
+### The maximum temperature for a polyamide cage is 120 °C / 248 °F. Can a bearing with this cage work at 130 °C?
 No, not continuously, because the polymer loses mechanical strength and ages prematurely. For higher temperatures, a brass or steel cage should be chosen, depending on speed and vibration conditions.
 
-6. The standardized radial clearance for a bearing with bore diameter 100 mm is 0.035 mm to 0.060 mm / 0.0014 in to 0.0024 in. When is C3 or C4 clearance required?  
+### The standardized radial clearance for a bearing with bore diameter 100 mm is 0.035 mm to 0.060 mm / 0.0014 in to 0.0024 in. When is C3 or C4 clearance required?
 When mounted with heavy interference on the shaft, when the housing and shaft have different thermal expansion, or when impact loads are dominant. C4 clearance adds about 0.030 mm / 0.0012 in of additional slack over C3.
 
 ## References
@@ -159,7 +159,3 @@ When mounted with heavy interference on the shaft, when the housing and shaft ha
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/american-standard-beams-d_1320.html
 - **mcmaster.com**: https://www.mcmaster.com/products/self-aligning-bearings/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/american-standard-beams-d_1320.html
-- **mcmaster.com**: https://www.mcmaster.com/products/self-aligning-bearings/

@@ -148,26 +148,25 @@ These differences prevent assembly without damaging the threads. Specific adapte
 
 ## Frequently Asked Questions (FAQ)
 
-**What is the pitch of a 1/2 inch BSP thread?**  
+### What is the pitch of a 1/2 inch BSP thread?
 The 1/2" BSP thread (G1/2) has 14 threads per inch, which is equivalent to a pitch of 1,814 mm. This pitch is common to both the parallel and tapered versions of that size.
 
-**Can I connect a male BSPT thread with a female NPT thread?**  
+### Can I connect a male BSPT thread with a female NPT thread?
 No, the major diameter of an R 1/2 thread is 20,955 mm / 0,8250 in, while the NPT 1/2 measures 21,336 mm / 0,840 in, and the thread angle differs (55° vs. 60°). The connection would result in leakage or seizure.
 
-**What is the tensile strength of a BSW 1/4" grade 8.8 bolt?**  
+### What is the tensile strength of a BSW 1/4" grade 8.8 bolt?
 The allowable load for a BSW 1/4" grade 8.8 bolt is approximately 11,6 kN / 2,61 kip, based on a stress area of 20,0 mm² and a proof stress of 580 MPa.
 
-**What drill size do I need to tap a G 3/8 hole?**  
+### What drill size do I need to tap a G 3/8 hole?
 For tapping G 3/8, a 15,0 mm (0,591 inch) drill is recommended, which corresponds to the minor diameter of the BSPP tap for that size, ensuring a correct internal thread profile.
 
-**What is the recommended tightening torque for a BSW 5/16" bolt?**  
+### What is the recommended tightening torque for a BSW 5/16" bolt?
 The recommended tightening torque for a BSW 5/16" grade 8.8 lubricated bolt is 23,0 N·m / 17,0 ft·lb, sufficient to develop the design preload without exceeding the yield strength.
 
-**How does BSPP thread differ from BSPT?**  
+### How does BSPP thread differ from BSPT?
 The BSPT thread has a taper of 1 in 16 (approximately 3.58° per side) and seals on the thread; the major diameter of the R 1/2 male is 20,955 mm / 0,8250 in, identical to the BSPP nominal, but the Rp female has a minor diameter of 18,489 mm / 0,7279 in, smaller than in the parallel version, so that the interference creates the seal.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/G-R-Rp-Whitworth-thread-BSPP-BSPT-d_2035.html
 - **bossard.com**: https://www.bossard.com/global-en/eshop/hex-nuts/hex-nuts-0-8d-pipe-thread/p/144/
 - **mcmaster.com**: https://www.mcmaster.com/products/british-standard-thread-pipe-fittings

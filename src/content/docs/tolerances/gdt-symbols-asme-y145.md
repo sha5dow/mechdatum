@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
-
 El dimensionado y tolerado geométrico (GDT, del inglés *Geometric Dimensioning and Tolerancing*) es un sistema simbólico normalizado por ASME Y14.5 que define las tolerancias de forma, orientación, localización, perfil y alabeo de las piezas. Sustituye el acotado lineal por un lenguaje que especifica la geometría nominal exacta y la variación permitida de cada elemento funcional. El estándar ASME Y14.5 reúne 14 símbolos principales, modificadores y reglas de interpretación. Esta guía recoge la simbología completa, ejemplos con datos numéricos y las diferencias más relevantes frente al sistema ISO GPS.
 
 ## Tabla de símbolos geométricos ASME Y14.5
@@ -102,24 +100,24 @@ Ejemplo de marco de control para una tolerancia de posición:
 | Perfil de línea | Por defecto, zona bilateral igual a menos que se especifique | ISO permite control de zona de tolerancia con desplazamiento por medio de símbolo UZ | La notación para zonas unilaterales difiere: ASME usa el modificador Ⓤ, mientras que ISO emplea UZ tras el valor de tolerancia. |
 | Zona común | Se indica con nota “Common Zone” en el marco de control | Símbolo CZ dentro del marco, adyacente a la tolerancia | A igualdad técnica, la notación cambia la representación gráfica del requisito. |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuántos símbolos geométricos principales define la norma ASME Y14.5?**  
+### ¿Cuántos símbolos geométricos principales define la norma ASME Y14.5?
 La norma ASME Y14.5 define 14 símbolos geométricos principales organizados en cinco categorías: 4 de forma, 3 de orientación, 2 de localización, 2 de perfil y 2 de alabeo, más un símbolo de concentricidad eliminado en la revisión de 2018.
 
-**2. ¿Qué bonificación máxima de tolerancia puedo obtener con la condición de máximo material en un taladro de 10 mm / 0.394 in?**  
+### ¿Qué bonificación máxima de tolerancia puedo obtener con la condición de máximo material en un taladro de 10 mm / 0.394 in?
 Con un taladro de 10 mm ±0,05 mm / 0.394 in ±0.002 in y una tolerancia de posición de 0,1 mm / 0.004 in Ⓜ, la bonificación máxima cuando el taladro se produce en su diámetro mayor (10,05 mm / 0.396 in) es de 0,05 mm / 0.002 in, lo que eleva la tolerancia total a 0,15 mm / 0.006 in.
 
-**3. ¿Cuál es la diferencia fundamental entre el símbolo de rectitud y el de planitud respecto a la zona de tolerancia?**  
+### ¿Cuál es la diferencia fundamental entre el símbolo de rectitud y el de planitud respecto a la zona de tolerancia?
 La rectitud aplicada a una superficie controla cada elemento lineal por separado, mientras que la planitud controla toda la superficie dentro de un plano de 0,05 mm / 0.002 in de espesor. Si se aplica rectitud a un eje, la zona de tolerancia es un cilindro de diámetro definido, por ejemplo ⌀ 0,03 mm / 0.0012 in.
 
-**4. ¿En qué casos se utiliza el modificador de plano tangente Ⓣ?**  
+### ¿En qué casos se utiliza el modificador de plano tangente Ⓣ?
 El modificador Ⓣ se aplica cuando se desea controlar únicamente el plano que toca los puntos más altos de una superficie, ignorando valles de hasta 0,1 mm / 0.004 in de profundidad. Es útil en superficies de apoyo donde el contacto real se produce en picos, como en bases de montaje.
 
-**5. ¿Qué representa la zona de tolerancia proyectada Ⓟ en un agujero roscado?**  
+### ¿Qué representa la zona de tolerancia proyectada Ⓟ en un agujero roscado?
 La zona de tolerancia proyectada Ⓟ de 15 mm / 0.59 in indica que la tolerancia de perpendicularidad se evalúa sobre una prolongación ficticia de 15 mm / 0.59 in por encima de la superficie, simulando la presencia del tornillo que atravesará el ensamblaje.
 
-**6. ¿Permite ASME Y14.5 controlar simetría sin el antiguo símbolo de simetría?**  
+### ¿Permite ASME Y14.5 controlar simetría sin el antiguo símbolo de simetría?
 Sí. La simetría se eliminó en la revisión 2009 y se controla actualmente mediante perfil de superficie o posición. Un control de perfil de 0,1 mm / 0.004 in respecto a un plano mediano datum asegura una simetría funcional equivalente sin la ambigüedad del símbolo original.
 
 ## Fuentes consultadas

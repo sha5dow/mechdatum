@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los cojinetes de deslizamiento son el tipo de apoyo más simple, compuestos únicamente por una superficie de contacto sin elementos rodantes. Se caracterizan por su bajo costo, alta capacidad de carga, compacidad y peso reducido. Pueden operar en un rango de temperaturas de -200 °C / -328 °F hasta 300 °C / 572 °F y soportar presiones de hasta 100 MPa / 14,5 ksi en materiales metálicos. El coeficiente de fricción con lubricación adecuada se sitúa entre 0,01 y 0,15, mientras que en seco alcanza valores de 0,1 a 1,0 según los materiales.
 
 ## Tipos de cojinetes de deslizamiento
@@ -95,23 +94,23 @@ Para funcionamiento en seco los valores de PV se reducen entre un 40 % y un 80 %
 - **Montaje a presión:** aplicar fuerza uniforme sobre el diámetro exterior; para bujes partidos o engatillados se recomienda un mandril para evitar el cierre del corte.
 - **Rodaje inicial:** para metales blandos (babbitt) es fundamental un rodaje con carga y velocidad crecientes que asiente las superficies.
 
-## Preguntas frecuentes
-**1. ¿Cuál es la diferencia principal entre un cojinete de deslizamiento y un rodamiento?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la diferencia principal entre un cojinete de deslizamiento y un rodamiento?
 Un cojinete de deslizamiento soporta la carga mediante una capa de lubricante o contacto directo sin elementos rodantes, mientras que un rodamiento utiliza bolas o rodillos. El cojinete de fricción admite cargas de hasta 100 MPa / 14,5 ksi en espacios más reducidos, pero genera mayor fricción a bajas velocidades, con un par de arranque entre 3 y 10 veces superior al de un rodamiento equivalente.
 
-**2. ¿Qué factor PV se recomienda para un buje de bronce sinterizado autolubricado con aceite SAE 20?**
+### ¿Qué factor PV se recomienda para un buje de bronce sinterizado autolubricado con aceite SAE 20?
 El factor PV máximo seguro es de 1,75 MPa·m/s / 50 000 psi·ft/min para una vida útil de 10 000 horas a 20 °C / 68 °F. Por encima de este valor se acelera la pérdida de aceite y el desgaste.
 
-**3. ¿Cuál es la temperatura máxima de operación de un cojinete de PTFE puro?**
+### ¿Cuál es la temperatura máxima de operación de un cojinete de PTFE puro?
 El PTFE puede operar de forma continua hasta 260 °C / 500 °F y soporta picos de 300 °C / 572 °F sin degradación inmediata, manteniendo un coeficiente de fricción de 0,04 a 0,10.
 
-**4. ¿Qué holgura radial debo prever en un cojinete de bronce para un eje de 25 mm / 1 in?**
+### ¿Qué holgura radial debo prever en un cojinete de bronce para un eje de 25 mm / 1 in?
 Se recomienda una holgura diametral total de 0,050 a 0,075 mm / 0,002 a 0,003 in para un buje de bronce SAE 660 lubricado con grasa, trabajando a menos de 1 m/s / 197 ft/min y temperatura ambiente.
 
-**5. ¿Qué acabado superficial necesita el eje en un cojinete de deslizamiento polimérico seco?**
+### ¿Qué acabado superficial necesita el eje en un cojinete de deslizamiento polimérico seco?
 La rugosidad del eje debe ser Ra 0,2 – 0,8 µm / 8 – 32 µin. Un acabado más basto incrementa la fricción y desgasta prematuramente el polímero; uno más pulido impide la transferencia de material lubricante sólido.
 
-**6. ¿Cuánto se reduce la capacidad de carga al pasar de lubricación continua a funcionamiento en seco?**
+### ¿Cuánto se reduce la capacidad de carga al pasar de lubricación continua a funcionamiento en seco?
 La capacidad de carga (presión máxima y PV) se reduce entre un 40% y un 80%. Por ejemplo, un buje de bronce que soporta 30 MPa / 4350 psi con lubricación puede limitarse a 6-12 MPa / 870-1740 psi en seco, dependiendo de la velocidad.
 
 ## Fuentes consultadas

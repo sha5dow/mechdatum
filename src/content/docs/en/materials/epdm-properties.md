@@ -122,8 +122,7 @@ EPDM is classified as M-Class rubber according to ASTM D1418, and its internatio
 | Diene content (wt%) | 0–15 |
 | Specific gravity (polymer) | 0.855–0.88 |
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1822
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-operating-temperatures--d_2242.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=2557

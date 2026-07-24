@@ -110,24 +110,24 @@ _A₂_ = 5027 mm² = 0.005027 m²
 _Q_ = 30 L/min = 0.0005 m³/s  
 _v_ = 0.0005 / 0.005027 = **0.0995 m/s / 3.92 in/s**  
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué fuerza de empuje genera un cilindro de 100 mm de diámetro a 250 bar?**  
+### ¿Qué fuerza de empuje genera un cilindro de 100 mm de diámetro a 250 bar?
 Un cilindro con diámetro de pistón de 100 mm (3.94 in) operado a 250 bar (3626 psi) desarrolla una fuerza de empuje de 196.3 kN (44 100 lbf), despreciando fricciones.  
 
-**¿Cómo afecta el diámetro del vástago a la fuerza de retracción?**  
+### ¿Cómo afecta el diámetro del vástago a la fuerza de retracción?
 La fuerza de retracción es siempre menor que la de empuje porque el área anular es más pequeña. Por ejemplo, con un vástago de 45 mm (1.77 in) en un cilindro de 100 mm (3.94 in), la fuerza de tracción a 200 bar (2900 psi) es de 113 kN (25 400 lbf), un 28 % inferior a la fuerza de empuje.  
 
-**¿Qué velocidad alcanza un cilindro de 80 mm de diámetro con un caudal de 40 L/min?**  
+### ¿Qué velocidad alcanza un cilindro de 80 mm de diámetro con un caudal de 40 L/min?
 Con un caudal de 40 L/min (10.6 gpm), la velocidad de extensión de un cilindro de 80 mm (3.15 in) de diámetro interior es aproximadamente 0.133 m/s (5.22 in/s).  
 
-**¿Cuál es la presión necesaria para levantar una carga de 50 kN con un cilindro de 63 mm?**  
+### ¿Cuál es la presión necesaria para levantar una carga de 50 kN con un cilindro de 63 mm?
 Para un cilindro con diámetro de pistón de 63 mm (2.48 in) que debe ejercer 50 kN (11 240 lbf) de empuje, se requiere una presión de trabajo de aproximadamente 160 bar (2320 psi).  
 
-**¿Es válida la fórmula de fuerza para cilindros de simple efecto?**  
+### ¿Es válida la fórmula de fuerza para cilindros de simple efecto?
 Sí, en un cilindro de simple efecto la fuerza de empuje se calcula con la misma fórmula _F = P · A_, pero la carrera de retorno depende de un muelle o carga externa, no de presión hidráulica opuesta.  
 
-**¿Qué margen se recomienda añadir por fricción en los cálculos de fuerza?**  
+### ¿Qué margen se recomienda añadir por fricción en los cálculos de fuerza?
 La fricción de juntas y cojinetes puede consumir entre un 5 % y un 20 % de la fuerza teórica. Para cálculos preliminares se suele aplicar un factor de incremento del 10 % sobre la carga requerida.
 
 ## Fuentes consultadas

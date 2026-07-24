@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
-
 Geometric Dimensioning and Tolerancing (GDT) is a symbolic system standardized by ASME Y14.5 that defines tolerances for form, orientation, location, profile, and runout of parts. It replaces linear dimensioning with a language that specifies the exact nominal geometry and the allowed variation of each functional feature. The ASME Y14.5 standard encompasses 14 main symbols, modifiers, and interpretation rules. This guide contains the complete symbology, examples with numerical data, and the most relevant differences compared to the ISO GPS system.
 
 ## ASME Y14.5 Geometric Symbol Table
@@ -102,26 +100,25 @@ Example of a feature control frame for a position tolerance:
 | Profile of a line | By default, equal bilateral zone unless specified | ISO allows tolerance zone control with offset using the UZ symbol | The notation for unilateral zones differs: ASME uses the Ⓤ modifier, while ISO uses UZ after the tolerance value. |
 | Common zone | Indicated with the note “Common Zone” in the feature control frame | CZ symbol inside the frame, adjacent to the tolerance | For equal technical meaning, the notation changes the graphical representation of the requirement. |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. How many main geometric symbols does the ASME Y14.5 standard define?**  
+### How many main geometric symbols does the ASME Y14.5 standard define?
 The ASME Y14.5 standard defines 14 main geometric symbols organized into five categories: 4 form, 3 orientation, 2 location, 2 profile, and 2 runout, plus a concentricity symbol eliminated in the 2018 revision.
 
-**2. What maximum tolerance bonus can I obtain with the maximum material condition on a 10 mm / 0.394 in hole?**  
+### What maximum tolerance bonus can I obtain with the maximum material condition on a 10 mm / 0.394 in hole?
 With a 10 mm ±0,05 mm / 0.394 in ±0.002 in hole and a position tolerance of 0,1 mm / 0.004 in Ⓜ, the maximum bonus when the hole is produced at its largest diameter (10,05 mm / 0.396 in) is 0,05 mm / 0.002 in, raising the total tolerance to 0,15 mm / 0.006 in.
 
-**3. What is the fundamental difference between the straightness and flatness symbols regarding the tolerance zone?**  
+### What is the fundamental difference between the straightness and flatness symbols regarding the tolerance zone?
 Straightness applied to a surface controls each linear element separately, while flatness controls the entire surface within a plane of 0,05 mm / 0.002 in thickness. If straightness is applied to an axis, the tolerance zone is a cylinder of defined diameter, for example ⌀ 0,03 mm / 0.0012 in.
 
-**4. In which cases is the tangent plane modifier Ⓣ used?**  
+### In which cases is the tangent plane modifier Ⓣ used?
 The Ⓣ modifier is applied when it is desired to control only the plane that touches the highest points of a surface, ignoring valleys up to 0,1 mm / 0.004 in deep. It is useful on bearing surfaces where actual contact occurs at peaks, such as mounting bases.
 
-**5. What does the projected tolerance zone Ⓟ represent in a threaded hole?**  
+### What does the projected tolerance zone Ⓟ represent in a threaded hole?
 The projected tolerance zone Ⓟ of 15 mm / 0.59 in indicates that the perpendicularity tolerance is evaluated over a fictitious extension of 15 mm / 0.59 in above the surface, simulating the presence of the bolt that will pass through the assembly.
 
-**6. Does ASME Y14.5 allow controlling symmetry without the old symmetry symbol?**  
+### Does ASME Y14.5 allow controlling symmetry without the old symmetry symbol?
 Yes. Symmetry was eliminated in the 2009 revision and is now controlled using surface profile or position. A profile control of 0,1 mm / 0.004 in with respect to a median datum plane ensures equivalent functional symmetry without the ambiguity of the original symbol.
 
-## Sources Consulted
-
+## References
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom_notes.html

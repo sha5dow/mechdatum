@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Accurate calculation of the **developed length** in bent sheet metal parts depends on two complementary concepts: the **bend allowance** (BA) and the **bend deduction** (BD). BA represents the arc length of the neutral fiber along the bend radius, while BD is the amount that must be subtracted from the sum of the external flange dimensions to obtain the total flat blank length. Both values depend on material thickness, inside radius, bend angle, and the **K** factor, which defines the position of the neutral fiber. Using the correct formulas avoids dimensional errors and ensures that the final part meets specifications.
 
 ## Calculation formulas
@@ -61,7 +60,7 @@ Angular tolerance in air bending is approximately ±0.5°, provided that the pun
 ## Advantages and limitations
 The use of *Bend Allowance* and *Bend Deduction* formulas allows obtaining the exact flat pattern length, optimizing material consumption, and reducing workshop adjustments. It is a standardized procedure compatible with CAD/CAM software and with the parameter tables of press brakes. The main limitations are associated with the variability of the actual K factor in production, the influence of the die condition, and the nonlinearity of *springback* in high-strength materials. Therefore, it is recommended to perform a preliminary test for each material batch when tight tolerances are required.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 1. **What angular precision can be expected in air bending of sheet metal?** Typical precision is ±0.5° under controlled conditions.
 
@@ -75,7 +74,6 @@ The use of *Bend Allowance* and *Bend Deduction* formulas allows obtaining the e
 
 6. **How does the rolling direction affect the minimum bend radius in cold rolled steel?** For steel with Rockwell B hardness greater than 70, bending must be done perpendicular to the rolling direction to avoid fractures; the minimum radius remains at 1T under that orientation and may require up to 2T if bent parallel.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pipe-formulas-d_1335.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/bending_design.cfm

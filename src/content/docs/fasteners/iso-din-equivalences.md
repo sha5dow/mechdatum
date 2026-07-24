@@ -125,24 +125,23 @@ El marcado de los tornillos y tuercas métricos está regulado por la norma ISO 
 
 Las tuercas se marcan en una de las caras de apoyo (normalmente la de contacto con la arandela) indicando la clase de resistencia mediante un código numérico (p. ej., 8, 10, 12) y, en algunos casos, un punto o ranura de identificación.
 
-## Preguntas frecuentes
-
-**1. ¿Cuál es el paso estándar para un tornillo M12 de rosca gruesa?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el paso estándar para un tornillo M12 de rosca gruesa?
 El paso grueso ISO para M12 es de 1,75 mm / 0.069 in, con un diámetro de broca para machuelo recomendado de 10,2 mm / 0.402 in.
 
-**2. ¿Qué torque de apriete necesita un tornillo M10 de clase 10.9 montado en seco?**
+### ¿Qué torque de apriete necesita un tornillo M10 de clase 10.9 montado en seco?
 Se recomienda un torque de apriete de aproximadamente 69 N·m / 51 lb·ft para un M10 clase 10.9, con rosca gruesa y sin lubricación.
 
-**3. ¿Cuántos kilonewton soporta un tornillo M16 calidad 8.8 antes de la fluencia?**
+### ¿Cuántos kilonewton soporta un tornillo M16 calidad 8.8 antes de la fluencia?
 Un tornillo M16 clase 8.8 admite una carga de prueba de 91,1 kN / 20 470 lbf, basada en un área de esfuerzo de tracción de 157 mm² / 0.243 in².
 
-**4. ¿Qué broca se necesita para hacer una rosca M8 con paso grueso?**
+### ¿Qué broca se necesita para hacer una rosca M8 con paso grueso?
 Para roscar M8 paso 1,25 mm / 0.049 in se utiliza una broca de 6,8 mm / 0.268 in de diámetro; en materiales duros se puede incrementar ligeramente hasta 7,0 mm / 0.276 in.
 
-**5. ¿Un tornillo DIN 933 es intercambiable con ISO 4017?**
+### ¿Un tornillo DIN 933 es intercambiable con ISO 4017?
 Sí, ambas normas definen el mismo tornillo de cabeza hexagonal totalmente roscado con rosca métrica ISO; la longitud de la rosca en DIN 933 puede variar ligeramente en algunas versiones antiguas, pero dimensionalmente son compatibles.
 
-**6. ¿Cuál es la equivalencia ANSI más cercana a un tornillo métrico M10 × 1,5 mm / 0.059 in?**
+### ¿Cuál es la equivalencia ANSI más cercana a un tornillo métrico M10 × 1,5 mm / 0.059 in?
 No existe una contraparte directa en rosca métrica dentro de ANSI, pero el tornillo de cabeza hexagonal ASME B18.2.1 en pulgadas más próximo sería de 3/8-16 UNC, cuyo paso de 1,588 mm / 0.0625 in se asemeja al paso grueso M10; sin embargo, nunca deben mezclarse roscas métricas con imperiales.
 
 ## Fuentes consultadas

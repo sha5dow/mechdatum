@@ -221,28 +221,27 @@ where:
 For a dry 3/4"-10 UNC bolt with target preload of 20 000 lb:  
 Tdry = 0.20 × 20 000 lb × 0.75 in × (1/12) ft/in = **250 lb·ft / 339 N·m**.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the recommended dry tightening torque for a 1/2-13 UNC grade 5 bolt?**  
+### What is the recommended dry tightening torque for a 1/2-13 UNC grade 5 bolt?
 The recommended dry tightening torque is **57 lb·ft / 77 N·m**, based on a preload equivalent to 75% of the proof load.
 
-**What dry torque does a 3/8-24 UNF grade 8 bolt require?**  
+### What dry torque does a 3/8-24 UNF grade 8 bolt require?
 For a dry 3/8-24 UNF grade 8, approximately **39 lb·ft / 53 N·m** is needed.
 
-**How does lubrication with SAE 30 oil affect the torque of a 5/8-11 UNC grade 5 bolt?**  
+### How does lubrication with SAE 30 oil affect the torque of a 5/8-11 UNC grade 5 bolt?
 With SAE 30 lubrication, the torque is reduced to **68 lb·ft / 92 N·m**, about 60% of the dry value of 113 lb·ft / 153 N·m.
 
-**Is there a difference in torque between fine (UNF) and coarse (UNC) threads for the same diameter and grade?**  
+### Is there a difference in torque between fine (UNF) and coarse (UNC) threads for the same diameter and grade?
 Yes, UNF bolts typically require **10% to 20% higher** torque than UNC because they have a larger tensile stress area. For example, a 1/2-20 UNF grade 5 requires 67 lb·ft / 91 N·m, compared to 57 lb·ft / 77 N·m for a 1/2-13 UNC.
 
-**What drill size is used for tapping a 3/8-16 UNC hole?**  
+### What drill size is used for tapping a 3/8-16 UNC hole?
 The recommended drill is **5/16 in / 7,94 mm**, which corresponds to the standard inch drill 5/16.
 
-**What is the maximum dry torque for a 1-8 UNC grade 8 bolt?**  
+### What is the maximum dry torque for a 1-8 UNC grade 8 bolt?
 The maximum dry torque is **681 lb·ft / 924 N·m**; exceeding this value may exceed the yield strength and permanently damage the bolt.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bolt-torque-load-calculator-d_2065.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/preload-and-tightening-torque/
 - **mcmaster.com**: https://www.mcmaster.com/products/torque-charts

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 ANSI and ISO roller chains are standardized power transmission elements, composed of alternating inner links (with bushings and rollers) and outer links (with pins), which mesh with sprockets. They are mostly manufactured from carbon steel, with versions in 304 stainless steel and corrosion-resistant coated steel for aggressive environments. Continuous lubrication is critical for their service life.
 
 ## Standard dimensions
@@ -87,7 +86,7 @@ Indicative powers for electric motor drive and uniform load (f1 = 1.0), 19-tooth
 - Correct tension: sag ≈ 2% of center distance under moderate manual load.
 - Connecting links (clip type or spring pin) must be installed with the clip opening opposite to the chain travel direction.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 | Question | Answer |
 | :--- | :--- |
 | What is the breaking load of an ANSI 40 chain? | The minimum breaking load of a single-strand ANSI 40 chain is 16,5 kN / 3 700 lbf. |
@@ -102,7 +101,3 @@ Indicative powers for electric motor drive and uniform load (f1 = 1.0), 19-tooth
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/wire-rope-strength-d_1518.html
 - **mcmaster.com**: https://www.mcmaster.com/products/roller-chain/chain-standard~iso/roller-chain-trade-number~08b/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/wire-rope-strength-d_1518.html
-- **mcmaster.com**: https://www.mcmaster.com/products/roller-chain/chain-standard~iso/roller-chain-trade-number~08b/

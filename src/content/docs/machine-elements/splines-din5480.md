@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 La norma DIN 5480 define estriados de perfil evolvente con ángulo de presión de 30°, utilizados en transmisiones de potencia deslizantes o fijas para ejes y cubos. Su forma de diente evolvente ofrece mayor resistencia a la fatiga y capacidad de par en comparación con los estriados de flancos paralelos, siendo aptos para aplicaciones de alta carga en ingeniería mecánica, automoción y aeronáutica. El sistema se basa en el módulo (m) como parámetro dimensional principal, trabajando preferentemente con centrado en el diámetro interior o exterior según las condiciones de servicio.
 
 ## Dimensiones normalizadas
@@ -66,23 +65,23 @@ La selección del estriado normalizado se basa en el módulo y el número de die
 
 ---
 
-## FAQ
-**¿Cuál es el módulo más pequeño definido en DIN 5480?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el módulo más pequeño definido en DIN 5480?
 El módulo mínimo normalizado es 0,5 mm / 0.0197 in, aunque los catálogos de uso común arrancan en 0,8 mm / 0.0315 in. Para módulos inferiores se requiere consultar la norma complementaria DIN 5480‑1.
 
-**¿Qué ángulo de presión utiliza DIN 5480?**  
+### ¿Qué ángulo de presión utiliza DIN 5480?
 El ángulo de presión es de 30°, lo que proporciona un compromiso óptimo entre resistencia a la flexión y presión de contacto, reduciendo la sensibilidad a errores de centrado en aproximadamente un 15 % comparado con el ángulo de 20°.
 
-**¿Cómo se determina el diámetro de referencia?**  
+### ¿Cómo se determina el diámetro de referencia?
 El diámetro de referencia se calcula multiplicando el módulo por el número de dientes (d<sub>ref</sub> = m × Z). Así, para módulo 2 mm / 0.0787 in y 25 dientes, d<sub>ref</sub> vale 50 mm / 1.9685 in.
 
-**¿Qué longitud de acoplamiento mínima se recomienda?**  
+### ¿Qué longitud de acoplamiento mínima se recomienda?
 La longitud mínima de acoplamiento debe ser 0,5 veces el diámetro de referencia para uniones fijas sometidas a par nominal. En uniones deslizantes con carga plena se recomienda al menos 0,8 veces el diámetro de referencia para mantener la presión específica por debajo de 30 N/mm² / 4,351 psi.
 
-**¿Influye la dureza del material en la capacidad de carga?**  
+### ¿Influye la dureza del material en la capacidad de carga?
 Sí, una dureza superficial inferior a 58 HRC reduce la presión admisible en más del 40 %. Para aceros cementados con temple superficial (60‑62 HRC), la presión admisible en unión fija puede alcanzar 150 N/mm² / 21,756 psi, mientras que en aceros bonificados a 300 HB baja a unos 70 N/mm² / 10,152 psi.
 
-**¿Qué tolerancias de concentricidad se consiguen con centrado exterior?**  
+### ¿Qué tolerancias de concentricidad se consiguen con centrado exterior?
 El centrado exterior permite tolerancias de excentricidad de hasta 0,015 mm / 0.0006 in para diámetros de referencia de hasta 50 mm / 1.97 in, una precisión hasta tres veces superior a la del centrado interior en las mismas condiciones.
 
 ## Fuentes consultadas

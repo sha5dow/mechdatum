@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
-
 Los materiales de fricción son compuestos diseñados para transformar energía cinética en calor mediante rozamiento controlado en frenos y embragues. Están conformados por una matriz aglomerante (resina fenólica, caucho o metal sinterizado), refuerzos fibrosos (aramida, vidrio, carbono, acero) y modificadores de fricción (grafito, partículas cerámicas, sulfuros metálicos) que ajustan el coeficiente de fricción, la resistencia al desgaste y la estabilidad térmica. En aplicaciones electromagnéticas, el material de fricción se coloca a ras con la superficie de acero del rotor o del electroimán, permitiendo que el flujo magnético cierre el circuito a través del entrehierro mientras la capa de fricción reduce el desgaste del acero (principio de embragues y frenos electromagnéticos). La combinación exacta de componentes determina el comportamiento frente a temperatura, presión de contacto, velocidad de deslizamiento y entorno (seco, húmedo, lubricado).
 
 ## Propiedades técnicas
@@ -103,24 +101,24 @@ La vida útil de un material de fricción se expresa en número de ciclos, kiló
 - **Dimensiones de referencia:** Espesores comerciales de láminas de fricción comienzan en 0,076 mm / 0.003 in y alcanzan hasta 0,508 mm / 0.020 in, según catálogos de suministro industrial (McMaster-Carr). El espesor de repuesto debe coincidir exactamente con el diseño original para preservar las dimensiones del entrehierro y la carrera del actuador.
 - **Síntomas de fin de vida:** Chirridos metálicos, vibración al frenar, aumento del recorrido del pedal o palanca y reducción del coeficiente de fricción por debajo del 70 % de su valor nominal indican que el material ha llegado a su espesor mínimo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es el coeficiente de fricción típico de un material orgánico seco contra acero?**  
+### ¿Cuál es el coeficiente de fricción típico de un material orgánico seco contra acero?
 El coeficiente dinámico se sitúa entre 0,32 y 0,38 a 20 °C / 68 °F, con un valor estático ligeramente superior (0,35–0,42). Estos valores pueden caer un 20–30 % si la temperatura superficial supera los 300 °C / 572 °F.
 
-**2. ¿Qué temperatura máxima soporta un material de fricción sinterizado sin perder rendimiento?**  
+### ¿Qué temperatura máxima soporta un material de fricción sinterizado sin perder rendimiento?
 Los sinterizados de base cobre mantienen un coeficiente estable hasta aproximadamente 600 °C / 1112 °F. Por encima de esta temperatura se acelera la oxidación del metal y puede aparecer transferencia de material al disco.
 
-**3. ¿Cada cuántos kilómetros se debe sustituir el material de fricción en un freno de disco automotor convencional?**  
+### ¿Cada cuántos kilómetros se debe sustituir el material de fricción en un freno de disco automotor convencional?
 La vida media de una pastilla semimetálica en uso mixto ciudad/carretera oscila entre 30 000 y 50 000 km / 18 600–31 000 mi, dependiendo de la orografía y el estilo de conducción.
 
-**4. ¿Qué espesor mínimo de forro se recomienda antes del recambio?**  
+### ¿Qué espesor mínimo de forro se recomienda antes del recambio?
 En pastillas adheridas se considera seguro un remanente de 2 mm / 0.078 in sobre la placa metálica, mientras que en forros remachados el espesor sobre la cabeza del remache no debe ser inferior a 1 mm / 0.039 in.
 
-**5. ¿Cómo afecta la humedad al coeficiente de fricción de un material de freno?**  
+### ¿Cómo afecta la humedad al coeficiente de fricción de un material de freno?
 En materiales orgánicos y semimetálicos, la presencia de agua puede reducir el coeficiente estático hasta un 30 % (por ejemplo, de 0,40 a 0,28) hasta que el calor generado evapora la humedad. Los materiales de fricción para baño de aceite están diseñados específicamente para operar con µ bajo y constante en ambiente lubricado.
 
-**6. ¿Se puede aumentar la capacidad de torque simplemente usando un material con mayor coeficiente de fricción?**  
+### ¿Se puede aumentar la capacidad de torque simplemente usando un material con mayor coeficiente de fricción?
 Un aumento del coeficiente estático de 0,35 a 0,50 puede incrementar el torque teórico hasta un 43 % para una misma fuerza de actuación, pero también puede provocar sobrecalentamiento local, mayor desgaste y exceder los límites térmicos y de PV del sistema, por lo que siempre debe evaluarse en conjunto.
 
 ## Fuentes consultadas

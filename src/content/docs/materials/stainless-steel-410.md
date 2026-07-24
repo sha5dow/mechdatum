@@ -109,22 +109,22 @@ El 410 conserva su resistencia mecánica hasta aproximadamente 650 °C (1200 °F
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la resistencia a la tracción mínima del acero 410 en estado recocido?**  
+### ¿Cuál es la resistencia a la tracción mínima del acero 410 en estado recocido?
    La resistencia a la tracción mínima es de 480 MPa (69,6 ksi) según la norma ASTM A276 para barras acabadas en frío.
 
-2. **¿Por qué se desaconseja el revenido entre 425 °C y 600 °C?**  
+### ¿Por qué se desaconseja el revenido entre 425 °C y 600 °C?
    Porque en ese intervalo la resiliencia cae drásticamente (valores inferiores a 10 J en el ensayo Charpy) debido a la precipitación de carburos.
 
-3. **¿Qué límite elástico se obtiene tras templar y revenir a 204 °C?**  
+### ¿Qué límite elástico se obtiene tras templar y revenir a 204 °C?
    Se alcanza un límite elástico de 1005 MPa (146 ksi), con una elongación del 11 % y una dureza Brinell de 400 HB.
 
-4. **¿Cuál es el coeficiente de expansión térmica medio del 410 entre 0 °C y 100 °C?**  
+### ¿Cuál es el coeficiente de expansión térmica medio del 410 entre 0 °C y 100 °C?
    Es de 9,9 µm/m·°C (equivalente a 5,5 micro-pulgadas por pulgada por grado Fahrenheit).
 
-5. **¿Cuánto cromo contiene el acero inoxidable 410?**  
+### ¿Cuánto cromo contiene el acero inoxidable 410?
    Su contenido de cromo oscila entre 11,5 % y 13,5 %, lo que le confiere su carácter inoxidable.
 
-6. **¿Cuál es la densidad del acero inoxidable 410?**  
+### ¿Cuál es la densidad del acero inoxidable 410?
    La densidad es de 7800 kg/m³ (0,282 libras por pulgada cúbica), típica de los aceros al cromo.
 
 ## Fuentes consultadas

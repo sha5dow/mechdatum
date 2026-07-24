@@ -57,7 +57,7 @@ Perpendicularity tolerance is typically used on flange support faces and bearing
 ## Comparison between ISO and ASME standards
 ASME Y14.5 and ISO 1101 share fundamental symbology for orientation, but present practical divergences. In ISO, the perpendicularity symbol may be ⊤, while ASME uses ⊥. ASME allows projected tolerance zone only with modifier Ⓟ, ISO resorts to additional plane annotations. Angularity in ISO directly allows multiple datum references (plane and axis simultaneously) without additional requirements, while ASME requires a composite datum construction. The maximum material condition modifier (Ⓜ) acts exclusively on features of size (holes, shafts) in both standards, but ISO extends its use to derived surfaces in the 2017 revision. The interpretation of the primary invariant datum (flat surface) and secondary datum (axis) is equivalent in both systems.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 1. What is the recommended perpendicularity tolerance for a shaft of 20 mm diameter? — For a shaft of 20 mm / 0.79 in diameter, a perpendicularity tolerance of 0,03 mm / 0.0012 in relative to its support face is recommended if high precision is required (class H), or 0,1 mm / 0.004 in for medium class applications (K).
 
 2. Can a surface meet a parallelism of 0.1 mm without meeting flatness? — Yes, a surface with parallelism of 0,1 mm / 0.004 in can have a flatness worse than 0,1 mm / 0.004 in, because the parallelism tolerance zone consists of two planes parallel to the datum, within which the actual surface can freely undulate.
@@ -70,7 +70,6 @@ ASME Y14.5 and ISO 1101 share fundamental symbology for orientation, but present
 
 6. How does the maximum material condition modifier affect a perpendicularity of 0.04 mm? — With Ⓜ applied to a shaft of 15 mm / 0.59 in and dimensional tolerance ±0.1 mm, the perpendicularity of 0,04 mm / 0.0016 in can be increased to 0,14 mm / 0.0055 in if the shaft is manufactured at its minimum diameter of 14.9 mm / 0.587 in, thanks to the additional clearance.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/acceleration-d_1393.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom.html

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General Description
 Flatness and straightness are geometric form tolerances that limit the deviation of a feature from its perfect geometry. Flatness controls how much a surface deviates from a perfect plane, while straightness restricts the variation of a line or an axis relative to a theoretical straight line. Both tolerances are specified in the feature control frame per ISO 1101 and ASME Y14.5 standards, and are independent of any datum, defining only the form of the feature. Their application ranges from machine base plates to transmission shafts, ensuring proper operation and assembly of mechanical components.
 
 ## Symbol and Representation
@@ -78,7 +77,7 @@ Machining processes allow obtaining different degrees of form precision. The fol
 | General tolerances | ISO 2768-2 defines default form tolerances | No direct equivalent; must be specified on the drawing |
 | Application on curved surfaces | Flatness applies only to nominally flat surfaces | Same criterion |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 ### What is the typical flatness tolerance for a 200 mm × 200 mm support plate?
 A 200 mm / 7.87 in side plate usually receives a flatness tolerance of 0.05 mm / 0.002 in for precision seats, a value that falls within ISO 2768-2 class H for that length.
 
@@ -97,7 +96,6 @@ Yes, it is common to specify a straightness of 0.03 mm / 0.0012 in for a generat
 ### What machining processes guarantee an axis straightness less than 0.01 mm / 0.0004 in?
 Precision cylindrical grinding or diamond turning can achieve an axis straightness of ⌀ 0.005 mm / 0.0002 in over a length of 100 mm / 3.94 in.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom.html

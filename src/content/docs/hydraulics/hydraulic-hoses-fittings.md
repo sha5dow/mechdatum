@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Los racores y mangueras hidráulicas son los componentes de conexión más frecuentes en sistemas de potencia fluida, con presiones de trabajo que superan habitualmente los 690 bar / 10 000 psi en aplicaciones de alta exigencia. Los racores normalizados SAE J514 (JIC 37°), SAE J1453 (ORFS) y las roscas BSPP (ISO 228) permiten uniones estancas mediante superficies cónicas, asientos planos con junta tórica o sellos elastoméricos integrados. El dimensionamiento correcto de la manguera y el racor se apoya en la nomenclatura de "dash size" y en los estándares de paso de rosca unificados (UNC/UNF) o métricos.
 
 ## Tipos y normas
@@ -61,7 +60,7 @@ La rosca unificada fina (UNF) es el estándar de la mayoría de las conexiones J
 
 Los racores hidráulicos se fabrican en acero al carbono forjado (galvanizado o bicromatado) para la mayoría de sistemas de potencia fluida, acero inoxidable 316 para ambientes corrosivos o sectores alimentario/farmacéutico, y aleaciones de cobre‑níquel (Monel) o latón en aplicaciones marinas y de instrumentación. Las mangueras termoplásticas con refuerzo de una o dos trenzas de acero soportan presiones de hasta 280 bar / 4000 psi, mientras que las espirales de alambre (4 y 6 capas) alcanzan los 450 bar / 6500 psi. La compatibilidad del elastómero interior (NBR, EPDM, HNBR, FKM) con el fluido hidráulico es determinante para la vida útil del conjunto.
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué diferencia un racor JIC de un racor SAE 45°?
 Los racores JIC tienen un asiento abocinado a 37° mientras que los SAE (J512) usan 45°; no son intercambiables a pesar de que comparten roscas en los dash 2, 3, 4, 5, 8 y 10. La presión máxima de trabajo de un JIC es de 690 bar / 10 000 psi, frente a los 210 bar / 3000 psi típicos del SAE 45° en sistemas hidráulicos.

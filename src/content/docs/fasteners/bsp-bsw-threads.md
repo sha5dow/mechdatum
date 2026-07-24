@@ -147,23 +147,22 @@ Las roscas BSP y BSW no son intercambiables con las series americanas NPT y UNC,
 Estas diferencias impiden el montaje sin dañar las roscas. En conversiones se requieren adaptadores específicos.
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Cuál es el paso de una rosca BSP de 1/2 pulgada?**  
+### ¿Cuál es el paso de una rosca BSP de 1/2 pulgada?
 La rosca BSP de 1/2" (G1/2) tiene 14 hilos por pulgada, lo que equivale a un paso de 1,814 mm. Este paso es común a las versiones paralela y cónica de la medida.
 
-**¿Puedo conectar una rosca BSPT macho con una hembra NPT?**  
+### ¿Puedo conectar una rosca BSPT macho con una hembra NPT?
 No, el diámetro mayor de una rosca R 1/2 es 20,955 mm / 0,8250 in, mientras que la NPT 1/2 mide 21,336 mm / 0,840 in, y el ángulo de rosca difiere (55° frente a 60°). La unión resultaría con fuga o agarrotamiento.
 
-**¿Cuál es la resistencia a la tracción de un tornillo BSW 1/4» clase 8.8?**  
+### ¿Cuál es la resistencia a la tracción de un tornillo BSW 1/4» clase 8.8?
 La carga admisible para un tornillo BSW 1/4» clase 8.8 es de aproximadamente 11,6 kN / 2,61 kip, basada en un área de esfuerzo de 20,0 mm² y una tensión de prueba de 580 MPa.
 
-**¿Qué tamaño de broca necesito para roscar un agujero G 3/8?**  
+### ¿Qué tamaño de broca necesito para roscar un agujero G 3/8?
 Para roscar G 3/8 se recomienda una broca de 15,0 mm (0,591 pulgadas), que corresponde al diámetro menor del macho BSPP de esa medida, garantizando un correcto perfil del filete interior.
 
-**¿Cuál es el par de apriete recomendado para un tornillo BSW 5/16»?**  
+### ¿Cuál es el par de apriete recomendado para un tornillo BSW 5/16»?
 El par de apriete recomendado para un tornillo BSW 5/16» clase 8.8, lubricado, es de 23,0 N·m / 17,0 ft·lb, valor suficiente para desarrollar la precarga de diseño sin sobrepasar el límite elástico.
 
-**¿En qué se diferencia la rosca BSPP de la BSPT?**  
+### ¿En qué se diferencia la rosca BSPP de la BSPT?
 La rosca BSPT posee una conicidad de 1 en 16 (aproximadamente 3,58° por lado) y sella sobre la rosca; el diámetro mayor del macho R 1/2 es de 20,955 mm / 0,8250 in, idéntico al nominal de la BSPP, pero la hembra Rp tiene un diámetro menor de 18,489 mm / 0,7279 in, menor que en la versión paralela, para que la interferencia selle.
 
 ## Fuentes consultadas

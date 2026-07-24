@@ -110,23 +110,23 @@ El policarbonato puede procesarse por inyección, extrusión, termoformado y sop
 ## Nomenclatura y designaciones
 En el ámbito industrial, el policarbonato se reconoce por las siglas **PC** según ISO 1043‑1 y ASTM D7611. Algunos nombres comerciales ampliamente difundidos son **Lexan™** (SABIC), **Makrolon®** (Covestro), **Panlite®** (Teijin) y **Calibre™** (Trinseo). Los grados específicos incluyen calidades de uso general, ignífugas (V‑0, V‑2), estabilizadas a UV, reforzadas con fibra de vidrio (PC‑GF) y mezclas como PC/ABS o PC/PBT para aplicaciones de ingeniería.
 
-## FAQ
-**1. ¿Cuál es la densidad típica del policarbonato?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la densidad típica del policarbonato?
 La densidad del policarbonato estándar no reforzado es de 1.20 g/cm³ (74.9 lb/ft³), pudiendo llegar a 1.22 g/cm³ en algunos grados y hasta 1.38 g/cm³ en versiones conductivas con carga de carbono.
 
-**2. ¿Qué resistencia al impacto ofrece el PC comparado con otros plásticos?**
+### ¿Qué resistencia al impacto ofrece el PC comparado con otros plásticos?
 El policarbonato exhibe una resistencia al impacto Izod de entre 600 J/m y 850 J/m (11‑16 ft·lb/in), lo que lo sitúa como uno de los termoplásticos más tenaces, superando en más de 30 veces al vidrio y en torno a 10 veces al polimetilmetacrilato (PMMA).
 
-**3. ¿Hasta qué temperatura puede trabajar el policarbonato de forma continua?**
+### ¿Hasta qué temperatura puede trabajar el policarbonato de forma continua?
 La temperatura de uso continuo en aire oscila entre 115 °C y 130 °C (239–266 °F), mientras que la temperatura de transición vítrea (Tg) se encuentra en 147 °C (297 °F), marcando el límite de rigidez estructural.
 
-**4. ¿Es el policarbonato resistente a la radiación ultravioleta?**
+### ¿Es el policarbonato resistente a la radiación ultravioleta?
 Sin protección, el policarbonato presenta una resistencia UV regular y tiende a amarillear con la exposición prolongada a la intemperie. Los grados estabilizados mediante coextrusión o aditivos absorbedores de UV mejoran significativamente el comportamiento a largo plazo, siendo clasificados como "UV‑resistentes".
 
-**5. ¿Qué productos químicos dañan al policarbonato?**
+### ¿Qué productos químicos dañan al policarbonato?
 El PC es atacado por ácidos concentrados, cetonas, hidrocarburos aromáticos y algunos álcalis concentrados. Por el contrario, muestra buena resistencia frente a ácidos diluidos, alcoholes, grasas y aceites, así como al agua dulce y salada.
 
-**6. ¿Cuál es la conductividad térmica del policarbonato?**
+### ¿Cuál es la conductividad térmica del policarbonato?
 La conductividad térmica del PC a 23 °C es baja, con un valor de 0.19–0.22 W/(m·K) (1.32–1.53 BTU·in/(h·ft²·°F)), lo que lo convierte en un aislante térmico eficaz y adecuado para aplicaciones de acristalamiento que requieren control energético.
 
 ## Fuentes consultadas

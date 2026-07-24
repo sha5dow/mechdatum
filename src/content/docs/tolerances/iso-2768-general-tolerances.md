@@ -81,22 +81,22 @@ En el cajetín de tolerancias o cerca del cuadro de rotulación, la inscripción
 
 ## Preguntas frecuentes (FAQ)
 
-1.  **¿Cuánto varía una longitud de 150 mm bajo ISO 2768-f?**
+### ¿Cuánto varía una longitud de 150 mm bajo ISO 2768-f?
     La tolerancia para un largo de 150 mm / 5.91 in en clase fina es de ±0,2 mm / ±0.0079 in, lo que significa que la pieza puede medir entre 149,8 mm / 5.90 in y 150,2 mm / 5.91 in sin rechazo.
 
-2.  **¿Con qué clase se mecaniza un agujero pasante sin indicación de tolerancia?**
+### ¿Con qué clase se mecaniza un agujero pasante sin indicación de tolerancia?
     La clase media (m) otorga una tolerancia de ±0,2 mm / ±0.0079 in para diámetros nominales entre 6 mm / 0.24 in y 30 mm / 1.18 in, aceptando variaciones de hasta 0,4 mm / 0.0157 in en el diámetro real para montajes con holgura estándar.
 
-3.  **¿Cómo afecta ISO 2768 a una dimensión angular de 60° con lado corto de 20 mm?**
+### ¿Cómo afecta ISO 2768 a una dimensión angular de 60° con lado corto de 20 mm?
     En clase m, la tolerancia es de ±0°30' / ±0.0087 rad, por lo que el ángulo real puede situarse entre 59,5° y 60,5°, equivalente a una desviación de arco de aproximadamente 0,17 mm / 0.0067 in en el extremo del lado de 20 mm / 0.79 in.
 
-4.  **¿Qué clase debo elegir para una estructura soldada de 3 metros?**
+### ¿Qué clase debo elegir para una estructura soldada de 3 metros?
     La norma solo alcanza hasta 2000 mm / 78.74 in; para una longitud de 3 m / 118.11 in se debe especificar una tolerancia individual. Extrapolando la clase v para el rango más alto (1000–2000 mm / 39.37–78.74 in), la tolerancia sería del orden de ±4,0 mm / ±0.1575 in, insuficiente para absorción de deformaciones térmicas en soldadura sin revisión del diseño.
 
-5.  **¿ISO 2768-m y mK son intercambiables en cualquier pieza?**
+### ¿ISO 2768-m y mK son intercambiables en cualquier pieza?
     No. ISO 2768-m solo cubre dimensiones lineales y angulares, mientras que mK añade tolerancias geométricas de clase K para perpendicularidad, rectitud, planitud, simetría y oscilación. Una pieza con requisitos de perpendicularidad bajo mK puede rechazarse sin la parte 2 aunque cumpla las longitudes de la parte 1.
 
-6.  **¿Cuál es la tolerancia sobre un chaflán de 4 mm en clase c?**
+### ¿Cuál es la tolerancia sobre un chaflán de 4 mm en clase c?
     Para un radio o chaflán entre 3 mm / 0.12 in y 6 mm / 0.24 in, la clase c admite ±1,0 mm / ±0.0394 in, de modo que el chaflán puede variar entre 3,0 mm / 0.118 in y 5,0 mm / 0.197 in sin ser considerado defectuoso.
 
 ## Fuentes consultadas

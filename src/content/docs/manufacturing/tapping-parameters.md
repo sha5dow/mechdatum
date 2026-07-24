@@ -161,24 +161,24 @@ Machos de arranque de viruta (HSS, metal duro) procesan casi cualquier material 
 
 5. **Control de par y avance**: en máquinas CNC con roscado rígido se programa el avance exacto del paso. En máquinas convencionales es obligatorio un cabezal de roscar con flotación axial. Para machos de laminación el par es un 50–100 % mayor; verificar que la máquina lo soporte.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la velocidad de corte recomendada para roscar acero inoxidable 304 con macho de HSS?**
+### ¿Cuál es la velocidad de corte recomendada para roscar acero inoxidable 304 con macho de HSS?
 La velocidad de corte típica para acero inoxidable austenítico con macho de arranque es de 3–8 m/min (10–26 ft/min). El valor exacto depende de la refrigeración y la rigidez del sistema.
 
-**¿Qué avance se programa en una rosca M12×1.75?**
+### ¿Qué avance se programa en una rosca M12×1.75?
 El avance programado debe ser de 1.75 mm/rev (0.069 in/rev), igual al paso de la rosca. En roscado rígido la máquina sincroniza el avance con el giro del husillo.
 
-**¿Cuánto más duran los machos de laminación que los de corte en aluminio dúctil?**
+### ¿Cuánto más duran los machos de laminación que los de corte en aluminio dúctil?
 En aluminio forjado 6061-T6, los machos de laminación pueden alcanzar una vida útil de 3 a 10 veces superior gracias a la ausencia de desgaste por arista de corte y al endurecimiento por deformación de la superficie de la rosca.
 
-**¿Cuál es el diámetro de broca para un macho de laminación M10×1.5?**
+### ¿Cuál es el diámetro de broca para un macho de laminación M10×1.5?
 Un valor de partida es broca de 8.9 ± 0.05 mm (0.350 ± 0.002 in), que deja un margen de 0.6 mm para el desplazamiento del material. La tolerancia estricta es indispensable para evitar rotura o rosca incompleta.
 
-**¿Cuánto par de roscado añade un macho de laminación respecto a uno de corte en acero dulce?**
+### ¿Cuánto par de roscado añade un macho de laminación respecto a uno de corte en acero dulce?
 Se estima un incremento del 50–100 %, con valores típicos de 15–30 N·m (11–22 ft·lbf) para un M10×1.5 en acero de bajo carbono con lubricación EP.
 
-**¿Qué profundidad adicional necesita un macho de laminación en un agujero ciego?**
+### ¿Qué profundidad adicional necesita un macho de laminación en un agujero ciego?
 Requiere una longitud de salida de aproximadamente 2.5 veces el paso más la punta de conformado. Para M10×1.5 (paso 1.5 mm), esto equivale a unos 5–6 mm (0.20–0.24 in) adicionales a la profundidad roscada útil.
 
 ## Fuentes consultadas

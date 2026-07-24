@@ -110,27 +110,26 @@ An AISI 1045 normalized steel shaft works with a mean stress of 200 MPa / 29 ksi
 
 Complementary verification with Gerber: 1/*n* = √(1 − *σ*<sub>m</sub>/ *σ*<sub>ult</sub> × *σ*<sub>a</sub>/*σ*<sub>e</sub>) (approximation). For Gerber, *n* ≈ 1.96, less conservative.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the fatigue limit and how is it related to ultimate strength?**  
+### What is the fatigue limit and how is it related to ultimate strength?
    The fatigue limit of a ductile steel is approximately half of its ultimate strength (0.5 *σ*<sub>ult</sub>) when *σ*<sub>ult</sub> < 1400 MPa / 203 ksi. For higher strengths, the value stabilizes around 700 MPa / 100 ksi. This rule is valid for rotating bending of polished specimens.
 
-2. **How do I apply the modified Goodman criterion to a shaft with multiaxial stresses?**  
+### How do I apply the modified Goodman criterion to a shaft with multiaxial stresses?
    The von Mises equivalent stress is calculated for the mean component (*σ*<sub>m,eq</sub>) and the alternating component (*σ*<sub>a,eq</sub>) and then entered into the Goodman equation. The standard machine elements procedure gives *n* ≈ 2.0 for a 4140 steel with combined torsion and bending loading.
 
-3. **What is the main difference between Gerber and Goodman in terms of conservatism?**  
+### What is the main difference between Gerber and Goodman in terms of conservatism?
    The Goodman line allows safe amplitudes up to 30 % lower than the Gerber curve in the middle zone of the diagram. For example, for a steel with a fatigue limit of 300 MPa / 43.5 ksi and a mean stress of 150 MPa / 21.8 ksi, Goodman allows an amplitude of 227 MPa / 33 ksi compared to 260 MPa / 37.7 ksi for Gerber.
 
-4. **Is it necessary to use Soderberg if the material does not have a defined fatigue limit?**  
+### Is it necessary to use Soderberg if the material does not have a defined fatigue limit?
    Yes, in aluminum alloys, where the S‑N curve does not become asymptotic, Soderberg is preferred with a fatigue strength value at 5 × 10⁸ cycles (≈ 96 MPa / 14 ksi for Al 6061‑T6) and a yield strength of 276 MPa / 40 ksi, obtaining n > 1.5 for moderate loads.
 
-5. **How does a mean compressive stress affect the fatigue limit?**  
+### How does a mean compressive stress affect the fatigue limit?
    Mean compression improves fatigue resistance. In the Goodman diagram, the line extends into the negative *σ*<sub>m</sub> quadrant, where the allowable amplitude can even exceed the fatigue limit. For a steel with *σ*<sub>e</sub> = 350 MPa / 51 ksi, a mean compression of 100 MPa / 14.5 ksi allows an amplitude up to 400 MPa / 58 ksi according to some experimental literature.
 
-6. **When is modified Goodman chosen over Gerber?**  
+### When is modified Goodman chosen over Gerber?
    Modified Goodman is chosen when load uncertainty is high or a robust design is sought, since it reduces the allowable amplitude by 15‑20 % compared to Gerber for the same mean stress. In aerospace applications, where margins are tight, Gerber is preferred accompanied by full testing.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/fatigue/modified_godman_fatugue_curve.htm
 - **efunda.com**: https://www.efunda.com/designstandards/springs/calc_comp_fatigue_eqn.cfm

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Los números adimensionales son parámetros fundamentales en mecánica de fluidos y transferencia de calor, obtenidos mediante adimensionalización de las ecuaciones que gobiernan el movimiento. Permiten caracterizar el régimen de flujo, predecir transiciones y comparar sistemas geométricamente similares sin depender de escalas dimensionales. A continuación se presenta una tabla exhaustiva con su definición, interpretación física y campos de aplicación, seguida de valores típicos del número de Prandtl para agua y aire, criterios prácticos de selección y respuestas a las preguntas más frecuentes.
 
 ## Tabla de números adimensionales
@@ -59,7 +58,7 @@ La elección del número adimensional adecuado depende del fenómeno dominante e
 5. **Transferencia de masa simultánea:** el número de Schmidt (Sc) y el de Lewis (Le) controlan la analogía entre capa límite térmica y de concentración.
 6. **Efectos de tensión superficial:** en chorros, gotas o burbujas, el número de Weber (We) determina la rotura de la interfase. Valores altos (>8‑10) tienden a fragmentar el fluido.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es el número de Reynolds crítico en una tubería circular lisa?
 El número de Reynolds crítico para la transición de flujo laminar a turbulento en tuberías es aproximadamente 2 300. Por debajo de este valor, el flujo permanece laminar a menos que existan perturbaciones externas intensas.
 

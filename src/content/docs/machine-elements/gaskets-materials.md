@@ -77,24 +77,24 @@ Las juntas de anillo RTJ (Ring Type Joint) se fabrican en acero al carbono o ino
 - **ASME B16.47**: Bridas de gran diámetro (series A y B).
 - **EN 1514**: Series europeas para dimensiones de juntas planas.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la temperatura máxima que puede soportar una junta de grafito flexible?**
+### ¿Cuál es la temperatura máxima que puede soportar una junta de grafito flexible?
 Las juntas de grafito flexible sin oxidantes pueden operar hasta 450 °C / 842 °F en atmósfera reductora o inerte, y hasta 300 °C / 572 °F en presencia de aire.
 
-**2. ¿Qué par de apriete se debe aplicar a una brida de 4" con junta espiralada?**
+### ¿Qué par de apriete se debe aplicar a una brida de 4" con junta espiralada?
 Para una brida 4" ASME clase 150 con tornillos de acero al carbono, el par típico recomendado es de 120 N·m a 160 N·m (89 a 118 lb·ft), siempre siguiendo la secuencia de apriete en cruz.
 
-**3. ¿Cuándo es obligatorio usar una junta con anillo interior en una espiralada?**
+### ¿Cuándo es obligatorio usar una junta con anillo interior en una espiralada?
 La norma ASME B16.20 exige anillo interior cuando el diámetro nominal de la tubería es igual o superior a 10", cuando la clase de presión es 900 o superior, o cuando el diámetro interior de la brida es mayor que el diámetro interior de la junta por más de 3 mm / 0.12 in.
 
-**4. ¿Qué rugosidad superficial deben tener las caras de la brida para una junta metálica?**
+### ¿Qué rugosidad superficial deben tener las caras de la brida para una junta metálica?
 Para juntas RTJ la rugosidad de la ranura no debe superar 3,2 µm Ra / 126 µin Ra. Para juntas metálicas planas se recomienda un acabado de 1,6 a 3,2 µm Ra (63 a 126 µin Ra).
 
-**5. ¿Se puede reutilizar una junta espiralada después de haber sido comprimida?**
+### ¿Se puede reutilizar una junta espiralada después de haber sido comprimida?
 No. Las juntas espiraladas se deforman plásticamente durante el primer apriete y pierden su capacidad de recuperación elástica. Intentar reutilizarlas puede resultar en fugas al no alcanzarse la tensión de asiento necesaria.
 
-**6. ¿Qué ancho mínimo debe tener una junta plana para sellar correctamente?**
+### ¿Qué ancho mínimo debe tener una junta plana para sellar correctamente?
 Se recomienda un ancho mínimo de junta de 3 mm / 0.118 in para presiones inferiores a 40 bar / 580 psi. Para presiones mayores, el ancho suele estar entre 4 y 6 mm (0.157 a 0.236 in).
 
 ## Fuentes consultadas

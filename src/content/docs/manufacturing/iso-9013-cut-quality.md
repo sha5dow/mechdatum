@@ -66,24 +66,24 @@ Guía de selección rápida: para espesor < 8 mm / 0.31 in y Clase 1 se prefiere
 - En oxicorte, la Clase 1 rara vez es alcanzable para espesores superiores a 20 mm / 0.79 in.
 - La rugosidad Rz5 puede variar por desgaste de boquilla y condición del gas, obligando a monitoreo continuo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la tolerancia de perpendicularidad para una pieza de acero de 12 mm cortada con calidad Clase 1?**  
+### ¿Cuál es la tolerancia de perpendicularidad para una pieza de acero de 12 mm cortada con calidad Clase 1?
    La desviación máxima admisible es 0,1 mm / 0.004 in, medida según la proyección de la superficie de corte.
 
-2. **¿Qué rugosidad media Rz5 define la Clase 2 de plasma según ISO 9013?**  
+### ¿Qué rugosidad media Rz5 define la Clase 2 de plasma según ISO 9013?
    Una rugosidad media de 60 µm / 2362 µin es el límite típico para Clase 2 en chapas de hasta 15 mm / 0.59 in.
 
-3. **¿Cuánto se puede reducir la perpendicularidad mediante un rectificado posterior?**  
+### ¿Cuánto se puede reducir la perpendicularidad mediante un rectificado posterior?
    Un rectificado ligero puede llevar la perpendicularidad de 0,3 mm / 0.012 in (Clase 2) a 0,08 mm / 0.003 in, mejorando un 73 % el resultado.
 
-4. **¿A partir de qué espesor un oxicorte de acero al carbono pierde la capacidad de Clase 2?**  
+### ¿A partir de qué espesor un oxicorte de acero al carbono pierde la capacidad de Clase 2?
    Por encima de 20 mm / 0.79 in la perpendicularidad supera los 0,4 mm / 0.016 in, marginando el oxicorte a Clase 3.
 
-5. **¿Qué grado de tolerancia ISO 286 corresponde a un corte láser de precisión?**  
+### ¿Qué grado de tolerancia ISO 286 corresponde a un corte láser de precisión?
    Equivale a IT9 – IT10, con una banda de tolerancia de solo 0,05 mm / 0.002 in para diámetros nominales de 10–18 mm.
 
-6. **¿En cuánto se incrementa la rugosidad Rz5 al migrar de láser a plasma en acero de 10 mm?**  
+### ¿En cuánto se incrementa la rugosidad Rz5 al migrar de láser a plasma en acero de 10 mm?
    La rugosidad pasa de 15 µm / 591 µin (Clase 1) a 60 µm / 2362 µin (Clase 2), un aumento de 45 µm / 1772 µin.
 
 ## Fuentes consultadas

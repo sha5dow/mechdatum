@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 La rugosidad superficial cuantifica las microdesviaciones del perfil real frente a la forma ideal de una pieza; influye directamente en la fricción, el desgaste, la capacidad de sellado y el aspecto visual. Los parámetros más habituales para caracterizarla son Ra (rugosidad media aritmética) y Rz (altura media pico‑valle). Ambos evalúan aspectos distintos de la textura: Ra describe la suavidad global, mientras que Rz es sensible a defectos locales como rayas o poros. No existe una fórmula de conversión matemática exacta entre ellos, pero en la práctica industrial se emplean relaciones empíricas aproximadas según el proceso de fabricación (por ejemplo, Ra ≈ Rz/4 para torneado basto, Ra ≈ Rz/7 para rectificado). Esta página proporciona valores de referencia, tolerancias alcanzables según material y método, y criterios para seleccionar el parámetro adecuado en el plano de manufactura.
 
 ## Parámetros de operación

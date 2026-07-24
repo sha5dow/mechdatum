@@ -111,28 +111,27 @@ Monel 400 readily accepts the most common processes: shielded metal arc welding 
 | HF resistance | Exceptional | Exceptional | Limited | Excellent | Moderate |
 | Relative cost | High | Very high | Low | Very high | High |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the maximum tensile strength of Monel 400 in the annealed condition?**  
+### What is the maximum tensile strength of Monel 400 in the annealed condition?
    The tensile strength in the annealed condition can reach 620 MPa (90 ksi), allowing its use in structural components subjected to moderate loads.
 
-2. **Up to what temperature does Monel 400 maintain adequate mechanical properties?**  
+### Up to what temperature does Monel 400 maintain adequate mechanical properties?
    Monel 400 retains good strength and toughness up to approximately 540 °C (1000 °F) in continuous service in oxidizing atmospheres, and at cryogenic temperatures down to –196 °C it does not exhibit a ductile-to-brittle transition.
 
-3. **What is the density of Monel 400?**  
+### What is the density of Monel 400?
    The density of Monel 400 is 8.8 g/cm³ (0.318 lb/in³), a value slightly higher than that of common stainless steels.
 
-4. **Is it possible to weld Monel 400 with conventional processes?**  
+### Is it possible to weld Monel 400 with conventional processes?
    Yes, Monel 400 can be welded using processes such as SMAW, GTAW, GMAW and SAW with compatible filler metals (e.g., ERNiCu-7), provided the surfaces are properly cleaned.
 
-5. **What resistance does Monel 400 offer against hydrofluoric acid?**  
+### What resistance does Monel 400 offer against hydrofluoric acid?
    Monel 400 resists all concentrations of hydrofluoric acid up to the boiling point, being one of the few engineering alloys that can withstand prolonged exposures to this acid under reducing conditions.
 
-6. **What is the modulus of elasticity of Monel 400?**  
+### What is the modulus of elasticity of Monel 400?
    The modulus of elasticity of Monel 400 is 179 GPa (26 000 ksi), giving it an intermediate stiffness between steels and aluminum alloys.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=9338
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metals-galvanic-series-seawater-d_1495.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1367

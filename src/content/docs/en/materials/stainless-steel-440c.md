@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
-
 440C stainless steel is a high-carbon martensitic stainless steel containing up to 1.20% carbon, which gives it the highest hardness and wear resistance of the entire 440 series. Its chromium content (16–18%) provides moderate corrosion resistance, while heat treatments allow hardnesses of 58 to 60 HRC to be achieved. It is primarily used in applications demanding high mechanical strength and good dimensional stability, such as bearings, molds, surgical instruments, and quality cutlery.
 
 ## Chemical composition
@@ -119,7 +117,7 @@ The combination of high hardness, wear resistance, and moderate corrosion resist
 | Toughness | Medium | Medium-low | Low |
 | Typical applications | General-purpose cutlery, low-demand valves | Higher quality cutlery, dental instruments | Bearings, precision molds, high-performance cutlery |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum hardness that 440C stainless steel can achieve?
 With proper heat treatment, 440C can achieve a hardness of 58 to 60 HRC, placing it among the hardest martensitic stainless steels.
@@ -139,8 +137,7 @@ To weld 440C, preheating to 260 °C (500 °F) and a post-weld heat treatment of 
 ### What differentiates 440C from 440A and 440B in terms of carbon percentage?
 440C contains up to 1.20% carbon, while 440A is limited to 0.75% and 440B to 0.95%; this difference accounts for 440C offering 3 to 4 HRC points higher hardness.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6846
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=259

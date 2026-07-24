@@ -83,24 +83,24 @@ La norma internacional ISO 1461 (equivalente a BS EN ISO 1461 y ASTM A123/A153) 
 | 6 | 168,3 / 6.625 | 154,1 / 6.07 | 28,23 / 18.97 | 85–100 / 3.35–3.94 |
 | 8 | 219,1 / 8.625 | 202,7 / 7.98 | 42,49 / 28.55 | 85–100 / 3.35–3.94 |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la temperatura del baño de zinc en el galvanizado por inmersión en caliente?**
+### ¿Cuál es la temperatura del baño de zinc en el galvanizado por inmersión en caliente?
    El baño de zinc fundido se mantiene a aproximadamente 450 °C / 842 °F durante el proceso de galvanizado en caliente, lo que asegura una reacción metalúrgica adecuada entre el zinc y el acero.
 
-**2. ¿Qué espesor mínimo de recubrimiento se requiere para acero estructural de más de 6 mm según la norma ISO 1461?**
+### ¿Qué espesor mínimo de recubrimiento se requiere para acero estructural de más de 6 mm según la norma ISO 1461?
    Para acero con espesor mayor a 6 mm, el espesor mínimo de recubrimiento galvanizado es de 85 µm / 3.35 mils, garantizando una protección catódica efectiva contra la corrosión.
 
-**3. ¿Cuál es la vida útil esperada de una pieza galvanizada en caliente en un entorno rural?**
+### ¿Cuál es la vida útil esperada de una pieza galvanizada en caliente en un entorno rural?
    En ambientes rurales con baja contaminación, el recubrimiento galvanizado puede proteger el acero durante más de 50 años, gracias a que la velocidad de corrosión del zinc es típicamente de solo 1–2 µm por año (0.04–0.08 mils/año).
 
-**4. ¿Hasta qué temperatura puede exponerse el acero galvanizado sin degradación del recubrimiento?**
+### ¿Hasta qué temperatura puede exponerse el acero galvanizado sin degradación del recubrimiento?
    La temperatura máxima recomendada para servicio continuo de acero galvanizado en caliente es de 200 °C / 392 °F; por encima de esta temperatura, la capa de zinc puede desprenderse debido a diferencias en la difusión de hierro y zinc.
 
-**5. ¿Cuánto zinc se consume por metro cuadrado en un recubrimiento típico de 85 µm?**
+### ¿Cuánto zinc se consume por metro cuadrado en un recubrimiento típico de 85 µm?
    Un recubrimiento de zinc de 85 µm de espesor equivale a aproximadamente 610 g/m² (2.00 oz/ft²) de zinc, lo que proporciona una barrera física y protección catódica al sustrato de acero.
 
-**6. ¿Cuál es la velocidad de corrosión típica del zinc en un entorno industrial respecto a uno rural?**
+### ¿Cuál es la velocidad de corrosión típica del zinc en un entorno industrial respecto a uno rural?
    En un entorno industrial, la velocidad de corrosión del zinc puede aumentar a 4–8 µm por año (0.16–0.31 mils/año), frente a los 1–2 µm por año en ambiente rural, lo que reduce la vida útil del recubrimiento a aproximadamente 15–25 años para el mismo espesor de 85 µm.
 
 ## Fuentes consultadas

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 El radio mínimo de doblez para chapa metálica es el menor radio interior que se puede alcanzar sin provocar fracturas, deformaciones excesivas o reducción significativa de la vida útil de la pieza. Se expresa generalmente como un múltiplo del espesor del material (T) y constituye un parámetro fundamental en el diseño de piezas conformadas por plegado. La regla más difundida — aplicable a la mayoría de los metales — establece que el radio interior mínimo debe ser al menos igual al espesor de la lámina (1T). Sin embargo, el valor exacto depende de la ductilidad del material, su estado de tratamiento térmico y la orientación del doblez respecto al sentido de laminación.
 
 ## Parámetros por material
@@ -77,23 +76,23 @@ Se aconseja dimensionar teniendo en cuenta la acumulación de tolerancias y prev
 
 Realice siempre un ensayo con chapa real antes de la producción en serie; los valores tabulados son recomendaciones genéricas.
 
-## Preguntas frecuentes
-**¿Cuál es el radio mínimo de doblez recomendado para la mayoría de los metales?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el radio mínimo de doblez recomendado para la mayoría de los metales?
 El radio interior mínimo es de **1 vez el espesor del material (1T)**, lo que equivale, por ejemplo, a **1,52 mm / 0.0598 in** para una chapa de acero al carbono de calibre 16. Este valor constituye un punto de partida seguro para acero, acero inoxidable y aluminio en estado de suministro comercial.
 
-**¿Afecta la dirección de laminación al radio de doblez?**  
+### ¿Afecta la dirección de laminación al radio de doblez?
 Sí, de forma significativa. Para acero laminado en frío con dureza **Rb 70 a 85**, no se recomienda plegar paralelo a la laminación, y si la dureza supera **Rb 85**, no debe realizarse ningún plegado. El acero laminado en caliente admite el doblez paralelo sin restricciones.
 
-**¿Cuál es la anchura mínima que debe tener una pestaña para un plegado fiable?**  
+### ¿Cuál es la anchura mínima que debe tener una pestaña para un plegado fiable?
 La pestaña debe medir al menos **4 veces el espesor del material más el radio de doblez**. Por ejemplo, para una chapa de **1,52 mm / 0.0598 in** con radio 1T, la pestaña mínima es de **2 × 1,52 mm = 3,04 mm / 0.1196 in** (computando 4T + R). Respetar esta cota evita distorsiones y riesgos de deslizamiento en la matriz.
 
-**¿A qué distancia del doblez puedo situar un agujero sin que se deforme?**  
+### ¿A qué distancia del doblez puedo situar un agujero sin que se deforme?
 Los agujeros o ranuras deben separarse al menos **3 veces el espesor más el radio de doblez (3T + R)**. Si la distancia se reduce, el taladro debe prolongarse hasta sobrepasar la línea de doblez para que la deformación no le afecte directamente.
 
-**¿Se puede doblar aluminio con un radio más cerrado que 1T?**  
+### ¿Se puede doblar aluminio con un radio más cerrado que 1T?
 Sí, el aluminio recocido y otras aleaciones de alta ductilidad pueden plegarse con radios tan pequeños como **0,5T** (por ejemplo, **0,65 mm / 0.0256 in** de radio para calibre 20). Debe confirmarse con el proveedor del material y validarse mediante ensayos, ya que el temple y la dirección de laminación influyen en el resultado.
 
-**¿Qué sucede si se emplea un radio de doblez inferior al mínimo?**  
+### ¿Qué sucede si se emplea un radio de doblez inferior al mínimo?
 El material sufrirá fisuras en la zona traccionada exterior del doblez, pudiendo llegar a la fractura completa. En aceros laminados en frío con dureza superior a **Rb 85**, el simple intento de plegado produce rotura, independientemente del radio empleado.
 
 ## Fuentes consultadas

@@ -100,7 +100,7 @@ Hard chrome plating is found in many industrial sectors. Its main applications i
 - Dimensional restoration of worn parts in heavy machinery.
 - Precision tools and tooling (gauges, taps).
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 1.  **What is the maximum achievable thickness in hard chrome plating?** Up to 500 μm (0.020 in) per side can be deposited, and even more in special cases, provided the geometry allows a coating without excessive cracking.
 2.  **What hardness does hard chrome plating have?** The typical hardness of hard chrome plating ranges from 850 to 1000 HV (65-70 HRC), higher than many hardened steels.
@@ -109,7 +109,6 @@ Hard chrome plating is found in many industrial sectors. Its main applications i
 5.  **What is the surface roughness after hard chrome plating as-plated?** The as-deposited surface roughness (Ra) is between 0.4 and 0.8 μm (16-32 μin), similar to that of the prepared substrate; it is improved by grinding or polishing.
 6.  **What dimensional tolerance can be maintained after grinding of hard chrome plating?** It is common to achieve tolerances of ±0.013 mm (±0.0005 in) after grinding, and up to ±0.005 mm (±0.0002 in) with lapping or precision polishing.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?start=1&thread=17314&id=17316
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/hardforkromning

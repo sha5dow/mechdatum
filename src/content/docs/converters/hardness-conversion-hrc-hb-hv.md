@@ -108,24 +108,23 @@ Los valores de esta tabla se basan en aceros al carbono y de baja aleación con 
 **Uso de otras escalas Rockwell superficiales**  
 Para microdureza o capas finas se emplean HR15N, HR30N o HR45N. No se incluyen aquí, pero existen tablas de conversión normalizadas. Consulte ASTM E140 para esas equivalencias.
 
-## Preguntas frecuentes
-
-1. **¿Cuál es la dureza Brinell equivalente a 58 HRC en un acero templado?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la dureza Brinell equivalente a 58 HRC en un acero templado?
    Para 58 HRC, la tabla indica una dureza Brinell de aproximadamente 590 HB (con bola de 10 mm y carga 3000 kg / 6614 lbf), correspondiendo a unos 610 HV.
 
-2. **¿Cómo convertir 400 HB a Rockwell C?**  
+### ¿Cómo convertir 400 HB a Rockwell C?
    400 HB se sitúa en el entorno de 43,0 HRC. El valor Vickers equivalente es aproximadamente 425 HV, y la dureza Rockwell A sería de 70 HRA.
 
-3. **¿Qué lectura HRA corresponde a 45 HRC en una probeta patrón?**  
+### ¿Qué lectura HRA corresponde a 45 HRC en una probeta patrón?
    45 HRC equivale, según las tablas normalizadas para aceros cementados, a un valor de 72,2 HRA (penetrador de diamante, carga 60 kg / 132 lbf).
 
-4. **¿Es fiable convertir directamente de HRC a HV sin usar la tabla?**  
+### ¿Es fiable convertir directamente de HRC a HV sin usar la tabla?
    No se recomienda para trabajos de control de calidad. La relación empírica simple HV ≈ 2,1 × HRC + 230 puede inducir errores superiores a 40 HV en el rango de 40–60 HRC. Utilice siempre la tabla basada en ASTM E140.
 
-5. **¿A partir de qué dureza mínima se puede utilizar la escala HRA con precisión?**  
+### ¿A partir de qué dureza mínima se puede utilizar la escala HRA con precisión?
    La escala HRA es fiable desde 20 HRC, pero su repetibilidad es mejor para valores superiores a 60 HRC (81 HRA). Por debajo de 50 HRC, se prefiere HRC o HRB para piezas de gran espesor.
 
-6. **¿Qué diferencia en Vickers hay entre un acero de 30 HRC y otro de 50 HRC?**  
+### ¿Qué diferencia en Vickers hay entre un acero de 30 HRC y otro de 50 HRC?
    Un acero de 30 HRC presenta del orden de 300 HV, mientras que uno de 50 HRC alcanza aproximadamente 530 HV, lo que supone una diferencia de más de 200 HV, reflejando una resistencia al desgaste mucho mayor.
 
 ## Fuentes consultadas

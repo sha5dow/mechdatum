@@ -97,24 +97,23 @@ La capacidad de carga a compresión de una arandela plana se calcula como el pro
 | M16 | 480,0 mm² / 0,744 in² | 76,8 kN / 17 260 lbf |
 | M20 | 729,0 mm² / 1,130 in² | 116,6 kN / 26 210 lbf |
 
-## Preguntas frecuentes
-
-**1. ¿Cuál es el diámetro interior de una arandela DIN 125 para tornillo M8?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el diámetro interior de una arandela DIN 125 para tornillo M8?
 El diámetro interior mínimo es de 8,4 mm / 0.331 in, suficiente para alojar un tornillo M8 con juego normalizado.
 
-**2. ¿Qué espesor tiene una arandela DIN 125 A para métrica 12?**  
+### ¿Qué espesor tiene una arandela DIN 125 A para métrica 12?
 El espesor estándar es de 2,5 mm / 0.098 in, tanto para la versión sin chaflán como para la forma B.
 
-**3. ¿Hasta qué carga puede trabajar una arandela M16 de acero al carbono?**  
+### ¿Hasta qué carga puede trabajar una arandela M16 de acero al carbono?
 Con acero de 240 MPa / 34 810 psi de límite elástico y un factor de seguridad 1,5, soporta aproximadamente 76,8 kN / 17 260 lbf a compresión.
 
-**4. ¿A qué norma ISO corresponde la DIN 125 A?**  
+### ¿A qué norma ISO corresponde la DIN 125 A?
 Corresponde directamente a ISO 7089, que especifica arandelas planas sin chaflán para tornillería métrica.
 
-**5. ¿Con qué tipo de tornillos se emplean las arandelas DIN 125?**  
+### ¿Con qué tipo de tornillos se emplean las arandelas DIN 125?
 Se utilizan habitualmente con tornillos hexagonales, de cabeza cilíndrica o allen métricos ISO, y también son compatibles con tornillería UNC/UNF si el diámetro interior lo permite.
 
-**6. ¿Qué diferencia constructiva hay entre DIN 125 A y DIN 125 B?**  
+### ¿Qué diferencia constructiva hay entre DIN 125 A y DIN 125 B?
 La versión B incorpora un pequeño chaflán en el diámetro interior y exterior (bisel de ~0,2‑0,5 mm / 0.008‑0.020 in), mientras que la versión A presenta bordes vivos.
 
 ## Fuentes consultadas

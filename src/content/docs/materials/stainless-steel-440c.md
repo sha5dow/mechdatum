@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
-
 El acero inoxidable 440C es un acero martensítico de alto carbono que contiene hasta 1.20% de carbono, lo que le confiere la mayor dureza y resistencia al desgaste de toda la serie 440. Su contenido de cromo (16–18 %) proporciona una resistencia a la corrosión moderada, mientras que los tratamientos térmicos permiten alcanzar durezas de 58 a 60 HRC. Se emplea principalmente en aplicaciones que exigen alta resistencia mecánica y buena estabilidad dimensional, como cojinetes, moldes, instrumental quirúrgico y cuchillería de calidad.
 
 ## Composición química

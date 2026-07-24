@@ -105,29 +105,29 @@ The choice of casting process must consider production volume, required precisio
 | Minimum wall thickness (mm / in) | 3–5 / 0.12–0.20 | 0.5–1.5 / 0.02–0.06 | 0.8–2.0 / 0.03–0.08 |
 | Compatible alloys | Almost all | Steels, superalloys, aluminum | Mainly Al, Zn, Mg, Cu |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What dimensional tolerance can be expected for a sand casting part of 150 mm / 6 in?**
+### What dimensional tolerance can be expected for a sand casting part of 150 mm / 6 in?
 
 For a nominal dimension of 150 mm / 5.91 in, the typical linear tolerance is ±2.6 mm / ±0.103 in, according to the industrial rule of ±0.76 mm for the first 25 mm plus ±0.38 mm for each additional 25 mm.
 
-**What is the minimum achievable wall thickness in sand casting?**
+### What is the minimum achievable wall thickness in sand casting?
 
 In aluminum, thicknesses down to 3.0 mm / 0.12 in can be obtained, while in steel the practical minimum wall is 5.0 mm / 0.20 in, depending on the overall part size and metal fluidity.
 
-**What draft angle is recommended for sand molds?**
+### What draft angle is recommended for sand molds?
 
 A draft angle of 1° to 3° on external surfaces and 3° to 5° on internal surfaces is recommended to facilitate mold removal without damaging the sand impression.
 
-**What is the typical surface roughness (Ra) of an as-cast green sand part?**
+### What is the typical surface roughness (Ra) of an as-cast green sand part?
 
 The surface roughness Ra of an unmachined green sand casting is between 12.5 µm / 492 µin and 25 µm / 984 µin, which corresponds to a visible and tactile granular texture.
 
-**What is the typical volumetric shrinkage of aluminum during cooling?**
+### What is the typical volumetric shrinkage of aluminum during cooling?
 
 Aluminum presents a volumetric shrinkage of about 6% during solidification, which must be compensated by oversizing the pattern and proper riser design.
 
-**How much machining allowance should be provided on a sand casting part?**
+### How much machining allowance should be provided on a sand casting part?
 
 A machining allowance of 2 mm / 0.08 in to 5 mm / 0.20 in is recommended, depending on part size and material, to remove the casting skin and achieve final tolerances.
 
@@ -136,7 +136,3 @@ A machining allowance of 2 mm / 0.08 in to 5 mm / 0.20 in is recommended, depend
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/surface-roughness-d_1368.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/sand-casting
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/surface-roughness-d_1368.html
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/sand-casting

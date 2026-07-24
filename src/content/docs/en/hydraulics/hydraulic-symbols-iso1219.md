@@ -164,28 +164,27 @@ In addition to ISO 1219 functional symbols, hydraulic control diagrams often use
 
 Example: a level indicator is designated as **LI**, and a pressure transmitter with alarm is called **PTA**.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the standard design pressure for a hydraulic system according to ISO 4413?**  
+### What is the standard design pressure for a hydraulic system according to ISO 4413?
 The most common design pressure in industrial applications is 210 bar / 3046 psi, although there are standardized high-pressure lines at 350 bar / 5076 psi.
 
-**2. What minimum flow rate can a fixed restrictor symbol represent?**  
+### What minimum flow rate can a fixed restrictor symbol represent?
 The symbol does not define a flow rate, but commercial micro-restrictors handle flows from 0.05 l/min / 0.013 gpm to 2 l/min / 0.53 gpm, with calibrated orifices of 0.2 mm / 0.008 in.
 
-**3. What is the recommended viscosity for an ISO VG 46 hydraulic oil at 40 °C?**  
+### What is the recommended viscosity for an ISO VG 46 hydraulic oil at 40 °C?
 The typical kinematic viscosity is 46 mm²/s / 46 cSt at 40 °C, with an optimal operating range between 20 and 80 cSt / 20‑80 mm²/s.
 
-**4. How many threaded connections does a CETOP 3 4/3 directional valve have?**  
+### How many threaded connections does a CETOP 3 4/3 directional valve have?
 The CETOP 3 subplate has 5 threaded holes, commonly G 1/4” (major diameter 13.157 mm / 0.518 in), with a recommended tightening torque of 55 Nm / 41 lb‑ft.
 
-**5. What line thickness does ISO 1219‑2 recommend for different circuits?**  
+### What line thickness does ISO 1219‑2 recommend for different circuits?
 The main pressure line is drawn with a line width of 0.5 mm / 0.020 in, while the return line and the pilot line use 0.35 mm / 0.014 in.
 
-**6. What is the standard size of a bladder accumulator according to the PED directive?**  
+### What is the standard size of a bladder accumulator according to the PED directive?
 Standard accumulators have a volume from 0.075 l / 2.54 US fl oz to 50 l / 13.2 US gal, with N₂ precharge pressures from 10 bar / 145 psi to 210 bar / 3046 psi.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/isa-iso-instrumentation-codes-d_37.html
 - **engineersedge.com**: https://www.engineersedge.com/hydraulic/symbols/hydraulic_iso_schematic_symbols.htm
 - **efunda.com**: https://www.efunda.com/designstandards/screws/unified.cfm?start=228&finish=301

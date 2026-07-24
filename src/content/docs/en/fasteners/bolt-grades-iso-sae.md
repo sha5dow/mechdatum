@@ -101,7 +101,7 @@ Pre‑drill bit for ISO coarse metric thread and imperial UNC thread, based on 7
 | 5/8″‑11 UNC | 11 TPI | 13.5 mm / 0.531 in (17/32) |
 | ¾″‑10 UNC | 10 TPI | 16.5 mm / 0.649 in (21/32) |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the difference between an 8.8 bolt and an SAE Grade 5?
 Although an 8.8 has a minimum tensile strength of 830 MPa / 120 350 psi and a Grade 5 of 827 MPa / 120 000 psi, they are practically interchangeable in most applications; the 8.8 has a slightly higher yield strength (600 MPa / 87 000 psi vs. 586 MPa / 85 000 psi).
@@ -121,8 +121,7 @@ The pre‑drill bit for 1.5 mm pitch is 8.5 mm / 0.335 in, guaranteeing approxim
 ### What is the equivalence between class 4.6 and SAE grades?
 Class 4.6 offers a tensile strength of 400 MPa / 58 000 psi, lower than Grade 2 (410 MPa / 60 000 psi for small diameters), so there is no direct equivalent and it is typically used in joints without structural load.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/steel-bolts-metric-grades-d_1428.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/
 - **mcmaster.com**: https://www.mcmaster.com/products/carriage-bolts/specifications-met~iso-8678/

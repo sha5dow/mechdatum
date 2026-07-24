@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los electrodos para soldadura por arco metálico protegido (SMAW, por sus siglas en inglés) consisten en un núcleo metálico sólido recubierto con una mezcla de minerales, compuestos orgánicos y ligantes que forman el revestimiento flux. Durante la operación, el arco funde simultáneamente el electrodo y el material base, generando un baño de fusión protegido por gases y una escoria que evitan la contaminación atmosférica. La clasificación AWS (American Welding Society) identifica las características mecánicas, la composición química y las condiciones operativas de cada electrodo. En esta guía se analizan cuatro tipos representativos: E6010, E6013 (aceros al carbono), E7018 (bajo hidrógeno) y E308L (acero inoxidable austenítico). Sus propiedades los convierten en opciones ampliamente utilizadas en fabricación, mantenimiento y construcción de tuberías.
 
 ## Parámetros operativos
@@ -107,7 +106,7 @@ La elección del electrodo depende de cinco factores principales: resistencia re
 
 Cuando se requiere una combinación de penetración y tenacidad, se emplea una secuencia de electrodos diferentes (p.ej., E6010 en raíz y E7018 en relleno). La tabla de parámetros operativos debe consultarse para ajustar la corriente al diámetro elegido.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 **1.** ¿Cuál es la corriente recomendada para un electrodo E6010 de 3,2 mm (1/8")?  
 La corriente óptima se sitúa entre 80 y 140 A con corriente continua electrodo positivo (CC+).

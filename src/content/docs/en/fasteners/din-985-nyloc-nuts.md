@@ -112,8 +112,7 @@ Self-locking nuts with polyamide insert have a design profile that is widely har
 
 6.  **What wrench size is used to tighten a DIN 985 M8 nut?** The nut with nominal diameter M8 requires a 13 mm / 0.512 in wrench across flats, commonly a fixed hex wrench or a 1/2" socket.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/fasteners-t_74.html
 - **bossard.com**: https://www.bossard.com/global-en/eshop/locking-nuts-with-polyamide-insert/prevailing-torque-type-hex-lock-nuts-thin-type-with-polyamide-insert/p/161/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-985-nuts

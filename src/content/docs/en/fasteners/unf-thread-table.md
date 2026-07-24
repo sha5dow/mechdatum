@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General characteristics
 The UNF series (Unified National Fine Thread) is part of the unified thread system defined by the ANSI/ASME B1.1 standard. It is characterized by a finer pitch compared to the UNC coarse series, providing greater resistance to vibration, better fit, and thinner thread walls. The flank angle is 60°, identical to ISO metric threads, but all dimensions are expressed in inches. UNF threads are used in precision applications, hydraulic connections, aerospace systems, and automotive applications where high strength and self-locking capability are required.
 
 ## Nomenclature and designation
@@ -146,24 +145,24 @@ The torque values were calculated for bolts and nuts with clean and dry threads 
 ## Equivalences between standards (DIN, ISO, ANSI)
 UNF threads are standardized exclusively under the ANSI/ASME B1.1 system and do not have a direct equivalent in the DIN or ISO metric standards. While UNF threads are based on inches and use pitch as threads per inch, DIN/ISO standards use pitch in millimeters and diameter in millimeters. Although dimensionally close combinations may exist (e.g., UNF 1/4-28 and a hypothetical M6×0.5), they are not interchangeable or substitutable. In projects that combine American and European specifications, adapters should be used or the design should be re-evaluated using a single system.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the pitch of a UNF 1/4-28 thread?**  
+### What is the pitch of a UNF 1/4-28 thread?
 The pitch is 0.907 mm, equivalent to 28 threads per inch (0.0357 in).
 
-**What drill diameter is needed to machine an internal UNF 3/8-24 thread?**  
+### What drill diameter is needed to machine an internal UNF 3/8-24 thread?
 It is recommended to use a drill of 8.50 mm (0.335 in) to obtain approximately 75% thread depth.
 
-**How much load can a UNF 1/2-20 Grade 5 bolt withstand before permanent deformation?**  
+### How much load can a UNF 1/2-20 Grade 5 bolt withstand before permanent deformation?
 The proof load is 60.4 kN (13,590 lbf), which corresponds to the practical yield strength of the material in direct tension.
 
-**What tightening torque should be applied to a UNF 5/8-18 Grade 8 bolt in dry assembly?**  
+### What tightening torque should be applied to a UNF 5/8-18 Grade 8 bolt in dry assembly?
 The maximum recommended torque is 162.1 Nm (119.6 lb‑ft), assuming a friction coefficient K=0.20 and no lubrication.
 
-**What is the stress area of a UNF 3/4-16 thread?**  
+### What is the stress area of a UNF 3/4-16 thread?
 The tensile stress area is 240.6 mm² (0.3729 in²), a value used to calculate the maximum load on the bolt.
 
-**Is there any metric thread identical to the UNF series?**  
+### Is there any metric thread identical to the UNF series?
 There are no identical metric equivalents. UNF threads are defined by ANSI/ASME B1.1 in inches; any dimensional similarity with fine metric threads (DIN 13 / ISO 724) is coincidental and does not guarantee interchangeability.
 
 ## References
@@ -172,8 +171,3 @@ There are no identical metric equivalents. UNF threads are defined by ANSI/ASME 
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/online-calculators-and-converters/thread-engagement-length-calculator/
 - **mcmaster.com**: https://www.mcmaster.com/products/thread-size-identifiers/thread-type~unf-1/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/unified-screw-threads-unc-unf-d_1809.html
-- **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/online-calculators-and-converters/thread-engagement-length-calculator/
-- **mcmaster.com**: https://www.mcmaster.com/products/thread-size-identifiers/thread-type~unf-1/

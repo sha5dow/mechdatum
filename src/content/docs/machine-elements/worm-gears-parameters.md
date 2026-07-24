@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los engranajes de tornillo sin fin son un sistema de transmisión mecánica por deslizamiento que consta de un tornillo sin fin (también llamado gusano) y una rueda dentada helicoidal (corona). Los ejes del tornillo y de la rueda se cruzan habitualmente a 90°, permitiendo relaciones de reducción muy elevadas en una sola etapa, normalmente entre 5:1 y 100:1. Una de sus características más valoradas es la posibilidad de ser **auto-bloqueantes**: cuando el ángulo de avance del tornillo es inferior al ángulo de fricción el sistema no puede ser arrastrado desde la salida, lo que garantiza la irreversibilidad del movimiento en aplicaciones de elevación o sujeción.
 
 Según la geometría de contacto se distinguen tres tipos: sin garganta (contacto puntual, cargas ligeras), de garganta simple (rueda con garganta envolvente, mayor superficie de contacto) y de doble garganta (ambos elementos abrazan el perfil, máxima capacidad de carga). La excelente capacidad de reducción y el funcionamiento silencioso los hacen idóneos para transportadores, ascensores, mesas giratorias, posicionadores de precisión y accionamientos de válvulas.
@@ -124,7 +123,7 @@ La tabla siguiente ofrece una guía rápida para elegir la configuración más a
 | Accionamientos de válvulas y compuertas | 20:1 – 60:1, 1 entrada | 1,0 – 2,0 | Acero inoxidable / Bronce | Grasa especial para exteriores | 0,40 – 0,60 |
 | Husillos de máquinas herramienta | 5:1 – 15:1, 2 o 3 entradas | 1,5 – 2,5 | Acero cementado rectificado / Bronce | Aceite con EP ISO VG 320 | 0,75 – 0,90 |
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 1. ¿Cuál es la relación de transmisión máxima que puede alcanzar un tornillo sin fin de una entrada?  
    Con un tornillo de una sola entrada la relación de transmisión es igual al número de dientes de la rueda, pudiendo alcanzar hasta 100:1 en diseños compactos de una etapa, aunque los valores más frecuentes se sitúan entre 5:1 y 60:1.
 

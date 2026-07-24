@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El aluminio 1100 es una aleación comercialmente pura de la serie 1000 con un contenido mínimo de aluminio del 99.0 %. Presenta excelente resistencia a la corrosión, alta conductividad eléctrica y térmica, y una conformabilidad sobresaliente. No es tratable térmicamente por precipitación, por lo que sus propiedades mecánicas se mejoran mediante trabajo en frío (endurecimiento por deformación). Se emplea en sectores que demandan ductilidad y estabilidad química, tanto en forma de chapas, tubos como perfiles extruidos.
 
 ## Composición química

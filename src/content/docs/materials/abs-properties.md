@@ -118,7 +118,7 @@ El ABS ofrece un equilibrio óptimo entre resistencia al impacto, rigidez y cost
 - Durante la impresión 3D o el termoformado emite partículas ultrafinas (UFP) y compuestos orgánicos volátiles (COV). Se debe trabajar en espacios ventilados y emplear filtración adecuada.
 - La exposición prolongada a la luz solar provoca fotodegradación, amarilleamiento y pérdida de propiedades mecánicas.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la densidad del ABS?
 La densidad del ABS se sitúa entre 1.06 y 1.08 g/cm³ (0.0383–0.0390 lb/in³), lo que lo convierte en un termoplástico ligero pero rígido, adecuado para componentes estructurales no sometidos a cargas extremas.

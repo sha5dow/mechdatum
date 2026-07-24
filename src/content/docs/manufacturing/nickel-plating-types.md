@@ -90,7 +90,7 @@ La elección entre niquelado electrolítico y químico depende de los requerimie
 | Recubrimiento de piezas de aluminio o plásticos | Niquelado químico previa activación superficial |
 | Piezas sometidas a fricción con lubricación deficiente | Niquelado químico (depósito autolubricante con PTFE si se requiere) |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es el espesor máximo que se puede obtener con niquelado químico?
 

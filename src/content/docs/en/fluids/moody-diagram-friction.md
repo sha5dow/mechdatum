@@ -71,28 +71,27 @@ For commercial pipes in the transition zone, the Colebrook-White equation provid
 
 In systems with non-Newtonian fluids or multiphase flow, the standard Moody diagram is not directly applicable and specific correlations are required. For non-circular pipes, the hydraulic diameter D_h = 4A/P is used, where A is the cross-sectional area and P is the wetted perimeter, maintaining the same formulation. The accuracy of the original graphical method is sufficient for most engineering applications, with typical f_D values between 0.008 and 0.08.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
-**What is the formula for the friction factor for laminar flow?**
+### What is the formula for the friction factor for laminar flow?
 The Darcy-Weisbach friction factor (f_D) for laminar flow is calculated analytically as f_D = 64/Re, valid for Reynolds numbers (Re) below 2100. This expression, derived from the Hagen-Poiseuille equation, is independent of pipe roughness and yields values ranging from 0.03 (Re ≈ 2100) to 0.064 (Re = 1000).
 
-**How is the friction factor determined in the transition zone (2100 < Re < 4000)?**
+### How is the friction factor determined in the transition zone (2100 < Re < 4000)?
 In the transition zone (2100 < Re < 4000), the flow alternates between laminar and turbulent characteristics, and the friction factor cannot be determined precisely. The common practice is to linearly interpolate between the laminar value at Re = 2100 (f_D = 64/2100 ≈ 0.0305) and the turbulent value at Re = 4000, calculated with the Colebrook-White equation for the corresponding relative roughness.
 
-**What is the difference between the Darcy-Weisbach friction factor and the Fanning factor?**
+### What is the difference between the Darcy-Weisbach friction factor and the Fanning factor?
 The Darcy-Weisbach friction factor (f_D) is exactly four times greater than the Fanning factor (f_F): f_D = 4 · f_F. The Darcy-Weisbach factor (also called λ) is used in the head loss equation h_f = f_D·(L/D)·(V²/2g), while the Fanning factor (f_F) appears in the definition of shear stress τ_w = f_F·(ρV²/2). It is essential to identify which one is being used when reading values from the diagram, as confusion introduces a factor of 4 error.
 
-**For what value of relative roughness can a pipe be considered smooth?**
+### For what value of relative roughness can a pipe be considered smooth?
 A pipe is considered hydraulically smooth when the dimensionless roughness parameter u*ε/ν is between 0 and 5, where u* = √(τ_w/ρ) is the friction velocity and ν is the kinematic viscosity. In practical terms, for Re = 10⁵, this corresponds approximately to ε/D < 0.000001; for Re = 10⁶, ε/D < 0.00001. Under these conditions, the asperities are submerged within the viscous sublayer and do not affect the friction factor.
 
-**What uncertainty do pressure drops calculated with the Moody diagram have?**
+### What uncertainty do pressure drops calculated with the Moody diagram have?
 Pressure drops calculated using the Moody diagram have an uncertainty of at least 10%, attributable to the scatter of the experimental data supporting the curves and to the differences between uniform artificial roughness (Nikuradse sand) and the irregular roughness patterns in commercial pipes. For critical applications, experimental verification or the use of appropriate safety factors is recommended.
 
-**How is the friction factor calculated without using the graph?**
+### How is the friction factor calculated without using the graph?
 The friction factor can be calculated numerically without using the graph through the Colebrook-White equation: 1/√f_D = -2.0·log₁₀[(ε/D)/3.7 + 2.51/(Re·√f_D)]. Because it is implicit, it requires iteration; the Newton-Raphson method is the most commonly used and typically converges in 3 to 5 iterations. There are also explicit approximations such as the Swamee-Jain equation, valid for 10⁻⁶ < ε/D < 10⁻² and 5000 < Re < 10⁸: f_D = 0.25 / [log₁₀((ε/D)/3.7 + 5.74/Re^0.9)]².
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/moody-diagram-d_618.html
 - **efunda.com**: https://www.efunda.com/formulae/fluids/calc_pipe_friction.cfm
 - **thermopedia.com**: https://www.thermopedia.com/content/789/

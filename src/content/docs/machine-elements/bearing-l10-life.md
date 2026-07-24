@@ -91,24 +91,24 @@ Estos intervalos permiten al ingeniero acotar la búsqueda; se puede afinar con 
 4. La temperatura de trabajo superior a 120 °C / 248 °F obliga a aplicar un factor de reducción de C que los fabricantes publican en sus catálogos.
 5. El montaje en caliente mediante expansión térmica (calentamiento a 110 °C / 230 °F) facilita la instalación sin dañar los caminos de rodadura y preserva la vida nominal de catálogo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué significa exactamente L10?**  
+### ¿Qué significa exactamente L10?
 L10 es la vida nominal en millones de revoluciones que alcanza el 90% de un grupo de rodamientos idénticos trabajando bajo la misma carga. Se corresponde con una fiabilidad del 90% y es la base del dimensionado estándar.
 
-**¿Cuál es el exponente de vida para rodamientos de rodillos cónicos?**  
+### ¿Cuál es el exponente de vida para rodamientos de rodillos cónicos?
 El exponente p vale 10/3, equivalente a 3,33, lo que refleja la mayor sensibilidad de los rodamientos de rodillos a la carga. Así, un aumento del 10% en la carga reduce la vida L10 aproximadamente un 27% en este tipo de rodamientos.
 
-**¿Cómo se convierte la vida de millones de revoluciones a horas?**  
+### ¿Cómo se convierte la vida de millones de revoluciones a horas?
 Se divide el valor en millones de revoluciones por la velocidad de giro en rpm y por 60: L10h = L10 × 10⁶ / (60 n). Por ejemplo, un rodamiento con L10 = 500 millones de revoluciones girando a 1500 rpm tendrá una vida de 5.556 horas.
 
-**¿Qué carga usar en el cálculo si existen fuerzas radiales y axiales simultáneas?**  
+### ¿Qué carga usar en el cálculo si existen fuerzas radiales y axiales simultáneas?
 Se calcula la carga dinámica equivalente P = X·Fr + Y·Fa. Para rodamientos rígidos de bolas con Fa/Fr ≤ 0,25, X=1 e Y=0; en caso contrario X=0,56 e Y vale entre 1 y 2 según el catálogo del fabricante.
 
-**¿Qué ocurre si la carga aplicada P supera la capacidad estática C0?**  
+### ¿Qué ocurre si la carga aplicada P supera la capacidad estática C0?
 No se debe calcular vida L10 porque el rodamiento se encuentra en régimen de deformación plástica permanente; en esas condiciones la vida puede ser inferior a 100 revoluciones. La seguridad estática exige P0 ≤ C0/S0 con S0 ≥ 2 en general.
 
-**¿Qué vida L10h se recomienda para un motor eléctrico de 50 HP?**  
+### ¿Qué vida L10h se recomienda para un motor eléctrico de 50 HP?
 Un motor eléctrico industrial de esa potencia opera típicamente entre 1.500 y 3.000 rpm, y la vida recomendada se sitúa entre 20.000 y 30.000 horas. Un valor de diseño seguro es elegir un rodamiento que proporcione al menos 25.000 horas L10h.
 
 ## Fuentes consultadas

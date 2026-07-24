@@ -15,8 +15,6 @@ verified: true
 
 Bevel gears transmit power between intersecting shafts, typically at 90 degrees, changing the direction of rotary motion. The shape of their teeth, cut on a conical surface, determines smoothness of operation, load capacity, and noise level. The fundamental types are straight bevel gears and spiral bevel gears, each with distinct performance characteristics and applications.
 
-## Operating principle
-
 The operating principle is based on the rolling of two pitch cones that rotate synchronously without sliding at the line of contact. The force is applied to the driving pinion, and the load is transferred to the driven gear. The transmission ratio, which links rotational speeds to the number of teeth, is expressed as i_M = t_F / t_D, where t_F are the teeth of the follower and t_D those of the driver. A spiral bevel gear uses curved helical teeth, producing gradual and overlapping contact between flanks, reducing vibration and noise compared to the straight profile. The hypoid variant, a type of spiral bevel gear where the shafts do not intersect, introduces additional sliding action that requires extreme-pressure lubricants.
 
 ## Types and classification
@@ -85,7 +83,7 @@ The choice of bevel gear type can be guided by the target application and its pr
 
 The table relates the application to the gear type and maximum operating speed. For hypoid gears, the torque ratio relative to an equivalent straight spiral bevel gear is included, reflecting the gain in torque capacity due to the larger hypoid pinion diameter.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum transmission ratio in a straight bevel gear?
 The practical maximum transmission ratio is 8:1, meaning that for every 8 revolutions of a 15-tooth driving pinion, the 120-tooth driven gear completes 1 revolution. Higher ratios typically require hypoid or epicyclic gears.
@@ -105,7 +103,6 @@ A pitch speed of 5 m/s / 1000 ft/min marks the practical transition. Below this 
 ### How much larger is the diameter of a hypoid pinion compared to an equivalent spiral bevel pinion?
 A hypoid pinion with moderate offset can have a diameter between 25% and 40% larger than a spiral bevel pinion with the same number of teeth and diametral pitch. This increase allows more teeth in simultaneous contact and transmission of higher torques.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/Gear-Trains-d_1374.html
 - **mcmaster.com**: https://www.mcmaster.com/products/spiral-bevel-gears

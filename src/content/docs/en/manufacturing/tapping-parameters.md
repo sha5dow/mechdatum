@@ -161,24 +161,24 @@ Cutting taps (HSS, carbide) can process almost any metallic material, plastics, 
 
 5. **Torque and feed control**: on CNC machines with rigid tapping, the exact pitch feed is programmed. On conventional machines, a tapping head with axial float is mandatory. For roll form taps, torque is 50–100% higher; verify that the machine supports it.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the recommended cutting speed for tapping stainless steel 304 with an HSS tap?**
+### What is the recommended cutting speed for tapping stainless steel 304 with an HSS tap?
 The typical cutting speed for austenitic stainless steel with a cutting tap is 3–8 m/min (10–26 ft/min). The exact value depends on cooling and system rigidity.
 
-**What feed rate is programmed for an M12×1.75 thread?**
+### What feed rate is programmed for an M12×1.75 thread?
 The programmed feed rate must be 1.75 mm/rev (0.069 in/rev), equal to the thread pitch. In rigid tapping, the machine synchronizes feed with spindle rotation.
 
-**How much longer do roll form taps last compared to cutting taps in ductile aluminum?**
+### How much longer do roll form taps last compared to cutting taps in ductile aluminum?
 In wrought aluminum 6061-T6, roll form taps can achieve a tool life 3 to 10 times longer thanks to the absence of cutting edge wear and work hardening of the thread surface.
 
-**What is the drill diameter for an M10×1.5 roll form tap?**
+### What is the drill diameter for an M10×1.5 roll form tap?
 A starting value is a drill of 8.9 ± 0.05 mm (0.350 ± 0.002 in), leaving a margin of 0.6 mm for material displacement. Strict tolerance is essential to avoid breakage or incomplete thread.
 
-**How much more tapping torque does a roll form tap require compared to a cutting tap in mild steel?**
+### How much more tapping torque does a roll form tap require compared to a cutting tap in mild steel?
 An increase of 50–100% is estimated, with typical values of 15–30 N·m (11–22 ft·lbf) for an M10×1.5 in low-carbon steel with EP lubrication.
 
-**What additional depth does a roll form tap need in a blind hole?**
+### What additional depth does a roll form tap need in a blind hole?
 It requires a lead-out length of approximately 2.5 times the pitch plus the forming tip. For M10×1.5 (pitch 1.5 mm), this equates to about 5–6 mm (0.20–0.24 in) additional to the useful threaded depth.
 
 ## Sources
@@ -187,8 +187,7 @@ It requires a lead-out length of approximately 2.5 times the pitch plus the form
 - **efunda.com**: https://www.efunda.com/processes/machining/chip_formation_2.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/roll-form-tapping
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/drill-size-pipe-taps-d_1126.html
 - **efunda.com**: https://www.efunda.com/processes/machining/chip_formation_2.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/roll-form-tapping

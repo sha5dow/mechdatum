@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General overview
 Kevlar fiber is a synthetic aromatic polyamide (aramid), known for its exceptional mechanical strength, low density, and high thermal stability. Developed by DuPont™, it belongs to the para-aramid family and is marketed in different grades – mainly Kevlar 29 and Kevlar 49 – to meet specific requirements in sectors such as aerospace, military, automotive, and industrial.
 
 ## Chemical composition
@@ -71,28 +70,27 @@ The following table contrasts the most relevant mechanical properties of Kevlar 
 
 Kevlar stands out for its very high specific strength (strength/density), comparable or superior to glasses and some carbons, although its modulus is lower than high-modulus carbon fibers.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the tensile strength of Kevlar 29?**  
+### What is the tensile strength of Kevlar 29?
 Kevlar 29 has a tensile strength of 2 860 MPa (410 ksi) and an elongation at break of 3,5 %.
 
-**2. What differentiates Kevlar 49 from Kevlar 29?**  
+### What differentiates Kevlar 49 from Kevlar 29?
 Kevlar 49 presents a tensile modulus of 124 GPa compared to 64 GPa for Kevlar 29, and a lower elongation (2,5 % vs 3,5 %). This makes it preferred for structural reinforcement in composites.
 
-**3. At what temperature does Kevlar decompose?**  
+### At what temperature does Kevlar decompose?
 The decomposition temperature exceeds 500 °C, without the fiber melting, and it can work in continuous service up to about 160 °C.
 
-**4. Is Kevlar resistant to ballistic impacts?**  
+### Is Kevlar resistant to ballistic impacts?
 Yes; Kevlar 29 absorbs impact energy through a tensile strength of 2 860 MPa and an elongation of 3,5 %, dissipating the kinetic energy of the projectile.
 
-**5. How does UV radiation affect Kevlar?**  
+### How does UV radiation affect Kevlar?
 Prolonged exposure to UV rays causes degradation that reduces tensile strength. It is recommended to protect the fiber with coatings when used outdoors.
 
-**6. What is the density of Kevlar?**  
+### What is the density of Kevlar?
 The density of Kevlar 29 and 49 grades is 1 440 kg/m³ (0,052 lb/in³), approximately 55 % of the density of E-glass (2 630 kg/m³).
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1384
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-composite-fibers-d_1226.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=642

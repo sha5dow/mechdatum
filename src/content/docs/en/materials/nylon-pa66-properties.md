@@ -131,8 +131,3 @@ Nylon PA66 is identified with recycling code 66 and can be reprocessed 3 to 4 ti
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=196
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/properties.aspx?ArticleID=488
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=196

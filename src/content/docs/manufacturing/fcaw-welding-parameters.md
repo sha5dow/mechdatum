@@ -94,7 +94,7 @@ La decisión entre FCAW con protección gaseosa y autoprotegido se basa en el en
 
 Para espesores superiores a **20 mm / 0.79 in** en aceros estructurales, se prefiere FCAW con CO₂ puro para maximizar la penetración. En láminas de **≤ 3 mm / 0.12 in** en exteriores, el FCAW autoprotegido con alambre de **0,9 mm / 0.035 in** ofrece mayor facilidad de manejo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la tasa de deposición máxima que se puede alcanzar en FCAW?
 La tasa de deposición en posición plana puede llegar hasta **15 kg/h / 33 lb/h** con alambres de 2,4 mm / 3/32 in y corrientes elevadas, superando en más de un **40 %** la tasa de GMAW sólida en condiciones equivalentes.

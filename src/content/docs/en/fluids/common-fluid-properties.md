@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General overview
 The properties of fluids determine their behavior in heat transfer, pipe flow, and lubrication applications. Density, viscosity, specific heat, and thermal conductivity vary with temperature and pressure; therefore, reference data are presented at saturation conditions. Water is the most common working fluid; its properties are listed as a design baseline. For other fluids such as oils, typical values at room temperature are given for comparison.
 
 ## Physical properties
@@ -73,26 +72,25 @@ Fluid properties are involved in numerous engineering correlations. Newton's law
 ## Selection criteria
 The choice of a working fluid depends on heat transfer requirements, lubrication, chemical stability, and temperature range. A high specific heat favors energy storage and transport (water, thermal oils). High viscosity improves lubrication but increases friction losses; in hydraulic systems, viscosities between 20 cSt / 2,2×10⁻⁵ ft²/s and 100 cSt / 1,1×10⁻⁴ ft²/s at operating temperature are preferred. In heating systems, the low viscosity and high conductivity of water make it preferable to oils. For temperatures above 100 °C / 212 °F, thermal oils or silicone fluids with stable properties are used.
 
-## Frequently asked questions (FAQ)
-**What is the viscosity of water at 20 °C?**  
+## Frequently Asked Questions (FAQ)
+### What is the viscosity of water at 20 °C?
 The dynamic viscosity of water at 20 °C / 68 °F is 1,002×10⁻³ Pa·s / 2,09×10⁻⁵ lbf·s/ft², corresponding to a kinematic viscosity of 1,004×10⁻⁶ m²/s / 1,08×10⁻⁵ ft²/s.
 
-**How does the density of water vary with temperature?**  
+### How does the density of water vary with temperature?
 The density of saturated liquid water decreases from 999,8 kg/m³ / 62,4 lb/ft³ at 0 °C / 32 °F to 958,4 kg/m³ / 59,8 lb/ft³ at 100 °C / 212 °F, while saturated vapor increases from 0,0048 kg/m³ / 0,00030 lb/ft³ to 0,60 kg/m³ / 0,037 lb/ft³ over the same range.
 
-**What is the specific heat value of water?**  
+### What is the specific heat value of water?
 Saturated liquid water has an average specific heat of 4,18 kJ/(kg·K) / 1,0 Btu/(lb·°F) between 0 °C / 32 °F and 100 °C / 212 °F, with a maximum of 4,216 kJ/(kg·K) / 1,007 Btu/(lb·°F) at the boiling point.
 
-**What is the thermal conductivity of water at 60 °C?**  
+### What is the thermal conductivity of water at 60 °C?
 At 60 °C / 140 °F, the thermal conductivity of saturated liquid water is 0,654 W/(m·K) / 0,378 Btu/(h·ft·°F), allowing high heat transfer rates.
 
-**What Prandtl number does water have at room temperature?**  
+### What Prandtl number does water have at room temperature?
 The Prandtl number of water at 20 °C / 68 °F is approximately 7,0; it indicates that momentum diffusivity dominates over thermal diffusivity at this condition.
 
-**What density does a typical hydraulic oil have?**  
+### What density does a typical hydraulic oil have?
 A common hydraulic oil has a density between 850 kg/m³ / 53 lb/ft³ and 950 kg/m³ / 59 lb/ft³ at 20 °C / 68 °F; kinematic viscosity can range from 20 cSt / 2,2×10⁻⁵ ft²/s to 100 cSt / 1,1×10⁻⁴ ft²/s.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/water-properties-temperature-equilibrium-pressure-d_2099.html
 - **thermopedia.com**: https://www.thermopedia.com/content/1254/

@@ -111,24 +111,24 @@ Entre sus aplicaciones más frecuentes se encuentran piñonería y engranajes de
 
 Frente a otros aceros de cementación de grado inferior como el AISI 8620H, la variante estándar ofrece un rango composicional más restringido que garantiza una respuesta al temple más predecible. En comparación con aceros al cromo-manganeso como el 5115, el 8620 aporta una mayor tenacidad en el núcleo gracias a la presencia de níquel. Respecto a aleaciones de mayor templabilidad como el AISI 4320, el 8620 resulta una alternativa más económica manteniendo prestaciones suficientes para la mayoría de aplicaciones de media exigencia. Si se compara con aceros de temple total como el AISI 4140, el 8620 se diferencia por su capacidad para ser cementado, logrando superficies mucho más duras sin sacrificar la ductilidad del centro.
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la dureza superficial máxima que se puede obtener cementando el acero 8620?**
+### ¿Cuál es la dureza superficial máxima que se puede obtener cementando el acero 8620?
 La dureza superficial máxima tras cementación y revenido bajo se sitúa entre 58 HRC y 62 HRC cuando la capa alcanza un contenido de carbono eutectoide.
 
-**¿Qué temperatura de revenido se recomienda para obtener una resistencia a la tracción de 800 MPa en el núcleo?**
+### ¿Qué temperatura de revenido se recomienda para obtener una resistencia a la tracción de 800 MPa en el núcleo?
 Un revenido entre 150 °C y 200 °C después del temple permite obtener resistencias a la tracción en el núcleo cercanas a 800 MPa en piezas cementadas.
 
-**¿Cuánto carbono absorbe la superficie del acero 8620 durante una cementación estándar?**
+### ¿Cuánto carbono absorbe la superficie del acero 8620 durante una cementación estándar?
 Durante la fase de cementación a 925 °C con potencial de carbono controlado, la superficie absorbe aproximadamente entre 0.80 % y 1.00 % de carbono.
 
-**¿Cuál es la diferencia de dureza entre la capa cementada y el núcleo en un engranaje tratado?**
+### ¿Cuál es la diferencia de dureza entre la capa cementada y el núcleo en un engranaje tratado?
 La capa cementada alcanza típicamente 60 HRC, mientras que el núcleo se mantiene entre 25 HRC y 35 HRC, lo que supone una diferencia de hasta 35 puntos Rockwell C.
 
-**¿Qué profundidad de capa cementada se especifica en aplicaciones de piñonería para automoción?**
+### ¿Qué profundidad de capa cementada se especifica en aplicaciones de piñonería para automoción?
 La profundidad efectiva de capa comúnmente especificada para piñones de transmisión oscila entre 0.5 mm y 1.5 mm, dependiendo del módulo del engranaje.
 
-**¿Cuál es la ventaja de usar 8620 frente a un acero al carbono simple para piezas de desgaste?**
+### ¿Cuál es la ventaja de usar 8620 frente a un acero al carbono simple para piezas de desgaste?
 El acero 8620 desarrolla una dureza superficial superior a 58 HRC tras el tratamiento, duplicando la resistencia al desgaste de un acero al carbono cementado simple, que raramente supera los 45 HRC efectivos en servicio.
 
 ## Fuentes consultadas

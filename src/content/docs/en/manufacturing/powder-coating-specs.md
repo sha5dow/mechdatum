@@ -13,12 +13,10 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Overview
 Powder coating is a dry coating process in which a mixture of thermoset or thermoplastic polymers in the form of fine powder is electrostatically applied onto a surface, typically metallic, and cured by heat or ultraviolet radiation to form a continuous, durable, high-thickness film. Unlike conventional liquid coatings, it uses no solvents, resulting in virtually zero volatile organic compound (VOC) emissions and allowing recovery of overspray powder, thereby reducing waste.
 
 Typical particle size ranges from 2 to 50 µm (0.08 to 2.0 mils), with a melting temperature around 150 °C (302 °F) and standard curing at 200 °C (392 °F) for 10 to 15 minutes. With special formulations, films from 30 µm (1.2 mils) to over 150 µm (5.9 mils) can be achieved, with 60–80 µm (2.4–3.1 mils) being the most common range for industrial use.
 
-## Operating principle
 Application relies on electrostatic attraction between the part to be coated and the powder particles. The part, previously cleaned and often treated with a conversion coating (phosphating or chromating) to improve adhesion, acts as ground or is negatively charged. The powder is fluidized in a hopper and conveyed by compressed air to the spray gun, where it receives an electrostatic charge (typically negative by corona effect or tribocharging). The charged particles are projected toward the part and adhere uniformly due to electrostatic forces, even partially wrapping around rear faces because of air currents. Once the desired layer is deposited, the part is placed in a curing oven, where the powder melts, flows, and chemically crosslinks (for thermosets) or simply melts and solidifies (thermoplastics), forming a continuous film.
 
 ## Applicable materials
@@ -89,7 +87,7 @@ To choose between powder coating and other industrial coating alternatives, cons
 - **Substrate type and process temperature**: for metals that withstand 180–200 °C (356–392 °F), powder coating is ideal; for plastics or composites, UV-cure powders or low-temperature formulations (120–150 °C / 248–302 °F) must be chosen.
 - **Regulatory and environmental requirements**: in facilities with strict VOC restrictions, powder coating eliminates solvent use and simplifies emission management.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 1. **What is the recommended thickness for a first coat of powder coating?** The standard dry film thickness ranges from 60 to 80 µm (2.4–3.1 mils), although on parts exposed to severe corrosion, up to 120–150 µm (4.7–5.9 mils) can be applied.
 
@@ -108,7 +106,6 @@ To choose between powder coating and other industrial coating alternatives, cons
 - **efunda.com**: https://www.efunda.com/processes/surface/conversion_coatings.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/powder-coating
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/processes/surface/conversion_coatings.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/powder-coating

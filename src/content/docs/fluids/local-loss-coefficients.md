@@ -109,22 +109,22 @@ Este método permite sumar longitudes equivalentes a la longitud física de la t
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es el coeficiente de pérdida de un codo roscado de 90° estándar?**  
+### ¿Cuál es el coeficiente de pérdida de un codo roscado de 90° estándar?
    El coeficiente ξ es 1,5 para flujo turbulento. Esto implica que cada codo disipa una altura de velocidad igual a 1,5 × (v²/2g).
 
-2. **¿Qué caída de presión produce una válvula de globo abierta con agua a 2 m/s y 1000 kg/m³?**  
+### ¿Qué caída de presión produce una válvula de globo abierta con agua a 2 m/s y 1000 kg/m³?
    Con ξ = 10, Δp = 10 × (1000 kg/m³ × (2 m/s)² / 2) = 20 000 Pa (20 kPa o 2,9 psi).
 
-3. **¿Qué accesorio común tiene el menor coeficiente de pérdida?**  
+### ¿Qué accesorio común tiene el menor coeficiente de pérdida?
    La válvula de bola totalmente abierta (ξ = 0,05) y la unión roscada (ξ = 0,08) presentan las pérdidas más bajas, prácticamente despreciables en muchos diseños.
 
-4. **¿Cuánto aumenta la pérdida si una válvula de compuerta se cierra a la mitad?**  
+### ¿Cuánto aumenta la pérdida si una válvula de compuerta se cierra a la mitad?
    El coeficiente pasa de 0,15 (totalmente abierta) a 2,1 (1/2 cerrada), un incremento de 14 veces. La altura de pérdida se multiplica por el mismo factor para una velocidad dada.
 
-5. **¿Cómo se calcula la pérdida total en un tramo con múltiples accesorios?**  
+### ¿Cómo se calcula la pérdida total en un tramo con múltiples accesorios?
    Se suman los coeficientes ξ de todos los accesorios y se aplica la fórmula h<sub>L total</sub> = (Σξ) v²/(2g). También pueden convertirse a longitudes equivalentes y usar la ecuación de Darcy-Weisbach.
 
-6. **¿El coeficiente de pérdida varía con el diámetro de la tubería?**  
+### ¿El coeficiente de pérdida varía con el diámetro de la tubería?
    Para un mismo tipo de accesorio, ξ es aproximadamente constante en flujo turbulento completamente desarrollado. Sin embargo, en codos la relación R/D afecta el valor: un codo de 90° bridado estándar (R/D ≈ 1) tiene ξ = 0,3; uno de radio largo (R/D = 1,5) reduce a ξ = 0,2.
 
 ## Fuentes consultadas

@@ -76,7 +76,7 @@ With the corresponding pressure drop:
 
 Where f is the friction factor (obtained from the Colebrook equation for turbulent flow), L the length, D the diameter, V the mean fluid velocity, and ρ its density.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 What is the most common standard pressure in mobile hydraulic systems?  
 Mobile hydraulic systems typically operate in the range of 200 to 350 bar, with 250 bar being one of the most widespread nominal pressures.
@@ -96,8 +96,7 @@ A 1 in Schedule 160 pipe reaches a maximum pressure of 618,4 bar / 8969 psi at a
 What is the difference between PN and class in terms of pressure?  
 The PN (Nominal Pressure) designation is expressed in bar (e.g., PN 250 = 250 bar), while the ASME class (150, 300, etc.) refers to psig; a class 150 is equivalent to 10,3 bar of service pressure for carbon steel.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/hydrostatic-test-pressure-flanges-d_1339.html
 - **engineersedge.com**: https://www.engineersedge.com/fluid_flow/steel-pipe-pressure-ratings.htm
 - **efunda.com**: https://www.efunda.com/formulae/fluids/calc_pipe_friction.cfm

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Los retenes de labio, también conocidos como sellos radiales de eje, son elementos de estanqueidad dinámica diseñados para retener lubricante y excluir contaminantes en aplicaciones con movimiento rotativo u oscilante. El diseño típico consiste en una carcasa metálica exterior, un elemento elastomérico con uno o varios labios de sellado y un resorte de torsión que mantiene una presión de contacto controlada sobre el eje. Se montan a presión en un alojamiento y rozan contra la superficie del eje, creando una película lubricante que minimiza el desgaste. Los retenes estándar operan en condiciones de baja presión (típicamente inferiores a 0,5 bar / 7 psi) y velocidades periféricas que pueden alcanzar 15 m/s (3000 fpm) en elastómeros convencionales y hasta 25 m/s (5000 fpm) en PTFE.
 
 ## Tipos de retenes y sellos de labio
@@ -123,22 +122,22 @@ A continuación se presenta una tabla compacta de selección directa para las co
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la velocidad máxima periférica de un retén de labio estándar?**  
+### ¿Cuál es la velocidad máxima periférica de un retén de labio estándar?
 La velocidad máxima para un retén de nitrilo (NBR) estándar es de 15 m/s / 3 000 fpm, mientras que los de PTFE pueden alcanzar 25 m/s / 5 000 fpm en condiciones controladas.
 
-**¿Qué presión puede soportar un retén de labio sin refuerzo?**  
+### ¿Qué presión puede soportar un retén de labio sin refuerzo?
 La presión máxima admisible sin anillo de respaldo ni soporte externo es de 0,5 bar / 7 psi para un diseño convencional de un solo labio.
 
-**¿Cuál es el rango de temperatura de un retén de fluoroelastómero?**  
+### ¿Cuál es el rango de temperatura de un retén de fluoroelastómero?
 El FKM opera de manera continua desde −20 °C / −4 °F hasta 200 °C / 392 °F, con picos cortos hasta 220 °C / 428 °F.
 
-**¿Qué rugosidad superficial debe tener el eje para un retén de labio?**  
+### ¿Qué rugosidad superficial debe tener el eje para un retén de labio?
 La rugosidad óptima Ra del eje se sitúa entre 0,2 µm / 8 µin y 0,4 µm / 16 µin, medida según ISO 4287.
 
-**¿Cuál es la tolerancia de alojamiento recomendada para montar un retén?**  
+### ¿Cuál es la tolerancia de alojamiento recomendada para montar un retén?
 El alojamiento debe mecanizarse con tolerancia H7, lo que para un diámetro de 52 mm / 2.047 in corresponde a un rango de +0,030 mm / +0.0012 in a 0 mm / 0 in.
 
-**¿Qué dureza mínima debe tener el eje para evitar desgaste?**  
+### ¿Qué dureza mínima debe tener el eje para evitar desgaste?
 La superficie del eje debe poseer una dureza mínima de 30 HRC (aproximadamente 280 HV) para garantizar una vida útil adecuada del labio de sellado.
 
 ## Fuentes consultadas

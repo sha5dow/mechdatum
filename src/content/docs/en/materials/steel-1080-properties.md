@@ -85,24 +85,24 @@ AISI 1080 steel is a high-carbon steel (0.75–0.88 % carbon) known for its exce
 - **JIS**: SK85 (former SK5)
 - **ISO**: C80U
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the hardness of 1080 steel in annealed condition?**  
+### What is the hardness of 1080 steel in annealed condition?
 Annealed 1080 steel has a Brinell hardness of approximately 174 HB, which facilitates machining prior to heat treatment.
 
-2. **What tensile strength does 1080 steel achieve after quenching and low-temperature tempering?**  
+### What tensile strength does 1080 steel achieve after quenching and low-temperature tempering?
 After oil quenching and tempering at 315 °C, tensile strength is around 1380 MPa (200 ksi), with yield strength near 1275 MPa.
 
-3. **What is the typical thermal conductivity of this material?**  
+### What is the typical thermal conductivity of this material?
 The thermal conductivity of 1080 steel is 48.1 W/m·K at 100 °C, a characteristic value for high-carbon steels.
 
-4. **In what density range does AISI 1080 steel fall?**  
+### In what density range does AISI 1080 steel fall?
 Its density ranges between 7.7 and 8.03 g/cm³ (0.278–0.290 lb/in³), varying slightly depending on the manufacturing process.
 
-5. **What is its coefficient of thermal expansion?**  
+### What is its coefficient of thermal expansion?
 In annealed condition, the linear coefficient of thermal expansion is 14.7 × 10⁻⁶ /°C in the range of 20 to 700 °C.
 
-6. **Exactly how much carbon does this steel contain?**  
+### Exactly how much carbon does this steel contain?
 AISI 1080 specification requires a carbon content between 0.75% and 0.88%, with maximums of 0.05% sulfur and 0.04% phosphorus.
 
 ## References
@@ -111,8 +111,3 @@ AISI 1080 specification requires a carbon content between 0.75% and 0.88%, with 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=12123
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6570
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=12123

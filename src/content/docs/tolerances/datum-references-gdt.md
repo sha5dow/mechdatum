@@ -76,23 +76,23 @@ La tabla siguiente resume la capacidad de restricción de los tipos de datum má
 | Simultaneous requirements | CZ (zona común) para tolerancias múltiples | Simultaneous requirement por defecto |
 | Tratamiento de datum targets | Se indican con diana y coordenadas implícitas | Diámetro del área de contacto obligatorio, p. ej., "⌀12 / ⌀0.47 in" |
 
-## FAQ
-1. **¿Cuántos grados de libertad restringe un datum primario plano?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuántos grados de libertad restringe un datum primario plano?
    Un datum primario plano restringe exactamente 3 grados de libertad: 1 translación perpendicular al plano y 2 rotaciones sobre ejes contenidos en él.
 
-2. **¿Qué diferencia hay entre datum funcional y datum de fabricación?**  
+### ¿Qué diferencia hay entre datum funcional y datum de fabricación?
    Un datum funcional refleja la función de ensamblaje, mientras que el de fabricación se elige para facilitar el mecanizado. La conversión entre ambos requiere un análisis de tolerancias con desviaciones típicas de 0.2 mm / 0.008 in.
 
-3. **¿Cuál es el diámetro mínimo recomendado para un datum target de tipo punto en inspección CMM?**  
+### ¿Cuál es el diámetro mínimo recomendado para un datum target de tipo punto en inspección CMM?
    Se recomienda un diámetro de contacto de al menos 12 mm / 0.47 in para piezas de tamaño medio (entre 200 mm / 7.87 in y 500 mm / 19.69 in) con el fin de garantizar repetibilidad.
 
-4. **¿Puede un datum ser una línea de centro sin material asociado?**  
+### ¿Puede un datum ser una línea de centro sin material asociado?
    Sí, un datum puede ser una línea de centro (plano medio) de una ranura o una característica de anchura. Debe indicarse con el símbolo de datum unido a la línea de cota correspondiente.
 
-5. **¿En qué orden se leen los datums en el marco de referencia A|B|C?**  
+### ¿En qué orden se leen los datums en el marco de referencia A|B|C?
    Se leen de izquierda a derecha como primario, secundario y terciario. Por ejemplo, A|B|C significa que A restringe más grados, luego B y finalmente C.
 
-6. **¿Qué error típico se produce al omitir el datum terciario?**  
+### ¿Qué error típico se produce al omitir el datum terciario?
    La omisión del datum terciario deja sin control el último grado de libertad traslacional, lo que puede provocar un desplazamiento máximo del lote igual a la tolerancia de posición no asignada, típicamente 0.5 mm / 0.020 in para piezas no críticas.
 
 ## Fuentes consultadas

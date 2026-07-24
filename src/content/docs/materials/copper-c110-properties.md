@@ -107,7 +107,7 @@ El C11000 cuenta con más de 10 equivalentes normativos en todo el mundo, incluy
 | Federal (US) | QQ-B-650 |
 | ASTM (relevante) | B224 (formas específicas), B152, B187 |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la conductividad eléctrica mínima del cobre C110?
 La conductividad eléctrica mínima exigida por norma es del 100 % IACS, aunque en la práctica la mayoría de las partidas superan el 101 % IACS.
 

@@ -97,28 +97,27 @@ The compressive load capacity of a flat washer is calculated as the product of t
 | M16 | 480,0 mm² / 0,744 in² | 76,8 kN / 17 260 lbf |
 | M20 | 729,0 mm² / 1,130 in² | 116,6 kN / 26 210 lbf |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the inner diameter of a DIN 125 washer for M8 bolt?**  
+### What is the inner diameter of a DIN 125 washer for M8 bolt?
 The minimum inner diameter is 8.4 mm / 0.331 in, sufficient to accommodate an M8 bolt with standard clearance.
 
-**2. What thickness does a DIN 125 A washer have for metric 12?**  
+### What thickness does a DIN 125 A washer have for metric 12?
 The standard thickness is 2.5 mm / 0.098 in, both for the version without chamfer and for form B.
 
-**3. Up to what load can an M16 carbon steel washer work?**  
+### Up to what load can an M16 carbon steel washer work?
 With steel of 240 MPa / 34 810 psi yield strength and safety factor 1.5, it supports approximately 76.8 kN / 17 260 lbf in compression.
 
-**4. Which ISO standard corresponds to DIN 125 A?**  
+### Which ISO standard corresponds to DIN 125 A?
 It corresponds directly to ISO 7089, which specifies flat washers without chamfer for metric fasteners.
 
-**5. With what type of bolts are DIN 125 washers used?**  
+### With what type of bolts are DIN 125 washers used?
 They are commonly used with hexagonal bolts, socket head cap screws or metric Allen screws per ISO, and are also compatible with UNC/UNF fasteners if the inner diameter allows.
 
-**6. What constructive difference is there between DIN 125 A and DIN 125 B?**  
+### What constructive difference is there between DIN 125 A and DIN 125 B?
 Version B incorporates a small chamfer on the inner and outer diameter (bevel of ~0.2‑0.5 mm / 0.008‑0.020 in), while version A has sharp edges.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/unified-screw-threads-unc-unf-d_1809.html
 - **bossard.com**: https://www.bossard.com/global-en/eshop/products/fastening-technology/standard-fastening-elements/washers/c/01.100.300/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-125-flat-washers

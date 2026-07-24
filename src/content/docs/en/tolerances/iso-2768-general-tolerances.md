@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Definition
-
 The general tolerance ISO 2768 defines the allowable variation in linear, angular and geometrical dimensions of machined parts when a specific tolerance is not indicated on the manufacturing drawing. The ISO 2768 standard consists of two parts: Part 1 establishes tolerances for linear and angular dimensions without individual indication, and Part 2 covers general geometrical tolerances such as straightness, flatness, perpendicularity, symmetry and circular runout. These general tolerances group the permissible values into four classes of precision — fine (f), medium (m), coarse (c) and very coarse (v) — covering nominal length ranges from 0,5 mm / 0.02 in to 2000 mm / 78.74 in. The most common application is the medium class (m), which suits standard machining processes such as milling or turning.
 
 ## Classification of general tolerances
@@ -79,26 +77,25 @@ In the tolerance block or near the title block, the notation «ISO 2768-m» indi
 | Integrated geometrical tolerances | Yes, via part 2 with classes H, K, L | Only through explicit GD&T per ASME Y14.5 |
 | Scope of use | Europe, ISO global | North America, but converging with ISO through ASME Y14.36 |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1.  **How much does a length of 150 mm vary under ISO 2768-f?**
+### How much does a length of 150 mm vary under ISO 2768-f?
     The tolerance for a length of 150 mm / 5.91 in in fine class is ±0,2 mm / ±0.0079 in, meaning the part can measure between 149,8 mm / 5.90 in and 150,2 mm / 5.91 in without rejection.
 
-2.  **Which class is used for machining a through hole without tolerance indication?**
+### Which class is used for machining a through hole without tolerance indication?
     The medium class (m) provides a tolerance of ±0,2 mm / ±0.0079 in for nominal diameters between 6 mm / 0.24 in and 30 mm / 1.18 in, accepting variations up to 0,4 mm / 0.0157 in on the actual diameter for assemblies with standard clearance.
 
-3.  **How does ISO 2768 affect a angular dimension of 60° with a short side of 20 mm?**
+### How does ISO 2768 affect a angular dimension of 60° with a short side of 20 mm?
     In class m, the tolerance is ±0°30' / ±0.0087 rad, so the actual angle can lie between 59.5° and 60.5°, equivalent to an arc deviation of approximately 0,17 mm / 0.0067 in at the end of the 20 mm / 0.79 in side.
 
-4.  **Which class should I choose for a 3-meter welded structure?**
+### Which class should I choose for a 3-meter welded structure?
     The standard only reaches up to 2000 mm / 78.74 in; for a length of 3 m / 118.11 in an individual tolerance must be specified. Extrapolating class v for the highest range (1000–2000 mm / 39.37–78.74 in), the tolerance would be around ±4,0 mm / ±0.1575 in, insufficient to absorb thermal deformations in welding without design review.
 
-5.  **Are ISO 2768-m and mK interchangeable on any part?**
+### Are ISO 2768-m and mK interchangeable on any part?
     No. ISO 2768-m only covers linear and angular dimensions, while mK adds geometrical tolerances of class K for perpendicularity, straightness, flatness, symmetry and runout. A part with perpendicularity requirements under mK may be rejected without part 2 even if it meets the lengths of part 1.
 
-6.  **What is the tolerance on a 4 mm chamfer in class c?**
+### What is the tolerance on a 4 mm chamfer in class c?
     For a radius or chamfer between 3 mm / 0.12 in and 6 mm / 0.24 in, class c allows ±1,0 mm / ±0.0394 in, so the chamfer can vary between 3,0 mm / 0.118 in and 5,0 mm / 0.197 in without being considered defective.
 
-## Sources Consulted
-
+## References
 - **roymech.org**: https://roymech.org/

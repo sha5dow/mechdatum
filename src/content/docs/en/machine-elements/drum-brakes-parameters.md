@@ -75,7 +75,7 @@ The assembly is mounted on a rigid backing plate that absorbs the reaction torqu
 | Adjuster mechanism | Ratchet with toothed wheel | Adjustment step 0,3 – 0,5 mm per cycle / 0.012 – 0.020 in |
 | Shoe anchor | Pin anchored to backing plate | Diameter 12 – 18 mm / 0.47 – 0.71 in in nodular iron |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 **What is the typical range of maximum braking torque for a 250 mm (10 in) drum brake?** The maximum torque lies between 1500 and 2800 N·m (1106 to 2065 lb·ft) for a single wheel, depending on the lining friction coefficient and actuation pressure. The dual self-energizing shoe configuration optimizes this value in forward travel.
 
@@ -89,7 +89,6 @@ The assembly is mounted on a rigid backing plate that absorbs the reaction torqu
 
 **What surface temperature can the drum track reach during an emergency stop from 90 km/h (56 mph) with maximum load?** The friction track surface temperature can exceed 500 °C (932 °F) within a 2 to 3 second interval, which requires a drum material with good thermal conductivity and temper resistance to avoid deformation and thermal cracking.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/disk-brakes-d_1808.html
 - **mcmaster.com**: https://www.mcmaster.com/cad-models

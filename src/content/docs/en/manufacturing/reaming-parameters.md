@@ -66,23 +66,23 @@ It is not suitable for highly abrasive fibrous composites, materials with hard i
 - **Roughing and finishing reamers:** pairs that split the allowance; the roughing reamer prepares the diameter and the finishing reamer provides final size and surface.
 - **Helix criteria:** left-hand spiral with right-hand cut for through holes (promotes chip evacuation); straight flute or right-hand spiral for blind holes (pushes chips outward).
 
-## Frequently asked questions
-**What tolerance can reaming achieve?**  
+## Frequently Asked Questions (FAQ)
+### What tolerance can reaming achieve?
 Reaming typically achieves tolerance grades IT8 to IT9, equivalent to ±0.025 mm (±0.001 in) for diameters up to 25 mm.
 
-**What material allowance is left for reaming?**  
+### What material allowance is left for reaming?
 An allowance of 0.1 to 0.2 mm (0.004–0.008 in) is recommended for soft materials and 0.05 to 0.13 mm (0.002–0.005 in) for hard materials, without exceeding 5 % of the drilled diameter.
 
-**What is the typical surface finish after reaming?**  
+### What is the typical surface finish after reaming?
 Surface finish ranges between 0.8 and 3.2 µm Ra (32–125 µin), and can reach 0.4 µm Ra (16 µin) with carbide tools and adequate cooling.
 
-**What cutting speed is recommended for reaming aluminum?**  
+### What cutting speed is recommended for reaming aluminum?
 For wrought aluminum, speeds of 60–100 m/min (200–330 ft/min) are used with HSS reamers and up to 200 m/min (660 ft/min) with solid carbide.
 
-**Can reaming correct the position of a hole?**  
+### Can reaming correct the position of a hole?
 No. Reaming only calibrates the diameter and improves roundness; it inherits the positional deviation of the previous hole.
 
-**What type of reamer is suitable for through holes in production?**  
+### What type of reamer is suitable for through holes in production?
 Chucking reamers with left-hand spiral and right-hand cut are preferred, as they evacuate chips forward and reduce the risk of jamming.
 
 ## References
@@ -91,8 +91,3 @@ Chucking reamers with left-hand spiral and right-hand cut are preferred, as they
 - **efunda.com**: https://www.efunda.com/processes/machining/drill_ream.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/reaming
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
-- **efunda.com**: https://www.efunda.com/processes/machining/drill_ream.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/reaming

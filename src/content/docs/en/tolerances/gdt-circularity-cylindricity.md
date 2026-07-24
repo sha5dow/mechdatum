@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
 Circularity (roundness) controls the radial variation of a cross-section relative to a perfect circle, while cylindricity extends that control to the entire cylindrical surface, ensuring that the feature remains simultaneously round and straight along its axis. Both form tolerances are independent of size and do not require a datum, evaluating only the intrinsic geometric deviation of the part.
 
 ## Symbol and Designation
@@ -64,25 +63,24 @@ Both systems share symbols and tolerance zone definition. Practical divergence a
 | Rolling mill roll | Circularity | 0,02 / 0.0008 | Uniform sheet thickness |
 
 ## Frequently Asked Questions (FAQ)
-1. **What is the allowable circularity tolerance for a 25 mm shaft according to ISO 2768‑2 class K?**  
+### What is the allowable circularity tolerance for a 25 mm shaft according to ISO 2768‑2 class K?
    The general tolerance is 0,1 mm / 0.0039 in, since the diameter is in the 10‑30 mm range.
 
-2. **What cylindricity value guarantees the fit of a 50 mm piston with minimum clearance?**  
+### What cylindricity value guarantees the fit of a 50 mm piston with minimum clearance?
    A cylindricity ≤ 0,005 mm / 0.0002 in is recommended to ensure a uniform lubricant film and prevent seizure.
 
-3. **How is circularity measured with a V-block and a dial indicator?**  
+### How is circularity measured with a V-block and a dial indicator?
    The method detects deviations above 0,002 mm / 0.00008 in when the probe is properly calibrated, although uncertainty increases with the number of lobes.
 
-4. **From what diameter can a turned part maintain a circularity of 0,003 mm / 0.00012 in?**  
+### From what diameter can a turned part maintain a circularity of 0,003 mm / 0.00012 in?
    With precision processes, diameters up to 30 mm / 1.181 in can achieve 0,003 mm / 0.00012 in if fine cutting tools and controlled speeds are used.
 
-5. **What cylindricity tolerance does a 100 mm diameter hydrodynamic bearing require to avoid sub-harmonic vibrations?**  
+### What cylindricity tolerance does a 100 mm diameter hydrodynamic bearing require to avoid sub-harmonic vibrations?
    A cylindricity of 0,008 mm / 0.00031 in is sufficient to maintain minimum film thickness, with stricter values depending on rotational speed.
 
-6. **How much does a circularity of 0,02 mm / 0.0008 in affect a 20 mm lip seal?**  
+### How much does a circularity of 0,02 mm / 0.0008 in affect a 20 mm lip seal?
    At 6000 rpm, an eccentricity combined with a circularity of 0,02 mm / 0.0008 in can cause 5‑8 % additional leakage compared to a part with 0,005 mm / 0.0002 in circularity.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/mathematics-t_54.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom.html

@@ -67,24 +67,24 @@ La norma americana ANSI B4.1 clasifica los ajustes de transición bajo la denomi
 
 En aplicaciones internacionales se prefiere el sistema ISO, mientras que en Norteamérica conviven ambos. La conversión directa entre un código ANSI y uno ISO no es exacta, pero los valores de juego e interferencia resultan prácticamente intercambiables para los grados de precisión IT6–IT7.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la interferencia máxima en un ajuste H7/k6 para un diámetro de 50 mm?**  
+### ¿Cuál es la interferencia máxima en un ajuste H7/k6 para un diámetro de 50 mm?
 Para ∅50 mm, la interferencia máxima es de 0,018 mm / 0.00071 in, que corresponde al caso extremo en que el eje k6 alcanza su medida superior (+0,018 mm) y el agujero H7 su medida inferior (0 mm).
 
-**2. ¿Qué diferencia hay entre un ajuste k6 y un m6 en términos de fuerza de montaje?**  
+### ¿Qué diferencia hay entre un ajuste k6 y un m6 en términos de fuerza de montaje?
 Con k6 se requiere un ligero golpe de mazo de goma para montar o desmontar; con m6 la interferencia media es mayor (9 µm / 0.00035 in extra frente a k6 para 30–50 mm) y habitualmente se necesita prensado en frío.
 
-**3. ¿Puedo sustituir un ajuste H7/m6 por H7/k6 si hay vibraciones en la máquina?**  
+### ¿Puedo sustituir un ajuste H7/m6 por H7/k6 si hay vibraciones en la máquina?
 No es recomendable, ya que el ajuste k6 puede presentar juego en condiciones desfavorables. La interferencia mínima con m6 (-0,025 mm / -0.00098 in) asegura una unión sin holgura incluso bajo cargas vibratorias.
 
-**4. ¿Qué proceso de mecanizado es adecuado para obtener una tolerancia k6 en un eje?**  
+### ¿Qué proceso de mecanizado es adecuado para obtener una tolerancia k6 en un eje?
 El grado IT6 se consigue mediante torneado de alta precisión (diamond turning), rectificado cilíndrico o mandrinado de acabado. La rugosidad superficial suele mantenerse por debajo de 0,8 µm Ra / 32 µin Ra.
 
-**5. ¿Cómo se interpreta un plano con la especificación ∅40 m6?**  
+### ¿Cómo se interpreta un plano con la especificación ∅40 m6?
 La cota indica que el eje debe fabricarse con un diámetro comprendido entre 40,025 mm / 1.5748 in y 40,041 mm / 1.5756 in (desviación inferior +0,025 mm, superior +0,041 mm para el rango 30–50 mm).
 
-**6. ¿Existe un equivalente ANSI directo del ajuste H7/k6?**  
+### ¿Existe un equivalente ANSI directo del ajuste H7/k6?
 La clase LT1 bajo ANSI B4.1 se aproxima al comportamiento de H7/k6, con tolerancias de hasta 0,0005 in (12,7 µm) de juego o interferencia, aunque los límites exactos dependen del diámetro nominal.
 
 ## Fuentes consultadas

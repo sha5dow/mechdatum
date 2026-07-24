@@ -68,8 +68,7 @@ La relación d/W = 20 mm / 100 mm = 0,20. De la tabla correspondiente, Kt = 3,14
 
 El límite elástico del material es 275 MPa / 39.9 ksi. Con carga estática, la plastificación local impide el fallo súbito, pero bajo cargas cíclicas el factor de concentración actuaría plenamente. Si se desea limitar σ_max a 200 MPa / 29.0 ksi en fatiga, con la misma carga se necesitaría Kt ≤ 4,0, lo que permite agujeros de hasta d ≈ 35 mm / 1.378 in (Kt ≈3,7). Alternativamente, se puede aumentar el ancho de la placa o reducir el tamaño del agujero.
 
-## Preguntas frecuentes
-
+## Preguntas frecuentes (FAQ)
 **¿Cuál es el valor máximo típico de Kt en piezas mecánicas?** Los valores de Kt suelen oscilar entre 1,0 y 6,0 para la mayoría de las geometrías comunes; una muesca aguda con radio muy pequeño puede superar Kt = 10 desde el punto de vista elástico teórico, aunque la plastificación lo reduce en la práctica.
 
 **¿El factor Kt cambia con el tamaño absoluto de la pieza?** No, Kt es estrictamente función de relaciones adimensionales y no depende del tamaño absoluto; una misma forma geométrica a escalas 1:10 produce idéntico Kt.

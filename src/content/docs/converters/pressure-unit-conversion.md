@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 La conversión de unidades de presión es fundamental en ingeniería, meteorología y procesos industriales. La unidad base del Sistema Internacional (SI) es el **pascal (Pa)**, equivalente a 1 newton por metro cuadrado. Desde esta referencia se derivan múltiplos como el kilopascal (kPa = 10³ Pa) y el megapascal (MPa = 10⁶ Pa), así como otras unidades de uso común como el **bar** (1 bar = 100 000 Pa), la **atmósfera estándar** (atm), los **milímetros de mercurio** (mmHg) y las unidades anglosajonas **psi** (libras-fuerza por pulgada cuadrada) o **inHg** (pulgadas de mercurio). En esta página se presentan las equivalencias más precisas y las fórmulas para pasar fácilmente de una unidad a otra, junto con notas sobre exactitud y casos especiales.
 
 ## Unidades y símbolos
@@ -92,23 +91,23 @@ Convertir 2,5 bar a psi y a kPa:
 - Las conversiones que involucran **kgf/cm²** dependen de la aceleración de la gravedad estándar (9,80665 m/s²). Cualquier variación local de *g* requeriría corrección, aunque a efectos prácticos se usa el valor estándar.
 - Para **presiones manométricas** (relativas) se debe tener cuidado al usar conversiones que mezclan unidades absolutas. La atmósfera estándar y el bar suelen referirse a presión absoluta. Si se trabaja con presión relativa (ej. 2 bar manométricos), la conversión a psi manométricos mantiene el mismo factor de conversión (2 bar relativo = 29,0 psi relativo).
 
-## FAQ
-1. **¿Cuántos pascales exactamente tiene 1 bar?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuántos pascales exactamente tiene 1 bar?
    Un bar equivale exactamente a 100 000 Pa (100 kPa). Es una equivalencia definida por consenso internacional, por lo que no hay incertidumbre en la conversión entre bar y pascal.
 
-2. **¿A cuántos psi corresponden 2,5 bar?**  
+### ¿A cuántos psi corresponden 2,5 bar?
    2,5 bar son 36,26 psi (2,5 × 14,5038). Expresado en unidades métricas sería 250 kPa o 0,25 MPa; en unidades imperiales, 36,26 lbf/in².
 
-3. **¿Cuántos mmHg hay en una atmósfera estándar?**  
+### ¿Cuántos mmHg hay en una atmósfera estándar?
    La atmósfera estándar se define como 760 mmHg exactamente a 0 °C. En unidades imperiales equivale a 29,9213 inHg.
 
-4. **¿Qué presión en psi representa 50 MPa?**  
+### ¿Qué presión en psi representa 50 MPa?
    50 MPa son 50 000 kPa, es decir, 7251,9 psi (50 000 × 0,145038). Esta conversión muestra que 50 MPa equivalen a aproximadamente 7252 psi, valor típico en sistemas hidráulicos de alta presión.
 
-5. **¿Cuántos metros de columna de agua produce una presión de 0,5 psi?**  
+### ¿Cuántos metros de columna de agua produce una presión de 0,5 psi?
    0,5 psi equivalen a 0,352 mH₂O (0,5 psi × 0,70307 mH₂O/psi, ya que 1 psi ≈ 0,703 mH₂O). En unidades imperiales serían 13,84 inH₂O.
 
-6. **¿Es correcto usar kg/cm² como unidad de presión?**  
+### ¿Es correcto usar kg/cm² como unidad de presión?
    Técnicamente 1 kgf/cm² es una unidad de presión (fuerza por área) si se sobreentiende que la masa de 1 kg se multiplica por la gravedad estándar (9,80665 m/s²). Su valor numérico es 98 066,5 Pa; equivale a 0,980665 bar y a 14,223 psi. Aunque no es una unidad SI, aún se emplea en contextos industriales.
 
 ## Fuentes consultadas

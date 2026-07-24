@@ -152,7 +152,7 @@ Polypropylene takes between 20 and 30 years to decompose in landfills, therefore
 - Bicycle racks
 - Rakes and trash bins
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 Below are 6 common questions about polypropylene, with quantitative data to aid in engineering selection.
 
 ### What is the maximum continuous service temperature of PP?
@@ -182,8 +182,7 @@ The melt flow rate (MFR) of commercial polypropylene ranges from 5 to 60 g/10 mi
 - **Machining:** Can be cut, milled, and turned with high-speed steel tools, but the heat generated can cause local softening if not properly cooled.
 - **Electrical insulation:** Excellent dielectric, with surface resistivity >10¹⁶ Ω and dielectric strength of 20–30 kV/mm, ideal for battery casings and electronic components.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=7899
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polypropylene-pp-chemical-resistance-d_435.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=2557

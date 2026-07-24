@@ -88,24 +88,24 @@ En conexiones roscadas, aplicar cinta de PTFE (2–3 vueltas en el sentido de la
 Los acoplamientos rápidos requieren que las superficies de acople estén limpias y secas para evitar el desgaste prematuro de las juntas.  
 Nunca se debe superar el par de apriete máximo indicado en la tabla correspondiente, especialmente cuando el componente hembra es de material polimérico.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la presión máxima de trabajo para un racor push‑in de 6 mm?**  
+### ¿Cuál es la presión máxima de trabajo para un racor push‑in de 6 mm?
    La presión máxima de trabajo de un racor push‑in de 6 mm / 1/4 in es típicamente de 10 bar / 145 psi a 20 °C / 68 °F, 8 bar / 116 psi a 40 °C / 104 °F y 6 bar / 87 psi a 60 °C / 140 °F.
 
-2. **¿Qué longitud mínima de inserción necesita un tubo de poliuretano en un racor instantáneo?**  
+### ¿Qué longitud mínima de inserción necesita un tubo de poliuretano en un racor instantáneo?
    Para un tubo de poliuretano de 8 mm / 5/16 in OD, la profundidad de inserción mínima es de 12 mm / 0.47 in; para 10 mm OD es de 14 mm / 0.55 in.
 
-3. **¿Cuántas vueltas desde el contacto manual se aplican a una rosca NPT de 1/2‑14 con sellador?**  
+### ¿Cuántas vueltas desde el contacto manual se aplican a una rosca NPT de 1/2‑14 con sellador?
    Para una rosca NPT de 1/2‑14, el número de vueltas desde apriete manual (T.F.F.T.) es de 2 a 3, con un par máximo de 30 ft·lb / 40.6 N·m.
 
-4. **¿Cuál es el par de apriete máximo para un conector de latón con rosca NPT de 3/8 in?**  
+### ¿Cuál es el par de apriete máximo para un conector de latón con rosca NPT de 3/8 in?
    El par de apriete máximo recomendado para una rosca NPT de 3/8‑18 es de 23 ft·lb / 31 N·m.
 
-5. **¿Qué tensión genera un par de 5 in·lb en un casquillo plástico de 1/8 in?**  
+### ¿Qué tensión genera un par de 5 in·lb en un casquillo plástico de 1/8 in?
    Con un par de 5 in·lb / 0.565 N·m, espesor de 1.27 mm / 0.05 in y diámetro externo de 3.175 mm / 0.125 in, la tensión circunferencial calculada es de aproximadamente 4800 psi / 33.1 MPa.
 
-6. **¿Hasta qué temperatura trabaja un racor con junta de NBR en aire comprimido?**  
+### ¿Hasta qué temperatura trabaja un racor con junta de NBR en aire comprimido?
    Los racores con juntas de NBR admiten temperaturas de servicio de ‑20 °C a 80 °C / ‑4 °F a 176 °F; para temperaturas superiores se emplea EPDM (hasta 100 °C / 212 °F) o FKM (hasta 200 °C / 392 °F).
 
 ## Fuentes consultadas

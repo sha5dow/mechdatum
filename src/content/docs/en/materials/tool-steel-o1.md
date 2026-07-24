@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introduction
 O1 tool steel is an oil-hardening cold work steel with a carbon content between 0.85 % and 1.00 %, which provides high hardness after heat treatment.
 
 ## Chemical composition
@@ -135,28 +134,27 @@ Compared to A2 air-hardening steel, O1 exhibits approximately 30 % higher mach
 | Dimensional stability on hardening | Moderate | High | High |
 | Machinability in annealed condition | 90 % | 65 % | 45 % |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum hardness that O1 steel can achieve after hardening and tempering?**  
+### What is the maximum hardness that O1 steel can achieve after hardening and tempering?
 O1 steel can achieve a hardness of 64 HRC by oil quenching followed by a low temper.
 
-**At what temperature is the hardening of O1 steel carried out?**  
+### At what temperature is the hardening of O1 steel carried out?
 The austenitizing temperature for hardening ranges from 788 °C to 816 °C, with a hold of 10 to 30 minutes before oil quenching.
 
-**What is the recommended forging temperature for O1?**  
+### What is the recommended forging temperature for O1?
 Forging is carried out in the range of 1038 °C to 857 °C and never below 816 °C.
 
-**What percentage of carbon does O1 tool steel contain?**  
+### What percentage of carbon does O1 tool steel contain?
 The carbon content is between 0.85 % and 1.00 %, which provides high hardenability.
 
-**What is the density of O1 steel at room temperature?**  
+### What is the density of O1 steel at room temperature?
 At 20 °C and hardened to 62 HRC, the density is 7.81 g/cm³ (0.282 lb/in³).
 
-**What is the coefficient of thermal expansion of O1?**  
+### What is the coefficient of thermal expansion of O1?
 The coefficient of linear thermal expansion is 10.6 × 10⁻⁶ / °C in the range of 20 °C to 260 °C.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6229
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/alloy-steel-d_1741.html
 - **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php

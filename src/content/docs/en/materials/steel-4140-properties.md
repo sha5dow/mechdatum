@@ -132,7 +132,7 @@ Coefficient of thermal expansion of 4140 is 12.2 µm/m·°C in the range 0 to 10
 | GOST (Russia) | 38ChM |
 | ASTM | A193 B7, A194 7/7M, A29, A322, A519, among others |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 What is the typical hardness of 4140 steel in annealed condition?  
 Brinell hardness of annealed 4140 is 197 HB, equivalent to 92 HRB or 207 HV on Vickers scale.
@@ -152,8 +152,7 @@ In annealed condition it has an index of 65%, taking AISI 1212 steel with index 
 What is the minimum impact energy guaranteed for hardened and tempered 4140?  
 According to section, a minimum of 35 J (26 ft·lbf) in Charpy V-notch test is required for diameters over 16 mm.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6769
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/compositions-steel-d_1494.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=371

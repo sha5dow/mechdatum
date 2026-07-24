@@ -97,8 +97,3 @@ The minimum spacing between centers of adjacent spots must be 10 times the thick
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/motstandsbultsvetsning
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/welding-temperatures-d_2186.html
-- **efunda.com**: https://www.efunda.com/processes/metal_processing/welding.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/motstandsbultsvetsning

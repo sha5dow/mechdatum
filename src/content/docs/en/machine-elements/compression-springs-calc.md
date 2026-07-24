@@ -13,10 +13,8 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description  
 The design of compression springs covers stiffness constants from 0.1 N/mm (0.57 lb/in) in light mechanisms up to 49 050 N/m (280 lb/in) in vehicle suspensions. These elastic elements store mechanical energy when axially compressed and release it when they recover their original shape. Their applications include automotive suspension, engine valves, return systems in mechanisms, and precision devices.
 
-## Operating principle  
 Hooke's law states that the compression force is proportional to deformation, with a stiffness constant *k* that in the example of a 2000 kg car suspension reaches 49 050 N/m (280 lb/in). When a helical spring is compressed, each coil is elastically twisted, generating a shear stress that is distributed along the wire. The force‑deformation relationship is linear as long as the material's elastic limit is not exceeded; beyond this point permanent deformations appear and Hooke's law is no longer valid.
 
 ## Calculation formulas  
@@ -87,26 +85,25 @@ This table guides the selection of compression springs for static loads up to 50
 ## Mounting considerations  
 A compression spring with a slenderness ratio *L*₀/*D* > 4.0 requires guidance to avoid lateral buckling. The coil end types influence the force behavior: closed and ground ends provide stable support and reduce eccentricity. Typical mounting is between two flat surfaces, with a housing that limits radial displacement. In cyclic applications a minimum preload must be applied to eliminate clearances and vibrations; an initial compression of at least 10 % of the maximum stroke is recommended.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the stiffness constant *k* and how is it calculated?**  
+### What is the stiffness constant *k* and how is it calculated?
 The constant *k* is calculated as *k* = *F*/*x*; for a helical spring it is determined by *k* = (*G*·*d*⁴)/(8·*D*³·*n*), where *d* and *D* in mm, and *G* ≈ 79.3 GPa (11.5 Mpsi). In the 2000 kg suspension example, each spring has *k* = 49 050 N/m (280 lb/in).
 
-**What is the maximum load a compression spring can withstand?**  
+### What is the maximum load a compression spring can withstand?
 The maximum load corresponds to the allowable shear stress of the material, which for an AISI 302 stainless steel is 500 MPa (72.5 ksi). It must be verified that *τ*ₘₐₓ = *K*_w·(8·*F*·*D*)/(π·*d*³) does not exceed that value.
 
-**What happens if the maximum deformation is exceeded?**  
+### What happens if the maximum deformation is exceeded?
 The spring enters the plastic regime with permanent deformation; for a carbon steel, the yield strength is around 1200 MPa (174 ksi) in tension, but the shear yield stress is typically about 60 % of that value.
 
-**How is buckling during compression avoided?**  
+### How is buckling during compression avoided?
 It is recommended to use guides or housings when the slenderness exceeds 4:1. A spring with *L*₀ = 200 mm (7.87 in) and *D*ₑ = 40 mm (1.57 in) has a slenderness of 5 and requires guidance.
 
-**What influence does the number of active coils have?**  
+### What influence does the number of active coils have?
 The stiffness *k* is inversely proportional to *n*: reducing *n* from 10 to 5 doubles the constant. A spring with 5 active coils can reach *k* = 100 N/mm (570 lb/in) where one with 10 coils would give 50 N/mm (285 lb/in).
 
-**Why is a Wahl factor applied in the stress calculation?**  
+### Why is a Wahl factor applied in the stress calculation?
 The Wahl factor *K*_w corrects for direct shear and stress concentration due to curvature. For an index *C* = 6, *K*_w ≈ 1.25, which increases the nominal stress calculated with *F* and *D* by 25 %.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/hookes-law-force-spring-constant-d_1853.html

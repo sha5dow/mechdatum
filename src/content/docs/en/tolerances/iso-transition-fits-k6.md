@@ -68,26 +68,25 @@ ANSI nomenclature assigns uppercase letters for the hole and a class number for 
 
 In international applications the ISO system is preferred, while in North America both coexist. Direct conversion between an ANSI code and an ISO code is not exact, but the clearance and interference values are practically interchangeable for IT6–IT7 precision grades.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the maximum interference in an H7/k6 fit for a diameter of 50 mm?**  
+### What is the maximum interference in an H7/k6 fit for a diameter of 50 mm?
 For ∅50 mm, the maximum interference is 0.018 mm / 0.00071 in, which corresponds to the extreme case where the k6 shaft reaches its upper limit (+0.018 mm) and the H7 hole its lower limit (0 mm).
 
-**2. What is the difference between a k6 and an m6 fit in terms of assembly force?**  
+### What is the difference between a k6 and an m6 fit in terms of assembly force?
 With k6, a light tap with a rubber mallet is required to assemble or disassemble; with m6 the average interference is larger (9 µm / 0.00035 in extra compared to k6 for 30–50 mm) and cold pressing is usually required.
 
-**3. Can I replace an H7/m6 fit with H7/k6 if there is vibration in the machine?**  
+### Can I replace an H7/m6 fit with H7/k6 if there is vibration in the machine?
 It is not recommended, since the k6 fit can present clearance under unfavorable conditions. The minimum interference with m6 (-0.025 mm / -0.00098 in) ensures a backlash-free joint even under vibratory loads.
 
-**4. What machining process is suitable to obtain a k6 tolerance on a shaft?**  
+### What machining process is suitable to obtain a k6 tolerance on a shaft?
 IT6 grade is achieved by high-precision turning (diamond turning), cylindrical grinding, or finish boring. Surface roughness is usually kept below 0.8 µm Ra / 32 µin Ra.
 
-**5. How is a drawing with the specification ∅40 m6 interpreted?**  
+### How is a drawing with the specification ∅40 m6 interpreted?
 The dimension indicates that the shaft must be manufactured with a diameter between 40.025 mm / 1.5748 in and 40.041 mm / 1.5756 in (lower deviation +0.025 mm, upper deviation +0.041 mm for the 30–50 mm range).
 
-**6. Is there a direct ANSI equivalent of the H7/k6 fit?**  
+### Is there a direct ANSI equivalent of the H7/k6 fit?
 The LT1 class under ANSI B4.1 approximates the behavior of H7/k6, with tolerances of up to 0.0005 in (12.7 µm) clearance or interference, although the exact limits depend on the nominal diameter.
 
-## Sources Consulted
-
+## References
 - **roymech.org**: https://roymech.org/Useful_Tables/ISO_Tolerances

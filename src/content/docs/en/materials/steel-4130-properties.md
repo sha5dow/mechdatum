@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General overview
 AISI/SAE 4130 steel is a medium-low hardenability alloy belonging to the chromium‑molybdenum (chromoly) family. Its combination of low carbon content, good mechanical strength, and excellent weldability makes it a common choice when a high strength‑to‑weight ratio is required. With a density of 7.85 g/cm³ (0.284 lb/in³), it offers a balance between toughness and ductility that distinguishes it from conventional carbon steels.
 
 ## Chemical composition
@@ -111,7 +110,7 @@ Thanks to its excellent strength‑to‑weight ratio and good toughness, 4130 is
 | Hardenability | Medium | Medium-high | High |
 | Typical applications | Structural tubing, aviation, bicycles | Heavy gears, shafts, high‑strength bolts | Thick‑section aerospace components, forged crankshafts |
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 1. **What is the maximum tensile strength achievable for 4130?** The maximum tensile strength can exceed 1000 MPa (145 ksi) after oil quenching followed by tempering below 400 °C, although ductility is significantly reduced.
 2. **At what temperature is forging of 4130 steel recommended?** Forging is optimally performed between 955 °C and 1205 °C (1750 – 2200 °F), avoiding work below 845 °C (1550 °F) to prevent cracking.
 3. **What Brinell hardness does it have in the annealed condition?** In the annealed condition it has a hardness of approximately 217 HB, which corresponds to 228 HV or 17 HRC by conversion.
@@ -125,8 +124,3 @@ Thanks to its excellent strength‑to‑weight ratio and good toughness, 4130 is
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=11860
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6742
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=11860

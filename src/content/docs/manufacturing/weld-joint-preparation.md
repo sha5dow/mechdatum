@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Introducción
 La preparación de juntas de soldadura define la geometría de los bordes a unir antes de ejecutar el cordón y determina la accesibilidad, penetración y resistencia del ensamble final. La selección adecuada de la preparación permite alcanzar la penetración completa requerida con el mínimo volumen de metal de aporte, reducir tensiones residuales y minimizar defectos como falta de fusión o inclusiones de escoria. El proceso abarca el maquinado o desbaste de los bordes según configuraciones normalizadas — recta, en V, en bisel, en J o en U — así como la definición de la abertura de raíz, el ángulo de chaflán y el talón o cara de raíz.
 
 ## Parámetros operativos verificados
@@ -84,22 +83,22 @@ Para procesos de soldadura por arco sumergido (SAW) se puede aumentar la abertur
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Hasta qué espesor de chapa se puede usar junta a tope sin bisel?**  
+### ¿Hasta qué espesor de chapa se puede usar junta a tope sin bisel?
 La junta a tope de borde recto (cuadrado) sin preparación se limita a espesores de hasta 6,35 mm / 0.25 in para soldaduras por ambas caras, y hasta 3,0 mm / 0.12 in si solo se accede por un lado.
 
-**2. ¿Cuál es el ángulo de bisel recomendado para una junta en V simple en acero al carbono de 12 mm de espesor?**  
+### ¿Cuál es el ángulo de bisel recomendado para una junta en V simple en acero al carbono de 12 mm de espesor?
 El ángulo incluido recomendado es de 60°, con una abertura de raíz de 2,5 mm / 0.10 in y una cara de raíz de 1,5 mm / 0.06 in, para procesos SMAW o GMAW en posición plana.
 
-**3. ¿Cuánto material de aporte se ahorra al usar una preparación en U doble comparada con una V simple en espesores de 50 mm?**  
+### ¿Cuánto material de aporte se ahorra al usar una preparación en U doble comparada con una V simple en espesores de 50 mm?
 La preparación en U doble puede reducir el volumen de metal de aporte entre un 35 % y un 45 % en comparación con una V simple del mismo espesor, disminuyendo la distorsión angular y el número de pasadas.
 
-**4. ¿Qué tolerancia se admite en la abertura de raíz según las normas ASME B16.25 para tuberías de 6 pulgadas de diámetro?**  
+### ¿Qué tolerancia se admite en la abertura de raíz según las normas ASME B16.25 para tuberías de 6 pulgadas de diámetro?
 La tolerancia típica para la abertura de raíz es de ±0,8 mm / ±0.03 in, siempre que se mantenga el espesor mínimo de pared después del biselado.
 
-**5. ¿Cuándo conviene emplear una preparación de borde en J en lugar de un bisel simple?**  
+### ¿Cuándo conviene emplear una preparación de borde en J en lugar de un bisel simple?
 La preparación en J se justifica para espesores entre 20 mm / 0.79 in y 50 mm / 1.97 in, especialmente cuando se requiere soldar desde un solo lado; el radio reduce la concentración de tensiones en la raíz y requiere hasta un 30 % menos de metal de relleno que un bisel simple equivalente.
 
-**6. ¿Cada cuántas horas debe soldarse una junta de aluminio después de mecanizar el bisel para evitar oxidación excesiva?**  
+### ¿Cada cuántas horas debe soldarse una junta de aluminio después de mecanizar el bisel para evitar oxidación excesiva?
 La soldadura debe completarse dentro de las 4 horas posteriores a la preparación de los bordes; si se supera ese lapso, se debe volver a limpiar la superficie con cepillo de acero inoxidable dedicado o decapar químicamente.
 
 ## Fuentes consultadas

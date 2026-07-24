@@ -132,7 +132,7 @@ El acero 4140 ofrece un balance óptimo entre resistencia, tenacidad y coste, si
 | GOST (Rusia) | 38ChM |
 | ASTM | A193 B7, A194 7/7M, A29, A322, A519, entre otras |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ¿Cuál es la dureza típica del acero 4140 en estado recocido?  
 La dureza Brinell del 4140 recocido es de 197 HB, equivalente a 92 HRB o 207 HV en escala Vickers.

@@ -79,24 +79,24 @@ La fundición a presión alcanza una precisión dimensional de hasta el **±0.2 
 | Magnesio | Cajas de transmisión, carcasas portátiles, componentes aeroespaciales | El más ligero de todos, gran rigidez específica. |
 | Cobre / Latón | Válvulas, conexiones eléctricas, herrajes marinos | Alta resistencia mecánica y al desgaste, buena resistencia a la corrosión. |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la presión máxima en fundición a presión?**  
+### ¿Cuál es la presión máxima en fundición a presión?
 La presión de inyección puede alcanzar hasta 210 MPa / 30,500 psi en máquinas de cámara fría, mientras que los procesos de cámara caliente suelen operar entre 10 y 35 MPa / 1,450 y 5,000 psi.
 
-**2. ¿Qué precisión dimensional se logra en fundición a presión?**  
+### ¿Qué precisión dimensional se logra en fundición a presión?
 Se alcanza una precisión de ±0.2 % de la dimensión nominal, lo que equivale a ±0.1 mm (±0.004 in) en piezas de 50 mm, eliminando a menudo el mecanizado posterior.
 
-**3. ¿Cuál es la temperatura de colada del aluminio y del zinc?**  
+### ¿Cuál es la temperatura de colada del aluminio y del zinc?
 El aluminio se cuela a una temperatura de 650 °C / 1200 °F, mientras que el zinc se procesa a 425 °C / 800 °F, permitiendo ciclos más cortos para este último.
 
-**4. ¿Qué espesor mínimo de pared es posible en fundición a presión?**  
+### ¿Qué espesor mínimo de pared es posible en fundición a presión?
 Con aleaciones de zinc es posible alcanzar un espesor mínimo de 0.6 mm / 0.025 in; para aluminio, el mínimo es de 0.9 mm / 0.035 in, y para aleaciones de cobre, 1.25 mm / 0.050 in.
 
-**5. ¿Por qué no se pueden fundir a presión metales ferrosos?**  
+### ¿Por qué no se pueden fundir a presión metales ferrosos?
 Los aceros y hierros tienen puntos de fusión superiores a 1150 °C / 2100 °F y reaccionan químicamente con el acero del molde, reduciendo drásticamente su vida útil; por ello el proceso se limita a metales no ferrosos de menor punto de fusión.
 
-**6. ¿Cuánto pueden pesar las piezas fundidas a presión?**  
+### ¿Cuánto pueden pesar las piezas fundidas a presión?
 Los pesos máximos típicos son de 35 kg / 77 lb para zinc, 32 kg / 70 lb para aluminio, 20 kg / 44 lb para magnesio y 4.5 kg / 10 lb para latón; en aplicaciones automotrices modernas se han alcanzado piezas de aluminio de más de 100 kg / 220 lb mediante tecnología avanzada.
 
 ## Fuentes consultadas

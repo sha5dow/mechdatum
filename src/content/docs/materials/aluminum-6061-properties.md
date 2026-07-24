@@ -120,7 +120,7 @@ La aleación 6061 se identifica bajo múltiples normas y sistemas de designació
 | Normas AMS | 4117, 4025, 4026, 4027 |
 | Normas MIL | MIL-A-12545, MIL-W-23351, entre otras |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la resistencia a la tracción máxima del aluminio 6061 en temple T6?
 La resistencia a la tracción máxima puede alcanzar 310 MPa (45 ksi), y como mínimo se garantizan 290 MPa (42 ksi) según la normativa.

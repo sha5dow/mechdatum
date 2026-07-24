@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introducción
 El Magnesio AZ31B es una aleación ligera de magnesio con una densidad de 1,77 g/cm³ y una excelente relación resistencia‑peso, utilizada como alternativa a las aleaciones de aluminio en numerosas aplicaciones. Se presenta en formas de placa, lámina y barra, y su disponibilidad es mayor que la de otros grados de magnesio. Para mejorar su resistencia a la corrosión suele someterse a anodizado.
 
 ## Composición química

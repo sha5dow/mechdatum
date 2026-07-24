@@ -147,24 +147,24 @@ La selección final del proceso de fundición responde a una combinación de fac
 
 Para volúmenes intermedios (500–5000 piezas/año) donde el costo del utillaje de presión es prohibitivo, la fundición en molde permanente con machos de arena para cavidades internas ofrece un compromiso óptimo entre inversión inicial, productividad y calidad. En aplicaciones con requisitos de hermeticidad o fatiga, la fundición centrífuga o la microfusión minimizan la microporosidad que afecta la resistencia a la fatiga.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el proceso de fundición más preciso para producción en serie?**
+### ¿Cuál es el proceso de fundición más preciso para producción en serie?
 La fundición a presión alcanza precisiones de hasta 0,2 % de la dimensión nominal y rugosidad superficial Ra 0,8–3,2 µm / 32–126 µin, permitiendo tolerancias de ±0,1 mm / ±0.004 in para piezas de aluminio y zinc en producción masiva.
 
-**¿Qué proceso permite fundir piezas de acero con geometrías complejas y tolerancias cerradas?**
+### ¿Qué proceso permite fundir piezas de acero con geometrías complejas y tolerancias cerradas?
 La fundición a la cera perdida (microfusión) procesa aceros inoxidables y superaleaciones con tolerancias de ±0,1 mm / ±0.004 in y espesores de pared desde 0,5 mm / 0.02 in, alcanzando masas típicas de hasta 50 kg / 110 lb por pieza.
 
-**¿Cuál es el costo relativo de utillaje entre fundición en arena y fundición a presión?**
+### ¿Cuál es el costo relativo de utillaje entre fundición en arena y fundición a presión?
 La fundición en arena tiene el costo de utillaje más bajo entre todos los procesos de fundición, mientras que la fundición a presión presenta la inversión más alta debido a matrices de acero endurecido que requieren entre 8 y 16 semanas de fabricación inicial.
 
-**¿Qué aleaciones de aluminio son más comunes en fundición a presión y por qué?**
+### ¿Qué aleaciones de aluminio son más comunes en fundición a presión y por qué?
 La aleación AA 380 (8,5 % Si, 3,5 % Cu) es la más utilizada por su excelente fluidez y resistencia a la tracción de 324 MPa / 47 ksi; la AA 390 (17 % Si) se emplea en bloques de motor por su alta resistencia al desgaste; y la AA 360 (bajo contenido de cobre, <0,6 %) ofrece resistencia a la corrosión para aplicaciones marinas.
 
-**¿Cuál es la masa máxima que puede fundirse a presión?**
+### ¿Cuál es la masa máxima que puede fundirse a presión?
 La fundición a presión está limitada a 35 kg / 77 lb para aleaciones de zinc y 20 kg / 55 lb para aleaciones de magnesio, debido al aumento de porosidad por gas atrapado en piezas de mayor tamaño y a la solidificación prematura del fundido antes de alcanzar las extremidades de la cavidad.
 
-**¿Qué proceso se recomienda para fundir un tubo de hierro dúctil de 500 mm de diámetro y 3000 mm de longitud?**
+### ¿Qué proceso se recomienda para fundir un tubo de hierro dúctil de 500 mm de diámetro y 3000 mm de longitud?
 La fundición centrífuga es el proceso óptimo para piezas tubulares de gran longitud, con capacidad de hasta 5000 kg / 11000 lb y diámetros de 50–1500 mm / 2–60 in, logrando una estructura densa y libre de porosidad por efecto de la fuerza centrífuga durante la solidificación.
 
 ## Fuentes consultadas

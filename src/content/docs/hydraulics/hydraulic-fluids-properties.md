@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 El fluido hidráulico es el medio de transferencia de potencia en máquinas y sistemas oleohidráulicos. Además de transmitir fuerza y movimiento, el fluido lubrica los componentes, refrigera el circuito, protege contra la corrosión, transporta contaminantes hacia los filtros y colabora en el sellado de holguras internas, incluidas las juntas tóricas (O‑Rings). La base más común es aceite mineral con aditivos, aunque existen formulaciones sintéticas, ésteres fosfatados, poliglicoles y emulsiones de agua en aceite para aplicaciones específicas.
 
 ## Funciones y propiedades
@@ -122,7 +121,7 @@ La norma ISO 3448 establece los grados de viscosidad ISO VG (Viscosity Grade) pa
 
   νₙ₊₁ ≈ 1,5 × νₙ (incremento ~50 % en viscosidad cinemática)
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 ### ¿Qué es el grado ISO VG y cómo se determina?
 El grado ISO VG 46, por ejemplo, tiene una viscosidad cinemática media de 46 cSt a 40 °C (104 °F). Se define según ISO 3448, con un rango de ±10 % sobre el valor nominal, por lo que un aceite ISO VG 46 puede presentar entre 41,4 cSt y 50,6 cSt a la temperatura de referencia.
 

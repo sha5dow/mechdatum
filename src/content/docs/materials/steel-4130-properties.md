@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero AISI/SAE 4130 es una aleación de media-baja templabilidad perteneciente a la familia de aceros al cromo‑molibdeno (cromoly). Su combinación de bajo contenido de carbono, buena resistencia mecánica y excelente soldabilidad lo convierte en una elección habitual cuando se requiere una relación resistencia‑peso elevada. Con una densidad de 7,85 g/cm³ (0,284 lb/pulg³), ofrece un equilibrio entre tenacidad y ductilidad que lo distingue de los aceros al carbono convencionales.
 
 ## Composición química
@@ -111,7 +110,7 @@ Gracias a su excelente relación resistencia‑peso y buena tenacidad, el 4130 s
 | Templabilidad | Media | Media-alta | Alta |
 | Aplicaciones típicas | Tubos estructurales, aviación, bicicletas | Engranajes pesados, ejes, pernos de alta resistencia | Componentes aeronáuticos de sección gruesa, cigüeñales forjados |
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 1. **¿Cuál es la resistencia a la tracción máxima que puede alcanzar el 4130?** La resistencia a la tracción máxima puede superar los 1000 MPa (145 ksi) después de un temple en aceite seguido de un revenido por debajo de 400 °C, aunque la ductilidad se reduce significativamente.
 2. **¿A qué temperatura se recomienda forjar el acero 4130?** La forja se realiza de forma óptima entre 955 °C y 1205 °C (1750 – 2200 °F), evitando trabajar por debajo de 845 °C (1550 °F) para prevenir agrietamiento.
 3. **¿Qué dureza Brinell presenta en estado recocido?** En estado recocido presenta una dureza de aproximadamente 217 HB, lo que corresponde a 228 HV o 17 HRC según conversión.

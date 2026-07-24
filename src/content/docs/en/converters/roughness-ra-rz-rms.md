@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Description
 Surface roughness is measured using different standardized parameters such as Ra, Rz, RMS and CLA. Converting between them allows comparison of specifications from drawings, measurement reports, and manufacturing requirements. Ra (arithmetic mean roughness) is the most widespread parameter in the ISO standard. CLA (Center Line Average) is a historical British synonym for Ra, usually expressed in microinches (µin). RMS (Root Mean Square, also designated Rq) quantifies the root mean square roughness, giving greater weight to pronounced peaks and valleys. Rz (maximum mean profile height) measures the average of five consecutive peak-to-valley depths, making it more sensitive to local defects. There is no universally exact mathematical relationship between them, but in practice approximate factors based on typical machining processes are used.
 
 ## Ra, Rz, RMS, CLA Conversion Table
@@ -69,25 +68,24 @@ The formulas below are the most industrially accepted for turning, milling, grin
 
 ## Frequently Asked Questions (FAQ)
 
-**1. What is the Rz value if Ra is 3.2 µm?**  
+### What is the Rz value if Ra is 3.2 µm?
 For Ra = 3.2 µm / 126 µin, the typical conversion gives Rz ≈ 12.5 µm / 492 µin (factor 3.9). In smooth machining, the value can range between 11 µm and 16 µm / 433–630 µin.
 
-**2. What RMS corresponds to a Ra roughness of 0.8 µm?**  
+### What RMS corresponds to a Ra roughness of 0.8 µm?
 A Ra of 0.8 µm / 31.5 µin translates to an RMS of approximately 0.89 µm / 35 µin (factor 1.11). In precision grinding, values up to 0.93 µm / 37 µin have been reported.
 
-**3. How to convert from CLA to Ra in µm?**  
+### How to convert from CLA to Ra in µm?
 CLA (µin) equals Ra (µin). Thus, a CLA of 63 µin corresponds to 1.6 µm (63 / 39.37). This conversion is direct and without any empirical factor.
 
-**4. What is the Rz value for Ra 1.6 µm?**  
+### What is the Rz value for Ra 1.6 µm?
 For Ra = 1.6 µm / 63 µin, the expected Rz is 6.3 µm / 248 µin. In turning processes, it can vary between 5 µm and 9 µm / 197–354 µin depending on feed rate and nose radius.
 
-**5. What Ra results from a measured Rz of 25 µm?**  
+### What Ra results from a measured Rz of 25 µm?
 Applying the factor 4, Ra ≈ 6.25 µm / 246 µin, which in practice is rounded to 6.3 µm / 248 µin. On cast surfaces with high Rz, the Ra could be as low as 4 µm / 157 µin if the profile is very uneven.
 
-**6. Are these conversions valid for all materials?**  
+### Are these conversions valid for all materials?
 The conversions depend more on the manufacturing process than on the material. However, ductile materials (aluminum, copper) tend to generate more regular profiles with Ra/Rz ratios closer to 4.0, while cast irons and brittle alloys may show isolated peaks that raise Rz without affecting Ra as much.
 
-## Sources Consulted
-
+## References
 - **unitconverters.net**: https://www.unitconverters.net/
 - **convertworld.com**: https://www.convertworld.com/en/

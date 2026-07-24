@@ -136,24 +136,24 @@ DIN 127 washers are used in bolted joints subjected to **moderate dynamic loads 
 - The cut end is oriented toward the fixed piece and the raised end toward the bolt head or nut.
 - For diameters larger than M39, wave spring washers or chemical locking systems are used.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
-**1. What are the dimensions of a DIN 127 washer for an M10 bolt?**  
+### What are the dimensions of a DIN 127 washer for an M10 bolt?
 The DIN 127 B washer for M10 has an inner diameter of 10.2 mm / 0.402 in, outer diameter of 18.1 mm / 0.713 in, and thickness of 2.5 mm / 0.098 in, with an approximate weight of 1.64 g / 0.058 oz per piece.
 
-**2. What is the recommended tightening torque for an M8 8.8 bolt with a spring washer in dry condition?**  
+### What is the recommended tightening torque for an M8 8.8 bolt with a spring washer in dry condition?
 The recommended dry tightening torque for M8 class 8.8 is 23 Nm / 16.96 ft·lb; if the bolt is lubricated, the torque is reduced to 17 Nm / 12.54 ft·lb to avoid overloading the washer.
 
-**3. What is the maximum force to which an M12 class 8.8 can be tightened with a DIN 127 washer?**  
+### What is the maximum force to which an M12 class 8.8 can be tightened with a DIN 127 washer?
 The maximum allowable clamping force for M12 8.8 is 37.9 kN / 8.53 kip, equivalent to 75% of the bolt proof load, which keeps the washer within the elastic regime.
 
-**4. Which ANSI standard is equivalent to DIN 127?**  
+### Which ANSI standard is equivalent to DIN 127?
 The functional equivalent in inches is ASME B18.21.1 (helical spring lock washers), which defines two types: type A with beveled ends similar to DIN 127 A, and type B with flat ends analogous to DIN 127 B.
 
-**5. What material predominates in DIN 127 washers and what hardness does it achieve?**  
+### What material predominates in DIN 127 washers and what hardness does it achieve?
 The standard material is C67S spring steel hardened and tempered, with a surface hardness of 42 to 50 HRC; the A2 stainless steel versions have a hardness of 25 to 35 HRC / 255 to 335 HV.
 
-**6. What is the service temperature limit of a carbon steel DIN 127 washer?**  
+### What is the service temperature limit of a carbon steel DIN 127 washer?
 The carbon steel version retains its elastic properties up to 200 °C / 392 °F; above this temperature, temper loss and spring relaxation occur, while the A2 stainless steel variants can operate up to 300 °C / 572 °F.
 
 ## References
@@ -162,8 +162,3 @@ The carbon steel version retains its elastic properties up to 200 °C / 392 °F;
 - **bossard.com**: https://www.bossard.com/global-en/eshop/split-spring-lock-washers/split-spring-lock-washers-with-flat-end/p/672/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-127b-lock-washers/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
-- **bossard.com**: https://www.bossard.com/global-en/eshop/split-spring-lock-washers/split-spring-lock-washers-with-flat-end/p/672/
-- **mcmaster.com**: https://www.mcmaster.com/products/din-127b-lock-washers/

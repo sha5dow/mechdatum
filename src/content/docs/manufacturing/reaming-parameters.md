@@ -66,23 +66,23 @@ No es adecuado para composites fibrosos muy abrasivos, materiales con inclusione
 - **Escariadores de desbaste y acabado:** parejas que reparten la sobremedida; el de desbaste prepara el diámetro y el de acabado da medida final y superficie.
 - **Criterio de hélice:** espiral a izquierdas con corte a derechas para agujeros pasantes (favorece evacuación); flauta recta o espiral a derechas para agujeros ciegos (empuja la viruta hacia fuera).
 
-## Preguntas frecuentes
-**¿Qué tolerancia puede alcanzar el escariado?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué tolerancia puede alcanzar el escariado?
 El escariado consigue habitualmente grados de tolerancia IT8 a IT9, equivalente a ±0.025 mm (±0.001 in) para diámetros de hasta 25 mm.
 
-**¿Qué sobremedida de material se deja para escariar?**  
+### ¿Qué sobremedida de material se deja para escariar?
 Se recomienda una sobremedida de 0.1 a 0.2 mm (0.004–0.008 in) para materiales blandos y de 0.05 a 0.13 mm (0.002–0.005 in) para materiales duros, sin superar el 5 % del diámetro taladrado.
 
-**¿Cuál es el acabado superficial típico después del escariado?**  
+### ¿Cuál es el acabado superficial típico después del escariado?
 El acabado superficial oscila entre 0.8 y 3.2 µm Ra (32–125 µin), pudiendo llegar a 0.4 µm Ra (16 µin) con herramientas de carburo y refrigeración adecuada.
 
-**¿Qué velocidad de corte se recomienda para escariar aluminio?**  
+### ¿Qué velocidad de corte se recomienda para escariar aluminio?
 En aluminio forjado se emplean velocidades de 60–100 m/min (200–330 ft/min) con escariadores de HSS y hasta 200 m/min (660 ft/min) con carburo integral.
 
-**¿Puede el escariado corregir la posición de un agujero?**  
+### ¿Puede el escariado corregir la posición de un agujero?
 No. El escariado únicamente calibra el diámetro y mejora la redondez; hereda la desviación de posición del agujero previo.
 
-**¿Qué tipo de escariador es idóneo para agujeros pasantes en producción?**  
+### ¿Qué tipo de escariador es idóneo para agujeros pasantes en producción?
 Se prefieren escariadores de máquina con espiral a izquierdas y corte a derechas, ya que evacúan la viruta hacia delante y reducen el riesgo de atascamiento.
 
 ## Fuentes consultadas

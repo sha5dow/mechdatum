@@ -145,7 +145,7 @@ El acero 1045 es especialmente adecuado para piezas que requieran temple superfi
 - El 4140, al ser un acero aleado al Cr‑Mo, permite temple completo en secciones más gruesas (hasta 75‑100 mm) y conserva alta tenacidad; sin embargo, su coste es superior.  
 - El 1141 mejora la maquinabilidad por adición de azufre, aunque reduce ligeramente la resiliencia.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la resistencia a la tracción máxima que puede alcanzar el acero 1045?
 

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Resumen
 El cromado duro es un proceso electrolítico que deposita una capa de cromo con espesores típicos de 10 a 500 μm (0.0004 – 0.020 in) sobre sustratos metálicos, alcanzando una dureza de 850 a 1000 HV (65-70 HRC). Se utiliza principalmente para mejorar la resistencia al desgaste, restaurar cotas y reducir la fricción en componentes de ingeniería.
 
 ## Materiales aplicables
@@ -100,7 +99,7 @@ El cromado duro se encuentra en multitud de sectores industriales. Sus principal
 - Recuperación dimensional de piezas desgastadas de maquinaria pesada.
 - Herramientas de precisión y utillaje (calibres, machos de roscar).
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 1.  **¿Cuál es el espesor máximo alcanzable en el cromado duro?** Se pueden depositar hasta 500 μm (0.020 in) por cara, e incluso más en casos especiales, siempre que la geometría permita un recubrimiento sin agrietamiento excesivo.
 2.  **¿Qué dureza tiene el cromado duro?** La dureza típica del cromado duro oscila entre 850 y 1000 HV (65-70 HRC), superior a muchos aceros templados.

@@ -99,7 +99,6 @@ Las tuercas autoblocantes con inserto de poliamida tienen un perfil constructivo
 | BS 3692 / BS 7755 | Hexagon prevailing torque type insert nuts | Norma británica armonizada con ISO 10511 |
 
 ## Preguntas frecuentes (FAQ)
-
 1.  **¿Cuál es la temperatura máxima de operación de una tuerca DIN 985?** La poliamida 6.6 mantiene sus propiedades elásticas hasta un límite de 121 °C / 250 °F; por encima de esta temperatura el inserto pierde progresivamente la capacidad de generar fricción de bloqueo.
 
 2.  **¿Se pueden reutilizar las tuercas nyloc DIN 985?** En aplicaciones generales se permite la reutilización siempre que se verifiquen al menos 5 ciclos de montaje con un par de frenado remanente superior a 0,2 Nm para M3 o 15 Nm para M36; en aplicaciones aeronáuticas o donde la falla pueda causar daño a personas, se recomienda reemplazo único.

@@ -105,7 +105,7 @@ DIN 912 is technically identical to the international standard **ISO 4762** (cyl
 - ISO 898-1: Mechanical properties of carbon steel and alloy steel fasteners.
 - ISO 3506-1: Mechanical properties of stainless steel fasteners.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 1. **What diameter range does DIN 912 cover?** The standard covers metric thread diameters from M3 to M24, although some manufacturers extend the offering up to M36 upon request.
 2. **What is the maximum tightening torque for a grade 10.9 M10 screw?** In a dry joint, the maximum recommended torque is **68 N·m / 50.1 lb·ft**; if lubricant is applied, this value should be reduced by approximately 30%.
 3. **Which drill bit should I use to tap an M6 hole?** For an M6×1.0 thread, a drill bit of **5.0 mm / 0.197 in** is needed; the through hole in the part to be joined requires a 6.6 mm / 0.260 in drill bit.
@@ -113,8 +113,7 @@ DIN 912 is technically identical to the international standard **ISO 4762** (cyl
 5. **What is the tensile strength of a DIN 912 stainless steel A2-70 screw?** The minimum guaranteed breaking strength is **700 MPa / 101.500 psi**, while its yield strength is 450 MPa / 65.250 psi.
 6. **Up to what temperature can a grade 12.9 DIN 912 screw operate?** Grade 12.9 alloy steel screws can operate up to **300 °C / 572 °F** without significant loss of strength; for higher temperatures, heat-resistant steels are recommended.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-bolt-head-wrench-size-d_1458.html
 - **bossard.com**: https://www.bossard.com/global-en/eshop/products/fastening-technology/standard-fastening-elements/screws/c/01.100.100/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-912-socket-head-cap-screws

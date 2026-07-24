@@ -107,7 +107,7 @@ C11000 has more than 10 standard equivalents worldwide, including Cu-ETP accordi
 | Federal (US) | QQ-B-650 |
 | ASTM (relevant) | B224 (specific forms), B152, B187 |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 ### What is the minimum electrical conductivity of C110 copper?
 The minimum electrical conductivity required by standard is 100% IACS, although in practice most batches exceed 101% IACS.
 
@@ -126,8 +126,7 @@ The specification requires a minimum copper content (including silver) of 99.90%
 ### What is the density of C110 copper in imperial units?
 The density is 0.323 pounds per cubic inch (0.323 lb/in³).
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=8829
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/copper-alloy-properties-d_355.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_alloy_eu.php?zname_id=11968

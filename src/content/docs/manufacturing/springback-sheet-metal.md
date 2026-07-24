@@ -15,7 +15,6 @@ verified: true
 
 La recuperación elástica tras el doblado, conocida como springback, modifica el ángulo de plegado final con valores típicos entre 2° y 10° para aceros al carbono y aleaciones de aluminio, dependiendo del radio de plegado y el espesor.
 
-## Descripción general
 El springback es un fenómeno inherente al conformado en frío de chapas metálicas, donde la pieza, una vez liberada de la herramienta, recupera parcialmente su forma original debido a la liberación de las tensiones elásticas acumuladas durante la deformación plástica. Como resultado, el ángulo de la pieza doblada es mayor que el ángulo del punzón, lo que obliga a sobredoblar para alcanzar la geometría deseada.
 
 ## Principio de funcionamiento
@@ -74,22 +73,22 @@ Los valores inferiores se refieren a doblado a 90° en matriz en V con R/t=1 y c
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el springback típico en una chapa de acero S235 de 2 mm de espesor doblada a 90°?**
+### ¿Cuál es el springback típico en una chapa de acero S235 de 2 mm de espesor doblada a 90°?
 En condiciones normales con R/t=1, el springback es de aproximadamente 2,5°; para un espesor de 2 mm / 0.079 in, se requeriría un punzón con ángulo de 87,5° para compensarlo.
 
-**¿Cómo afecta el radio de plegado al springback en aluminio 6061-T6?**
+### ¿Cómo afecta el radio de plegado al springback en aluminio 6061-T6?
 Con un R/t de 1, el springback ronda 8°, mientras que para R/t=2 asciende a 12°; duplicar el radio agrega entre 3° y 5° adicionales, dependiendo del espesor.
 
-**¿Qué precisión se puede alcanzar con sistemas de compensación automática en plegadoras CNC?**
+### ¿Qué precisión se puede alcanzar con sistemas de compensación automática en plegadoras CNC?
 Los equipos con medición angular electrónica logran una precisión de ±0,2°, incluso en la primera pieza, gracias al ajuste en tiempo real del sobreplegado durante la carrera.
 
-**¿Cuánto varía el springback por cambios en el límite elástico del lote?**
+### ¿Cuánto varía el springback por cambios en el límite elástico del lote?
 Una variación del ±10% en el límite elástico puede modificar el springback en 1° a 2°, especialmente en aceros inoxidables; por ello se recomienda muestrear cada lote antes de la producción.
 
-**¿Debo considerar la dirección de laminación al estimar el springback?**
+### ¿Debo considerar la dirección de laminación al estimar el springback?
 Sí, el springback puede diferir hasta 1° si se dobla en sentido transversal en lugar de paralelo a la laminación, debido a la anisotropía del material laminado en frío.
 
-**¿Se puede eliminar completamente el springback mediante tratamiento térmico?**
+### ¿Se puede eliminar completamente el springback mediante tratamiento térmico?
 Recocer la chapa reduce el límite elástico y, con ello, el springback (hasta un 50% menos) pero no lo elimina totalmente; el uso de matrices calientes puede minimizarlo aún más.
 
 ## Fuentes consultadas

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Las roscas métricas de paso grueso constituyen el sistema de fijación por tornillo más difundido a nivel mundial. Se definen en las normas **ISO 724** e **ISO 261**, con un perfil simétrico en V de 60° y una profundidad de rosca de **0.614 × paso**. El paso grueso representa la serie normal y puede omitirse en la designación; por ejemplo, un **M10** equivale a **M10 × 1.5**. La tabla siguiente recoge todas las dimensiones normalizadas desde **M1** hasta **M100**, incluyendo diámetros de broca para macho, agujero pasante y área de esfuerzo de tracción.
 
 ## Dimensiones según ISO 724
@@ -143,24 +142,23 @@ El diámetro del agujero pasante sigue la norma ISO 273, con tres ajustes: fino,
 
 *Los valores son redondeados a la décima de milímetro más próxima y siguen la práctica habitual en construcciones mecánicas generales.*
 
-## Preguntas frecuentes
-
-**1. ¿Cuál es el paso de un tornillo M10 de rosca gruesa?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el paso de un tornillo M10 de rosca gruesa?
 El paso estándar para un M10 paso grueso es **1,5 mm / 0.0591 in**. Este paso es el único de la serie normal y, por tanto, no es necesario especificarlo en el plano.
 
-**2. ¿Qué broca se debe usar para roscar un agujero M8?**
+### ¿Qué broca se debe usar para roscar un agujero M8?
 La broca de machuelo recomendada es de **6,80 mm / 0.2677 in**. Corresponde al diámetro nominal menos el paso (8 mm – 1,25 mm = 6,75 mm), redondeado según ISO 724.
 
-**3. ¿Cuál es el diámetro exterior real de una rosca M24?**
+### ¿Cuál es el diámetro exterior real de una rosca M24?
 El diámetro nominal mayor es **24 mm / 0.9449 in**, aunque el límite superior de fabricación suele estar unas centésimas por debajo (≈ 23,83 mm para clase 6g).
 
-**4. ¿Qué torque de apriete necesita un perno M12 clase 8.8 en seco?**
+### ¿Qué torque de apriete necesita un perno M12 clase 8.8 en seco?
 Se recomiendan **63 N·m / 46.5 ft·lb** para condiciones secas (μ ≈ 0.15). Para pernos lubricados el valor cae a **47 N·m / 34.7 ft·lb**.
 
-**5. ¿Cuál es el área de esfuerzo de tracción de un tornillo M6?**
+### ¿Cuál es el área de esfuerzo de tracción de un tornillo M6?
 El área de tracción efectiva es de **20,1 mm² / 0.0312 in²**. Esto le permite soportar una carga de prueba en clase 8.8 de aproximadamente **12,9 kN / 2900 lbf**.
 
-**6. ¿Bajo qué normas se fabrican las roscas métricas de paso grueso?**
+### ¿Bajo qué normas se fabrican las roscas métricas de paso grueso?
 La dimensión básica está definida por **ISO 724**, equivalente a **DIN 13‑1**. En Estados Unidos la misma rosca se recoge como serie métrica en **ANSI B1.13M**, aunque nunca coincide con las roscas UNC/UNF.
 
 ## Fuentes consultadas

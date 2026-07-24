@@ -66,7 +66,7 @@ The torques indicated correspond to coarse thread, slightly lubricated threads a
 
 A 30% increase in torque is necessary when bolts are tightened dry, compared to the value for lightly lubricated threads. Conversely, generous lubrication can reduce the required torque by up to 40%. The tables in this document assume light oil lubrication.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum torque for an M8 class 8.8 bolt?
 
@@ -92,8 +92,7 @@ An 8,5 mm (0,335 in) diameter drill bit is required.
 
 Yes, the mechanical properties of class 8.8 defined in the old ASTM F568M coincide with those of ISO 898‑1; both standards are interchangeable at the design level.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-bolts-maximum-torque-d_2054.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/preload-and-tightening-torque/
 - **mcmaster.com**: https://www.mcmaster.com/products/metric-bolts/

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Definition
 Specific heat (\(c_p\)) is the thermophysical property that quantifies the amount of energy required to raise by one degree the temperature of a unit mass of a substance. It is formally defined as the limit of the ratio \(dq/dT\) when \(dT \to 0\), where \(dq\) is the heat supplied in a constant‑pressure process. In practical terms, it represents the capacity of a material to store thermal energy: high values indicate that the material absorbs a large amount of heat with a small temperature rise, making it an excellent thermal buffer. The units in the International System are J/(kg·K) or J/(kg·°C), while the imperial system uses Btu/(lb·°F). The conversion factor between the two is 1 Btu/(lb·°F) = 4186,8 J/(kg·K).
 
 ## Table of specific heat of common materials
@@ -103,27 +102,26 @@ The choice of a material based on its specific heat responds to the desired func
 
 For thermal fluids in heat exchangers, a high \(c_p\) is preferred because it reduces the mass flow rate necessary to transport a given amount of heat, decreasing pumping consumption. In quenching or rapid cooling processes, a low specific heat allows the material to reach the desired temperature with lower energy investment.
 
-## Frequently asked questions
-**What is the specific heat of water and why is it so high?**  
+## Frequently Asked Questions (FAQ)
+### What is the specific heat of water and why is it so high?
 Liquid water at 20 °C has a specific heat of 4182 J/(kg·°C) / 1,000 Btu/(lb·°F), one of the highest among common liquids. This high value is due to the strong hydrogen bonds that store part of the supplied energy as intermolecular potential energy, delaying the temperature rise.
 
-**Which metal has the highest specific heat?**  
+### Which metal has the highest specific heat?
 Lithium has 3582 J/(kg·°C) / 0,856 Btu/(lb·°F), the highest value recorded for a pure metal at room temperature. It is followed by beryllium (1020 J/(kg·°C)) and magnesium (1050 J/(kg·°C)), suitable for aerospace applications where lightness and thermal absorption capacity are sought.
 
-**Which mass-use material has the lowest specific heat?**  
+### Which mass-use material has the lowest specific heat?
 Lead, with 129 J/(kg·°C) / 0,031 Btu/(lb·°F), shares the lowest value among common metals along with gold. This property, combined with its high density, makes it useful in radiation shielding where low heat accumulation is desired.
 
-**How much energy is needed to heat 1 liter of water from 20 °C to boiling?**  
+### How much energy is needed to heat 1 liter of water from 20 °C to boiling?
 To raise the temperature of 1 L of water (mass ≈ 1 kg) from 20 °C to 100 °C, approximately 334 560 J (80 kcal) are required, calculated with \(Q = 1\,\text{kg} \times 4182\,\text{J/(kg·°C)} \times 80\,\text{°C}\). In imperial units it is equivalent to about 317 Btu.
 
-**How does the specific heat of dry air vary with temperature?**  
+### How does the specific heat of dry air vary with temperature?
 At 0 °C, the \(c_p\) of dry air is approximately 1005 J/(kg·°C) / 0,240 Btu/(lb·°F); at 100 °C it rises to about 1009 J/(kg·°C) / 0,241 Btu/(lb·°F). The variation is minimal in HVAC applications, so it is taken as constant in most engineering calculations.
 
-**What influence does specific heat have on the design of a heat exchanger?**  
+### What influence does specific heat have on the design of a heat exchanger?
 A secondary fluid with high specific heat, such as water (4182 J/(kg·°C)), can transport more energy per unit mass, reducing the required flow rate and the size of the heat exchanger. In contrast, fluids with low \(c_p\) require higher flow rates for the same thermal transfer, which increases operating costs.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/specific-heat-capacity-d_391.html
 - **efunda.com**: https://www.efunda.com/formulae/
 - **thermopedia.com**: https://www.thermopedia.com/content/1140/?tid=110

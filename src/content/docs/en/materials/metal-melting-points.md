@@ -152,26 +152,25 @@ Tungsten, with a melting point of 3400 °C (6152 °F), exceeds that of iron by m
 
 ## Frequently Asked Questions (FAQ)
 
-**1. Which metal has the highest melting point?**  
+### Which metal has the highest melting point?
 Tungsten has the highest melting point among pure metals, at 3400 °C (6152 °F), used in filaments and electrodes.
 
-**2. Which metal melts at the lowest temperature?**  
+### Which metal melts at the lowest temperature?
 Mercury is the metal with the lowest melting point, −38.86 °C (−37.95 °F), being liquid at room temperature.
 
-**3. At what temperature does stainless steel melt?**  
+### At what temperature does stainless steel melt?
 Stainless steel has a melting point of approximately 1510 °C (2750 °F), which requires induction or electric arc furnaces for casting.
 
-**4. What is the melting point of aluminum?**  
+### What is the melting point of aluminum?
 The melting point of pure aluminum is 660 °C (1220 °F), which allows its casting in gas or electric resistance furnaces.
 
-**5. How does alloying affect the melting point?**  
+### How does alloying affect the melting point?
 The addition of alloying elements generally reduces the melting point; for example, brass melts between 900 and 940 °C (1652‑1724 °F), a temperature lower than that of pure copper (1084 °C).
 
-**6. Why is knowing melting points important in industry?**  
+### Why is knowing melting points important in industry?
 The melting point determines casting, welding, and forming processes; for example, carbon steel is forged between 1425 and 1540 °C (2597‑2800 °F), depending on its carbon content.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=9235
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-temperature-metals-d_860.html
 - **steelnumber.com**: https://www.steelnumber.com/en/standard_steel_comparison_eu.php?gostname_id=48

@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
-
 Phosphating is a chemical conversion treatment that generates an adherent layer of insoluble phosphate crystals on metallic surfaces. The typical film thickness ranges from 1 µm (0.00004 in) to 30 µm (0.0012 in) depending on the type of phosphate applied. The reaction occurs by immersing the part in a dilute phosphoric acid solution containing iron, zinc or manganese cations; the acid attack on the base metal raises the interfacial pH and causes the precipitation of the corresponding phosphates.
 
 The coating is mainly used to improve corrosion resistance, promote lubrication, facilitate adhesion of subsequent paints, or as a wear layer. It is one of the most widespread non-metallic coatings in the manufacturing industry.
@@ -84,27 +82,26 @@ The coating is mainly used to improve corrosion resistance, promote lubrication,
 | Aluminum parts requiring phosphating | Zinc phosphate with fluoride | Fluoride ions activate the aluminum surface and allow formation of a zinc phosphate layer |
 | Hardware items with dark decorative appearance | Manganese phosphate with oil | Provides a uniform matte black finish and some anti-corrosion protection |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the typical thickness of an industrial zinc phosphate coating?**  
+### What is the typical thickness of an industrial zinc phosphate coating?
    The thickness of a zinc phosphate layer ranges from 5 µm (0.0002 in) to 25 µm (0.001 in) depending on immersion time and bath formulation, with average thicknesses of 7–12 µm (0.0003–0.0005 in) achieved in spray processes for automotive applications.
 
-2. **What bath temperature is required for manganese phosphating?**  
+### What bath temperature is required for manganese phosphating?
    The manganese phosphate bath temperature is maintained between 90 °C and 100 °C (194 °F – 212 °F), close to boiling, which favors rapid crystallization and a controlled thickness layer.
 
-3. **How long does the iron phosphating immersion process take?**  
+### How long does the iron phosphating immersion process take?
    The standard immersion time for iron phosphating is 2 to 10 minutes, frequently 5 minutes, after which a coating of 1 to 5 µm (0.00004 – 0.0002 in) is obtained, suitable as a base for powder painting.
 
-4. **How many salt spray hours does an oil-sealed zinc phosphate coating withstand?**  
+### How many salt spray hours does an oil-sealed zinc phosphate coating withstand?
    A zinc phosphate coating sealed with anti-corrosion oil can exceed 96 hours of exposure in a salt spray chamber according to ASTM B117, while unsealed it barely reaches 48–72 hours.
 
-5. **At what maximum service temperature can a phosphate coating be used without degradation?**  
+### At what maximum service temperature can a phosphate coating be used without degradation?
    Phosphate coatings begin to dehydrate and lose protective effectiveness from 200 °C (392 °F), so they are not recommended for continuous applications above 150 °C (302 °F) without specific refractory sealing.
 
-6. **What is the approximate surface hardness of a manganese phosphate coating?**  
+### What is the approximate surface hardness of a manganese phosphate coating?
    The microhardness of a manganese phosphate coating is around 3 GPa (435 kpsi), sufficient to reduce the coefficient of friction and galling in gear steels if the layer is impregnated with lubricant.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/processes/surface/conversion_coatings.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/iron-phosphating

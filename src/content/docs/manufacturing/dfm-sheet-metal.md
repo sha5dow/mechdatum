@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
-
 Las reglas de diseño para manufactura (DFM) en chapa metálica establecen directrices para que las piezas puedan producirse de manera consistente, económica y sin defectos, aprovechando las capacidades de los procesos de corte, plegado, punzonado y embutición. Los principios fundamentales extraídos de las buenas prácticas de diseño industrial recomiendan simplificar la geometría, reducir el número de componentes siempre que sea viable, estandarizar elementos repetitivos (como diámetros de agujeros o tipos de rosca) y prever la orientación de las piezas para la manipulación automatizada. En el caso de la embutición profunda, el análisis basado en reglas indica que la formabilidad del material, la holgura entre punzón y matriz, los radios de acuerdo y la fuerza de sujeción del blanco son críticos para evitar estirados, arrugas o roturas.
 
 ## Materiales aplicables
@@ -84,7 +82,7 @@ Las reglas de diseño para manufactura (DFM) en chapa metálica establecen direc
 | Piezas de baja rigidez o gran superficie | Plegado con nervios de refuerzo o embutición de rigidizadores | Incorporar refuerzos que eviten la deformación por pandeo |
 | Piezas soldadas o ensambladas | Diseñar lengüetas, pestañas de centrado o puntos de soldadura | Minimizar piezas de fijación adicionales; asegurar acceso de electrodos |
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es el radio mínimo de plegado para acero dulce?
 

@@ -148,28 +148,27 @@ It is also available in surface finishes ranging from hot rolled (No. 1) to brig
 
 The surface should always be cleaned after fabrication to remove thermal oxides and ferritic contamination that could initiate corrosion.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the density of stainless steel 316?**  
+### What is the density of stainless steel 316?
 The density is approximately 8.0 g/cm³, which is equivalent to about 500 lb/ft³ in imperial units.
 
-**What is the difference between 316 and 316L?**  
+### What is the difference between 316 and 316L?
 316L has a maximum carbon content of 0.03%, compared to 0.08% for 316. This reduces the risk of intergranular corrosion after welding or heat treatments, while the rest of the properties remain practically identical.
 
-**What is the maximum working temperature for 316?**  
+### What is the maximum working temperature for 316?
 In continuous service in air, the maximum recommended temperature is 870 °C. For intermittent exposures, it can reach up to 925 °C.
 
-**What is the minimum tensile strength in the annealed condition?**  
+### What is the minimum tensile strength in the annealed condition?
 The minimum tensile strength is 515 MPa (75 ksi). In the cold-worked condition, it can exceed 620 MPa.
 
-**Is 316 magnetic?**  
+### Is 316 magnetic?
 No, it is essentially non-magnetic in the annealed condition. After cold working, it may show slight magnetism due to partial transformation to martensite.
 
-**Can 316 steel be used in seawater?**  
+### Can 316 steel be used in seawater?
 Yes, it offers good corrosion resistance for short-term immersion or saltwater splashes, but it is not suitable for permanent immersion at high temperature or in conditions of very low oxygen renewal, where pitting may occur. For such applications, superduplex steels are recommended.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=863
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=2132

@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
-
 Converting between the International System of Units and the Imperial system is a daily task in mechanical engineering, where drawings, specifications, and equipment from different origins coexist. This reference provides verified conversion factors for the most commonly used mechanical quantities: from length, mass, and force to pressure, energy, power, torque, density, velocity, and moment of inertia. Each factor is presented with its direct and reverse formula, and notes are included on the appropriate number of significant figures for workshop and design calculations. The precision of the factors follows international definitions established by the BIPM and ASTM E380 / IEEE/ASTM SI 10 standards.
 
 ## Base and derived SI units
@@ -120,28 +118,27 @@ For torque, it is critical not to confuse pound force foot with pound force inch
 
 The density of water at 4 °C and 1 atm pressure is 1000 kg/m³ or 62,4280 lb/ft³. This value is used as reference in specific gravity calculations. In the Imperial system, density is also frequently expressed in pounds per gallon: 1 lb/gal = 0,119826 kg/L. A British Imperial gallon (4,54609 L) differs from the US gallon (3,78541 L); all conversions in this reference use the US gallon as it is the standard in American engineering technical documentation.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the exact factor to convert millimetres to inches?**
+### What is the exact factor to convert millimetres to inches?
 The international inch is defined as exactly 25,4 mm, therefore 1 mm is exactly equal to 0,0393700787401575 in. For general mechanical engineering work, use 1 mm = 0,03937 in with four decimals, or 1 in = 25,4 mm exactly.
 
-**How do I convert MPa to ksi to read steel specifications?**
+### How do I convert MPa to ksi to read steel specifications?
 Divide the value in MPa by 6,89476 to obtain ksi. For example, a steel with a yield strength of 345 MPa has a yield strength of 50 ksi (345 ÷ 6,89476 ≈ 50,04). The typical value of 250 MPa equals 36,3 ksi, which corresponds to ASTM A36 structural steel.
 
-**Why are there two conversion factors for mass and force in the Imperial system?**
+### Why are there two conversion factors for mass and force in the Imperial system?
 The Imperial system distinguishes between pound mass and pound force, unlike the SI where kilogram is mass and newton is force. One pound force is the force exerted by standard gravity on one pound mass. Therefore 1 kg of mass equals 2,20462 lb of mass, but 1 N of force equals 0,224809 lbf. In mechanical engineering calculations, you must identify whether the specification refers to mass or force in order to choose the correct factor.
 
-**How do I correctly convert a dimensional tolerance from micrometres to inches?**
+### How do I correctly convert a dimensional tolerance from micrometres to inches?
 Divide the value in micrometres (µm) by 25,4 to obtain thousandths of an inch, also called “mil” (0,001 in). A tolerance of 5 µm equals 0,000197 in or 0,197 mil. For surface roughness, 3,2 µm Ra equals 126 µin (microinches). Remember that 1 µm = 39,37 µin.
 
-**What is the difference between Imperial gallon and US gallon when converting flow rates?**
+### What is the difference between Imperial gallon and US gallon when converting flow rates?
 The US gallon equals 3,78541 litres, while the British Imperial gallon equals 4,54609 litres. When converting 1 m³/s to gallons per minute, you will obtain 15 850,3 gpm if using US gallons, but only 13 198,2 gpm if using Imperial gallons. In American engineering documentation, the US gallon is the standard.
 
-**What precision should I use when converting temperatures for thermal expansion calculations?**
+### What precision should I use when converting temperatures for thermal expansion calculations?
 For temperature differences, use the exact factor Δ°F = Δ°C × 1,8. If the point temperature is 20 °C, the difference from the ambient reference temperature is not converted using the full formula, but by multiplying by 1,8. A 50 °C increase is exactly equal to a 90 °F increase.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/si-unit-system-d_30.html
 - **unitconverters.net**: https://www.unitconverters.net/engineering-converters.html
 - **convertworld.com**: https://www.convertworld.com/en/pressure/kilopound-per-square-inch.html

@@ -122,33 +122,32 @@ In imperial units: τ ≈ 283,8 lb·ft² × 6,28 rad/s² ≈ 55,6 lb·ft
 
 The motor must supply a net torque of 75,4 N·m to achieve the desired acceleration. If there are additionally friction losses in the bearings estimated at 5 N·m, the total required torque would be 80,4 N·m / 59,3 lb·ft. The motor selection shall consider this value plus a suitable service factor for the application.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What is the difference between mass moment of inertia and second moment of area?**
+### What is the difference between mass moment of inertia and second moment of area?
 
 The mass moment of inertia measures resistance to rotational acceleration and depends on the mass of the body, with units mass × length² (kg·m² or lb·ft²). The second moment of area is a purely geometric property of the cross section of a beam, with units length⁴ (mm⁴ or in⁴), and is used in bending and deflection calculations. For example, a steel cylinder of 50 kg and 2 m length can have a mass moment of inertia of 1,2 kg·m² / 0,88 lb·ft² about its longitudinal axis, while the second moment of area of its circular cross section of 100 mm / 3,94 in diameter is approximately 4,91 × 10⁶ mm⁴ / 11,8 in⁴. They should not be confused or interchanged in calculations.
 
-**How is the parallel axis theorem applied in a real case?**
+### How is the parallel axis theorem applied in a real case?
 
 If the moment of inertia of an electric motor about its center of mass is known, a typical value of 0,05 kg·m² / 0,037 lb·ft² for a small motor of 10 kg / 22 lb, and it is mounted on a base at 0,3 m / 11,8 in from the pivot axis, the total moment of inertia about the pivot will be I = 0,05 + 10 × (0,3)² = 0,05 + 0,9 = 0,95 kg·m² / 0,70 lb·ft². The term M d² usually dominates when the distance is large compared to the dimensions of the body, as in this case where the displacement of 300 mm / 11,8 in contributes 0,9 kg·m² versus the original 0,05 kg·m².
 
-**Which geometric shape provides the greatest moment of inertia for a given mass and radius?**
+### Which geometric shape provides the greatest moment of inertia for a given mass and radius?
 
 For a fixed mass M and outer radius R, the thin hoop (or thin-walled hollow cylinder) provides the greatest possible moment of inertia: I = M R². At the other extreme, the solid sphere concentrates more mass near the axis and gives the lowest value among common shapes: I = (2/5) M R² = 0,4 M R². The ratio between them is 2,5 times. For an automobile flywheel with mass 8 kg / 17,6 lb and radius 0,15 m / 5,9 in, the values would be 0,18 kg·m² / 0,13 lb·ft² for a hoop and 0,072 kg·m² / 0,053 lb·ft² for a solid sphere of the same outer radius.
 
-**How does mass distribution influence the radius of gyration of a hollow cylinder?**
+### How does mass distribution influence the radius of gyration of a hollow cylinder?
 
 The radius of gyration of a hollow cylinder with radii Rᵢ and Rₒ is k = √[(Rᵢ² + Rₒ²) / 2]. For a solid cylinder (Rᵢ = 0), k = Rₒ / √2 ≈ 0,707 Rₒ. For a thin-walled tube (Rᵢ ≈ Rₒ), k ≈ Rₒ. For example, a steel tube with Rₒ = 50 mm / 1,97 in and Rᵢ = 40 mm / 1,57 in has k = √[(40² + 50²) / 2] = √[(1600 + 2500)/2] = √2050 ≈ 45,3 mm / 1,78 in, which represents 90,6 % of the outer radius. This demonstrates how moving mass to the periphery increases the radius of gyration and therefore the rotational inertia for the same total mass.
 
-**What torque is needed to stop a flywheel in a given time?**
+### What torque is needed to stop a flywheel in a given time?
 
 The braking torque is calculated with τ = I × α, where α = Δω / Δt. A flywheel with I = 20 kg·m² / 14,75 lb·ft² rotating at 1500 rpm (157,1 rad/s) that must stop in 3 seconds requires a deceleration of α = 157,1 / 3 = 52,37 rad/s². The braking torque will be τ = 20 × 52,37 = 1047,4 N·m / 772,6 lb·ft. If the braking system acts at an effective radius of 0,25 m / 9,84 in, the tangential force required at the brake disc will be F = τ / r = 1047,4 / 0,25 ≈ 4189 N / 941,7 lbf. This level of force must be sustained by the brake components and dissipated as heat in the system.
 
-**Is it correct to sum moments of inertia of different components of a system?**
+### Is it correct to sum moments of inertia of different components of a system?
 
 Yes, provided all moments of inertia are referenced to the same axis of rotation. The moment of inertia is an additive property. For example, a rotor system composed of a steel shaft (I₁ = 0,002 kg·m² / 0,0015 lb·ft²), a disk (I₂ = 0,15 kg·m² / 0,11 lb·ft²), and a coupling (I₃ = 0,008 kg·m² / 0,0059 lb·ft²) will have a total moment of inertia of 0,16 kg·m² / 0,118 lb·ft² about the common axis. If any component does not share the same axis, its moment of inertia must be transferred using the parallel axis theorem before summing.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/mechanics_machines/mass_moment_of_inertia_equations_13091.htm
 - **efunda.com**: https://www.efunda.com/math/solids/solids_display.cfm?SolidName=Sphere

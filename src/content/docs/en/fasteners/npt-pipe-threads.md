@@ -104,27 +104,26 @@ NPT threads are not interchangeable with other tapered threads, particularly BSP
 - Direct threading of steel, brass, PVC, and other materials in applications requiring occasional disassembly.
 - Instrumentation and plumbing accessories (valves, filters, pressure gauges) under NPT standards.
 
-## FAQ
-**What is the taper of an NPT thread?**  
+## Frequently Asked Questions (FAQ)
+### What is the taper of an NPT thread?
 The taper is 1 in 16, which generates an angle of 1° 47′ 24″ (1.7899°) with respect to the pipe axis, equivalent to 62.5 mm per meter.
 
-**How many threads per inch does a 1/2″ NPT thread have?**  
+### How many threads per inch does a 1/2″ NPT thread have?
 It has 14 threads per inch, corresponding to a pitch of 1.814 mm / 0.0714 in.
 
-**What drill diameter is needed for tapping a 1/4″ NPT thread?**  
+### What drill diameter is needed for tapping a 1/4″ NPT thread?
 The recommended drill is 11.11 mm / 7/16 in for the corresponding tap.
 
-**What is the nominal outer diameter of a 2″ NPT threaded pipe?**  
+### What is the nominal outer diameter of a 2″ NPT threaded pipe?
 The nominal outer diameter is 60.33 mm / 2.375 in.
 
-**What is the approximate thread length for a 3/4″ NPT thread?**  
+### What is the approximate thread length for a 3/4″ NPT thread?
 Approximately 19.05 mm / 0.75 in, with a total of 10 threads cut.
 
-**What tightening torque is recommended for a 1″ steel NPT fitting?**  
+### What tightening torque is recommended for a 1″ steel NPT fitting?
 A typical assembly value is 81 N·m / 60 ft·lbf, always verifiable with the manufacturer's specifications.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/npt-national-pipe-taper-threads-d_750.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/online-calculators-and-converters/metric-thread-profile-calculator/
 - **mcmaster.com**: https://www.mcmaster.com/products/thread-size-identifiers/thread-type~npt/

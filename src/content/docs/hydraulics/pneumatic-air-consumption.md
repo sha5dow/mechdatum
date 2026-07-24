@@ -139,24 +139,24 @@ Volumen geométrico total por ciclo: 0,7226 L
 
 Este caudal debe suministrarse a la presión de régimen de 6 bar; la tubería de alimentación y la unidad de mantenimiento deberán dimensionarse en consecuencia.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cómo se calcula el consumo de aire de un cilindro de simple efecto?**  
+### ¿Cómo se calcula el consumo de aire de un cilindro de simple efecto?
 El consumo de aire libre por minuto de un cilindro de simple efecto de 40 mm de diámetro y 100 mm de carrera, operando a 6 bar y 30 ciclos/min, es de aproximadamente 25 Nl/min. Solamente se consume aire durante la extensión; el retorno lo proporciona un resorte o la carga.
 
-**¿Cuál es la presión de trabajo recomendada para actuadores neumáticos?**  
+### ¿Cuál es la presión de trabajo recomendada para actuadores neumáticos?
 La presión de trabajo estándar para actuadores lineales es de 6 bar / 87 psi, con un rango permitido de 4 a 8 bar / 58 a 116 psi. Presiones inferiores reducen drásticamente la fuerza disponible; presiones superiores acortan la vida útil de juntas y componentes.
 
-**¿Qué coeficiente de descarga se utiliza para un orificio de bordes vivos?**  
+### ¿Qué coeficiente de descarga se utiliza para un orificio de bordes vivos?
 Para un orificio de bordes vivos el coeficiente de descarga *C* es 0,65, mientras que para bordes redondeados se emplea 0,97. En válvulas y estranguladores comerciales se suele adoptar *C* ≈ 0,7 – 0,8.
 
-**¿Cómo afecta la presión de trabajo al consumo de aire?**  
+### ¿Cómo afecta la presión de trabajo al consumo de aire?
 Aumentar la presión de trabajo de 6 a 8 bar incrementa el consumo de aire libre en aproximadamente un 33 %, ya que el volumen de aire atmosférico necesario es directamente proporcional a la presión absoluta.
 
-**¿Cuál es la conversión entre Nl/min y scfm?**  
+### ¿Cuál es la conversión entre Nl/min y scfm?
 1 scfm equivale a 28,3 Nl/min cuando se consideran condiciones de referencia de 20 °C / 68 °F y 1 atmósfera (1,013 bar / 14,7 psi). Los valores en Nl/min se obtienen multiplicando los scfm por 28,317.
 
-**¿Qué diámetro de tubería se recomienda para un caudal de 500 Nl/min?**  
+### ¿Qué diámetro de tubería se recomienda para un caudal de 500 Nl/min?
 Para un caudal de 500 Nl/min / 17,7 scfm, una tubería de 10 mm / 0,39 in de diámetro interior genera una pérdida de carga inferior a 0,1 bar / 1,5 psi por cada 10 m / 33 ft de longitud, lo que resulta adecuado para la mayoría de las instalaciones.
 
 ## Fuentes consultadas

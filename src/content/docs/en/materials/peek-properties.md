@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Overview
 Polyetheretherketone (PEEK) is a high-performance, beige, semicrystalline thermoplastic belonging to the polyaryletherketone (PAEK) family. It stands out for its exceptional combination of mechanical strength, rigidity, thermal stability, and chemical resistance, even at elevated temperatures. It is used in demanding sectors such as aerospace, medical, automotive, and oil & gas where other polymers would not withstand service conditions.
 
 ## Chemical composition
@@ -114,26 +113,25 @@ PEEK is primarily processed by injection molding and extrusion, with barrel temp
 
 ## Frequently Asked Questions (FAQ)
 
-**What is the maximum continuous service temperature of PEEK?**
+### What is the maximum continuous service temperature of PEEK?
 Unfilled PEEK can be used continuously at temperatures up to 250 °C (482 °F), although some special grades achieve 260 °C for extended periods.
 
-**Is PEEK suitable for medical implants?**
+### Is PEEK suitable for medical implants?
 Yes, PEEK is biocompatible and used in orthopedic and spinal implants. Studies show compressive strength of 118 – 130 MPa, comparable to cortical bone.
 
-**What is the density value of PEEK?**
+### What is the density value of PEEK?
 The density of unfilled PEEK ranges from 1.30 to 1.32 g/cm³ (81.2 – 82.4 lb/ft³), making it up to 70 % lighter than titanium.
 
-**How does PEEK behave under radiation?**
+### How does PEEK behave under radiation?
 PEEK exhibits excellent resistance to UV radiation and gamma radiation doses up to 1000 kGy, making it suitable for repeated sterilization without significant loss of mechanical properties.
 
-**What is the chemical resistance of PEEK to organic solvents?**
+### What is the chemical resistance of PEEK to organic solvents?
 PEEK is virtually inert to almost all organic solvents at room temperature (resistance 5/5). It is only attacked by concentrated sulfuric acid and some halogenated solvents at high temperature.
 
-**What is the thermal conductivity of PEEK?**
+### What is the thermal conductivity of PEEK?
 The thermal conductivity of PEEK is between 0.24 and 0.26 W/(m·K) (0.45 – 0.49 BTU·ft/(h·ft²·°F)), classifying it as a good thermal insulator for low heat transfer applications.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=1882
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=482

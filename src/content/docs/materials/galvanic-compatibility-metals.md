@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 La corrosión galvánica provoca una pérdida de metal anódico que puede alcanzar velocidades de **2 a 100 veces** superiores a la corrosión aislada cuando la diferencia de potencial entre los metales supera 0,15 V en ambientes agresivos. Este fenómeno electroquímico, también llamado corrosión bimetálica, ocurre cuando dos metales distintos entran en contacto eléctrico en presencia de un electrolito (agua, humedad, suelo, fluidos de proceso). El metal con potencial electroquímico más negativo actúa como ánodo y se disuelve aceleradamente, mientras que el más noble (cátodo) se protege. La intensidad del ataque depende de la diferencia de potencial en la serie galvánica, la relación de áreas ánodo/cátodo y la conductividad del electrolito. La comprensión de la compatibilidad galvánica es esencial para evitar fallos prematuros en estructuras metálicas y tuberías.
 
 ## Composición química
@@ -74,24 +73,24 @@ La selección de parejas metálicas compatibles se rige por la diferencia máxim
 
 En aplicaciones húmedas, un acero al carbono puede protegerse con recubrimientos de zinc (galvanizado) porque el zinc actúa como ánodo de sacrificio incluso si la capa se daña; lo contrario sucede con el estañado sobre acero, donde el acero se corroe aceleradamente al exponerse debido a la inversión de polaridad.
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la diferencia de potencial máxima permitida entre metales en ambiente marino?**  
+### ¿Cuál es la diferencia de potencial máxima permitida entre metales en ambiente marino?
 En ambiente marino, la diferencia de potencial electroquímico no debe superar **0,15 V**; parejas como cobre (0,35 V) con acero galvanizado (1,20 V) generan una diferencia de 0,85 V y fallan rápidamente.
 
-**¿Qué tasa de corrosión provoca un par acero inoxidable 304 y acero al carbono en aire húmedo?**  
+### ¿Qué tasa de corrosión provoca un par acero inoxidable 304 y acero al carbono en aire húmedo?
 El acero al carbono actúa como ánodo y puede corroerse a una velocidad de **0,1 a 0,3 mm/año**, mientras que el acero inoxidable apenas sufre deterioro.
 
-**¿Cuántos años adicionales de vida útil aporta un sistema de protección catódica con ánodos de sacrificio?**  
+### ¿Cuántos años adicionales de vida útil aporta un sistema de protección catódica con ánodos de sacrificio?
 La protección catódica puede prolongar la vida útil de tuberías enterradas entre **20 y 40 años** más allá de la duración sin protección, dependiendo de la calidad del revestimiento y del suelo.
 
-**¿En cuánto se reduce la resistencia a la fatiga de un perno de acero al carbono en unión galvánica con una placa de cobre?**  
+### ¿En cuánto se reduce la resistencia a la fatiga de un perno de acero al carbono en unión galvánica con una placa de cobre?
 En un año de exposición a la intemperie, la resistencia a la fatiga puede caer hasta un **50 %** respecto al valor original de 180 MPa, debido a picaduras localizadas.
 
-**¿Cuánto calor disipa una celda galvánica típica en una pila de humidificación?**  
+### ¿Cuánto calor disipa una celda galvánica típica en una pila de humidificación?
 Una corriente de corrosión de **50 µA/cm²** con una diferencia de 0,3 V disipa aproximadamente **1,5 mW/cm²**, un valor insignificante desde el punto de vista térmico pero determinante para la cinética electroquímica.
 
-**¿Qué diferencia de potencial se considera segura para acoplar metales en interiores climatizados?**  
+### ¿Qué diferencia de potencial se considera segura para acoplar metales en interiores climatizados?
 En interiores con control de humedad (<60 % HR) y temperatura constante, se aceptan diferencias de hasta **0,50 V**; por ejemplo, aluminio 2024 (0,75 V) con acero inoxidable 304 (0,50 V) es factible con precaución.
 
 ## Fuentes consultadas

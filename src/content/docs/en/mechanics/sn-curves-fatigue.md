@@ -169,27 +169,26 @@ The Table summarizes typical values of fatigue limit (ferrous materials) or fati
 ² Sₑ ≅ 0.4 Sᵤₜ (max. 170 MPa / 24 ksi).  
 ³ S\_f ≅ 0.4 Sᵤₜ (max. 130 MPa / 19 ksi for aluminums, 97 MPa / 14 ksi for coppers). For design, the modifying factors must be applied.
 
-## FAQ – Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the fatigue limit value of a typical steel?**  
+### What is the fatigue limit value of a typical steel?
 The laboratory fatigue limit (Sₑ′) in a normalized carbon steel is approximately half its ultimate tensile strength, with a maximum limit of 290 MPa (42 ksi). For example, a 1045 steel with Sᵤₜ = 630 MPa (91 ksi) has Sₑ′ ≈ 315 MPa (46 ksi), which after applying all modifying factors can drop to values on the order of 150‑200 MPa (22‑29 ksi) in a real part.
 
-**2. What is the difference between fatigue limit and fatigue strength?**  
+### What is the difference between fatigue limit and fatigue strength?
 The fatigue limit (Sₑ) is a stress value below which the material can withstand an unlimited number of cycles (steel, titanium). The fatigue strength (S\_f) is defined for a finite number of cycles, typically 5 × 10⁸ in aluminums and coppers. In aluminum 6061‑T6, the strength at 200 000 cycles is 128.9 MPa (18.7 ksi), while at 10⁸ cycles it would be much lower (98 MPa / 14.2 ksi), never reaching an asymptotic value.
 
-**3. How does surface finish influence fatigue strength?**  
+### How does surface finish influence fatigue strength?
 A rough surface finish drastically reduces the fatigue limit. For a steel with Sᵤₜ = 600 MPa (87 ksi), the surface factor Cₛ is 0.84 for machined parts, 0.62 for hot-rolled, and only 0.38 for forged parts. This means that the same forged part could have a fatigue limit of only 38% of the value it would have with a ground finish.
 
-**4. What is the equation describing the S‑N curve of aluminum 6061‑T6?**  
+### What is the equation describing the S‑N curve of aluminum 6061‑T6?
 The curve fitted to experimental data between 10³ and 10⁷ cycles, for fully alternating stress (R = −1), is S (MPa) = 14 479 / √N + 96.5 MPa, or S (psi) = 2 100 000 / √N + 14 000 psi. For 200 000 cycles, the predicted stress is 129 MPa (18.7 ksi).
 
-**5. How is Miner's rule applied for a multi-block load?**  
+### How is Miner's rule applied for a multi-block load?
 The partial damage of each block is summed. For example: block 1 applies 3 000 cycles at 280 MPa (40.6 ksi), whose life N₁ = 8 000 cycles (partial damage 0.375); block 2 applies 50 000 cycles at 210 MPa (30.5 ksi) with N₂ = 150 000 cycles (damage 0.333). The total damage is 0.375 + 0.333 = 0.708 < 1, so failure is not predicted.
 
-**6. What is the effect of a notch on fatigue strength?**  
+### What is the effect of a notch on fatigue strength?
 A notch introduces a static stress concentration factor Kₜ and reduces fatigue strength according to K\_f = 1 + q (Kₜ − 1). Notch sensitivity q varies between 0 (insensitive material) and 1 (fully sensitive). In a high-strength steel with Kₜ = 2.5 and q = 0.8, the effective factor is K\_f = 1 + 0.8 (2.5 − 1) = 2.2, meaning the corrected fatigue limit will be Sₑ/K\_f, i.e., less than half the nominal value.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/materials/fatigue_design_curves__16022.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/fatigue/fatigue_highcycle.cfm

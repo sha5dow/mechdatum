@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General Description
 M2 tool steel is a molybdenum high-speed steel of the M group according to the AISI classification, representing more than 95% of high-speed steels manufactured in the United States. It has a high carbon content and superior wear resistance compared to M1 high-speed steel. Its combination of molybdenum, tungsten, and vanadium gives it excellent cutting ability at high temperatures, maintaining hardnesses above 60 HRC even under severe working conditions. It is normally supplied in the annealed condition and can be coated with titanium nitride or titanium carbide by physical vapor deposition to further improve its service life.
 
 ## Chemical Composition
@@ -108,28 +107,27 @@ M2 steel is widely used in the manufacture of cutting and forming tools that ope
 | Relative cost | 100 % | 110 – 120 % | 130 – 140 % | 150 – 180 % |
 | Primary application | Universal use | Small drills and mills | Extreme wear tools | Heavy-duty work |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum hardness that M2 steel can achieve after heat treatment?**  
+### What is the maximum hardness that M2 steel can achieve after heat treatment?
 The maximum hardness in the quenched condition is 65 HRC, and after a typical temper at 540 – 600 °C, 62 – 65 HRC is obtained.
 
-**What maximum working temperature can M2 steel withstand without losing its edge?**  
+### What maximum working temperature can M2 steel withstand without losing its edge?
 It can work continuously at temperatures up to 560 °C while maintaining hardness above 58 HRC, which corresponds to a significantly higher cutting speed than carbon steels.
 
-**How much molybdenum and tungsten does the M2 alloy approximately contain?**  
+### How much molybdenum and tungsten does the M2 alloy approximately contain?
 The nominal content is 5% molybdenum and 6% tungsten, totaling about 11% by weight of carbide-forming elements.
 
-**Which European standard is directly equivalent to M2 steel?**  
+### Which European standard is directly equivalent to M2 steel?
 The closest equivalent is steel HS6-5-2 according to EN ISO 4957, also identified with material number 1.3339.
 
-**What is the typical coefficient of thermal expansion between 20 °C and 500 °C?**  
+### What is the typical coefficient of thermal expansion between 20 °C and 500 °C?
 The linear coefficient of thermal expansion is 12.2 μm/m·°C in that range, which places it at a moderate value among tool steels.
 
-**What is the compressive strength of M2 after tempering at 149 °C?**  
+### What is the compressive strength of M2 after tempering at 149 °C?
 The compressive strength reaches 3250 MPa, indicating an excellent ability to withstand loads in deformation and cutting tools.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6174
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=11913

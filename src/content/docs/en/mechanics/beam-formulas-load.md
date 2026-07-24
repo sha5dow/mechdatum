@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Introduction
 Beams are structural elements that primarily work in bending, with typical spans from 2 m / 6.56 ft in residential building to more than 50 m / 164 ft in bridges. This guide compiles strength of materials formulas for calculating reactions, internal stresses, slopes, and deflections in statically determinate beams subjected to the most common types of load and support conditions.
 
 ## Differential equation of the beam
@@ -64,27 +63,26 @@ A simply supported steel beam S275 (E = 200 GPa / 29 000 ksi, fy = 275 MPa / 4
 ## Design criteria
 Common practice limits the maximum deflection under service loads to L/250 for building beams, equivalent to 8 mm in a span of 2 m / 0.31 in in 6.56 ft. For unfrequent combinations, L/300 is accepted, and for elements supporting fragile partitions it is reduced to L/500. The working stress in steel must not exceed the design strength fy/γM, with γM = 1.05 according to code, which for S275 gives 262 MPa / 38 ksi. For timber beams, the allowable deflection is usually L/300 and the allowable bending stress is on the order of 10 MPa / 1.45 ksi.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the maximum allowable deflection in a steel beam for residential use?**
+### What is the maximum allowable deflection in a steel beam for residential use?
 The deflection is commonly limited to L/250, i.e., 8 mm for a beam of 2 m / 0.31 in for 6.56 ft, although in areas with fragile partitions L/500 (4 mm / 0.16 in in 2 m) is required.
 
-**How is the maximum bending moment calculated in a simply supported beam with a point load?**
+### How is the maximum bending moment calculated in a simply supported beam with a point load?
 The maximum moment equals PL/4, which for P=20 kN and L=4 m gives 20 kN·m / 14.75 kip·ft, located directly under the load.
 
-**What effect does doubling the span have on the deflection of a simply supported beam with uniform load?**
+### What effect does doubling the span have on the deflection of a simply supported beam with uniform load?
 Since deflection is proportional to L³, doubling the span from 3 m to 6 m / 9.84 ft to 19.7 ft multiplies the deflection by 8, going, for example, from 2 mm to 16 mm / 0.08 in to 0.63 in.
 
-**What is the maximum slope at the end of a cantilever with a point load?**
+### What is the maximum slope at the end of a cantilever with a point load?
 The slope at the free end equals PL²/(2EI); for P=5 kN, L=1.5 m and a section with EI=400 kN·m², 0.014 rad ≈ 0.8° is obtained.
 
-**How does the normal stress vary along a cantilever beam with a uniform load?**
+### How does the normal stress vary along a cantilever beam with a uniform load?
 The maximum normal stress in the extreme fibers is \(M y/I\), with M=WL/2. For W=10 kN, L=2 m and a section with W_el=80 cm³, 125 MPa / 18.1 ksi is reached at the fixed end.
 
-**What deflection difference is there between a simply supported beam and a fixed-ended beam under uniform load?**
+### What deflection difference is there between a simply supported beam and a fixed-ended beam under uniform load?
 The maximum deflection in the simply supported beam is \(5WL^3/(384EI)\); in the fixed-ended beam it is \(WL^3/(384EI)\). The difference is a factor of 5, so for W=50 kN, L=6 m and EI=5000 kN·m², 7.0 mm and 1.4 mm / 0.28 in and 0.06 in are obtained, respectively.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/beam_calc_menu.shtml
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/beams/theory.cfm

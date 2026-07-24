@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General overview
 The DIN 934 hex nut has a nominal height of 0.8 times the thread diameter (0.8d) and corresponds to the normal or "standard" type within the family of metric nuts. It is mostly manufactured in steel with property classes 6, 8 and 10 according to ISO 898‑2, suitable for service temperatures from –50 °C to +300 °C (–58 °F to +572 °F). Originally standardized by the Deutsches Institut für Normung, the DIN 934 standard was superseded by the harmonized series ISO 4032, although it continues to be widely requested under its historical designation in maintenance, machinery construction and industrial equipment.
 
 ## Dimension table
@@ -158,28 +157,27 @@ DIN 934 nuts are supplied in hardened carbon steel or austenitic stainless steel
 | Stainless steel A4 (316) | 80 (approx. class 8) | Bare, passivated | –200 °C to +400 °C (–328 °F to +752 °F) with improved resistance in chloride environments |
 *Stainless steel classes are designated per ISO 3506‑2 (e.g., A2‑70).*
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-### 1. What is the height of a DIN 934 nut relative to the bolt diameter?
+### What is the height of a DIN 934 nut relative to the bolt diameter?
 The nominal height of a DIN 934 nut is 0.8 times the nominal thread diameter (0.8d); for example, an M10 has a height of 8 mm (0.315 in).
 
-### 2. What is the maximum tightening torque for a DIN 934 M12 class 8 nut mounted on an 8.8 bolt?
+### What is the maximum tightening torque for a DIN 934 M12 class 8 nut mounted on an 8.8 bolt?
 The recommended maximum torque for M12 class 8 with an 8.8 bolt is 82 Nm / 60.5 ft‑lb under light lubrication and μ ≈ 0.12.
 
-### 3. What wrench size is used to install a DIN 934 nut with M10 thread?
+### What wrench size is used to install a DIN 934 nut with M10 thread?
 The wrench size for M10 is 17 mm (0.669 in) across flats, although in thin series (ISO 4035) it may be 16 mm; DIN 934 uses 17 mm.
 
-### 4. What is the proof load that a DIN 934 M16 class 8 nut supports before permanent deformation?
+### What is the proof load that a DIN 934 M16 class 8 nut supports before permanent deformation?
 The proof load for M16 class 8 is 94.2 kN (21180 lbf), calculated on the stress area of the equivalent class bolt.
 
-### 5. What drill bit is needed for the clearance hole of an M16 bolt that will use a DIN 934 nut?
+### What drill bit is needed for the clearance hole of an M16 bolt that will use a DIN 934 nut?
 For a medium series (H13) clearance hole, a drill of 17.5 mm / 0.689 in diameter is needed.
 
-### 6. Up to what temperature can a DIN 934 A4 stainless steel nut operate?
+### Up to what temperature can a DIN 934 A4 stainless steel nut operate?
 A4 (316) stainless steel nuts maintain their mechanical properties up to 400 °C / 752 °F, although creep resistance gradually decreases above 300 °C / 572 °F.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-bolt-head-wrench-size-d_1458.html
 - **bossard.com**: https://www.bossard.com/global-en/eshop/hex-nuts/hex-nuts-0-8d/p/504/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-934-nuts

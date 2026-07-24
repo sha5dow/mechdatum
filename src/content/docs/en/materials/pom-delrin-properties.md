@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description  
 POM (polyoxymethylene) has a density of **1.41 g/cm³** and is an opaque white semicrystalline thermoplastic that can be colored. It is marketed in homopolymer and copolymer versions; the copolymer offers better thermo‑oxidative stability and resistance to bases, while the homopolymer has higher mechanical strength and surface hardness. Both forms share stiffness, toughness, excellent wear resistance, low friction, and good dimensional stability.
 
 ## Chemical composition  
@@ -105,27 +104,26 @@ When compared to nylon (PA 66), POM shows 40 times lower water absorption (**0
 ## Processing and conversion  
 Before injection molding, the material must be dried for **3 h at 90 °C** to achieve a moisture content below 0.05 %. The conversion is carried out on low‑medium compression screws, with a temperature profile of 190‑210 °C and a mold heated between 60 and 120 °C. Mold shrinkage reaches **1,8‑2,0 %**, requiring the cavity to be oversized. After demolding, a post‑shrinkage of ≈ 0.1 % occurs, completed within 48 hours at room temperature. It must not be processed in equipment that has been in contact with halogens (PVC, brominated flame retardants) due to the risk of explosive decomposition.
 
-## FAQ  
-**What is the maximum continuous service temperature of POM Delrin?**  
+## Frequently Asked Questions (FAQ)
+### What is the maximum continuous service temperature of POM Delrin?
 The maximum continuous service temperature in air for the copolymer is **100 °C (212 °F)** and for the homopolymer is **80 °C (175 °F)**, exceeding many engineering thermoplastics in hot applications.
 
-**What Izod impact strength value does POM have?**  
+### What Izod impact strength value does POM have?
 The notched Izod test gives a value of **69 J/m (1.29 ft·lb/in)** in injection‑molded copolymer specimens, indicating moderate toughness suitable for parts subject to impact.
 
-**How much water does POM absorb compared to nylon?**  
+### How much water does POM absorb compared to nylon?
 It absorbs only **0.22 %** water in 24 h, compared to over 8 % that nylon 66 can absorb, thus reducing dimensional changes due to humidity.
 
-**What heat deflection temperature does POM support?**  
+### What heat deflection temperature does POM support?
 Under a load of **1.80 MPa (264 psi)**, the copolymer reaches an HDT of **110 °C (230 °F)**, while at 0.45 MPa it reaches **160 °C (320 °F)**, allowing its use in moderate thermal environments.
 
-**What is the surface hardness of POM?**  
+### What is the surface hardness of POM?
 On the Rockwell M scale, the copolymer has a hardness of **M117**, and the homopolymer can reach **M120**, equivalent to high scratch resistance in contact applications.
 
-**What linear shrinkage must be considered when molding POM?**  
+### What linear shrinkage must be considered when molding POM?
 Mold shrinkage ranges from **1.8 % to 2.0 %**, depending on part thickness and processing conditions, plus a post‑shrinkage of about 0.1 % in the first 48 hours.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=381
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-properties-d_1222.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=614

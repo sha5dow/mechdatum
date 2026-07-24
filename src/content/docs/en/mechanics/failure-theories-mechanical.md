@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
 The failure theories in mechanical engineering predict the moment when a solid material stops supporting load, either by yielding (ductile) or fracture (brittle). In the field of solid mechanics, these theories define mathematical criteria that relate the stress state to the material's strength properties, establishing a failure surface in the stress space. The selection of the appropriate criterion depends on the nature of the material—ductile or brittle—and the type of loading. The most used models in mechanical engineering are the maximum shear stress criterion (Tresca) and the distortion energy criterion (Von Mises) for ductile materials, while for brittle materials the maximum principal stress criterion (Rankine) and Mohr-Coulomb predominate. The same material can behave ductile or brittle depending on temperature, loading rate, or triaxial stress state; therefore, the choice of criterion must be based on the expected response under actual service conditions.
 
 ## Failure criteria for ductile materials
@@ -108,7 +107,7 @@ Shear stress due to torsion: τ<sub>xy</sub> = 16T / (πd³) = 16 × 90e3 N·mm 
 Safety factor: FS = σ<sub>y</sub> / σ<sub>v</sub> = 310 / 94,6 ≈ 3,28.  
 With the Tresca criterion, τ<sub>max</sub> = √[(σ<sub>x</sub>/2)² + τ<sub>xy</sub>²] = √(39,1² + 29,3²) ≈ 48,9 MPa / 7,09 ksi, and the allowable shear stress is τ<sub>y</sub> = σ<sub>y</sub>/2 = 155 MPa / 22,5 ksi, giving FS = 155 / 48,9 ≈ 3,17. Both criteria indicate that the diameter of 25 mm / 0,984 in is more than sufficient; it could be reduced to optimize material while respecting the minimum design FS (typically 1.5 to 2.5 depending on the application).
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the numerical difference between the yield stress according to Tresca and Von Mises for a pure shear state?
 For a pure shear state (torsion), the shear yield stress according to Tresca is 0,500 of the yield strength, while Von Mises predicts a value of 0,577, that is, 15.5% higher. For example, with a steel of σ<sub>y</sub> = 400 MPa / 58,0 ksi, yielding is expected at τ = 200 MPa / 29,0 ksi with Tresca and at 231 MPa / 33,5 ksi with Von Mises.
@@ -128,7 +127,6 @@ At low temperatures or under triaxial states of high hydrostatic stress, steel c
 ### How much larger is the safety factor obtained with Von Mises compared to Tresca for the same non-proportional stress state?
 The difference is not constant: in pure shear, the FS with Von Mises is 1,155 times that of Tresca; in equibiaxial tension (σ<sub>1</sub>=σ<sub>2</sub>=σ, σ<sub>3</sub>=0), both criteria coincide because τ<sub>max</sub>=σ/2 and σ<sub>v</sub>=σ, so the same FS is obtained when comparing with σ<sub>y</sub>. Therefore, the advantage of Von Mises is maximum in states with shear dominance.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/material_science/von_mises.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/failure_criteria/failure_criteria_ductile.cfm

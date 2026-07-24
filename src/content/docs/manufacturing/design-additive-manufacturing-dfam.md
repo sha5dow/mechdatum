@@ -82,24 +82,24 @@ Se recomienda establecer un espesor de pared mínimo de 1 mm / 0.039 in para com
 | Grandes volúmenes de producción plástica | MJF | Mayor velocidad que SLS y acabado uniforme |
 | Consolidación extrema de ensambles | Seleccionar la tecnología según el material más restrictivo | Evaluar la pieza consolidada y elegir el proceso que satisfaga todas las exigencias |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el ángulo crítico para imprimir voladizos sin soportes?**
+### ¿Cuál es el ángulo crítico para imprimir voladizos sin soportes?
 Para la mayoría de las tecnologías FDM y SLS, el ángulo crítico es de 45° / 0.79 rad con respecto a la horizontal; por debajo de este valor se requieren soportes o rediseños de la geometría.
 
-**¿Qué tolerancia dimensional puedo esperar en SLS con poliamida 12?**
+### ¿Qué tolerancia dimensional puedo esperar en SLS con poliamida 12?
 Se logran tolerancias de ±0,3 mm / ±0.012 in para piezas de hasta 100 mm / 3.94 in, siempre que se controle la contracción con una compensación de escala del 3 % / 3 %.
 
-**¿Cuánto material se desperdicia en promedio en polvo metálico reutilizable?**
+### ¿Cuánto material se desperdicia en promedio en polvo metálico reutilizable?
 Aproximadamente un 5 % a 10 % del polvo metálico se convierte en rechazo no reutilizable después de ciclos repetidos, aunque el material de la pieza terminada representa solo un 15 % del volumen total del lecho de polvo.
 
-**¿A partir de qué espesor se considera una pared autoportante en resinas fotopoliméricas?**
+### ¿A partir de qué espesor se considera una pared autoportante en resinas fotopoliméricas?
 En SLA, paredes de 0,5 mm / 0.020 in o más se suelen mantener estables sin refuerzo adicional, siempre que no superen una altura libre de 50 mm / 1.97 in sin soportes laterales.
 
-**¿Qué reducción de peso es factible mediante optimización topológica en DfAM?**
+### ¿Qué reducción de peso es factible mediante optimización topológica en DfAM?
 Es común alcanzar una reducción de masa del 40 % al 60 % en componentes rediseñados para AM, manteniendo o mejorando la rigidez original gracias a la distribución optimizada de material.
 
-**¿Cuánto puede variar la resistencia mecánica entre la dirección XY y Z en piezas FDM?**
+### ¿Cuánto puede variar la resistencia mecánica entre la dirección XY y Z en piezas FDM?
 La resistencia a la tracción en la dirección Z puede ser entre un 30 % y 50 % menor que en el plano XY, dependiendo de la adherencia entre capas y de los parámetros de impresión como la temperatura de extrusión y la altura de capa.
 
 ## Fuentes consultadas

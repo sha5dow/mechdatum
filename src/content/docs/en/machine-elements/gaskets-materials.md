@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definition and operating principle
 A flat gasket is a static sealing element placed between two contact surfaces, typically flanges, to prevent fluid or gas leaks when compressed by the clamping force of the bolts. The gasket fills surface irregularities and maintains the seal under pressure, temperature, and chemical attack. Its effectiveness depends on the material's ability to deform and recover elastically, ensuring intimate and continuous contact.
 
 ## Materials and properties
@@ -77,27 +76,26 @@ RTJ (Ring Type Joint) gaskets are manufactured in carbon or stainless steel and 
 - **ASME B16.47**: Large diameter flanges (Series A and B).
 - **EN 1514**: European series for flat gasket dimensions.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the maximum temperature that a flexible graphite gasket can withstand?**
+### What is the maximum temperature that a flexible graphite gasket can withstand?
 Flexible graphite gaskets without oxidizers can operate up to 450 °C / 842 °F in a reducing or inert atmosphere, and up to 300 °C / 572 °F in the presence of air.
 
-**2. What tightening torque should be applied to a 4" flange with a spiral wound gasket?**
+### What tightening torque should be applied to a 4" flange with a spiral wound gasket?
 For a 4" ASME Class 150 flange with carbon steel bolts, the typical recommended torque is 120 N·m to 160 N·m (89 to 118 lb·ft), always following a cross-tightening sequence.
 
-**3. When is an inner ring mandatory for a spiral wound gasket?**
+### When is an inner ring mandatory for a spiral wound gasket?
 ASME B16.20 requires an inner ring when the nominal pipe size is 10" or larger, when the pressure class is 900 or higher, or when the flange inside diameter is more than 3 mm / 0.12 in larger than the gasket inside diameter.
 
-**4. What surface roughness should the flange faces have for a metal gasket?**
+### What surface roughness should the flange faces have for a metal gasket?
 For RTJ gaskets, the groove roughness must not exceed 3.2 µm Ra / 126 µin Ra. For flat metal gaskets, a finish of 1.6 to 3.2 µm Ra (63 to 126 µin Ra) is recommended.
 
-**5. Can a spiral wound gasket be reused after being compressed?**
+### Can a spiral wound gasket be reused after being compressed?
 No. Spiral wound gaskets deform plastically during the first tightening and lose their elastic recovery capacity. Attempting to reuse them can result in leaks because the necessary seating stress cannot be achieved.
 
-**6. What is the minimum width a flat gasket should have to seal properly?**
+### What is the minimum width a flat gasket should have to seal properly?
 A minimum gasket width of 3 mm / 0.118 in is recommended for pressures below 40 bar / 580 psi. For higher pressures, the width is typically between 4 and 6 mm (0.157 to 0.236 in).
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gaskets-properties-d_34.html
 - **mcmaster.com**: https://www.mcmaster.com/products/spiral-wound-gaskets/

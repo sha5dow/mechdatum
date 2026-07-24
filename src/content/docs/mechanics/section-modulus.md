@@ -130,23 +130,22 @@ El perfil europeo IPE 240 ofrece S<sub>x</sub> = 324 000 mm³ / 19.8 in�
 Tensión de trabajo = 44 × 10⁶ N·mm / 324 000 mm³ = 135.8 MPa / 19.7 ksi < 150 MPa → cumple holgadamente.
 
 ## Preguntas frecuentes (FAQ)
-
-### 1. ¿Qué es el módulo resistente de una sección y cómo se calcula?
+### ¿Qué es el módulo resistente de una sección y cómo se calcula?
 El módulo resistente elástico *S* de una sección rectangular de ancho 100 mm y alto 200 mm (3.94 in × 7.87 in) vale S = b·h²/6 = 100·200²/6 = 666 667 mm³ / 40.68 in³. Representa la capacidad geométrica para resistir flexión elástica.
 
-### 2. ¿Cómo se relaciona el módulo resistente con el momento flector?
+### ¿Cómo se relaciona el módulo resistente con el momento flector?
 La relación fundamental es M<sub>y</sub> = S·σ<sub>y</sub>. Para una viga con S = 150 000 mm³ (9.15 in³) y σ<sub>y</sub> = 355 MPa (51.5 ksi), el momento elástico resistente es 53.25 kN·m / 39.28 kip·ft.
 
-### 3. ¿Cuál es la diferencia entre módulo elástico S y módulo plástico Z?
+### ¿Cuál es la diferencia entre módulo elástico S y módulo plástico Z?
 S define la resistencia hasta la primera fibra plastificada (I/c), mientras que Z considera plastificación total de la sección. En un rectángulo de 50 mm × 100 mm (1.97 in × 3.94 in): S = 83 333 mm³ / 5.08 in³, Z = 125 000 mm³ / 7.63 in³ (factor de forma 1.5).
 
-### 4. ¿Qué módulo debe usarse en zonas sísmicas?
+### ¿Qué módulo debe usarse en zonas sísmicas?
 En diseño por capacidad se emplea el módulo plástico Z para asegurar que la rótula plástica alcance el momento M<sub>p</sub>. Por ejemplo, un perfil IPE 300 tiene S<sub>x</sub> ≈ 557 000 mm³ (34.0 in³) y Z<sub>x</sub> ≈ 628 000 mm³ (38.3 in³), un 12.7 % mayor.
 
-### 5. ¿Cómo influye la orientación en el módulo resistente de un perfil I?
+### ¿Cómo influye la orientación en el módulo resistente de un perfil I?
 Un perfil I sometido a flexión según su eje fuerte (S<sub>x</sub>) puede presentar un valor 10 veces mayor que según el eje débil (S<sub>y</sub>); por ejemplo, S<sub>x</sub> ≈ 1 000 cm³ (61.0 in³) frente a S<sub>y</sub> ≈ 100 cm³ (6.10 in³) en un IPE 300, lo que obliga a orientar el alma en la dirección de la carga principal.
 
-### 6. ¿Cuál es el módulo resistente típico de un tubo circular hueco?
+### ¿Cuál es el módulo resistente típico de un tubo circular hueco?
 Para un tubo de acero con diámetro exterior D = 100 mm (3.94 in) y espesor t = 5 mm (0.197 in), el módulo elástico S = π·(D⁴‑d⁴)/(32·D) ≈ 36 000 mm³ / 2.20 in³, muy inferior al de un perfil I de peso similar pero eficaz cuando hay torsión o compresión combinada.
 
 ## Fuentes consultadas

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 El O-ring, también conocido como junta tórica, es un sello mecánico de sección circular con **367 tamaños** normalizados en el estándar AS568. Se fabrica en elastómero y asienta en un alojamiento mecanizado, comprimiéndose entre dos o más superficies para lograr hermeticidad en aplicaciones estáticas y dinámicas. Los materiales más comunes son NBR (nitrilo), FKM (viton) y VMQ (silicona), capaces de trabajar desde **-54 °C / -65 °F** hasta **260 °C / 500 °F** según el compuesto. Las dimensiones normalizadas se dividen en la serie americana AS568 — basada en pulgadas — y la serie métrica ISO 3601-1, ambas utilizadas a nivel mundial.
 
 ## Dimensiones normalizadas AS568
@@ -106,7 +105,7 @@ El alojamiento debe prever una compresión axial o radial del O-ring; en montaje
 | Alta presión > 3000 psi | 3/16" + anillo antiextrusión | NBR | 90 |
 | Rotación lenta | 1/8" | NBR carbono | 80 |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Hasta qué presión puede sellar un O-ring sin anillo antiextrusión?
 Un O-ring de dureza 70 Shore A puede sellar hasta **800 psi (5,5 MPa)** sin anillo antiextrusión si la holgura radial está por debajo de **0,05 mm / 0.002 in**. Con dureza 90 Shore A y holgura controlada a **0,03 mm / 0.001 in**, la presión admisible sube a **1500 psi (10,3 MPa)**.

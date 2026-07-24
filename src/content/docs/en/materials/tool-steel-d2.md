@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General Overview
 D2 tool steel is a high-carbon, high-chromium cold work steel, belonging to group D of the AISI classification. Its carbon content ranges from 1.40 to 1.60%, with chromium from 11.00 to 13.00%, giving it exceptional wear resistance. It exhibits air hardening and good dimensional stability, being the most widely used grade in its group for applications requiring long production runs.
 
 ## Chemical composition
@@ -117,8 +116,3 @@ The material should be held at the austenitizing temperature of 1010 Â°C (1850 Â
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=638
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6214
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=638

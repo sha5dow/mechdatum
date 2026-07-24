@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process description
 Grinding is an abrasion process that uses a rotating wheel and achieves flatness tolerances below ±0.0025 mm on surfaces of 127 x 127 mm (5 x 5 in). Cutting action occurs through the interaction of abrasive grains with the material, generating microscopic chips and intense heat that requires abundant coolant. It is mainly applied to improve surface finish, correct deformations after hardening, and machine parts of high hardness that cannot be worked by conventional material removal.
 
 ## Operating parameters
@@ -71,27 +70,26 @@ When dimensional tolerances below 0.01 mm (0.0004 in) or a finish better than Ra
 - Surfaces must withstand cyclic loads and a fine roughness is needed to avoid stress concentrators.
 - The geometry to be machined cannot be achieved with single-point tools to the required precision.
 
-## Frequently asked questions (FAQ)
-**What surface roughness (Ra) can be achieved with precision grinding?**  
+## Frequently Asked Questions (FAQ)
+### What surface roughness (Ra) can be achieved with precision grinding?
 Grinding delivers finishes with Ra between 0.1 µm and 1.6 µm (3.9 to 63 µin), depending on grain size and pass strategy.
 
-**What flatness tolerance does grinding guarantee on a 127 x 127 mm surface?**  
+### What flatness tolerance does grinding guarantee on a 127 x 127 mm surface?
 With proper clamping, flatness less than ±0.0025 mm (±0.0001 in) is achieved on a steel plate of 127 x 127 mm (5 x 5 in).
 
-**What abrasive grain size (mesh) is needed to obtain a Ra 0.4 µm finish?**  
+### What abrasive grain size (mesh) is needed to obtain a Ra 0.4 µm finish?
 A 80 mesh grain (opening of 177 µm / 0.007 in) allows reaching an Ra in the range of 0.2 to 0.4 µm (7.9 to 15.7 µin) under normal conditions.
 
-**How much material is removed per pass in rough and finish grinding?**  
+### How much material is removed per pass in rough and finish grinding?
 In roughing, depths of 0.02 to 0.05 mm (0.0008 to 0.002 in) are used, while in finishing it is reduced to 0.005 – 0.02 mm (0.0002 – 0.0008 in).
 
-**What is the recommended peripheral wheel speed for grinding hardened steel?**  
+### What is the recommended peripheral wheel speed for grinding hardened steel?
 The optimal speed is between 30 and 35 m/s (5906 – 6890 ft/min) for hardened steels, ensuring effective cutting without burn.
 
-**What depth of pass is recommended to avoid surface burn in surface grinding?**  
+### What depth of pass is recommended to avoid surface burn in surface grinding?
 To avoid thermal damage, it is advised not to exceed 0.025 mm (0.001 in) per pass on carbon steel, combined with abundant cooling.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/surface-roughness-abrasive-grain-size-d_1648.html
 - **efunda.com**: https://www.efunda.com/processes/machining/grind.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/surface-roughness

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Las cadenas de rodillos ANSI e ISO son elementos de transmisión de potencia normalizados, compuestos por eslabones interiores (con bujes y rodillos) y exteriores (con pasadores) alternados, que engranan con ruedas dentadas. Se fabrican mayoritariamente en acero al carbono, con versiones en acero inoxidable 304 y acero con recubrimiento anticorrosión para ambientes agresivos. La lubricación continua es crítica para su vida útil.
 
 ## Dimensiones normalizadas
@@ -87,7 +86,7 @@ Se muestran potencias orientativas para mando con motor eléctrico y carga unifo
 - Tensión correcta: flecha ≈ 2 % de la distancia entre centros bajo carga manual moderada.
 - Los eslabones de conexión (tipo clip o pasador de muelle) deben montarse con la abertura del clip en sentido contrario al avance de la cadena.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 | Pregunta | Respuesta |
 | :--- | :--- |
 | ¿Cuál es la carga de rotura de una cadena ANSI 40? | La carga de rotura mínima de una cadena ANSI 40 de paso simple es 16,5 kN / 3 700 lbf. |

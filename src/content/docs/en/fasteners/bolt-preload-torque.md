@@ -104,26 +104,25 @@ The selection of the method depends on the criticality of the joint, the bolt si
 
 ## Frequently Asked Questions (FAQ)
 
-1.  **What is the general formula for calculating tightening torque in bolts?**
+### What is the general formula for calculating tightening torque in bolts?
     The most commonly used expression is \(T = K F d (1 - l/100)\), where the torque \(T\) is obtained by multiplying the torque constant \(K\) (typically 0.2 for normal dry steel), the preload \(F\), and the nominal diameter \(d\), affected by the lubrication reduction \(l\). It does not consider thread pitch and assumes a wrench accuracy of ±25 %.
 
-2.  **What constant K value is recommended for a dry steel bolt?**
+### What constant K value is recommended for a dry steel bolt?
     For a medium-strength steel bolt, dry and uncoated, \(K = 0.2\). If the finish is black uncoated it can rise to 0.3, while a lightly lubricated bolt drops to 0.18.
 
-3.  **How much does lubrication reduce the required torque?**
+### How much does lubrication reduce the required torque?
     When lubricating with SAE 30 oil, the torque required to achieve the same preload is reduced by approximately 40 % compared to the dry value. Therefore, if the dry torque is applied to a lubricated joint, the actual preload may exceed the bolt strength and cause breakage.
 
-4.  **What is the typical target preload relative to bolt strength?**
+### What is the typical target preload relative to bolt strength?
     The standard dry torque is calculated to produce a tensile stress equal to 75 % of the proof load or 70 % of the minimum tensile strength of the bolt, according to general engineering practice.
 
-5.  **What torque is required to tighten a metric M30 class 8.8 bolt dry?**
+### What torque is required to tighten a metric M30 class 8.8 bolt dry?
     For an M30 class 8.8 with a proof load of 337 kN (approximately 325 kN in table) under dry conditions (K=0.2) a torque of 2022 Nm / 1492 ft·lb is needed. With lubrication, the torque is reduced to about 1213 Nm / 895 ft·lb.
 
-6.  **What are the most commonly used preload control methods in industry?**
+### What are the most commonly used preload control methods in industry?
     Torque control with a torque wrench is the simplest and most widespread. It is followed by the torque-angle method (torque to threshold + additional turn), pure angle-controlled tightening, and, in critical applications, hydraulic stretch systems and direct tension indicators.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bolt-torque-load-calculator-d_2065.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/online-calculators-and-converters/torque-and-preload-calculator/
 - **mcmaster.com**: https://www.mcmaster.com/products/torque-charts

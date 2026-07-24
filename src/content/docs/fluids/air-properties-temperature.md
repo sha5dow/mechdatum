@@ -63,24 +63,24 @@ Los valores en cSt se obtienen directamente de μ (μPa·s) y ρ (kg/m³): ν [c
 
 El rango de temperatura de aplicación de esta tabla es de −20 °C a 50 °C (−4 °F a 122 °F) a una presión absoluta de 101,325 kPa (14,696 psi). Estos valores representan las propiedades del aire seco (0 % de humedad relativa) y resultan adecuados para la mayoría de los cálculos de ingeniería en ventilación, climatización, aerodinámica subsónica y transferencia de calor donde no se superen los 200 °C ni presiones muy alejadas de la atmosférica. Para condiciones que involucren humedad significativa, altitud elevada o temperaturas extremas, deben aplicarse correcciones por presión parcial de vapor y gases reales, o bien consultar software especializado con bases de datos termofísicos como REFPROP.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la densidad del aire a 20 °C y 1 atm?**  
+### ¿Cuál es la densidad del aire a 20 °C y 1 atm?
 La densidad del aire seco a 20 °C y 101.325 kPa es 1,205 kg/m³ (0,0752 lb/ft³). Este valor se reduce aproximadamente un 0,4 % si la humedad relativa alcanza el 50 % a esa temperatura.
 
-**2. ¿Cómo varía la viscosidad dinámica del aire con la temperatura?**  
+### ¿Cómo varía la viscosidad dinámica del aire con la temperatura?
 A 0 °C la viscosidad dinámica es 17,22 μPa·s, y aumenta con la temperatura siguiendo la ley de Sutherland. A 50 °C alcanza 19,59 μPa·s y a 100 °C sería aproximadamente 21,8 μPa·s.
 
-**3. ¿Qué velocidad del sonido tiene el aire a 15 °C?**  
+### ¿Qué velocidad del sonido tiene el aire a 15 °C?
 La velocidad del sonido en aire seco a 15 °C es 340,3 m/s (1116,5 ft/s). Este valor es el adoptado por la Atmósfera Estándar Internacional (ISA) y se incrementa en aproximadamente 0,6 m/s por cada grado Celsius.
 
-**4. ¿Cuál es el número de Prandtl del aire a 25 °C?**  
+### ¿Cuál es el número de Prandtl del aire a 25 °C?
 El número de Prandtl del aire seco a 25 °C y 1 atm es 0,704. Este valor adimensional se mantiene cercano a 0,71 en un amplio intervalo de temperaturas ambiente, lo que indica que la difusividad de momento y la difusividad térmica son similares.
 
-**5. ¿Cuál es la conductividad térmica del aire a 0 °C?**  
+### ¿Cuál es la conductividad térmica del aire a 0 °C?
 La conductividad térmica del aire seco a 0 °C y 1 atm es 0,0244 W/(m·K) (0,0141 Btu/(h·ft·°F)). Este valor prácticamente se triplica cuando el aire alcanza los 1000 °C, aunque suele seguir siendo bajo comparado con sólidos y líquidos.
 
-**6. ¿Cuál es la viscosidad cinemática del aire a 20 °C?**  
+### ¿Cuál es la viscosidad cinemática del aire a 20 °C?
 La viscosidad cinemática del aire a 20 °C y 101.325 kPa es 15,11 cSt (1,626×10⁻⁴ ft²/s). Este valor duplica aproximadamente la viscosidad cinemática del agua a la misma temperatura (~1 cSt), lo que es relevante en análisis de similitud dinámica.
 
 ## Fuentes consultadas

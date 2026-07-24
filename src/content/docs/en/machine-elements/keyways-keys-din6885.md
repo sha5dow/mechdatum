@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Parallel keys DIN 6885, also called keys, are machine elements that transmit torque between a shaft and a hub by form fit. The standard covers keys with rectangular or square cross-section, with straight ends (Form A) or rounded ends (Form B), for shafts from 6 mm to 500 mm (0,236 in to 19,685 in). They are commonly manufactured in carbon steel C45 (1.0503) with tensile strength of 590 MPa (85,6 ksi), or in stainless steel AISI 304 for corrosive environments. The keyway–key system allows fixed or sliding assembly, depending on the selected fit.
 
 ## Standard dimensions
@@ -76,7 +75,7 @@ The following table proposes typical configurations for common mechanical coupli
 | Gearbox gear                          | 70 / 2,756          | 20×12 / 0,787×0,472| 80 / 3,150                     | 2100 / 1549                           |
 | Flywheel                              | 90 / 3,543          | 25×14 / 0,984×0,551| 100 / 3,937                    | 4500 / 3319                           |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 **What is the keyway for a 30 mm shaft?** The recommended key has a width of 10 mm (0,394 in) and a height of 8 mm (0,315 in), with a keyway depth in the shaft of 4 mm (0,157 in) according to DIN 6885.
 
 **What tolerances apply to the keyway width in the shaft?** The keyway width in the shaft is machined with P9 tolerance for a fixed fit, which for an 8 mm (0,315 in) key results in a dimension of 8 mm -0,015/-0,051 (0,315 in -0,0006/-0,0020).
@@ -89,7 +88,6 @@ The following table proposes typical configurations for common mechanical coupli
 
 **What is the minimum surface roughness on the keyway flanks?** The surface roughness Ra must be 3,2 µm (126 µin) or less on the contact flanks, thus improving pressure distribution and reducing the risk of galling.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-bolt-head-wrench-size-d_1458.html
 - **mcmaster.com**: https://www.mcmaster.com/products/machine-keys/specifications-met~din-standard/specifications-met~din-6885/

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General information
 Electrical discharge machining (EDM) is a non-conventional machining process where material removal occurs through controlled electrical discharges between an electrode (tool) and the workpiece, both submerged in a dielectric fluid. The process allows machining complex geometries in conductive materials regardless of their hardness, since there is no mechanical contact between tool and workpiece.
 
 ## Process parameters
@@ -87,7 +86,7 @@ Use the following criteria to decide whether EDM is the appropriate technology f
 - **Electrical conductivity** is < 0.01 S/cm → alternative processes (grinding, laser, ultrasonic).
 - The **removal rate** must exceed 1000 mm³/min in steel → high-speed milling or turning, not EDM.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What dimensional tolerance can be achieved in wire EDM with finishing passes?
 A tolerance of ±0.001 mm / ±0.00004 in can be achieved under optimal shop conditions using at least three finishing passes (skim cuts) and thermal control of the dielectric.
@@ -112,7 +111,6 @@ The natural taper without correction by axis control is typically 0.01 – 0.02 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/wire-edm
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/wire-edm

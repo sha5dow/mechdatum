@@ -115,7 +115,7 @@ PET is often compared with other engineering thermoplastics and with polybutylen
 | PETG (glycol-modified) | Better thermoformability and less brittleness in thick sections | Lower deflection temperature and mechanical strength |
 | Nylon 6 | Higher wear and fatigue resistance | Absorbs more moisture, poorer dimensional stability |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the density of PET in g/cm³ and lb/ft³?
 The typical density of amorphous PET is 1.37 g/cm³ (85.5 lb/ft³), while crystalline PET can reach 1.455 g/cm³ (90.8 lb/ft³).
@@ -135,8 +135,7 @@ The dielectric strength of solid resin is 17 kV/mm; in 25 µm thick film it can 
 ### What is the maximum continuous service temperature of PET?
 PET can operate continuously between 115 °C and 170 °C (239 – 338 °F), depending on the degree of crystallinity and mechanical loads.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=2047
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/specific-heat-polymers-d_1862.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=614

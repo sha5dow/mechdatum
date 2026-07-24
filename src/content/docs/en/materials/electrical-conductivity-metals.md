@@ -108,29 +108,28 @@ Copper C101 can be cold worked with excellent ductility in the annealed state an
 
 ---
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**Which metal has the highest electrical conductivity?**
+### Which metal has the highest electrical conductivity?
 Silver is the metal with the highest electrical conductivity, reaching 63.0 × 10⁶ S/m, which represents 104.9% IACS and surpasses annealed copper by approximately 5 percentage points of relative conductivity.
 
-**What does the IACS percentage mean in metal conductivity?**
+### What does the IACS percentage mean in metal conductivity?
 The IACS percentage expresses the electrical conductivity of a material as a percentage of the international annealed copper standard. A value of 100% IACS equals a conductivity of 58.0 MS/m at 20 °C, which corresponds to commercially pure copper in the annealed state according to the standard established in 1914.
 
-**Why is aluminum used in transmission cables if it conducts less than copper?**
+### Why is aluminum used in transmission cables if it conducts less than copper?
 Aluminum has a conductivity of 37.7 MS/m, equivalent to 59.8% IACS, but its density is approximately 3 times lower than that of copper. This conductivity-to-weight ratio makes it more efficient for overhead transmission lines where the self-weight of the conductor is a critical design factor.
 
-**How does temperature affect the electrical conductivity of metals?**
+### How does temperature affect the electrical conductivity of metals?
 The increase in temperature increases the thermal agitation of atoms in the crystal lattice, which hinders the flow of electrons and reduces conductivity. The standard IACS measurement is referenced at 20 °C, and variations can be significant in high-temperature applications.
 
-**Which impurities most affect the conductivity of copper?**
+### Which impurities most affect the conductivity of copper?
 Small amounts of phosphorus, iron, arsenic, and other elements drastically reduce the conductivity of copper. C101 copper for electrical applications keeps total impurities below 0.10% to guarantee the nominal 100% IACS conductivity.
 
-**Which metals offer a balance between conductivity and corrosion resistance?**
+### Which metals offer a balance between conductivity and corrosion resistance?
 Gold offers 71.7% IACS with total immunity to atmospheric oxidation, while platinum provides 16.1% IACS with excellent chemical resistance. Copper offers 100% IACS with good corrosion resistance in most environments, although it is vulnerable to sulfides and ammonia solutions.
 
 ---
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=2850
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/conductors-d_1381.html

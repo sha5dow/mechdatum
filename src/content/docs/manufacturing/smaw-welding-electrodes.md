@@ -88,7 +88,7 @@ El proceso es apto para la soldadura de aceros al carbono con contenido de carbo
 | Corriente                | 70 – 100 A (AC o DCEN)         |
 | Enfriamiento post-soldadura| Lento, envuelto en manta cerámica|
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es el amperaje recomendado para un electrodo E7018 de 3,2 mm?
 Para un electrodo E7018 de 3,2 mm (1/8 in) se recomienda un rango de corriente de 90 a 130 A, operando con polaridad DCEP o AC, según el espesor del material base y la posición de soldadura.

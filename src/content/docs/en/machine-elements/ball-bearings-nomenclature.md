@@ -117,7 +117,7 @@ Internal radial clearance and dimensional precision class are critical parameter
 | P4 | Class 4 ISO 492 | 2.5 µm / 98 µin | High-speed spindles, measuring instruments |
 | PA9A | Super precision ABEC 9 (ANSI) | 1.5 µm / 59 µin | Ultra precision instruments |
 
-## FAQ Section
+## Frequently Asked Questions (FAQ)
 
 ### What does the code 6205-2RSH/C3 mean in SKF nomenclature?
 
@@ -143,7 +143,6 @@ Radial clearance C3 (10–28 µm for shaft diameters of 20 to 50 mm / 0.787 to 1
 
 The designation 7206 BM corresponds to an angular contact ball bearing with 30 mm / 1.181 in bore diameter, a contact angle of 40° and a machined brass cage centered on the rolling elements. The number 7 identifies the type (single row angular contact), 2 indicates a light outside diameter series, and 06 codes the 30 mm bore diameter. The suffix M denotes a machined brass cage, suitable for a maximum temperature of 200 °C / 392 °F and high speed capability.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/valves-abbreviations-d_905.html
 - **mcmaster.com**: https://www.mcmaster.com/products/bearings/bearing-type~ball-1/

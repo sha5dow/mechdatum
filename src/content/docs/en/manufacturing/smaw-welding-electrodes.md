@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Process Description
 The SMAW (Shielded Metal Arc Welding) process uses a consumable coated electrode between 1,6 mm and 6,4 mm (1/16 in and 1/4 in) in diameter, whose electric arc generates melting temperatures above **1500 °C / 2732 °F**. The electrode coating decomposes forming a protective gas atmosphere and a slag layer that insulates the weld pool. Typical current intensity ranges from 40 A to 400 A depending on the electrode diameter and type, usually working with direct current electrode positive (DCEP) or alternating current (AC).
 
 ## Operating Parameters
@@ -88,7 +87,7 @@ The process is suitable for welding carbon steels with carbon content up to 0,30
 | Current                  | 70 – 100 A (AC or DCEN)       |
 | Post-weld cooling        | Slow, wrapped in ceramic blanket |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the recommended amperage for a 3,2 mm E7018 electrode?
 For a 3,2 mm (1/8 in) E7018 electrode, a current range of 90 to 130 A is recommended, operating with DCEP or AC polarity, depending on the base material thickness and welding position.
@@ -108,8 +107,7 @@ A 4,0 mm (5/32 in) E7018 electrode operating at 150 A deposits approximately 1,4
 ### What is the typical tensile strength of an SMAW weld bead with E6013 electrode?
 The deposited metal with an E6013 electrode has a minimum tensile strength of 430 MPa (62 ksi), with an elongation of 17% and a toughness of 27 J at −20 °C (20 ft·lbf at −4 °F), suitable for light structural applications.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/awg-wire-gauge-d_731.html
 - **efunda.com**: https://www.efunda.com/units/show_units.cfm?Alfa=no&String1=Electric%20charge&String2=Electric%20charge
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/leverantorer/swepart-transmission

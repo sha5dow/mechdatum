@@ -66,8 +66,7 @@ Los torques indicados corresponden a rosca gruesa, filetes ligeramente lubricado
 
 Un incremento del 30 % en el torque es necesario cuando los tornillos se aprietan en seco, comparado con el valor para roscas ligeramente lubricadas. Por el contrario, una lubricación abundante puede reducir el par requerido hasta en un 40 %. Las tablas de este documento asumen una lubricación ligera con aceite.
 
-## Preguntas frecuentes
-
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es el torque máximo para un tornillo M8 clase 8.8?
 
 28,8 Nm (21,2 lb‑ft) cuando la rosca está ligeramente lubricada y la precarga se limita al 85 % de la carga de prueba.

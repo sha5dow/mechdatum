@@ -125,28 +125,27 @@ The marking of metric bolts and nuts is regulated by ISO 898-1 (bolts) and ISO 8
 
 Nuts are marked on one of the bearing faces (usually the one in contact with the washer) indicating the strength class by a numerical code (e.g., 8, 10, 12) and, in some cases, an identification dot or groove.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the standard pitch for an M12 coarse thread bolt?**
+### What is the standard pitch for an M12 coarse thread bolt?
 The ISO coarse pitch for M12 is 1,75 mm / 0.069 in, with a recommended tap drill diameter of 10,2 mm / 0.402 in.
 
-**2. What tightening torque does a dry mounted M10 class 10.9 bolt require?**
+### What tightening torque does a dry mounted M10 class 10.9 bolt require?
 A tightening torque of approximately 69 N·m / 51 lb·ft is recommended for an M10 class 10.9 with coarse thread and no lubrication.
 
-**3. How many kilonewtons can an M16 grade 8.8 bolt withstand before yielding?**
+### How many kilonewtons can an M16 grade 8.8 bolt withstand before yielding?
 An M16 class 8.8 bolt supports a proof load of 91,1 kN / 20 470 lbf, based on a tensile stress area of 157 mm² / 0.243 in².
 
-**4. What drill bit is needed to make an M8 coarse thread?**
+### What drill bit is needed to make an M8 coarse thread?
 For threading M8 pitch 1,25 mm / 0.049 in, a drill bit of 6,8 mm / 0.268 in diameter is used; in hard materials it can be slightly increased up to 7,0 mm / 0.276 in.
 
-**5. Is a DIN 933 bolt interchangeable with ISO 4017?**
+### Is a DIN 933 bolt interchangeable with ISO 4017?
 Yes, both standards define the same fully threaded hex head bolt with ISO metric thread; the thread length in DIN 933 may vary slightly in some old versions, but they are dimensionally compatible.
 
-**6. What is the closest ANSI equivalent to an M10 × 1,5 mm / 0.059 in metric bolt?**
+### What is the closest ANSI equivalent to an M10 × 1,5 mm / 0.059 in metric bolt?
 There is no direct counterpart in metric thread within ANSI, but the closest inch hex head bolt per ASME B18.2.1 would be 3/8-16 UNC, whose pitch of 1,588 mm / 0.0625 in resembles the M10 coarse pitch; however, metric and imperial threads must never be mixed.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/din-standards-d_759.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/marking-screws-bolts-and-nuts/
 - **mcmaster.com**: https://www.mcmaster.com/products/screws/specifications-met~iso-standard/

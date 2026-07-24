@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 Las bandas en V son elementos de transmisión de potencia que utilizan la fricción entre sus flancos trapezoidales y las poleas acanaladas para transferir movimiento entre ejes. Su sección transversal en forma de cuña permite transmitir hasta 500 kW / 670 hp de potencia en configuraciones industriales, operando en un rango de temperatura de –35 a 85 °C / –31 a 185 °F con una eficiencia mecánica típica del 95 %.
 
 En comparación con las bandas planas, las bandas V multiplican la capacidad de tracción gracias al efecto de acuñamiento en la garganta de la polea, lo que incrementa la fuerza de fricción efectiva por un factor de 3 a 5 para el mismo coeficiente de rozamiento.
@@ -132,23 +131,23 @@ Al instalar una banda nueva, nunca se debe forzar con palancas sobre la polea, y
 
 ---
 
-## Preguntas frecuentes
-**1. ¿Qué temperatura máxima soporta una banda V estándar?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué temperatura máxima soporta una banda V estándar?
 La temperatura de servicio continua para bandas de SBR está limitada a 85 °C / 185 °F. Las formulaciones en EPDM alcanzan hasta 120 °C / 248 °F de forma intermitente.
 
-**2. ¿Cuántas bandas se pueden montar en una misma polea?**  
+### ¿Cuántas bandas se pueden montar en una misma polea?
 En poleas normalizadas se permiten hasta 12 ranuras para perfiles A y B, 10 para C, y 8 para D, manteniendo una diferencia de longitud entre bandas del mismo juego inferior al 0,2 %.
 
-**3. ¿Cada cuánto tiempo se debe re‑tensar una transmisión por banda V?**  
+### ¿Cada cuánto tiempo se debe re‑tensar una transmisión por banda V?
 Se recomienda revisar la tensión tras las primeras 24 horas de funcionamiento y posteriormente cada 500 horas o tres meses, lo que ocurra primero. La mayoría de las bandas pierden hasta un 3 % de su longitud durante el asentamiento inicial.
 
-**4. ¿Es posible sustituir una banda clásica por una estrecha?**  
+### ¿Es posible sustituir una banda clásica por una estrecha?
 Sí, una banda 5V puede reemplazar a una B en muchas aplicaciones, siempre que las poleas tengan el mismo ancho de ranura. La banda estrecha transmite hasta un 50 % más de potencia en el mismo espacio.
 
-**5. ¿Qué eficiencia tiene una transmisión por banda V bien mantenida?**  
+### ¿Qué eficiencia tiene una transmisión por banda V bien mantenida?
 La eficiencia mecánica oscila entre el 92 % y el 98 %, con un valor típico del 95 % cuando la carga es estable y la velocidad lineal no supera los 20 m/s / 3937 fpm.
 
-**6. ¿Cómo se mide la longitud de una banda V?**  
+### ¿Cómo se mide la longitud de una banda V?
 La longitud primitiva se mide a la altura del eje neutro de la cuerda de tracción. Una banda A‑40 tiene una longitud primitiva de 1016 mm / 40 in. La medida real sobre el dorso de la banda es aproximadamente un 1,5 % mayor.
 
 ---

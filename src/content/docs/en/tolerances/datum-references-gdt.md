@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Definition
 A datum reference is a geometric feature of a part (point, line, plane, hole, or set of surfaces) that is used as a basis to define nominal geometry and to measure actual dimensional conformity. In GD&T, datums establish the origin of spatial relationships and are essential to ensure assembly and functionality. A datum is not a tolerance, but an immutable reference element from which all dimensions and geometric tolerances originate.
 
 ## Fundamental principles
@@ -76,26 +75,25 @@ The following table summarizes the constraint capacity of the most common datum 
 | Simultaneous requirements | CZ (common zone) for multiple tolerances | Simultaneous requirement by default |
 | Treatment of datum targets | Indicated with target symbol and implied coordinates | Contact area diameter required, e.g., "⌀12 / ⌀0.47 in" |
 
-## FAQ
-1. **How many degrees of freedom does a primary plane datum constrain?**  
+## Frequently Asked Questions (FAQ)
+### How many degrees of freedom does a primary plane datum constrain?
    A primary plane datum constrains exactly 3 degrees of freedom: 1 translation perpendicular to the plane and 2 rotations about axes contained in it.
 
-2. **What is the difference between a functional datum and a manufacturing datum?**  
+### What is the difference between a functional datum and a manufacturing datum?
    A functional datum reflects the assembly function, while the manufacturing datum is chosen to facilitate machining. Conversion between them requires a tolerance analysis with typical deviations of 0.2 mm / 0.008 in.
 
-3. **What is the minimum recommended diameter for a point-type datum target in CMM inspection?**  
+### What is the minimum recommended diameter for a point-type datum target in CMM inspection?
    A contact diameter of at least 12 mm / 0.47 in is recommended for medium-sized parts (between 200 mm / 7.87 in and 500 mm / 19.69 in) to ensure repeatability.
 
-4. **Can a datum be a center line without associated material?**  
+### Can a datum be a center line without associated material?
    Yes, a datum can be a center line (median plane) of a slot or a width feature. It must be indicated with the datum symbol attached to the corresponding dimension line.
 
-5. **In what order are the datums read in the A|B|C reference frame?**  
+### In what order are the datums read in the A|B|C reference frame?
    They are read from left to right as primary, secondary, and tertiary. For example, A|B|C means A constrains more degrees, then B, and finally C.
 
-6. **What typical error occurs when omitting the tertiary datum?**  
+### What typical error occurs when omitting the tertiary datum?
    Omitting the tertiary datum leaves the last translational degree of freedom uncontrolled, which can cause a maximum batch displacement equal to the unassigned position tolerance, typically 0.5 mm / 0.020 in for non-critical parts.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/beams-fixed-both-ends-support-loads-deflection-d_809.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom_notes.html

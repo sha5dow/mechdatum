@@ -94,28 +94,27 @@ Selecting the correct TIG rod follows a logical order: identify the base metal, 
 - Some alloys (titanium, magnesium) demand ultra-pure atmospheres and gas chambers, increasing process cost.
 - The absence of flux makes surface preparation and cleaning of the base metal critical for weld quality.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **What is the most commonly used TIG rod for carbon steel?**  
+### What is the most commonly used TIG rod for carbon steel?
    ER70S‑2 is the most common for general applications; it has a minimum tensile strength of 483 MPa / 70 ksi and good deoxidation.
 
-2. **What rod diameter is recommended for welding 1.5 mm / 0.06 in thick steel sheet?**  
+### What rod diameter is recommended for welding 1.5 mm / 0.06 in thick steel sheet?
    A diameter of 1.6 mm / 1/16 in is recommended, with direct current in the range of 40‑70 A depending on position and travel speed.
 
-3. **Can a stainless steel rod be used on carbon steel?**  
+### Can a stainless steel rod be used on carbon steel?
    Only in certain dissimilar cases with controlled procedures; the difference in coefficient of thermal expansion (slightly higher in austenitic stainless steels) can generate stresses and cracking under thermal service.
 
-4. **What shielding gas is suitable for welding aluminum with ER4043 rod?**  
+### What shielding gas is suitable for welding aluminum with ER4043 rod?
    Use 100% argon with high-frequency alternating current; typical flow is 10‑12 L/min / 21‑25 ft³/h in standard #6‑8 nozzles.
 
-5. **What amperage is recommended for a 2.4 mm / 3/32 in rod on 304 stainless steel?**  
+### What amperage is recommended for a 2.4 mm / 3/32 in rod on 304 stainless steel?
    In DCEN with argon, the optimal range is 70‑100 A, depending on part thickness and welding position.
 
-6. **What tensile strength can be expected from a deposit with ER5356 rod on aluminum?**  
+### What tensile strength can be expected from a deposit with ER5356 rod on aluminum?
    The deposit typically reaches a tensile strength of 240 MPa / 35 ksi, with 17% elongation, sufficient for marine and transportation structures.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/young-modulus-d_417.html
 - **efunda.com**: https://www.efunda.com/eds/list_company_bycat.cfm/id/1107/cat/Electrical%20and%20Electronic%20Components%20%26gt%3B%20Fasteners%20and%20Hardware/
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/tig-welding

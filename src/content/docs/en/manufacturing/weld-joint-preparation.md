@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Introduction
 Weld joint preparation defines the geometry of the edges to be joined before executing the weld bead and determines the accessibility, penetration, and strength of the final assembly. Proper selection of the preparation allows achieving the required complete penetration with minimum filler metal volume, reducing residual stresses and minimizing defects such as lack of fusion or slag inclusions. The process includes machining or grinding of edges according to standardized configurations — straight, V, bevel, J, or U — as well as the definition of root opening, bevel angle, and root face or land.
 
 ## Verified operating parameters
@@ -82,28 +81,27 @@ The choice of joint preparation follows a decision sequence based on thickness, 
 
 For submerged arc welding (SAW) processes, the root opening can be increased by 1.0–2.0 mm / 0.04–0.08 in to improve root pass penetration, while in GTAW (TIG) a root opening of zero or 0.5 mm / 0.02 in maximum is recommended when welding autogenously or with fine filler rod.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. Up to what plate thickness can a square edge butt joint be used without bevel?**  
+### Up to what plate thickness can a square edge butt joint be used without bevel?
 The square edge butt joint without preparation is limited to thicknesses up to 6.35 mm / 0.25 in for welding from both sides, and up to 3.0 mm / 0.12 in if only accessible from one side.
 
-**2. What is the recommended bevel angle for a single V joint in 12 mm thick carbon steel?**  
+### What is the recommended bevel angle for a single V joint in 12 mm thick carbon steel?
 The recommended included angle is 60°, with a root opening of 2.5 mm / 0.10 in and a root face of 1.5 mm / 0.06 in, for SMAW or GMAW processes in flat position.
 
-**3. How much filler metal is saved by using a double U preparation compared to a single V in 50 mm thickness?**  
+### How much filler metal is saved by using a double U preparation compared to a single V in 50 mm thickness?
 Double U preparation can reduce filler metal volume by 35% to 45% compared to a single V of the same thickness, decreasing angular distortion and number of passes.
 
-**4. What tolerance is allowed for root opening according to ASME B16.25 standards for 6-inch diameter pipes?**  
+### What tolerance is allowed for root opening according to ASME B16.25 standards for 6-inch diameter pipes?
 The typical tolerance for root opening is ±0.8 mm / ±0.03 in, provided the minimum wall thickness after beveling is maintained.
 
-**5. When is it appropriate to use a J edge preparation instead of a single bevel?**  
+### When is it appropriate to use a J edge preparation instead of a single bevel?
 J preparation is justified for thicknesses between 20 mm / 0.79 in and 50 mm / 1.97 in, especially when welding from one side is required; the radius reduces stress concentration at the root and requires up to 30% less filler metal than an equivalent single bevel.
 
-**6. How many hours after machining the bevel must an aluminum joint be welded to avoid excessive oxidation?**  
+### How many hours after machining the bevel must an aluminum joint be welded to avoid excessive oxidation?
 Welding must be completed within 4 hours after edge preparation; if this time is exceeded, the surface must be cleaned again with a dedicated stainless steel brush or chemically pickled.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/ansi-b16-pipes-fittings-standard-d_215.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/svetsning

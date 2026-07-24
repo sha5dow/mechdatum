@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description
 AISI H13 steel is a hot work tool steel from the H series of the AISI classification, distinguished by its chromium‑molybdenum‑vanadium combination. This material offers high hardenability, excellent thermal fatigue resistance, and good toughness both hot and cold, characteristics that make it the most widely used tool steel in mold and die applications subjected to severe thermal cycles.
 
 ## Chemical composition
@@ -115,27 +114,26 @@ Compared to other hot work steels such as H11 (1.2343) or H21, H13 exhibits supe
 | Tempering resistance up to | 540 °C | 520 °C | 480 °C |
 | Main uses | Die casting, extrusion | Forging, dummy blocks | Rolling, dies |
 
-## Frequently asked questions
-**What is the typical hardness of H13 after quenching and tempering?**
+## Frequently Asked Questions (FAQ)
+### What is the typical hardness of H13 after quenching and tempering?
 After quenching at 1020 °C and tempering in the range of 530‑650 °C, H13 reaches hardnesses between 44 HRC and 52 HRC, depending on the exact tempering temperature.
 
-**Up to what temperature can H13 work in continuous service?**
+### Up to what temperature can H13 work in continuous service?
 H13 retains useful hardness and strength values up to approximately 540 °C in continuous service, although it can withstand higher peaks in short cycles.
 
-**How does tempering affect tensile strength?**
+### How does tempering affect tensile strength?
 As the tempering temperature rises from 500 °C to 650 °C, the ultimate tensile strength decreases from about 1590 MPa to 1200 MPa, increasing toughness.
 
-**Is it possible to nitride H13?**
+### Is it possible to nitride H13?
 Yes, H13 accepts nitriding treatments, gas or ion, achieving surface layers with hardness above 900 HV (≈68 HRC), which significantly improves its wear resistance.
 
-**What is the recommended annealing temperature?**
+### What is the recommended annealing temperature?
 The softening anneal is performed between 845 °C and 870 °C with slow furnace cooling, obtaining a maximum hardness of 229 HB.
 
-**What materials does H13 directly compete with?**
+### What materials does H13 directly compete with?
 H13 competes with steels such as H11 and 1.2367 (X38CrMoV5‑3) in die casting and extrusion applications; it differs from them by its higher vanadium content, which gives it better wear resistance and thermal fatigue resistance.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=9107
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=989

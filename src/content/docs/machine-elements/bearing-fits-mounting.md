@@ -15,8 +15,6 @@ verified: true
 
 Los ajustes de ingeniería para rodamientos definen la holgura o interferencia entre el aro interior y el eje, y entre el aro exterior y el alojamiento, determinando si las piezas pueden girar libremente, necesitan fuerza de montaje o forman una unión permanente. La selección correcta del ajuste es crítica para garantizar la vida útil del rodamiento, la precisión de giro y la capacidad de carga del conjunto.
 
-## Descripción general
-
 El sistema ISO de ajustes clasifica los acoplamientos en tres categorías principales: juego (siempre existe holgura), transición (puede resultar en pequeña holgura o interferencia) e interferencia (siempre existe apriete). Para rodamientos, la designación alfanumérica ISO como H7/p6 especifica la tolerancia del alojamiento en mayúscula y la del eje en minúscula, permitiendo al fabricante y al montador conocer los límites dimensionales exactos sin recurrir a tablas completas en cada plano. Los ajustes se seleccionan en fase de diseño considerando el tipo de carga (rotativa o fija), la velocidad de giro, la temperatura de funcionamiento y el material del soporte.
 
 ## Dimensiones normalizadas y tolerancias
@@ -61,7 +59,7 @@ El montaje de rodamientos con ajuste de interferencia requiere métodos que evit
 
 La selección incorrecta del ajuste se manifiesta mediante fallos característicos: el ajuste demasiado holgado provoca deslizamiento circunferencial del aro sobre su asiento, generando marcas de desgaste, oxidación por fretting y vibración a la frecuencia de giro. Un ajuste excesivamente apretado reduce la holgura radial interna por debajo del mínimo de 3 µm / 118 µin para rodamientos de bolas pequeños, causando calentamiento incontrolado y gripado. La desalineación durante el montaje genera cargas axiales parásitas que reducen la vida útil L10 hasta un 30 % respecto a la calculada teóricamente.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué temperatura máxima admite un rodamiento durante el montaje por calentamiento?
 

@@ -115,23 +115,23 @@ Inconel 625 exhibits exceptional corrosion resistance in a wide variety of aggre
 - Tube
 - Wire
 
-## Frequently asked questions
-1. **What is the density of Inconel 625?**  
+## Frequently Asked Questions (FAQ)
+### What is the density of Inconel 625?
    The density is 8.4 g/cm³ (0.303 lb/in³) at room temperature.
 
-2. **What is the typical tensile strength?**  
+### What is the typical tensile strength?
    In the as-rolled condition it ranges between 827 and 1103 MPa (120‑160 ksi), while in the annealed condition it is between 827 and 1034 MPa (120‑150 ksi).
 
-3. **What is the melting temperature?**  
+### What is the melting temperature?
    The melting range is from 1288 °C to 1349 °C (2350‑2460 °F).
 
-4. **What is the Brinell hardness?**  
+### What is the Brinell hardness?
    In the as-rolled condition, the Brinell hardness is between 175 HB and 240 HB.
 
-5. **What is the modulus of elasticity?**  
+### What is the modulus of elasticity?
    For annealed material at room temperature, Young's modulus is 207.5 GPa (30.1 Msi), and it decreases to 147.5 GPa (21.4 Msi) at 871 °C (1600 °F).
 
-6. **What elongation can be expected?**  
+### What elongation can be expected?
    Elongation at break ranges from 30 % to 60 %, depending on the treatment condition.
 
 ## References
@@ -139,7 +139,3 @@ Inconel 625 exhibits exceptional corrosion resistance in a wide variety of aggre
 - **azom.com**: https://www.azom.com/metals/inconel%C2%AE_inconel%C2%AE-alloy-625
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1776
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/metals/inconel%C2%AE_inconel%C2%AE-alloy-625
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1776

@@ -108,29 +108,29 @@ Among bronzes, density varies significantly according to tin and aluminum conten
 
 Nickel-based superalloys, such as Inconel (8.50 g/cm³), have a lower density than pure nickel (8.91 g/cm³) due to the presence of elements such as chromium and iron in their composition, which is advantageous in high-temperature aerospace applications.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. What is the industrial metal with the highest density?**
+### What is the industrial metal with the highest density?
 
 Tungsten, with a density of 19.60 g/cm³, is the metal with the highest density used industrially, followed by gold at 19.32 g/cm³. Osmium (22.61 g/cm³) and iridium (22.65 g/cm³) have higher densities but their scarcity and cost drastically limit their applications, restricting them to special very high hardness alloys. In radiation shielding applications where weight is a functional factor, lead (11.34 g/cm³) remains the predominant choice due to its cost-density ratio.
 
-**2. What is the weight difference between an aluminum part and an equivalent steel part?**
+### What is the weight difference between an aluminum part and an equivalent steel part?
 
 An aluminum part weighs approximately 65% less than a geometrically identical part made of carbon steel (density 7.85 g/cm³ vs. 2.70 g/cm³). This difference has driven the progressive replacement of steel by aluminum in automotive bodies, aerospace structures and transportation components, achieving mass reductions of up to two-thirds without modifying the volumetric design of the component.
 
-**3. What is the density of titanium alloy Ti6Al4V Grade 5?**
+### What is the density of titanium alloy Ti6Al4V Grade 5?
 
 The density of Ti6Al4V Grade 5 alloy is in the range of 4.43 to 4.51 g/cm³, equivalent to a value between 277 and 282 lb/ft³. This density is approximately 43% lower than that of steel and 60% higher than that of aluminum, placing titanium as the material of choice when the maximum strength-to-weight ratio is required in high-performance structural applications.
 
-**4. In what density range do stainless steels fall?**
+### In what density range do stainless steels fall?
 
 Stainless steels have densities between 7.48 and 8.00 g/cm³, varying according to their microstructure: ferritic grades tend toward the lower end of the range, while austenitic grades, with higher nickel and chromium content, reach the upper values. This variation, although moderate in percentage terms, can be relevant in the design of large structures or components subject to strict mass requirements.
 
-**5. How are density units converted between the metric and imperial systems?**
+### How are density units converted between the metric and imperial systems?
 
 The fundamental conversion factor is 1 kg/m³ = 0.0624 lb/ft³. To convert g/cm³ to kg/m³ simply multiply by 1000, so 8.96 g/cm³ equals 8960 kg/m³ or 559 lb/ft³. In the reverse direction, a density expressed in lb/ft³ is converted to kg/m³ by multiplying by 16.018. The relationship with lb/in³ is 1 kg/m³ = 0.000036127 lb/in³, so 7850 kg/m³ equals 0.284 lb/in³.
 
-**6. What is the lightest structural metal commercially available?**
+### What is the lightest structural metal commercially available?
 
 Magnesium, with a density of 1.74 g/cm³, is the lightest structural metal in commercial use, followed by beryllium at 1.85 g/cm³. Magnesium alloys such as AZ31B (1.77 g/cm³) are used in electronic device housings, automotive components and aerospace structures where each gram of reduction is critical. The main limiting factor for its adoption is its lower corrosion resistance compared to aluminum.
 
@@ -139,7 +139,6 @@ Magnesium, with a density of 1.74 g/cm³, is the lightest structural metal in co
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=1547
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=1547
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html

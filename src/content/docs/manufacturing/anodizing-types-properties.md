@@ -70,23 +70,23 @@ La capa anódica incrementa la resistencia al desgaste y a la corrosión, y prop
 - **Tipo II (ácido sulfúrico)** → ideal para fines decorativos y arquitectónicos. Admite una amplia gama de colorantes y proporciona buena protección contra la intemperie. Sirve como base para pintura en carrocerías y carcasas.
 - **Tipo III (capa dura)** → indicado para componentes sujetos a fricción, desgaste o altas presiones superficiales, como pistones, cojinetes, moldes y equipos militares. Alcanza espesores de **150 µm / 6 mils** y durezas de **600 HV**. Puede retener lubricantes si no se sella, reduciendo el coeficiente de fricción.
 
-## Preguntas frecuentes
-1. **¿Cuál es la dureza típica del anodizado Tipo III?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la dureza típica del anodizado Tipo III?
    La dureza se sitúa entre **400 y 600 HV** (aproximadamente **50‑55 HRC** o **380‑570 HB**), dependiendo de la aleación y la temperatura del electrolito.
 
-2. **¿Qué espesor máximo se puede obtener con anodizado sulfúrico (Tipo II)?**  
+### ¿Qué espesor máximo se puede obtener con anodizado sulfúrico (Tipo II)?
    El espesor práctico máximo es de **25 µm / 1,0 mil**; espesores superiores requieren el proceso de capa dura (Tipo III).
 
-3. **¿Cuánto aumenta dimensionalmente la pieza tras el anodizado?**  
+### ¿Cuánto aumenta dimensionalmente la pieza tras el anodizado?
    Alrededor del **50 %** del espesor total de la capa se deposita hacia fuera y el **50 %** penetra en el metal base. Así, una capa de **50 µm / 2 mils** incrementa la dimensión externa en aproximadamente **25 µm / 1 mil**.
 
-4. **¿Se puede colorear el anodizado duro?**  
+### ¿Se puede colorear el anodizado duro?
    El diámetro de poro del Tipo III oscila entre **10‑30 nm / 0,39‑1,18 µin**, lo que solo permite absorber colorantes de tonalidad oscura (negro, bronce, verde oliva). Los colores vivos no son viables sin un sellado decorativo adicional.
 
-5. **¿Cuánto afecta el anodizado a la resistencia a la fatiga?**  
+### ¿Cuánto afecta el anodizado a la resistencia a la fatiga?
    La capa anódica produce una reducción de entre el **10 % y el 30 %** en el límite de fatiga del aluminio, siendo el Tipo I el que menos penaliza. En piezas críticas, se recomienda granallado previo o posterior.
 
-6. **¿Cuál es la temperatura máxima de servicio de una capa anódica?**  
+### ¿Cuál es la temperatura máxima de servicio de una capa anódica?
    Las capas conservan sus propiedades hasta **200‑250 °C / 392‑482 °F**. Por encima de **350 °C / 662 °F** comienza la deshidratación del óxido y aparecen microfisuras que degradan la protección.
 
 ## Fuentes consultadas

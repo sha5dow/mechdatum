@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El polietileno (PE) es un termoplástico semicristalino, blanquecino y opaco, con una densidad que oscila entre 0,91 y 0,97 g/cm³ dependiendo del grado. Es uno de los polímeros sintéticos de mayor volumen de producción, conocido por su excelente tenacidad, resistencia al impacto a bajas temperaturas y elevada resistencia química. Las principales variantes son el polietileno de baja densidad (LDPE, ramificado), el polietileno lineal de baja densidad (LLDPE), el polietileno de alta densidad (HDPE, lineal) y el polietileno de ultra alto peso molecular (UHMWPE, con masas moleculares entre 3 y 6 millones). Se procesa mediante extrusión, soplado e inyección.
 
 ## Composición química
@@ -66,23 +65,23 @@ Frente al polipropileno (PP), el HDPE ofrece mejor resistencia al impacto a baja
 ## Procesamiento
 El polietileno se procesa por extrusión, moldeo por inyección y moldeo por soplado, entre otros métodos. Para el HDPE, la temperatura de masa fundida se mantiene entre 200 °C y 280 °C, con un molde a 30‑70 °C y una contracción de hasta el 3 %. El LDPE se procesa a temperaturas de fusión más bajas (160‑240 °C) y no requiere secado previo, ya que su absorción de humedad es despreciable. Por su baja temperatura de servicio continuo, las líneas de refrigeración deben dimensionarse para asegurar ciclos productivos estables.
 
-## FAQ
-**¿Cuál es la densidad típica del HDPE y del LDPE?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la densidad típica del HDPE y del LDPE?
 La densidad del HDPE es 0,96 g/cm³ (59,9 lb/ft³), mientras que la del LDPE es 0,924 g/cm³ (57,7 lb/ft³).
 
-**¿Qué temperatura máxima de uso continuo soporta el polietileno?**  
+### ¿Qué temperatura máxima de uso continuo soporta el polietileno?
 El HDPE admite 55 °C (131 °F) de forma continua; el LDPE puede utilizarse hasta 65 °C (149 °F) continuos y 90 °C (194 °F) durante períodos cortos.
 
-**¿Cuál es la resistencia a la tracción del HDPE?**  
+### ¿Cuál es la resistencia a la tracción del HDPE?
 La resistencia a la tracción del HDPE es de 32 MPa, equivalentes a 4641 psi.
 
-**¿Qué tipo de polietileno se usa para tuberías de gas?**  
+### ¿Qué tipo de polietileno se usa para tuberías de gas?
 Se emplea polietileno de media densidad (MDPE), una variante con densidad y propiedades intermedias entre el HDPE y el LDPE, que optimiza la resistencia al agrietamiento lento.
 
-**¿Es el polietileno resistente a los ácidos?**  
+### ¿Es el polietileno resistente a los ácidos?
 Sí, tanto el HDPE como el LDPE presentan resistencia excelente a ácidos diluidos y concentrados, así como a bases y alcoholes.
 
-**¿Cuánto vale el módulo de flexión del HDPE?**  
+### ¿Cuánto vale el módulo de flexión del HDPE?
 El módulo de flexión del HDPE es 1,25 GPa (181 ksi), aproximadamente un 60 % mayor que el del LDPE.
 
 ## Fuentes consultadas

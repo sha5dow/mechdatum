@@ -80,7 +80,7 @@ Each manufacturing process can economically achieve a range of IT grades. The fo
 ## Comparison between ISO and ANSI systems
 The ANSI B4.1 system defines fit classes (RC = running/sliding, LC = locational clearance, LT = transition, LN = locational interference, FN = force/shrink) and does not use IT grades. However, a practical correspondence based on tolerance magnitude is possible. For example, an ISO H7/f7 fit (hole basis) resembles ANSI RC3 or RC4 fit for medium diameters, while H7/h6 aligns with a transition class LC. In general, IT7 quality is equivalent to an ANSI tolerance class around 7‑8, and IT8‑IT9 correspond to more open classes common in general manufacturing.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What does the number after the letters IT represent in a geometric specification?
 The number indicates the magnitude of the tolerance band according to ISO 286. For example, IT7 for a diameter of 10 mm has a value of 15 µm / 0,00059 in, while IT14 for the same diameter reaches 0,36 mm / 0,014 in.
@@ -100,6 +100,5 @@ Normal finishing turning consistently allows reaching IT8, which for a diameter 
 ### How are IT tolerance values converted to imperial units?
 The conversion is done by multiplying the value in mm by 0,03937 to obtain inches, or the value in µm by 39,37 to obtain microinches (µin). For example, IT9 at 200 mm is 0,115 mm / 0.00453 in and the same 115 µm are equivalent to 4528 µin.
 
-## Sources Consulted
-
+## References
 - **roymech.org**: https://roymech.org/Useful_Tables/ISO_Tolerances

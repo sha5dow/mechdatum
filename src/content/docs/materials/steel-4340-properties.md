@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introducción
 El acero AISI 4340 es un acero de baja aleación con un contenido de carbono de entre 0.37 % y 0.43 % que, mediante tratamiento térmico, alcanza altos niveles de resistencia y tenacidad. Se clasifica como un acero al cromo-níquel-molibdeno y se suministra normalmente en estado bonificado o recocido. Su capacidad de templar en secciones gruesas lo convierte en una opción frecuente para piezas estructurales sometidas a esfuerzos elevados y fatiga.
 
 ## Composición química
@@ -122,22 +121,22 @@ El 4340 suele elegirse cuando la pieza va a estar sometida a altos niveles de fa
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la composición química del acero 4340?**  
+### ¿Cuál es la composición química del acero 4340?
 Contiene 0.38‑0.43 % de carbono, 0.65‑0.90 % de manganeso, 0.70‑0.90 % de cromo, 1.65‑2.00 % de níquel, 0.20‑0.30 % de molibdeno, 0.15‑0.35 % de silicio y el resto hierro.
 
-**¿Cuál es la resistencia a la tracción máxima que puede alcanzar el acero 4340?**  
+### ¿Cuál es la resistencia a la tracción máxima que puede alcanzar el acero 4340?
 Supera los 1960 MPa (285 ksi) cuando se templa en aceite desde 845 °C y se reviene a unos 425 °C.
 
-**¿Qué dureza máxima se puede obtener en el acero 4340?**  
+### ¿Qué dureza máxima se puede obtener en el acero 4340?
 Alcanza hasta 53 HRC (aproximadamente 560 HB) en estado de temple y revenido bajo, aunque la dureza se reduce al aumentar la temperatura de revenido.
 
-**¿Cuál es el equivalente europeo del acero 4340?**  
+### ¿Cuál es el equivalente europeo del acero 4340?
 El grado 34CrNiMo6 (EN 1.6582) es el equivalente normalizado más próximo.
 
-**¿Cuál es la maquinabilidad del acero 4340 en estado recocido?**  
+### ¿Cuál es la maquinabilidad del acero 4340 en estado recocido?
 En estado recocido y estirado en frío su maquinabilidad es del 57 % en comparación con el acero AISI 1212, que se toma como referencia 100 %.
 
-**¿A qué temperatura funde el acero 4340?**  
+### ¿A qué temperatura funde el acero 4340?
 Su punto de fusión se sitúa alrededor de 1427 °C (2600 °F).
 
 ## Fuentes consultadas

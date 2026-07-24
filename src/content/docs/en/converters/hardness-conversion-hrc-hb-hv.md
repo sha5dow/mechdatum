@@ -108,28 +108,27 @@ The values in this table are based on carbon and low-alloy steels with martensit
 **Use of other superficial Rockwell scales**  
 For microhardness or thin layers, HR15N, HR30N, or HR45N are used. They are not included here, but standardized conversion tables exist. Consult ASTM E140 for those equivalences.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **What is the Brinell hardness equivalent to 58 HRC in a hardened steel?**  
+### What is the Brinell hardness equivalent to 58 HRC in a hardened steel?
    For 58 HRC, the table indicates a Brinell hardness of approximately 590 HB (with a 10 mm ball and 3000 kg / 6614 lbf load), corresponding to about 610 HV.
 
-2. **How to convert 400 HB to Rockwell C?**  
+### How to convert 400 HB to Rockwell C?
    400 HB is around 43.0 HRC. The equivalent Vickers hardness is approximately 425 HV, and the Rockwell A hardness would be 70 HRA.
 
-3. **What HRA reading corresponds to 45 HRC on a standard test piece?**  
+### What HRA reading corresponds to 45 HRC on a standard test piece?
    45 HRC is equivalent, according to standardized tables for hardened steels, to a value of 72.2 HRA (diamond indenter, load 60 kg / 132 lbf).
 
-4. **Is it reliable to convert directly from HRC to HV without using the table?**  
+### Is it reliable to convert directly from HRC to HV without using the table?
    It is not recommended for quality control work. The simple empirical relationship HV ≈ 2.1 × HRC + 230 can induce errors greater than 40 HV in the 40–60 HRC range. Always use the table based on ASTM E140.
 
-5. **From what minimum hardness can the HRA scale be used accurately?**  
+### From what minimum hardness can the HRA scale be used accurately?
    The HRA scale is reliable from 20 HRC, but its repeatability is better for values above 60 HRC (81 HRA). Below 50 HRC, HRC or HRB is preferred for thick parts.
 
-6. **What is the difference in Vickers between a steel of 30 HRC and another of 50 HRC?**  
+### What is the difference in Vickers between a steel of 30 HRC and another of 50 HRC?
    A steel of 30 HRC has about 300 HV, while one of 50 HRC reaches approximately 530 HV, representing a difference of more than 200 HV, reflecting much higher wear resistance.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bhn-brinell-hardness-number-d_1365.html
 - **unitconverters.net**: https://www.unitconverters.net/
 - **convertworld.com**: https://www.convertworld.com/en/

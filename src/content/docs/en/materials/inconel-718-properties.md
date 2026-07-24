@@ -102,24 +102,24 @@ Inconel 718 can be welded by conventional processes such as TIG (GTAW) or plasma
 | Inconel X-750 | 8,28 | 1100 MPa (160 ksi) | ~ 815 °C (1500 °F) |
 | Waspaloy | 8,16 | 1310 MPa (190 ksi) | ~ 870 °C (1600 °F) |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of Inconel 718 after aging?**  
+### What is the tensile strength of Inconel 718 after aging?
 The alloy achieves a minimum tensile strength of 1240 MPa (180 ksi) in the solution treated and precipitation hardened condition.
 
-**What is the density of Inconel 718?**  
+### What is the density of Inconel 718?
 The density in the aged condition is 8,22 g/cm³ (0,297 lb/in³), slightly higher than the 8,19 g/cm³ of the solution treated condition.
 
-**At what temperature does Inconel 718 melt?**  
+### At what temperature does Inconel 718 melt?
 Its melting range is between approximately 1260 °C and 1338 °C (2300 – 2440 °F).
 
-**What is the thermal conductivity of Inconel 718?**  
+### What is the thermal conductivity of Inconel 718?
 It exhibits an average thermal conductivity of 6,5 W/m·K (11,2 BTU·ft/ft²·hr·°F) in the range of 0 to 100 °C.
 
-**How much nickel does Inconel 718 contain?**  
+### How much nickel does Inconel 718 contain?
 The nickel content is between 50% and 55% by weight.
 
-**What strength does it retain at cryogenic temperatures?**  
+### What strength does it retain at cryogenic temperatures?
 At -196 °C, the tensile strength of Inconel 718 exceeds 1800 MPa, making it suitable for cryogenic applications.
 
 ## References
@@ -128,8 +128,3 @@ At -196 °C, the tensile strength of Inconel 718 exceeds 1800 MPa, making it sui
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metals-galvanic-series-seawater-d_1495.html
 - **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=4459
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metals-galvanic-series-seawater-d_1495.html
-- **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General overview
 Plain bearings are the simplest type of support, consisting solely of a contact surface without rolling elements. They are characterized by low cost, high load capacity, compactness, and low weight. They can operate in a temperature range from -200 °C / -328 °F up to 300 °C / 572 °F and withstand pressures up to 100 MPa / 14.5 ksi in metallic materials. The coefficient of friction with adequate lubrication ranges between 0.01 and 0.15, while dry it reaches values of 0.1 to 1.0 depending on the materials.
 
 ## Types of plain bearings
@@ -95,25 +94,24 @@ For dry operation, PV values are reduced by 40% to 80%.
 - **Press-fit mounting:** apply uniform force on the outer diameter; for split or clinch bushings, a mandrel is recommended to prevent the cut from closing.
 - **Initial break-in:** for soft metals (babbitt), a break-in with gradually increasing load and speed is essential to seat the surfaces.
 
-## Frequently asked questions
-**1. What is the main difference between a plain bearing and a rolling-element bearing?**
+## Frequently Asked Questions (FAQ)
+### What is the main difference between a plain bearing and a rolling-element bearing?
 A plain bearing supports the load through a lubricant layer or direct contact without rolling elements, whereas a rolling-element bearing uses balls or rollers. A plain bearing can withstand loads up to 100 MPa / 14.5 ksi in tighter spaces, but generates higher friction at low speeds, with a starting torque 3 to 10 times higher than an equivalent rolling-element bearing.
 
-**2. What PV factor is recommended for a self-lubricating sintered bronze bushing with SAE 20 oil?**
+### What PV factor is recommended for a self-lubricating sintered bronze bushing with SAE 20 oil?
 The maximum safe PV factor is 1.75 MPa·m/s / 50 000 psi·ft/min for a service life of 10,000 hours at 20 °C / 68 °F. Above this value, oil loss and wear accelerate.
 
-**3. What is the maximum operating temperature of a pure PTFE bearing?**
+### What is the maximum operating temperature of a pure PTFE bearing?
 PTFE can operate continuously up to 260 °C / 500 °F and withstand peaks of 300 °C / 572 °F without immediate degradation, maintaining a coefficient of friction of 0.04 to 0.10.
 
-**4. What radial clearance should I provide for a bronze bearing on a 25 mm / 1 in shaft?**
+### What radial clearance should I provide for a bronze bearing on a 25 mm / 1 in shaft?
 A total diametral clearance of 0.050 to 0.075 mm / 0.002 to 0.003 in is recommended for a bronze SAE 660 bushing lubricated with grease, operating at less than 1 m/s / 197 ft/min and room temperature.
 
-**5. What surface finish does the shaft need in a dry polymer plain bearing?**
+### What surface finish does the shaft need in a dry polymer plain bearing?
 The shaft roughness should be Ra 0.2 – 0.8 µm / 8 – 32 µin. A rougher finish increases friction and prematurely wears the polymer; a smoother finish prevents transfer of solid lubricant material.
 
-**6. How much is the load capacity reduced when going from continuous lubrication to dry operation?**
+### How much is the load capacity reduced when going from continuous lubrication to dry operation?
 The load capacity (maximum pressure and PV) is reduced by 40% to 80%. For example, a bronze bushing that supports 30 MPa / 4350 psi with lubrication may be limited to 6-12 MPa / 870-1740 psi dry, depending on speed.
 
-## Sources Consulted
-
+## References
 - **mcmaster.com**: https://www.mcmaster.com/products/plain-bushings/

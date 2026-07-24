@@ -76,7 +76,7 @@ Con la correspondiente caída de presión:
 
 Donde f es el factor de fricción (obtenido de la ecuación de Colebrook para régimen turbulento), L la longitud, D el diámetro, V la velocidad media del fluido y ρ su densidad.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ¿Cuál es la presión estándar más común en sistemas hidráulicos móviles?  
 Los sistemas hidráulicos móviles operan típicamente en el rango de 200 a 350 bar, siendo 250 bar una de las presiones nominales más extendidas.

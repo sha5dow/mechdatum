@@ -72,22 +72,22 @@ Cuando se requieren tolerancias dimensionales inferiores a 0,01 mm (0,0004 in) o
 - La geometría a mecanizar no puede lograrse con herramientas de filo único con la precisión demandada.
 
 ## Preguntas frecuentes (FAQ)
-**¿Qué rugosidad superficial (Ra) se puede alcanzar con el rectificado de precisión?**  
+### ¿Qué rugosidad superficial (Ra) se puede alcanzar con el rectificado de precisión?
 El rectificado entrega acabados con Ra entre 0,1 µm y 1,6 µm (3,9 a 63 µin), dependiendo del tamaño de grano y de la estrategia de pasadas.
 
-**¿Cuál es la tolerancia de planitud que garantiza el rectificado en una superficie de 127 x 127 mm?**  
+### ¿Cuál es la tolerancia de planitud que garantiza el rectificado en una superficie de 127 x 127 mm?
 Con una sujeción adecuada se logran planitudes menores de ±0,0025 mm (±0,0001 in) en una placa de acero de 127 x 127 mm (5 x 5 in).
 
-**¿Qué tamaño de grano abrasivo (mesh) se necesita para obtener un acabado Ra 0,4 µm?**  
+### ¿Qué tamaño de grano abrasivo (mesh) se necesita para obtener un acabado Ra 0,4 µm?
 Un grano de malla 80 (apertura de 177 µm / 0,007 in) permite alcanzar un Ra en el rango de 0,2 a 0,4 µm (7,9 a 15,7 µin) bajo condiciones normales.
 
-**¿Cuánto material se remueve por pasada en rectificado de desbaste y acabado?**  
+### ¿Cuánto material se remueve por pasada en rectificado de desbaste y acabado?
 En desbaste se usan profundidades de 0,02 a 0,05 mm (0,0008 a 0,002 in), mientras que en acabado se reduce a 0,005 – 0,02 mm (0,0002 – 0,0008 in).
 
-**¿Cuál es la velocidad periférica recomendada de la muela para rectificar acero endurecido?**  
+### ¿Cuál es la velocidad periférica recomendada de la muela para rectificar acero endurecido?
 La velocidad óptima se sitúa entre 30 y 35 m/s (5906 – 6890 ft/min) para aceros templados, asegurando un corte eficaz sin quemado.
 
-**¿Qué profundidad de pasada se recomienda para no generar quemado superficial en rectificado plano?**  
+### ¿Qué profundidad de pasada se recomienda para no generar quemado superficial en rectificado plano?
 Para evitar daños térmicos se aconseja no exceder 0,025 mm (0,001 in) por pasada en acero al carbono, combinándolo con abundante refrigeración.
 
 ## Fuentes consultadas

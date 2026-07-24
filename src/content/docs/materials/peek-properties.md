@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 La polieteretercetona (PEEK) es un termoplástico semicristalino de altas prestaciones, de color beige, perteneciente a la familia de las poliariletercetonas (PAEK). Destaca por su excepcional combinación de resistencia mecánica, rigidez, estabilidad térmica y resistencia química, incluso a temperaturas elevadas. Se emplea en sectores tan exigentes como el aeroespacial, médico, automoción y petróleo y gas cuando otros polímeros no resistirían las condiciones de servicio.
 
 ## Composición química
@@ -114,22 +113,22 @@ El PEEK se transforma principalmente por moldeo por inyección y extrusión, con
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la temperatura máxima de servicio continuo del PEEK?**
+### ¿Cuál es la temperatura máxima de servicio continuo del PEEK?
 El PEEK sin refuerzo puede utilizarse de forma continua a temperaturas de hasta 250 °C (482 °F), aunque algunos grados especiales alcanzan 260 °C de forma prolongada.
 
-**¿El PEEK es adecuado para implantes médicos?**
+### ¿El PEEK es adecuado para implantes médicos?
 Sí, el PEEK es biocompatible y se emplea en implantes ortopédicos y espinales. Los estudios demuestran una resistencia a la compresión de 118 – 130 MPa, comparable a la del hueso cortical.
 
-**¿Qué valor de densidad tiene el PEEK?**
+### ¿Qué valor de densidad tiene el PEEK?
 La densidad del PEEK sin cargas oscila entre 1,30 y 1,32 g/cm³ (81,2 – 82,4 lb/ft³), lo que lo hace hasta un 70 % más ligero que el titanio.
 
-**¿Cómo se comporta el PEEK frente a la radiación?**
+### ¿Cómo se comporta el PEEK frente a la radiación?
 El PEEK presenta una resistencia excelente a la radiación UV y a dosis de radiación gamma de hasta 1000 kGy, por lo que es apto para esterilización repetida sin pérdida significativa de propiedades mecánicas.
 
-**¿Qué resistencia química tiene el PEEK frente a los disolventes orgánicos?**
+### ¿Qué resistencia química tiene el PEEK frente a los disolventes orgánicos?
 El PEEK es prácticamente inerte a casi todos los disolventes orgánicos a temperatura ambiente (resistencia 5/5). Solo es atacado por ácido sulfúrico concentrado y algunos halogenados a alta temperatura.
 
-**¿Cuál es la conductividad térmica del PEEK?**
+### ¿Cuál es la conductividad térmica del PEEK?
 La conductividad térmica del PEEK se sitúa entre 0,24 y 0,26 W/(m·K) (0,45 – 0,49 BTU·ft/(h·ft²·°F)), lo que lo clasifica como un buen aislante térmico para aplicaciones de baja transferencia de calor.
 
 ## Fuentes consultadas

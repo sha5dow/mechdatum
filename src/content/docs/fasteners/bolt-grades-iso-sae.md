@@ -101,8 +101,7 @@ Broca de pre‑taladrado para rosca métrica gruesa ISO y rosca imperial UNC, ba
 | 5/8″‑11 UNC | 11 HPP | 13,5 mm / 0.531 in (17/32) |
 | ¾″‑10 UNC | 10 HPP | 16,5 mm / 0.649 in (21/32) |
 
-## Preguntas frecuentes
-
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la diferencia entre un tornillo 8.8 y un grado SAE 5?
 Aunque un 8.8 tiene una resistencia a la tracción mínima de 830 MPa / 120 350 psi y un Grado 5 de 827 MPa / 120 000 psi, son prácticamente intercambiables en la mayoría de las aplicaciones; el 8.8 presenta un límite elástico ligeramente superior (600 MPa / 87 000 psi vs. 586 MPa / 85 000 psi).
 

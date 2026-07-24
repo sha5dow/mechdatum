@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general  
 El diseño de resortes de compresión abarca constantes de rigidez desde 0,1 N/mm (0.57 lb/in) en mecanismos ligeros hasta 49 050 N/m (280 lb/in) en suspensiones de vehículos. Estos elementos elásticos almacenan energía mecánica al ser comprimidos axialmente y la liberan al recuperar su forma original. Sus aplicaciones incluyen suspensión automotriz, válvulas de motor, sistemas de retorno en mecanismos y dispositivos de precisión.
 
 ## Principio de funcionamiento  
@@ -89,22 +88,22 @@ Un resorte de compresión con una relación de esbeltez *L*₀/*D* > 4,0 necesit
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Qué es la constante de rigidez *k* y cómo se calcula?**  
+### ¿Qué es la constante de rigidez *k* y cómo se calcula?
 La constante *k* se calcula como *k* = *F*/*x*; para un resorte helicoidal se determina mediante *k* = (*G*·*d*⁴)/(8·*D*³·*n*), donde *d* y *D* en mm, y *G* ≈ 79,3 GPa (11,5 Mpsi). En el ejemplo de la suspensión de 2000 kg, cada resorte presenta *k* = 49 050 N/m (280 lb/in).
 
-**¿Cuál es la carga máxima que puede soportar un resorte de compresión?**  
+### ¿Cuál es la carga máxima que puede soportar un resorte de compresión?
 La carga máxima corresponde al esfuerzo cortante admisible del material, que para un acero inoxidable AISI 302 es de 500 MPa (72,5 ksi). Se debe verificar que *τ*ₘₐₓ = *K*_w·(8·*F*·*D*)/(π·*d*³) no supere ese valor.
 
-**¿Qué sucede si se excede la deformación máxima?**  
+### ¿Qué sucede si se excede la deformación máxima?
 El resorte entra en régimen plástico con deformación permanente; para un acero al carbono, el límite elástico ronda los 1200 MPa (174 ksi) en tracción, pero el esfuerzo cortante de fluencia se sitúa típicamente en el 60 % de ese valor.
 
-**¿Cómo se evita el pandeo durante la compresión?**  
+### ¿Cómo se evita el pandeo durante la compresión?
 Se recomienda emplear guías o alojamientos cuando la esbeltez supera 4:1. Un resorte con *L*₀ = 200 mm (7,87 in) y *D*ₑ = 40 mm (1,57 in) presenta una esbeltez de 5 y precisa guiado.
 
-**¿Qué influencia tiene el número de espiras activas?**  
+### ¿Qué influencia tiene el número de espiras activas?
 La rigidez *k* es inversamente proporcional a *n*: reducir *n* de 10 a 5 duplica la constante. Un resorte con 5 espiras activas puede alcanzar *k* = 100 N/mm (570 lb/in) allí donde uno de 10 espiras daría 50 N/mm (285 lb/in).
 
-**¿Por qué se aplica un factor de Wahl en el cálculo de tensiones?**  
+### ¿Por qué se aplica un factor de Wahl en el cálculo de tensiones?
 El factor de Wahl *K*_w corrige el cortante directo y la concentración de esfuerzos por curvatura. Para un índice *C* = 6, *K*_w ≈ 1,25, lo que incrementa un 25 % el esfuerzo nominal calculado con *F* y *D*.
 
 ## Fuentes consultadas

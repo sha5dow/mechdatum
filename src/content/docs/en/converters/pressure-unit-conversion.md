@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General description
 Pressure unit conversion is fundamental in engineering, meteorology, and industrial processes. The base unit of the International System (SI) is the **pascal (Pa)**, equivalent to 1 newton per square meter. From this reference, multiples such as the kilopascal (kPa = 10³ Pa) and megapascal (MPa = 10⁶ Pa) are derived, as well as other commonly used units such as the **bar** (1 bar = 100 000 Pa), the **standard atmosphere** (atm), **millimeters of mercury** (mmHg), and the imperial units **psi** (pounds-force per square inch) or **inHg** (inches of mercury). This page presents the most precise equivalences and formulas to easily convert from one unit to another, along with notes on accuracy and special cases.
 
 ## Units and symbols
@@ -92,27 +91,26 @@ Convert 2,5 bar to psi and to kPa:
 - Conversions involving **kgf/cm²** depend on the standard acceleration of gravity (9,80665 m/s²). Any local variation of *g* would require correction, although for practical purposes the standard value is used.
 - For **gage pressures** (relative), care must be taken when using conversions that mix absolute units. The standard atmosphere and the bar usually refer to absolute pressure. If working with relative pressure (e.g., 2 bar gage), the conversion to psi gage uses the same conversion factor (2 bar relative = 29,0 psi relative).
 
-## FAQ
-1. **How many pascals exactly are in 1 bar?**  
+## Frequently Asked Questions (FAQ)
+### How many pascals exactly are in 1 bar?
    One bar equals exactly 100 000 Pa (100 kPa). This equivalence is defined by international consensus, so there is no uncertainty in the conversion between bar and pascal.
 
-2. **How many psi correspond to 2,5 bar?**  
+### How many psi correspond to 2,5 bar?
    2,5 bar are 36,26 psi (2,5 × 14,5038). Expressed in metric units it would be 250 kPa or 0,25 MPa; in imperial units, 36,26 lbf/in².
 
-3. **How many mmHg are in a standard atmosphere?**  
+### How many mmHg are in a standard atmosphere?
    The standard atmosphere is defined as exactly 760 mmHg at 0 °C. In imperial units it equals 29,9213 inHg.
 
-4. **What pressure in psi does 50 MPa represent?**  
+### What pressure in psi does 50 MPa represent?
    50 MPa are 50 000 kPa, i.e., 7251,9 psi (50 000 × 0,145038). This conversion shows that 50 MPa are approximately 7252 psi, a typical value in high-pressure hydraulic systems.
 
-5. **How many meters of water column does a pressure of 0,5 psi produce?**  
+### How many meters of water column does a pressure of 0,5 psi produce?
    0,5 psi equals 0,352 mH₂O (0,5 psi × 0,70307 mH₂O/psi, since 1 psi ≈ 0,703 mH₂O). In imperial units it would be 13,84 inH₂O.
 
-6. **Is it correct to use kg/cm² as a pressure unit?**  
+### Is it correct to use kg/cm² as a pressure unit?
    Technically 1 kgf/cm² is a pressure unit (force per area) if it is understood that the mass of 1 kg is multiplied by standard gravity (9,80665 m/s²). Its numerical value is 98 066,5 Pa; it equals 0,980665 bar and 14,223 psi. Although it is not an SI unit, it is still used in industrial contexts.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pressure-units-converter-d_569.html
 - **unitconverters.net**: https://www.unitconverters.net/pressure-converter.html
 - **convertworld.com**: https://www.convertworld.com/en/pressure/bar.html

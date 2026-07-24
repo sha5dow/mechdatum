@@ -107,28 +107,27 @@ Stainless steel 410 offers good corrosion resistance in moderate environments: f
 | 430 | Ferritic | 14–18 | ≤0,12 | Better than 410 in atmospheric and mild acid environments | Typical tensile 450 MPa; lower yield strength |
 | 304 | Austenitic | 18–20 | ≤0,08 | Excellent; suitable for chloride-containing media | Tensile 515 MPa; yield strength ~205 MPa |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the minimum tensile strength of 410 steel in the annealed condition?**  
+### What is the minimum tensile strength of 410 steel in the annealed condition?
    The minimum tensile strength is 480 MPa (69,6 ksi) according to ASTM A276 for cold-finished bars.
 
-2. **Why is tempering between 425 °C and 600 °C not recommended?**  
+### Why is tempering between 425 °C and 600 °C not recommended?
    Because in that range toughness drops drastically (values below 10 J in the Charpy test) due to carbide precipitation.
 
-3. **What yield strength is obtained after quenching and tempering at 204 °C?**  
+### What yield strength is obtained after quenching and tempering at 204 °C?
    A yield strength of 1005 MPa (146 ksi) is achieved, with an elongation of 11% and a Brinell hardness of 400 HB.
 
-4. **What is the average thermal expansion coefficient of 410 between 0 °C and 100 °C?**  
+### What is the average thermal expansion coefficient of 410 between 0 °C and 100 °C?
    It is 9,9 µm/m·°C (equivalent to 5,5 micro-inches per inch per degree Fahrenheit).
 
-5. **How much chromium does stainless steel 410 contain?**  
+### How much chromium does stainless steel 410 contain?
    Its chromium content ranges between 11,5% and 13,5%, which gives it its stainless character.
 
-6. **What is the density of stainless steel 410?**  
+### What is the density of stainless steel 410?
    The density is 7800 kg/m³ (0,282 pounds per cubic inch), typical of chromium steels.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=970
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=2118

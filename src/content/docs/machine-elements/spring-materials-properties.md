@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Resumen técnico
-
 Los alambres para resortes mecánicos se fabrican predominantemente en aceros de alto carbono, aceros aleados y aleaciones de níquel, con diámetros normalizados desde 0,13 mm / 0.005 in hasta más de 12 mm / 0.5 in según la norma ASTM A228 y equivalentes. El alambre musical (music wire) templado en aceite presenta la mayor resistencia a tracción entre los aceros para resortes comerciales, alcanzando valores de 2620–2930 MPa / 380–425 ksi en diámetros finos, mientras que las aleaciones de cromo-silicio e Inconel se reservan para condiciones de carga cíclica severa y temperaturas superiores a 200 °C / 392 °F, respectivamente. La selección del material gobierna directamente la capacidad de carga, la vida a fatiga y la resistencia a la relajación del resorte.
 
 ## Tabla de propiedades mecánicas

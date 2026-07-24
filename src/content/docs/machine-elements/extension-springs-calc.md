@@ -91,24 +91,24 @@ Para una selección rápida se ofrecen dimensiones y prestaciones orientativas p
 | Gancho de remolque ligero | 5,5 mm / 0.217 in | 180 mm / 7.09 in | 4,8 N/mm / 27,4 lb/in | 1500 N / 337 lb |
 | Balanza de resorte analógica | 0,7 mm / 0.028 in | 60 mm / 2.36 in | 0,08 N/mm / 0,46 lb/in | 8 N / 1,8 lb |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la tensión inicial típica para un resorte de tensión de acero de alambre de 2 mm de diámetro?**  
+### ¿Cuál es la tensión inicial típica para un resorte de tensión de acero de alambre de 2 mm de diámetro?
 La tensión inicial suele situarse entre 12 N / 2,7 lb y 25 N / 5,6 lb, dependiendo del índice de resorte y del proceso de enrollado, representando aproximadamente un 8 % de la fuerza máxima admisible.
 
-**¿Cómo se calcula la constante elástica k de un resorte de extensión?**  
+### ¿Cómo se calcula la constante elástica k de un resorte de extensión?
 La constante se obtiene con la fórmula k = (F – Fᵢ) / δ, donde F es la fuerza total aplicada, Fᵢ la tensión inicial y δ la elongación medida. Para un resorte helicoidal de alambre redondo, k también puede calcularse como k = G·d⁴ / (8·Dm³·Na), siendo G ≈ 79,3 GPa / 11,5×10⁶ psi para acero.
 
-**¿Qué extensión máxima puede alcanzar un resorte de tensión sin perder sus propiedades elásticas?**  
+### ¿Qué extensión máxima puede alcanzar un resorte de tensión sin perder sus propiedades elásticas?
 Se recomienda no sobrepasar una deformación que induzca una tensión cortante superior al 45 % de la resistencia a la tracción del material, lo que para un acero ASTM A228 de 2,5 mm / 0.098 in equivale, por ejemplo, a una elongación máxima de unos 110 mm / 4,3 in.
 
-**¿Cuánto varía la fuerza de un resorte de tensión al aumentar la temperatura de 20 °C a 100 °C?**  
+### ¿Cuánto varía la fuerza de un resorte de tensión al aumentar la temperatura de 20 °C a 100 °C?
 En aceros al carbono el módulo de rigidez G disminuye aproximadamente un 1 % cada 38 °C, de modo que al pasar de 20 °C a 100 °C la constante elástica se reduce cerca de un 2,5 %, reduciendo proporcionalmente la fuerza generada para la misma extensión. La fuerza a 100 °C sería un 2,5 % menor que a 20 °C.
 
-**¿Qué fuerza se necesita para abrir 15 mm una puerta de cierre equipada con un resorte de tensión de k = 0,8 N/mm?**  
+### ¿Qué fuerza se necesita para abrir 15 mm una puerta de cierre equipada con un resorte de tensión de k = 0,8 N/mm?
 Asumiendo una tensión inicial de 3 N, la fuerza requerida sería F = 3 N + 0,8 N/mm × 15 mm = 15 N / 3,4 lb. En unidades imperiales: k ≈ 4,6 lb/in, Fᵢ = 0,67 lb, δ = 0,59 in, por lo que F = 0,67 + 4,6 × 0,59 ≈ 3,4 lb.
 
-**¿Cómo influye el número de espiras activas en la rigidez de un resorte de tensión?**  
+### ¿Cómo influye el número de espiras activas en la rigidez de un resorte de tensión?
 La rigidez es inversamente proporcional a Na. Si se precisa una constante de 2,8 N/mm con 20 espiras, un resorte con 10 espiras activas duplicaría la rigidez hasta 5,6 N/mm, siempre que no se modifiquen el diámetro de alambre ni el diámetro medio de la hélice.
 
 ## Fuentes consultadas

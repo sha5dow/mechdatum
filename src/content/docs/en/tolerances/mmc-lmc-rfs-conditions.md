@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Definition
 Material conditions (MMC, LMC and RFS) modify the geometric tolerance based on the actual size of the feature, potentially increasing the position tolerance by up to 0.030 mm / 0.0012 in for holes with typical dimensional tolerance. These modifiers allow accepting functional parts that, without the bonus, would be rejected.
 
 - **Maximum material condition (MMC)**: the feature contains the greatest amount of material within its dimensional limits (minimum diameter for holes, maximum diameter for shafts). When MMC is invoked, if the feature deviates from this state, a geometric tolerance bonus is granted equal to the deviation from MMC.
@@ -66,24 +65,24 @@ In applications requiring a minimum interference, LMC is used on the housing to 
 
 The main practical difference lies in the **Envelope Requirement**: in ASME Rule #1 is always assumed, while in ISO it must be explicitly indicated with the symbol (E). Therefore, a drawing without (E) in ISO allows the part to exceed the perfect form envelope at MMC, which can lead to assembly problems if not accounted for.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **How much additional tolerance can I obtain by applying MMC to a 10 H7 hole?**  
+### How much additional tolerance can I obtain by applying MMC to a 10 H7 hole?
    Up to 0.015 mm / 0.0006 in of bonus, reaching a total position tolerance of 0.115 mm / 0.0046 in if the hole is manufactured at its LMC (10.015 mm / 0.3943 in).
 
-2. **What dimensional deviation is needed to double a geometric tolerance of 0.1 mm / 0.004 in?**  
+### What dimensional deviation is needed to double a geometric tolerance of 0.1 mm / 0.004 in?
    To double it to 0.2 mm / 0.008 in, the feature must deviate 0.1 mm / 0.004 in from its MMC, provided the dimensional tolerance range allows it; in a 10 H7 hole this is not possible because only 0.015 mm / 0.0006 in of travel is available.
 
-3. **Is there any case where MMC does not provide any increase in tolerance?**  
+### Is there any case where MMC does not provide any increase in tolerance?
    When the feature is produced exactly at MMC (e.g., hole of 10.000 mm / 0.3937 in in the example), the bonus is 0 mm / 0 in and the geometric tolerance remains at the base value.
 
-4. **How much can a datum with MMC modifier shift?**  
+### How much can a datum with MMC modifier shift?
    The maximum shift of the virtual datum equals the dimensional tolerance of the reference as a feature of size. If a shaft datum has a dimensional tolerance of 0.020 mm / 0.0008 in, the part can shift laterally up to 0.010 mm / 0.0004 in in the worst condition, leveraging the difference between MMC size and actual size.
 
-5. **What productivity improvement has been documented when switching from RFS to MMC?**  
+### What productivity improvement has been documented when switching from RFS to MMC?
    In the automotive industry, a reduction of up to 15% in rejected parts has been reported when changing position tolerances from RFS to MMC in sheet metal components with fastening holes, by taking advantage of the dimensional bonus.
 
-6. **What is the maximum combined tolerance (dimensional + geometric) allowed for a nominal M6 fit?**  
+### What is the maximum combined tolerance (dimensional + geometric) allowed for a nominal M6 fit?
    In a 6 H7 hole (6.000/6.012 mm / 0.2362/0.2367 in), with a position tolerance of 0.05 mm / 0.002 in at MMC, the maximum combined tolerance in the worst case (hole at LMC) reaches 0.062 mm / 0.0024 in of allowable positional deviation.
 
 ## References
@@ -91,7 +90,3 @@ The main practical difference lies in the **Envelope Requirement**: in ASME Rule
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/material-properties-t_24.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom.html
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/material-properties-t_24.html
-- **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom.html

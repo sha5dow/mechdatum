@@ -80,26 +80,25 @@ In gas-shielded arc welding processes (GMAW and GTAW) typical flow rates range f
 6. **Dissimilar materials**: TIG with pure Ar or Ar/He (70/30) is the most versatile option; GMAW only if the metallurgical combination is favorable with the proper filler metal.
 7. **Always verify gas purity**: Ar ≥ 99.995%, He ≥ 99.996%, CO₂ ≥ 99.8%.
 
-## FAQ
-1. **What gas flow rate is recommended for MIG welding of carbon steel with 75% Ar / 25% CO₂ mixture?**  
+## Frequently Asked Questions (FAQ)
+### What gas flow rate is recommended for MIG welding of carbon steel with 75% Ar / 25% CO₂ mixture?
    For carbon steel with solid wire and 75/25 mixture, a flow rate of 12 to 18 L/min (0.42–0.64 cfm) is recommended, adjusting within that range according to welding position and wind speed in the environment.
 
-2. **Can pure CO₂ be used in TIG welding?**  
+### Can pure CO₂ be used in TIG welding?
    No. In TIG, the tungsten electrode requires a strictly inert gas; any presence of CO₂ causes immediate oxidation. Argon must have a minimum purity of 99.995% (grade 4.5) to ensure arc stability.
 
-3. **Which gas provides the greatest penetration in MIG on steel?**  
+### Which gas provides the greatest penetration in MIG on steel?
    Pure CO₂ produces up to 30% greater penetration than the 75/25 Ar/CO₂ mixture, although at the cost of a more unstable arc and more spatter.
 
-4. **What shielding mixture is recommended for welding aluminum with MIG?**  
+### What shielding mixture is recommended for welding aluminum with MIG?
    For aluminum with MIG, pure argon or a mixture of argon with 25–50% helium is used, with a flow rate of 15–25 L/min (0.53–0.88 cfm) to ensure effective coverage and prevent oxidation.
 
-5. **What is the minimum thickness that can be welded with TIG?**  
+### What is the minimum thickness that can be welded with TIG?
    The TIG process can weld thicknesses from 0.125 mm (0.005 in), making it the preferred choice for very thin sheets and high-precision applications.
 
-6. **Why are small amounts of O₂ or CO₂ added to argon in GMAW?**  
+### Why are small amounts of O₂ or CO₂ added to argon in GMAW?
    The addition of 2–5% O₂ or 5–25% CO₂ to argon improves arc stability, reduces surface tension of the molten pool, and increases wetting. These mixtures are typically used with flow rates of 12–18 L/min (0.42–0.64 cfm).
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gas-mixture-properties-d_586.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_inertgas.cfm

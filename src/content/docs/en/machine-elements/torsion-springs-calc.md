@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General definition
 A torsion spring is an elastic mechanical element that stores energy when twisted around its axis, exerting a torque proportional to the angle of rotation. The maximum torque a solid circular shaft of 50 mm diameter in steel with an allowable shear stress of 40.8 MPa can withstand is approximately 1000 N·m / 737.6 lb·ft. The angular deflection of that same shaft subjected to that torque and with a length of 1 m results in 1.2° (0.021 rad), considering a shear modulus of 79 GPa.
 
 | Characteristic | Description |
@@ -136,26 +135,25 @@ For steel torsion bars with τ_adm = 400 MPa / 58 000 psi:
 | Light truck suspension | 25 / 0.984 | 1000 / 39.37 | 920 / 8145 | 6.4 |
 | Landing gear (light aircraft) | 30 / 1.181 | 800 / 31.50 | 1600 / 14 160 | 7.3 |
 
-## Frequently asked questions (FAQ)
-**What is the difference between a torsion bar and a helical torsion spring?**  
+## Frequently Asked Questions (FAQ)
+### What is the difference between a torsion bar and a helical torsion spring?
 The torsion bar is a solid or hollow element that works in pure shear; a helical spring, although twisted, works essentially in bending of the wire. The torsion bar supports high torques with small angles (typically 5–10°), while the helical allows deflections of up to 360° with moderate torques.
 
-**How is the minimum diameter of a torsion bar to transmit 200 N·m with τ_adm = 250 MPa calculated?**  
+### How is the minimum diameter of a torsion bar to transmit 200 N·m with τ_adm = 250 MPa calculated?
 Applying D_min = 1,72·(T_max / τ_max)^(1/3). For T = 200 N·m and τ = 250 MPa (250×10⁶ Pa) we obtain D_min ≈ 1,72·(200 / 250×10⁶)^(1/3) = 1,72·(8×10⁻⁷)^(1/3) = 1,72·0,00928 m = 0,0160 m, i.e., 16 mm / 0.630 in.
 
-**What torsion angle does a solid steel shaft (G = 80 GPa) with D = 20 mm, L = 500 mm and a torque of 50 N·m reach?**  
+### What torsion angle does a solid steel shaft (G = 80 GPa) with D = 20 mm, L = 500 mm and a torque of 50 N·m reach?
 Using α_deg ≈ 584·L·T / (G·D⁴) = 584·0.5·50 / (80×10⁹·(0.02)⁴) = 14600 / (80×10⁹·1.6×10⁻⁷) = 14600 / 12800 = 1.14°. In radians, 0.0199 rad.
 
-**How much energy does a torsion bar with stiffness κ = 5000 N·m/rad store when deflected by 15°?**  
+### How much energy does a torsion bar with stiffness κ = 5000 N·m/rad store when deflected by 15°?
 First convert 15° to rad: 15 · π/180 = 0.262 rad. Energy U = ½ κ θ² = ½ · 5000 · (0.262)² ≈ 171.6 J / 126.6 ft·lbf.
 
-**What spring constant does a helical spring with d = 2.5 mm, D = 15 mm, N = 8 and E = 206 GPa have?**  
+### What spring constant does a helical spring with d = 2.5 mm, D = 15 mm, N = 8 and E = 206 GPa have?
 κ = E·d⁴ / (64·D·N) = 206×10³ · (2.5⁴) / (64·15·8) ≈ 206×10³·39.06 / (7680) = 8.04×10⁶ / 7680 ≈ 1047 N·mm/rad = 1.047 N·m/rad. Equivalent to 0.0183 N·m/°.
 
-**What is the working torque of a clothespin spring with d = 1 mm, D = 8 mm, N = 4, deflected by 180°?**  
+### What is the working torque of a clothespin spring with d = 1 mm, D = 8 mm, N = 4, deflected by 180°?
 Stiffness κ = 206×10³·1⁴ / (64·8·4) = 206×10³ / 2048 ≈ 100.6 N·mm/rad = 0.1006 N·m/rad. Angle 180° = π rad ≈ 3.14 rad. Torque M = κ·θ = 0.1006·3.14 ≈ 0.316 N·m / 2.80 lbf·in, consistent with the table.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/torsion-shafts-d_947.html
 - **mcmaster.com**: https://www.mcmaster.com/products/torsion-springs/

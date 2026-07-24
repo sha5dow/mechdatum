@@ -87,24 +87,24 @@ Selection of the filler material is based on:
 
 **Brazing**: the filler is heated above 450 °C / 842 °F using an oxyacetylene torch, induction, furnace with controlled atmosphere, or electrical resistance. Fluxes based on borax and fluorides are used to remove oxides. Protective atmosphere (nitrogen, hydrogen, vacuum) can replace the flux and avoid subsequent cleaning. Thermal cycles must be controlled to minimize interaction between the filler and the base metal.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the typical working temperature of soldering?**  
+### What is the typical working temperature of soldering?
 Soldering is generally performed between 180 °C / 356 °F and 450 °C / 842 °F, depending on the filler alloy.
 
-**At what temperature does 50‑50 tin‑lead solder melt?**  
+### At what temperature does 50‑50 tin‑lead solder melt?
 The 50‑50 Sn‑Pb alloy melts in a range of 183 °C / 361 °F to 215 °C / 419 °F, being fully liquid at 215 °C / 419 °F.
 
-**What is the melting temperature of yellow brass used in brazing?**  
+### What is the melting temperature of yellow brass used in brazing?
 Yellow brass melts between 905 °C / 1661 °F and 932 °C / 1710 °F, making it suitable for joining steels and copper.
 
-**What minimum temperature must a process have to be considered brazing?**  
+### What minimum temperature must a process have to be considered brazing?
 It is considered brazing when the temperature of the filler material exceeds 450 °C / 842 °F.
 
-**At what temperature does the aluminum‑silicon 4047 alloy melt?**  
+### At what temperature does the aluminum‑silicon 4047 alloy melt?
 The Al‑Si 4047 alloy has a very narrow melting range, from 577 °C / 1071 °F to 582 °C / 1080 °F.
 
-**What is the melting point of pure copper used as filler in brazing?**  
+### What is the melting point of pure copper used as filler in brazing?
 Pure copper melts at approximately 1084 °C / 1983 °F, and is used for joints operating at high temperature.
 
 ## References
@@ -112,7 +112,3 @@ Pure copper melts at approximately 1084 °C / 1983 °F, and is used for joints o
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-temperature-metals-d_860.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/vertikal-cnc-svarvning
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-temperature-metals-d_860.html
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/vertikal-cnc-svarvning

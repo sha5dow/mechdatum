@@ -139,28 +139,27 @@ Total geometric volume per cycle: 0,7226 L
 
 This flow rate must be supplied at the operating pressure of 6 bar; the supply line and the maintenance unit must be sized accordingly.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**How is the air consumption of a single-acting cylinder calculated?**  
+### How is the air consumption of a single-acting cylinder calculated?
 The free air consumption per minute of a single-acting cylinder with 40 mm diameter and 100 mm stroke, operating at 6 bar and 30 cycles/min, is approximately 25 Nl/min. Air is only consumed during extension; the return is provided by a spring or the load.
 
-**What is the recommended working pressure for pneumatic actuators?**  
+### What is the recommended working pressure for pneumatic actuators?
 The standard working pressure for linear actuators is 6 bar / 87 psi, with an allowable range of 4 to 8 bar / 58 to 116 psi. Lower pressures drastically reduce the available force; higher pressures shorten the service life of seals and components.
 
-**What discharge coefficient is used for a sharp-edged orifice?**  
+### What discharge coefficient is used for a sharp-edged orifice?
 For a sharp-edged orifice the discharge coefficient *C* is 0.65, while for rounded edges 0.97 is used. In commercial valves and throttles, *C* ≈ 0.7 – 0.8 is typically adopted.
 
-**How does working pressure affect air consumption?**  
+### How does working pressure affect air consumption?
 Increasing the working pressure from 6 to 8 bar increases free air consumption by approximately 33%, since the necessary atmospheric air volume is directly proportional to absolute pressure.
 
-**What is the conversion between Nl/min and scfm?**  
+### What is the conversion between Nl/min and scfm?
 1 scfm is equivalent to 28.3 Nl/min when considering reference conditions of 20 °C / 68 °F and 1 atmosphere (1.013 bar / 14.7 psi). Values in Nl/min are obtained by multiplying scfm by 28.317.
 
-**What pipe diameter is recommended for a flow rate of 500 Nl/min?**  
+### What pipe diameter is recommended for a flow rate of 500 Nl/min?
 For a flow rate of 500 Nl/min / 17.7 scfm, a pipe with 10 mm / 0.39 in inside diameter generates a pressure drop of less than 0.1 bar / 1.5 psi per 10 m / 33 ft of length, which is suitable for most installations.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/single-acting-piston-air-volume-d_1192.html
 - **engineersedge.com**: https://www.engineersedge.com/fluid_flow/discharge-air-orifice.htm
 - **efunda.com**: https://www.efunda.com/formulae/fluids/venturi_flowmeter.cfm

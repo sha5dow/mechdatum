@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero AISI H13 es un acero para trabajo en caliente de la serie H de la clasificación AISI, que se distingue por su combinación de cromo‑molibdeno‑vanadio. Este material ofrece alta templabilidad, excelente resistencia a la fatiga térmica y buena tenacidad tanto en caliente como en frío, características que lo convierten en el acero herramienta más utilizado en aplicaciones de moldes y matrices sometidos a ciclos térmicos severos.
 
 ## Composición química
@@ -115,23 +114,23 @@ Frente a otros aceros para trabajo en caliente como el H11 (1.2343) o el H21, el
 | Resistencia al revenido hasta | 540 °C | 520 °C | 480 °C |
 | Principales usos | Die casting, extrusión | Forja, dummies | Laminación, calibres |
 
-## Preguntas frecuentes
-**¿Cuál es la dureza típica del H13 después del temple y revenido?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la dureza típica del H13 después del temple y revenido?
 Después de un temple a 1020 °C y revenido en el rango de 530‑650 °C, el H13 alcanza durezas entre 44 HRC y 52 HRC, dependiendo de la temperatura exacta de revenido.
 
-**¿Hasta qué temperatura puede trabajar el H13 en servicio continuo?**
+### ¿Hasta qué temperatura puede trabajar el H13 en servicio continuo?
 El H13 conserva valores útiles de dureza y resistencia hasta aproximadamente 540 °C en servicio continuo, aunque puede soportar picos más elevados en ciclos cortos.
 
-**¿Cómo afecta el revenido a la resistencia a tracción?**
+### ¿Cómo afecta el revenido a la resistencia a tracción?
 A medida que la temperatura de revenido sube de 500 °C a 650 °C, la resistencia última a tracción disminuye de unos 1590 MPa a 1200 MPa, incrementando la tenacidad.
 
-**¿Es posible nitrurar el H13?**
+### ¿Es posible nitrurar el H13?
 Sí, el H13 acepta tratamientos de nitruración, gas o iónica, logrando capas superficiales con dureza superior a 900 HV (≈68 HRC), lo que mejora notablemente su resistencia al desgaste.
 
-**¿Cuál es la temperatura de recocido recomendada?**
+### ¿Cuál es la temperatura de recocido recomendada?
 El recocido de ablandamiento se realiza entre 845 °C y 870 °C con enfriamiento lento en horno, obteniendo una dureza máxima de 229 HB.
 
-**¿Con qué materiales compite directamente el H13?**
+### ¿Con qué materiales compite directamente el H13?
 El H13 compite con aceros como el H11 y el 1.2367 (X38CrMoV5‑3) en aplicaciones de die casting y extrusión; se diferencia de ellos por su mayor contenido de vanadio, lo que le confiere mejor resistencia al desgaste y a la fatiga térmica.
 
 ## Fuentes consultadas

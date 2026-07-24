@@ -120,7 +120,7 @@ Alloy 6061 is identified under multiple standards and designation systems.
 | AMS standards | 4117, 4025, 4026, 4027 |
 | MIL standards | MIL-A-12545, MIL-W-23351, among others |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum tensile strength of aluminum 6061 in T6 temper?
 The maximum tensile strength can reach 310 MPa (45 ksi), and a minimum of 290 MPa (42 ksi) is guaranteed per standards.
@@ -140,8 +140,7 @@ Young's modulus is 68.9 GPa (10 000 ksi) regardless of temper or heat treatmen
 ### What is the minimum elongation in T6 temper?
 For thicknesses equal to or less than 6.35 mm (0.250 in) the minimum elongation is 8%, while in thicker sections it reaches 10%.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6636
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1150

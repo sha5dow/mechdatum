@@ -103,28 +103,27 @@ Compared to simple mechanical strength, specific strength allows comparing mater
 
 While metals maintain a good balance between strength, toughness, and ease of forming, fibrous composites offer specific strength values unattainable for homogeneous materials, albeit at the cost of lower damage tolerance and more complex manufacturing. Therefore, in applications where safety and repairability are critical — such as wing spars of commercial aircraft — high-strength aluminum alloys (2xxx and 7xxx series) continue to be used despite their lower specific strength compared to composites.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is specific strength of a material?**  
+### What is specific strength of a material?
 Specific strength is the ratio between tensile strength (in MPa) and density (in g/cm³), whose result in kN·m/kg is numerically equivalent to the breaking length in kilometers. For example, an aluminum 6061‑T6 with 310 MPa and 2,70 g/cm³ reaches 115 kN·m/kg, which means that a bar of this material can measure up to 11,7 km before breaking under its own weight.
 
-**Which is the material with the highest known specific strength?**  
+### Which is the material with the highest known specific strength?
 Unidirectional epoxy‑carbon composite with a fiber fraction of 61 % registers values on the order of 1 080 kN·m/kg, exceeding the best aluminum alloys by more than ten times and structural steel by almost fifteen. At the laboratory level, individual carbon nanotubes can reach 46 000 kN·m/kg, but they are not yet translated into mass commercial products.
 
-**Why is aluminum used so much in the aerospace industry if lighter composites exist?**  
+### Why is aluminum used so much in the aerospace industry if lighter composites exist?
 Because aluminum alloys of the 2xxx and 7xxx series achieve specific strengths up to 200 kN·m/kg, tolerate impact damage better, are easy to repair and predictable under fatigue, and their manufacturing and recycling cost is lower than that of carbon‑epoxy composites. Additionally, the thermal expansion of aluminum (23,5 ×10⁻⁶/K) couples better with that of other metals in hybrid structures.
 
-**How does temperature affect the specific strength of polymer composites?**  
+### How does temperature affect the specific strength of polymer composites?
 The epoxy matrix of a carbon‑epoxy composite loses stiffness and strength above 80‑110 °C, so specific strength can drop more than 50 % when reaching 200 °C. Conversely, metals such as steel or aluminum maintain acceptable properties up to 500 °C and 250 °C respectively, provided their maximum service limit is not exceeded.
 
-**What is the difference between specific strength and specific stiffness?**  
+### What is the difference between specific strength and specific stiffness?
 Specific strength (σ/ρ) measures the maximum load a material supports per unit mass, while specific stiffness (E/ρ) measures its ability to resist elastic deformations per unit mass. Steel and aluminum present very similar specific stiffness values (≈ 26 kN·m/kg ×10³), but the specific strength of aluminum is double that of steel, making it a better candidate when the main criterion is breaking load without plastic deformation.
 
-**Can the specific strength of a material be improved without changing its composition?**  
+### Can the specific strength of a material be improved without changing its composition?
 Yes, through thermomechanical treatments that increase strength without modifying density. For example, cold rolling of a low carbon steel DX51D raises its yield strength from 270 MPa to 500 MPa, increasing its specific strength from 34 kN·m/kg to 64 kN·m/kg, while artificial aging (T6) of an Al‑Mg‑Si alloy causes precipitation of submicrometric phases that double the strength with hardly any change in density.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=2863
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=597

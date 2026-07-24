@@ -99,24 +99,24 @@ Brass C360 is used in sectors requiring series production using automatic lathes
 
 C360 stands out for its superior machinability and its balance between strength and moderate ductility. C353 is preferred when a slightly lower raw material cost is required while maintaining good machinability, while C385 is common in profiles for architectural applications.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. What is the machinability of brass C360 compared to other brasses?**  
+### What is the machinability of brass C360 compared to other brasses?
 The machinability of C360 is 100, the maximum reference on the scale, and exceeds that of any other brass and most copper alloys.
 
-**2. What is the density of brass C360?**  
+### What is the density of brass C360?
 The density is 8.49 g/cm³ (0.307 lb/in³), equivalent to a weight of about 8.49 kg per liter of material.
 
-**3. At what temperature does brass C360 melt?**  
+### At what temperature does brass C360 melt?
 Its melting point is around 885 °C (1630 °F), making it suitable for sand and permanent mold casting.
 
-**4. What is its mechanical strength in annealed condition?**  
+### What is its mechanical strength in annealed condition?
 In annealed condition, the tensile strength is approximately 338 MPa (49 ksi) and the yield strength about 124 MPa (18 ksi), with an elongation of 53%.
 
-**5. How much lead does brass C360 contain?**  
+### How much lead does brass C360 contain?
 The nominal lead content is 3%, with an allowable range between 2.5% and 3.5%, necessary to ensure chip fragmentation.
 
-**6. What is its thermal conductivity?**  
+### What is its thermal conductivity?
 The thermal conductivity at 20 °C is 115 W/(m·K) (798 BTU·in/(hr·ft²·°F)), an average value among brasses.
 
 ## References
@@ -125,8 +125,3 @@ The thermal conductivity at 20 °C is 115 W/(m·K) (798 BTU·in/(hr·ft²·°F))
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1353
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6391
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1353

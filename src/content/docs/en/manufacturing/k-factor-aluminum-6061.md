@@ -69,7 +69,6 @@ The K-factor of 0.33 for 6061‑T6 is only valid when the inner radius is at lea
 
 Select the K-factor according to the temper and the R/T ratio, using 0.33 as a starting point for 6061‑T6 with R/T = 1 and adjusting to 0.40 for 6061‑O. For designs with critical tolerances (< 0.15 mm / 0.006 in on the developed length), perform a test batch and calculate the empirical K-factor from the bent part, correcting the table with the measured value. In multi-bend parts, assign an independent K-factor to each radius to maintain overall accuracy.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/vertikal-cnc-svarvning

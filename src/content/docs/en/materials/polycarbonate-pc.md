@@ -110,23 +110,23 @@ Polycarbonate can be processed by injection, extrusion, thermoforming and blow m
 ## Nomenclature and designations
 In the industrial field, polycarbonate is recognized by the acronym **PC** according to ISO 1043‑1 and ASTM D7611. Some widely known trade names are **Lexan™** (SABIC), **Makrolon®** (Covestro), **Panlite®** (Teijin) and **Calibre™** (Trinseo). Specific grades include general purpose, flame retardant (V‑0, V‑2), UV-stabilized, glass fiber reinforced (PC‑GF) and blends such as PC/ABS or PC/PBT for engineering applications.
 
-## FAQ
-**1. What is the typical density of polycarbonate?**
+## Frequently Asked Questions (FAQ)
+### What is the typical density of polycarbonate?
 The density of standard unreinforced polycarbonate is 1.20 g/cm³ (74.9 lb/ft³), reaching up to 1.22 g/cm³ in some grades and up to 1.38 g/cm³ in conductive versions with carbon filler.
 
-**2. What impact strength does PC offer compared to other plastics?**
+### What impact strength does PC offer compared to other plastics?
 Polycarbonate exhibits an Izod impact strength between 600 J/m and 850 J/m (11–16 ft·lb/in), making it one of the toughest thermoplastics, exceeding glass by more than 30 times and polymethyl methacrylate (PMMA) by about 10 times.
 
-**3. Up to what temperature can polycarbonate work continuously?**
+### Up to what temperature can polycarbonate work continuously?
 The continuous service temperature in air ranges from 115 °C to 130 °C (239–266 °F), while the glass transition temperature (Tg) is 147 °C (297 °F), marking the limit of structural rigidity.
 
-**4. Is polycarbonate resistant to ultraviolet radiation?**
+### Is polycarbonate resistant to ultraviolet radiation?
 Without protection, polycarbonate has fair UV resistance and tends to yellow with prolonged outdoor exposure. Grades stabilized by coextrusion or UV-absorbing additives significantly improve long-term performance, being classified as "UV-resistant".
 
-**5. What chemicals damage polycarbonate?**
+### What chemicals damage polycarbonate?
 PC is attacked by concentrated acids, ketones, aromatic hydrocarbons, and some concentrated alkalis. Conversely, it shows good resistance to diluted acids, alcohols, fats and oils, as well as fresh and salt water.
 
-**6. What is the thermal conductivity of polycarbonate?**
+### What is the thermal conductivity of polycarbonate?
 The thermal conductivity of PC at 23 °C is low, with a value of 0.19–0.22 W/(m·K) (1.32–1.53 BTU·in/(h·ft²·°F)), making it an effective thermal insulator suitable for glazing applications requiring energy control.
 
 ## References
@@ -135,8 +135,3 @@ The thermal conductivity of PC at 23 °C is low, with a value of 0.19–0.22 W/(
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-properties-d_1222.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=591
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/properties.aspx?ArticleID=2008
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-properties-d_1222.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=591

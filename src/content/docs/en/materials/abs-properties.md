@@ -118,7 +118,7 @@ ABS offers an optimal balance between impact resistance, stiffness and cost, sur
 - During 3D printing or thermoforming it emits ultrafine particles (UFP) and volatile organic compounds (VOCs). Work must be carried out in ventilated spaces with appropriate filtration.
 - Prolonged exposure to sunlight causes photodegradation, yellowing and loss of mechanical properties.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the density of ABS?
 The density of ABS ranges between 1.06 and 1.08 g/cm³ (0.0383–0.0390 lb/in³), making it a lightweight yet rigid thermoplastic suitable for structural components not subjected to extreme loads.
@@ -138,8 +138,7 @@ ABS resists dilute acids, bases and oils well, but is attacked by aromatic hydro
 ### How long should ABS be dried before processing?
 For most injection molding or extrusion processes, it is recommended to dry the granules at 90 °C for 2 hours. Insufficient drying can cause surface defects such as moisture marks or bubbles.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=362
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/physical-properties-thermoplastics-d_808.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=868

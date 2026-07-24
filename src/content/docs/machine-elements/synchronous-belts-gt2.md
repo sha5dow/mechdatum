@@ -100,23 +100,23 @@ Una correcta instalación comienza con la alineación de las poleas, que debe ma
 - **Industria alimentaria y farmacéutica**: bandas HTD en acero inoxidable para transportadores sincronizados, funcionando en rangos de temperatura de **‑10 °C a 80 °C / 14 °F a 176 °F**.
 - **Máquinas herramienta**: perfiles HTD 8M y 14M se emplean en accionamientos secundarios de fresadoras y tornos con potencias de **1 kW a 5 kW / 1,34 HP a 6,7 HP**.
 
-## Preguntas frecuentes
-1. **¿Cuál es el paso exacto de una banda GT2?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es el paso exacto de una banda GT2?
    El paso es de **2 mm / 0,0787 in**, y es el mismo para todas las longitudes y anchos de la serie.
 
-2. **¿Qué temperatura máxima soporta una banda GT2 de neopreno?**  
+### ¿Qué temperatura máxima soporta una banda GT2 de neopreno?
    La temperatura de trabajo continuo llega a **82 °C / 180 °F**; por encima de **100 °C / 212 °F** el material se degrada rápidamente.
 
-3. **¿Cuánto par puede transmitir una GT2 de 6 mm a 1 000 rpm?**  
+### ¿Cuánto par puede transmitir una GT2 de 6 mm a 1 000 rpm?
    Con una polea de 20 dientes puede transmitir aproximadamente **1,15 N·m / 0,85 lbf·ft**, equivalentes a unos **0,12 kW / 0,16 HP**.
 
-4. **¿Cuál es la vida útil esperada de una banda HTD en condiciones normales?**  
+### ¿Cuál es la vida útil esperada de una banda HTD en condiciones normales?
    Los fabricantes estiman entre **15 000 y 20 000 horas** de funcionamiento continuo si se respetan las condiciones de tensionado y alineación.
 
-5. **¿Cada cuánto debe inspeccionarse la tensión de una banda síncrona?**  
+### ¿Cada cuánto debe inspeccionarse la tensión de una banda síncrona?
    Se recomienda verificar la tensión cada **500 horas de servicio** o en cada parada programada de mantenimiento.
 
-6. **¿Influye el número de dientes de la polea en la potencia transmisible?**  
+### ¿Influye el número de dientes de la polea en la potencia transmisible?
    Sí; al disminuir de **20 a 14 dientes** en una polea GT2, la potencia admisible se reduce alrededor del **15 %** debido al menor ángulo de abrace.
 
 ## Fuentes consultadas

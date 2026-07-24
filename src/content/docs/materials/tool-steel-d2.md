@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero herramienta D2 es un acero de alto carbono y alto cromo para trabajo en frío, perteneciente al grupo D de la clasificación AISI. Su contenido de carbono oscila entre 1.40 y 1.60 %, con un cromo de 11.00 a 13.00 %, lo que le confiere una resistencia al desgaste excepcional. Presenta temple al aire y buena estabilidad dimensional, siendo el grado más utilizado de su grupo para aplicaciones que requieren largas series de producción.
 
 ## Composición química

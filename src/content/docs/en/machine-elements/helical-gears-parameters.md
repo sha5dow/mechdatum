@@ -74,7 +74,7 @@ The following tables offer a quick selection guide based on standard diametral p
 | High continuous speed               | 15°–20° / 0.26–0.35 rad | 20° / 0.35 rad      | Carbon steel, > 50 HRC / > 50 HRC |
 | Quiet, low shock load               | 30°–45° / 0.52–0.79 rad | 20° / 0.35 rad      | Stainless steel, unhardened        |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 ### Which helix angle minimizes axial load in parallel-shaft transmissions?
 A low helix angle of 15° / 0.26 rad reduces the axial load to approximately 27% of the tangential load, being the technical option to minimize thrust in high-speed reducers.
 
@@ -98,7 +98,3 @@ Because a helix angle of 45° / 1.57 rad makes the axial force equal to the tang
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gears-d_1307.html
 - **mcmaster.com**: https://www.mcmaster.com/products/helical-gears/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gears-d_1307.html
-- **mcmaster.com**: https://www.mcmaster.com/products/helical-gears/

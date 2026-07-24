@@ -104,23 +104,23 @@ Las roscas NPT no son intercambiables con otras roscas cónicas, en particular c
 - Roscado directo de tuberías de acero, latón, PVC y otros materiales en aplicaciones donde se requiera desmontaje ocasional.
 - Instrumentación y accesorios de fontanería (válvulas, filtros, manómetros) bajo normas NPT.
 
-## FAQ
-**¿Cuál es la conicidad de una rosca NPT?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la conicidad de una rosca NPT?
 La conicidad es de 1 en 16, lo que genera un ángulo de 1° 47′ 24″ (1,7899°) respecto al eje del tubo, equivalente a 62,5 mm por metro.
 
-**¿Cuántos hilos por pulgada tiene una rosca NPT de 1/2″?**  
+### ¿Cuántos hilos por pulgada tiene una rosca NPT de 1/2″?
 Tiene 14 hilos por pulgada, correspondientes a un paso de 1,814 mm / 0.0714 in.
 
-**¿Qué diámetro de broca se necesita para machuelar una rosca NPT de 1/4″?**  
+### ¿Qué diámetro de broca se necesita para machuelar una rosca NPT de 1/4″?
 La broca recomendada es de 11,11 mm / 7/16 in para el macho de roscar correspondiente.
 
-**¿Cuál es el diámetro exterior nominal de un tubo con rosca NPT de 2″?**  
+### ¿Cuál es el diámetro exterior nominal de un tubo con rosca NPT de 2″?
 El diámetro exterior nominal es de 60,33 mm / 2.375 in.
 
-**¿Cuál es la longitud de roscado aproximada para una rosca NPT de 3/4″?**  
+### ¿Cuál es la longitud de roscado aproximada para una rosca NPT de 3/4″?
 Aproximadamente 19,05 mm / 0.75 in, con un total de 10 hilos de rosca cortados.
 
-**¿Qué torque de apriete se recomienda para un accesorio NPT de 1″ en acero?**  
+### ¿Qué torque de apriete se recomienda para un accesorio NPT de 1″ en acero?
 Un valor típico de montaje es 81 N·m / 60 ft·lbf, siempre verificable con las especificaciones del fabricante.
 
 ## Fuentes consultadas

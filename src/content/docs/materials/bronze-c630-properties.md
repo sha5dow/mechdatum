@@ -89,24 +89,24 @@ La resistencia a la corrosión y las propiedades mecánicas elevadas del bronce 
 
 Frente a los bronces al aluminio sin níquel (por ejemplo, CuAl10Fe3), el C630 ofrece mayor resistencia a la corrosión marina y retención de propiedades mecánicas a temperaturas elevadas gracias al contenido de níquel. En comparación con aceros inoxidables austeníticos, presenta una densidad un 5‑10% inferior, conductividad térmica cuatro veces superior y carácter no magnético, lo que lo hace idóneo para envolventes de sonar y equipos sensibles a campos magnéticos. Respecto a otros bronces de la serie C632 (CuAl9Ni4Fe4), el C630 se distingue por una composición ligeramente más rica en aluminio y menor contenido de hierro, lo que le confiere mayor resistencia a la tracción pero una soldabilidad más limitada.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción del bronce C630?**
+### ¿Cuál es la resistencia a la tracción del bronce C630?
 La resistencia a la tracción del bronce C630 es 760 MPa en estado forjado.
 
-**¿Cuál es la dureza Rockwell B del bronce C630?**
+### ¿Cuál es la dureza Rockwell B del bronce C630?
 La dureza Rockwell B del bronce C630 es 94.
 
-**¿A qué temperatura funde el bronce C630?**
+### ¿A qué temperatura funde el bronce C630?
 El bronce C630 funde a 1035 °C.
 
-**¿Cuál es el índice de maquinabilidad del bronce C630?**
+### ¿Cuál es el índice de maquinabilidad del bronce C630?
 El índice de maquinabilidad del bronce C630 es 30, referido a una escala donde el latón C36000 equivale a 100.
 
-**¿Qué conductividad térmica tiene el bronce C630 a 20 °C?**
+### ¿Qué conductividad térmica tiene el bronce C630 a 20 °C?
 La conductividad térmica del bronce C630 a 20 °C es 37.7 W/m·K.
 
-**¿Cuál es el coeficiente de dilatación térmica del bronce C630 entre 20 °C y 300 °C?**
+### ¿Cuál es el coeficiente de dilatación térmica del bronce C630 entre 20 °C y 300 °C?
 El coeficiente de dilatación térmica del bronce C630 entre 20 °C y 300 °C es 16.2 µm/m·°C.
 
 ## Fuentes consultadas

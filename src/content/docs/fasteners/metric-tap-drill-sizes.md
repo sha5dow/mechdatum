@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Las brocas para roscar métricas definen el diámetro exacto del agujero previo necesario para tallar una rosca interior normalizada según el sistema de paso métrico ISO. La tabla abarca los tamaños nominales más empleados en ingeniería mecánica, desde M3 hasta M20, e incluye los pasos de rosca bastos estándar conforme a ISO 724 / DIN 13-1. Una perforación precisa evita roturas del macho, reduce el par de roscado y asegura un porcentaje de rosca completo que mantiene la resistencia del ensamble.
 
 ## Tabla de brocas para machos de roscar métricos
@@ -84,24 +83,23 @@ Las brocas para roscar métricas definen el diámetro exacto del agujero previo 
 
 Las roscas métricas bastas utilizadas en esta referencia responden al perfil unificado definido por ISO 724 – *Rosca métrica de uso general – Dimensiones básicas*. La norma alemana DIN 13-1 es dimensionalmente idéntica a ISO 724 para las roscas de paso basto, por lo que los datos de broca, diámetro nominal y paso son intercambiables. En el ámbito norteamericano, la serie métrica está contemplada en ANSI/ASME B1.13M, que adopta el mismo perfil de filete (60°) y las mismas tolerancias. No existe diferencia técnica entre un agujero roscado según DIN e ISO; ambas exigen el mismo diámetro de broca previo al macho. La tabla de agujeros pasantes sigue la clasificación ISO 273 – *Agujeros pasantes para tornillos* – que establece las series fina, media y basto, equivalentes a las tolerancias de montaje H12, H13 y H14 respectivamente.
 
-## Preguntas frecuentes
-
-**1. ¿Cuál es la broca correcta para roscar un agujero M12 x 1,75?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la broca correcta para roscar un agujero M12 x 1,75?
 Se requiere una broca de 10,25 mm / 0.4035 in para el macho M12 de paso basto. Este valor resulta de restar el paso al diámetro nominal (12 – 1,75 = 10,25 mm) y produce un porcentaje de rosca cercano al 77 %, el equilibrio óptimo entre resistencia y par de roscado.
 
-**2. ¿Con qué torque se debe apretar un tornillo M8 de clase 8.8 en seco?**  
+### ¿Con qué torque se debe apretar un tornillo M8 de clase 8.8 en seco?
 El par de apriete máximo recomendado para un tornillo M8 clase 8.8 montado en seco es de 9,5 N·m / 7,0 ft·lb. Este valor se basa en un coeficiente de fricción aproximado de μ = 0,14 y genera una precarga de unos 80 % del límite elástico del tornillo.
 
-**3. ¿Qué carga de tracción admisible soporta un tornillo M16 de clase 8.8?**  
+### ¿Qué carga de tracción admisible soporta un tornillo M16 de clase 8.8?
 La carga de prueba (90 % del límite elástico) para un M16 clase 8.8 es de aproximadamente 91,0 kN / 20460 lbf. Para cálculos de diseño se suele aplicar un factor de seguridad adicional de 1,5 a 2 sobre este valor.
 
-**4. ¿Existe diferencia entre las normas DIN 13 e ISO 724 para roscas métricas bastas?**  
+### ¿Existe diferencia entre las normas DIN 13 e ISO 724 para roscas métricas bastas?
 Ambas especifican el mismo perfil de rosca de 60° y las mismas dimensiones básicas (diámetro mayor, paso, diámetro medio). Son dimensionalmente intercambiables; las diferencias se limitan a la presentación de tolerancias, que en cualquier caso no afectan al tamaño de broca.
 
-**5. ¿Cuál es el paso estándar de un tornillo M20?**  
+### ¿Cuál es el paso estándar de un tornillo M20?
 El paso basto normalizado para M20 es de 2,5 mm / 0.0984 in. Existen pasos finos (M20 x 2,0, x 1,5, x 1,0) pero la tabla de brocas común se refiere al paso basto.
 
-**6. ¿Qué broca imperial se aproxima más a la necesaria para un macho M10 x 1,5?**  
+### ¿Qué broca imperial se aproxima más a la necesaria para un macho M10 x 1,5?
 La broca de 11/32 in equivale a 8,73 mm, mientras que la medida recomendada es 8,50 mm / 0.3346 in; la 11/32 in sobredimensiona ligeramente el agujero. La opción métrica directa (8,5 mm) proporciona un mayor porcentaje de rosca y se prefiere siempre que se disponga de ella.
 
 ## Fuentes consultadas

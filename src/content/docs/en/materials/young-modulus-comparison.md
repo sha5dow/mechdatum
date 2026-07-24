@@ -100,28 +100,27 @@ Specific stiffness (Young modulus / density) is presented, a useful parameter fo
 
 Carbon fiber composites show the highest specific stiffness among common engineering materials.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the Young modulus of stainless steel 304?**
+### What is the Young modulus of stainless steel 304?
 Stainless steel 304 has a Young modulus between 190 GPa and 203 GPa (27,6×10⁶ psi to 29,4×10⁶ psi), depending on the treatment and exact composition within the standard.
 
-**Which material has the highest Young modulus?**
+### Which material has the highest Young modulus?
 Diamond has the highest Young modulus at 1220 GPa, followed by monolayer graphene at approximately 1000 GPa and silicon carbide with a range of 450 to 650 GPa.
 
-**What is the Young modulus of a structural steel S275JR?**
+### What is the Young modulus of a structural steel S275JR?
 Structural steel S275JR has a Young modulus of approximately 200 GPa (29,0×10⁶ psi), a value similar to that of most unalloyed carbon steels.
 
-**Which material combines high stiffness and low density?**
+### Which material combines high stiffness and low density?
 Carbon fiber reinforced plastic (CFRP) achieves a specific stiffness of around 93,8 GPa·m³/Mg, approximately 3.7 times higher than that of stainless steel 304.
 
-**What is the stiffness difference between aluminum and steel?**
+### What is the stiffness difference between aluminum and steel?
 Pure aluminum has a Young modulus of 69 GPa (10,0×10⁶ psi), while a typical structural steel reaches 200 GPa; this means steel is about 2.9 times stiffer than aluminum.
 
-**How do you convert Young modulus from GPa to psi?**
+### How do you convert Young modulus from GPa to psi?
 The conversion is 1 GPa = 145,038 psi; for example, a value of 200 GPa equals 29,0×10⁶ psi.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=965
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/young-modulus-d_417.html
 - **steelnumber.com**: https://www.steelnumber.com/en/compare_steel_eu.php?name_id_3=3&name_id_4=8&count_mat=19

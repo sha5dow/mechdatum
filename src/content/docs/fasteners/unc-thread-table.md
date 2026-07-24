@@ -148,23 +148,22 @@ No existe intercambiabilidad directa entre roscas UNC y roscas métricas ISO/DIN
 *Las equivalencias son orientativas; nunca debe forzarse el intercambio entre sistemas de rosca.*
 
 ## Preguntas frecuentes (FAQ)
-
-**¿Qué diferencia el paso de una rosca UNC del de una rosca UNF para un mismo diámetro?**  
+### ¿Qué diferencia el paso de una rosca UNC del de una rosca UNF para un mismo diámetro?
 La rosca UNC tiene siempre menos hilos por pulgada que la UNF: por ejemplo, 1/4"–20 UNC presenta un paso de 1,270 mm / 0,0500 in, mientras que 1/4"–28 UNF tiene un paso de 0,907 mm / 0,0357 in.
 
-**¿Cuál es el ángulo de flanco de la rosca UNC?**  
+### ¿Cuál es el ángulo de flanco de la rosca UNC?
 El perfil básico de la rosca UNC es simétrico en V con un ángulo incluido de 60°, idéntico al de las roscas métricas ISO.
 
-**¿Qué norma regula las dimensiones de las roscas UNC?**  
+### ¿Qué norma regula las dimensiones de las roscas UNC?
 Las roscas UNC están definidas en la norma estadounidense ANSI/ASME B1.1 – Unified Inch Screw Threads, que unifica los estándares de EE. UU. y Canadá.
 
-**¿Cómo se designa correctamente una rosca exterior UNC 1/4"–20?**  
+### ¿Cómo se designa correctamente una rosca exterior UNC 1/4"–20?
 Se escribe 1/4–20 UNC, indicando primero el diámetro nominal en pulgadas, luego el número de hilos por pulgada y por último la sigla de la serie.
 
-**¿Qué tamaño de broca debo usar para un machuelo 3/8"–16 UNC?**  
+### ¿Qué tamaño de broca debo usar para un machuelo 3/8"–16 UNC?
 Para un machuelo 3/8"–16 UNC se utiliza una broca de 8,25 mm / 0,325 in, que corresponde a la fracción 5/16" o a la letra «O».
 
-**¿Cuál es la carga de prueba típica de un perno 1/2"–13 UNC Grado 5?**  
+### ¿Cuál es la carga de prueba típica de un perno 1/2"–13 UNC Grado 5?
 Un perno 1/2"–13 UNC Grado 5 tiene una carga de prueba de aproximadamente 53,7 kN / 12 062 lbf, calculada sobre un área de esfuerzo de 0,1419 in² y una tensión de prueba de 85 ksi.
 
 ## Fuentes consultadas

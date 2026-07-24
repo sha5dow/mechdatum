@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General overview
 AISI 1060 steel is a carbon steel with a nominal carbon content of 0.60%, classified as a non-alloyed high-carbon steel. It exhibits excellent hardenability, good wear resistance, and moderate ductility in cold drawn condition. It is commonly supplied in bars, wire, and sheet, and is used where a combination of toughness and hardness is required after heat treatment.
 
 ## Chemical composition
@@ -143,24 +142,24 @@ Compared to other 10xx series carbon steels, 1060 offers an intermediate balance
 - Machinability in annealed or normalized condition is acceptable (≈50 % relative to B1112 steel), but quenching can generate hard zones that hinder subsequent machining.
 - In corrosive environments, surface protection (painting, galvanizing, phosphating) is necessary because it does not offer intrinsic corrosion resistance.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the carbon content of 1060 steel?**
+### What is the carbon content of 1060 steel?
 The carbon content of 1060 steel is between 0.55% and 0.66% by weight, which classifies it as a high-carbon steel.
 
-**What is the tensile strength of 1060 steel in cold drawn condition?**
+### What is the tensile strength of 1060 steel in cold drawn condition?
 In cold drawn condition, the tensile strength is 620 MPa (89 900 psi), according to the AISI 1060 technical datasheet.
 
-**What is the typical Brinell hardness of 1060 steel?**
+### What is the typical Brinell hardness of 1060 steel?
 Brinell hardness in cold drawn condition is 183 HB; after quenching and tempering it can exceed 350 HB depending on tempering temperature.
 
-**Which European designation is equivalent to 1060 steel?**
+### Which European designation is equivalent to 1060 steel?
 The equivalent European designation is C60 (1.0601), a non-alloy steel with a carbon content of approximately 0.60%.
 
-**At what temperature is 1060 steel forged?**
+### At what temperature is 1060 steel forged?
 Forging of 1060 steel is carried out at temperatures between 950 °C and 1200 °C, avoiding prolonged heating above 1200 °C.
 
-**Can 1060 steel be welded?**
+### Can 1060 steel be welded?
 Yes, but it requires preheating from 150 °C to 260 °C and a post-weld heat treatment to avoid the formation of hard and brittle phases in the welded zone.
 
 ## References
@@ -169,8 +168,3 @@ Yes, but it requires preheating from 150 °C to 260 °C and a post-weld heat tre
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/material-properties-t_24.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=154
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=6542
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/material-properties-t_24.html
-- **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=154

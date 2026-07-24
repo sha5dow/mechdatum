@@ -15,7 +15,6 @@ verified: true
 
 Los rodamientos de empuje son elementos rotativos diseñados para soportar cargas predominantemente axiales, con capacidades que abarcan desde unos pocos newtons hasta más de 500 kN (56,2 toneladas-fuerza) en aplicaciones industriales pesadas.
 
-## Descripción general
 El rodamiento de empuje es un tipo particular de rodamiento que, a diferencia de los radiales, está optimizado para transferir fuerzas paralelas al eje de rotación. Su principio de funcionamiento se basa en elementos rodantes (bolas, rodillos cilíndricos, cónicos o esféricos) interpuestos entre dos arandelas o discos, o bien en películas de fluido a presión que eliminan el contacto metálico. La selección del tipo adecuado depende de la magnitud de la carga axial, la velocidad de giro, la presencia de cargas radiales combinadas y la precisión de alineación requerida.
 
 ## Tipos de rodamientos de empuje
@@ -90,7 +89,7 @@ La elección del rodamiento de empuje correcto se basa en los siguientes paráme
 | Centrífuga de laboratorio de ultracentrifugación | Magnético | Velocidades por encima de 100 000 rpm, entorno limpio y necesidad de fricción nula para precisión analítica. |
 | Horno rotatorio de cemento | Rodillos esféricos de empuje | Grandes cargas axiales y radiales combinadas, desalineaciones debidas a dilatación térmica y baja velocidad (5‑20 rpm). |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 - **¿Cuál es la capacidad de carga de un rodamiento de bolas de empuje típico de 50 mm de diámetro interior?**  
   Un rodamiento de bolas de empuje de 50 mm / 1,969 in de diámetro interior tiene una capacidad de carga dinámica axial en torno a 35 kN / 3,9 tf según la serie dimensional ligera, suficiente para aplicaciones como husillos de máquina herramienta.
 - **¿Hasta qué velocidad puede girar un rodamiento de rodillos cilíndricos de empuje?**  

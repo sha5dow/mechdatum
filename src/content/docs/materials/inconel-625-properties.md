@@ -115,23 +115,23 @@ El Inconel 625 exhibe una resistencia excepcional a la corrosión en una amplia 
 - Tubo
 - Alambre
 
-## Preguntas frecuentes
-1. **¿Cuál es la densidad del Inconel 625?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la densidad del Inconel 625?
    La densidad es de 8,4 g/cm³ (0,303 lb/in³) a temperatura ambiente.
 
-2. **¿Cuál es la resistencia a la tracción típica?**  
+### ¿Cuál es la resistencia a la tracción típica?
    En estado laminado oscila entre 827 y 1103 MPa (120‑160 ksi), mientras que en estado recocido se encuentra entre 827 y 1034 MPa (120‑150 ksi).
 
-3. **¿Cuál es la temperatura de fusión?**  
+### ¿Cuál es la temperatura de fusión?
    El intervalo de fusión va de 1288 °C a 1349 °C (2350‑2460 °F).
 
-4. **¿Cuál es la dureza Brinell?**  
+### ¿Cuál es la dureza Brinell?
    En condición de laminado, la dureza Brinell se sitúa entre 175 HB y 240 HB.
 
-5. **¿Cuál es el módulo de elasticidad?**  
+### ¿Cuál es el módulo de elasticidad?
    Para el material recocido a temperatura ambiente, el módulo de Young es de 207,5 GPa (30,1 Msi), y disminuye a 147,5 GPa (21,4 Msi) a 871 °C (1600 °F).
 
-6. **¿Qué elongación se puede esperar?**  
+### ¿Qué elongación se puede esperar?
    La elongación en rotura varía entre un 30 % y un 60 %, dependiendo del estado de tratamiento.
 
 ## Fuentes consultadas

@@ -114,24 +114,24 @@ La extrusión es la opción óptima cuando se requiere un perfil de sección tra
 
 Casos típicos de aplicación: perfiles para marcos de ventanas y puertas, disipadores de calor, rieles, componentes estructurales de aeronaves, tubos para intercambiadores de calor.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la presión máxima que se puede alcanzar en la extrusión en caliente de acero?**
+### ¿Cuál es la presión máxima que se puede alcanzar en la extrusión en caliente de acero?
 La presión máxima en la extrusión de acero puede llegar a 700 MPa / 101,5 ksi, dependiendo de la relación de extrusión y la temperatura del tocho.
 
-**2. ¿Qué espesor mínimo de pared se puede lograr en un perfil de aluminio extruido?**
+### ¿Qué espesor mínimo de pared se puede lograr en un perfil de aluminio extruido?
 El espesor mínimo de pared alcanzable en aluminio es de 1 mm / 0.040 in, siempre que la geometría lo permita y la matriz esté adecuadamente diseñada.
 
-**3. ¿Qué rugosidad superficial (Ra) se obtiene típicamente en la extrusión de aluminio?**
+### ¿Qué rugosidad superficial (Ra) se obtiene típicamente en la extrusión de aluminio?
 La extrusión de aluminio y magnesio produce un acabado superficial de 0,8 µm Ra / 30 µin, sin necesidad de operaciones adicionales.
 
-**4. ¿A qué temperatura se extruye la aleación de aluminio 6063?**
+### ¿A qué temperatura se extruye la aleación de aluminio 6063?
 La aleación 6063 se extruye en caliente en un rango de 350 °C a 500 °C / 662 °F a 932 °F, lo que representa entre el 50 % y el 75 % de su temperatura de fusión.
 
-**5. ¿Cuál es la relación de extrusión habitual para perfiles de aluminio?**
+### ¿Cuál es la relación de extrusión habitual para perfiles de aluminio?
 La relación de extrusión para aluminio varía típicamente entre 10:1 y 100:1, permitiendo reducciones de área muy significativas en una sola pasada.
 
-**6. ¿Qué radio de esquina mínimo se puede obtener en una pieza de acero extruido?**
+### ¿Qué radio de esquina mínimo se puede obtener en una pieza de acero extruido?
 El radio de esquina mínimo para acero extruido es de 0,8 mm / 0.030 in, mientras que el radio de empalme (fillet) mínimo es de 4 mm / 0.120 in.
 
 ## Fuentes consultadas

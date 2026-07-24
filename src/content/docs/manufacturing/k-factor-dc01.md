@@ -82,24 +82,24 @@ Estos valores asumen máquinas de plegado con repetibilidad posicional de ±0,01
 ## Guía de selección
 Para plegado en aire de DC01 con una matriz en V estándar (apertura = 8 × espesor), utilizar el factor K de la tabla del espesor correspondiente. Si la relación V/t es mayor (10–12), el radio interior aumenta y debe seleccionarse un factor K ligeramente superior (sumar 0,02–0,04). En piezas donde la dirección de granulación es desconocida o mixta, se recomienda emplear el valor medio de 0,40 para espesores ≤ 2 mm y 0,35 para espesores > 2 mm. Siempre se aconseja validar las primeras piezas con medición sobre muestra real, ajustando el K según la desviación observada.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el factor K recomendado para DC01 de 1,5 mm de espesor en plegado a 90°?**
+### ¿Cuál es el factor K recomendado para DC01 de 1,5 mm de espesor en plegado a 90°?
 El factor K recomendado es 0,38 para una matriz en V de 12 mm / 0.472 in y radio interior de 2,0 mm / 0.079 in, plegando en dirección paralela al grano.
 
-**¿Cuánto vale el factor K si se pliega DC01 transversalmente al grano?**
+### ¿Cuánto vale el factor K si se pliega DC01 transversalmente al grano?
 En plegado transversal al grano el factor K suele aumentar entre 0,02 y 0,05; para un espesor de 2,0 mm / 0.079 in, el valor de 0,36 puede pasar a 0,38–0,41 dependiendo de la severidad del estirado.
 
-**¿El factor K varía con el ángulo de plegado?**
+### ¿El factor K varía con el ángulo de plegado?
 Para ángulos entre 60° y 120° el factor K en DC01 se mantiene prácticamente constante, con variaciones inferiores a ±0,02 respecto a los valores tabulados para 90°.
 
-**¿Qué tolerancia de desarrollo puedo esperar usando el factor K = 0,40 para DC01 de 1 mm?**
+### ¿Qué tolerancia de desarrollo puedo esperar usando el factor K = 0,40 para DC01 de 1 mm?
 Usando un factor K de 0,40 en DC01 de 1,0 mm / 0.039 in, la tolerancia típica sobre la longitud desarrollada total de la pieza es de ±0,12 mm / ±0.005 in.
 
-**¿El factor K se utiliza igual en plegado por aire y en estampado de fondo?**
+### ¿El factor K se utiliza igual en plegado por aire y en estampado de fondo?
 No: en estampado de fondo el material se comprime severamente contra el utillaje y el eje neutro se desplaza más hacia la tabla interna; el factor K puede ser 0,05 menor que en plegado por aire en las mismas condiciones nominales.
 
-**¿Para espesores por encima de 3 mm / 0.118 in en DC01 se puede extrapolar la tabla?**
+### ¿Para espesores por encima de 3 mm / 0.118 in en DC01 se puede extrapolar la tabla?
 Por encima de 3 mm / 0.118 in la relación R/T suele ser menor y los efectos de la deformación heterogénea hacen que el factor K no sea lineal; se recomienda determinar experimentalmente un valor específico en lugar de extrapolar.
 
 ## Fuentes consultadas

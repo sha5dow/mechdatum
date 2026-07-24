@@ -154,7 +154,7 @@ El grado EN-GJS-500-7 posee una resistencia a la tracción mínima de 500 MPa y 
 
 Para piezas de gran espesor (30‑60 mm y 60‑200 mm) las propiedades mínimas se reducen según lo estipulado en la norma. Equivalencias adicionales pueden consultarse en ASTM A536, A395 y otras normativas regionales.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la resistencia a la tracción típica de la fundición nodular?
 La resistencia a la tracción de la fundición nodular varía desde 350 MPa (50.8 ksi) en grados ferríticos hasta 1000 MPa (145 ksi) en calidades tratadas térmicamente como la ADI. El valor exacto depende del grado, el espesor y el tratamiento térmico aplicado.

@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Overview
-
 The design for manufacturing (DFM) rules for sheet metal establish guidelines so that parts can be produced consistently, economically, and without defects, taking advantage of the capabilities of cutting, bending, punching, and deep drawing processes. The fundamental principles drawn from good industrial design practices recommend simplifying geometry, reducing the number of components whenever feasible, standardizing repetitive elements (such as hole diameters or thread types), and planning part orientation for automated handling. In the case of deep drawing, rule-based analysis indicates that material formability, punch-to-die clearance, corner radii, and blank holding force are critical to avoid tearing, wrinkling, or fractures.
 
 ## Applicable Materials
@@ -84,7 +82,7 @@ The design for manufacturing (DFM) rules for sheet metal establish guidelines so
 | Low-rigidity or large-surface parts | Bending with stiffening ribs or bead drawing | Incorporate reinforcements to prevent buckling deformation |
 | Welded or assembled parts | Design tabs, centering flanges or weld points | Minimize additional fasteners; ensure electrode access |
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
 ### What is the minimum bend radius for mild steel?
 
@@ -110,8 +108,7 @@ The most common thicknesses for sheet metal parts range from 0,5 mm / 0.020 in t
 
 The die corner radius in a drawing operation for stainless steel 304 should be 5 to 10 times the sheet thickness. With a thickness of 1,0 mm / 0.039 in, the appropriate radius would be between 5 mm and 10 mm / 0.197 in and 0.394 in. Smaller radii cause fractures due to abrupt change in material flow direction.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/paper-drawing-sizes-d_140.html
 - **efunda.com**: https://www.efunda.com/designstandards/
 - **manufacturingguide.com**: https://www.manufacturingguide.com/sv/iindep/design-manufacturing

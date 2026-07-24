@@ -54,7 +54,7 @@ A material with 400 W/(m·K) transfers approximately 20 times more heat than 304
 | Chemical resistance | Medium | High | Polymers |
 | Relative processing cost | Medium | Low | Polymers |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 *   Which metal has the highest thermal conductivity? Silver has the highest conductivity among metals, with 428 W/(m·K) at 0 °C, although copper is the most used industrially with 401 W/(m·K) at 0 °C due to its lower cost.
 *   How does temperature affect the conductivity of aluminum? Pure aluminum maintains 237 W/(m·K) at -73 °C and 220 W/(m·K) at 527 °C; the decrease is gradual up to 327 °C and accelerates slightly above this temperature.
 *   What conductivity value does 304 stainless steel have? 304 stainless steel has a conductivity of 14.4 W/(m·K) at 20 °C, almost 30 times lower than pure copper.
@@ -62,7 +62,6 @@ A material with 400 W/(m·K) transfers approximately 20 times more heat than 304
 *   What is the typical conductivity of phosphor bronze? Bronze with 10% tin (UNS C52400) has 50 W/(m·K) at 20 °C, placing it in an intermediate range between steels and brasses.
 *   What material is recommended for a lightweight heat exchanger? Aluminum alloys such as 3003 rolled offer 190 W/(m·K) with a density of only 2.7 g/cm³, being preferable to steels or copper when weight is critical.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=21382
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html

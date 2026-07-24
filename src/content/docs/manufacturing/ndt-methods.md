@@ -175,24 +175,24 @@ La aplicación correcta de los END exige seguir procedimientos normalizados. Las
 - **ISO 5817**: Niveles de calidad para imperfecciones en uniones soldadas (aplicable a END).
 Estas normas establecen criterios de aceptación, parámetros de ensayo y requisitos mínimos de equipo.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es la temperatura mínima de trabajo permitida para los ensayos por líquidos penetrantes según la mayoría de las normas?**
+### ¿Cuál es la temperatura mínima de trabajo permitida para los ensayos por líquidos penetrantes según la mayoría de las normas?
 La temperatura de la pieza y del penetrante debe mantenerse entre 10 °C / 50 °F y 50 °C / 122 °F, aunque existen penetrantes especiales para rangos ampliados.
 
-**2. ¿Qué espesor máximo de acero puede inspeccionar un equipo de ultrasonidos convencional en un solo barrido?**
+### ¿Qué espesor máximo de acero puede inspeccionar un equipo de ultrasonidos convencional en un solo barrido?
 Con palpadores de baja frecuencia (2 MHz) y buena atenuación, es posible inspeccionar hasta 5000 mm / 197 in de acero laminado.
 
-**3. ¿Qué dosis de radiación recibe un operador durante una radiografía típica de una soldadura de 25 mm de espesor?**
+### ¿Qué dosis de radiación recibe un operador durante una radiografía típica de una soldadura de 25 mm de espesor?
 La dosis ocupacional anual está limitada por ley (generalmente 20 mSv/año). En una exposición individual bien planificada, la dosis recibida por el operador, ubicado tras barreras, puede ser inferior a 0,01 mSv.
 
-**4. ¿Qué tamaño mínimo de grieta puede detectar una inspección visual con lupa de 10 aumentos en condiciones de alta iluminación?**
+### ¿Qué tamaño mínimo de grieta puede detectar una inspección visual con lupa de 10 aumentos en condiciones de alta iluminación?
 Con 2000 lux de iluminación y 10×, se pueden apreciar grietas de aproximadamente 0,01 mm / 0.0004 in de ancho y ≥ 0,2 mm / 0.008 in de longitud.
 
-**5. ¿Cuánto tiempo debe permanecer el penetrante sobre la superficie para asegurar la detección de defectos en acero inoxidable?**
+### ¿Cuánto tiempo debe permanecer el penetrante sobre la superficie para asegurar la detección de defectos en acero inoxidable?
 El tiempo de penetración estándar para penetrantes visibles en acero inoxidable es de 15 min; para penetrantes fluorescentes se recomienda de 30 min a 60 min, dependiendo de la temperatura.
 
-**6. ¿A qué frecuencia se trabaja típicamente en ultrasonidos para inspeccionar forjas de aluminio?**
+### ¿A qué frecuencia se trabaja típicamente en ultrasonidos para inspeccionar forjas de aluminio?
 Para forjas de aluminio de grano fino se utilizan frecuencias de 5 MHz a 10 MHz, lo que permite detectar discontinuidades de 0,5 mm / 0.02 in de diámetro equivalente.
 
 ## Fuentes consultadas

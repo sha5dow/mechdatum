@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Resumen
 El acero AISI 1080 es un acero al carbono de alto contenido en carbono (0.75–0.88 %) que destaca por su excelente templabilidad y elevada resistencia al desgaste. Se suministra comúnmente en estado recocido o normalizado y, tras un tratamiento térmico adecuado, alcanza durezas superficiales muy altas. Sus aplicaciones típicas incluyen muelles, herramientas de corte, cuchillería, alambres de piano y componentes que exigen una combinación de tenacidad y resistencia.
 
 ## Composición química
@@ -87,22 +86,22 @@ El acero AISI 1080 es un acero al carbono de alto contenido en carbono (0.75–0
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la dureza del acero 1080 en estado recocido?**  
+### ¿Cuál es la dureza del acero 1080 en estado recocido?
 El acero 1080 recocido presenta una dureza Brinell de aproximadamente 174 HB, lo que facilita su mecanizado previo al tratamiento térmico.
 
-2. **¿Qué resistencia a la tracción alcanza el acero 1080 después de un temple y revenido a baja temperatura?**  
+### ¿Qué resistencia a la tracción alcanza el acero 1080 después de un temple y revenido a baja temperatura?
 Tras temple en aceite y revenido a 315 °C, la resistencia a la tracción se sitúa alrededor de 1380 MPa (200 ksi), con un límite elástico próximo a 1275 MPa.
 
-3. **¿Cuál es la conductividad térmica típica de este material?**  
+### ¿Cuál es la conductividad térmica típica de este material?
 La conductividad térmica del acero 1080 es de 48.1 W/m·K a 100 °C, valor característico de los aceros de alto carbono.
 
-4. **¿En qué rango de densidad se encuentra el acero AISI 1080?**  
+### ¿En qué rango de densidad se encuentra el acero AISI 1080?
 Su densidad oscila entre 7.7 y 8.03 g/cm³ (0.278–0.290 lb/in³), variando ligeramente en función del proceso de fabricación.
 
-5. **¿Cuál es su coeficiente de expansión térmica?**  
+### ¿Cuál es su coeficiente de expansión térmica?
 En estado recocido, el coeficiente de dilatación térmica lineal es de 14.7 × 10⁻⁶ /°C en el intervalo de 20 a 700 °C.
 
-6. **¿Cuánto carbono contiene exactamente este acero?**  
+### ¿Cuánto carbono contiene exactamente este acero?
 La especificación AISI 1080 exige un contenido de carbono entre 0.75 % y 0.88 %, con un máximo de 0.05 % de azufre y 0.04 % de fósforo.
 
 ## Fuentes consultadas

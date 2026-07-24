@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General overview
 Direct Metal Laser Sintering (DMLS) and Selective Laser Melting (SLM) are powder bed fusion additive manufacturing technologies that use a high-power laser to melt and fuse metal powder layer by layer, creating fully dense metal components. The process is standardized by ASTM as powder bed fusion (PBF). Although commercially presented as distinct processes —DMLS often involves partial sintering and SLM full melting— both terms are used interchangeably today to refer to total material fusion. The typical build volume reaches dimensions of up to 500 mm / 19,69 in on each axis, with large-format machines exceeding 1 m / 39,37 in.
 
 ## Manufacturing process
@@ -108,7 +107,6 @@ Common industrial machines offer build volumes of 250 × 250 × 300 mm / 9,8 × 
 ### How much does an industrial DMLS/SLM printer cost approximately?
 The price range for DMLS/SLM machines starts around 250 000 USD / 250 000 USD and can exceed 1 000 000 USD / 1 000 000 USD for high-productivity systems with multiple lasers.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/designstandards/
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/direct-laser-metal-sintering-dmls

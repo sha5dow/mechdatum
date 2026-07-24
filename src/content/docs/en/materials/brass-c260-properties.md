@@ -96,24 +96,24 @@ Poisson's ratio: 0.34 for all tempers.
 | C280 (Muntz metal) | 60 | 40 | 358 MPa | 40 % | Higher mechanical strength, good suitability for hot working | Ship hull plates, heat exchanger heads, forged parts |
 | C230 (Red brass) | 85 | 15 | 283 MPa | 48 % | Superior corrosion resistance, reddish color | Water pipes, condensers, marine architectural applications |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-- **What is the maximum tensile strength of C260 brass?**  
+### What is the maximum tensile strength of C260 brass?
   The maximum value reaches 896 MPa (130 ksi) in spring temper, although in the annealed condition it is only 303 MPa.
 
-- **At what temperature does C260 brass melt?**  
+### At what temperature does C260 brass melt?
   Melting begins at 916 °C (solidus) and completes at 954 °C (liquidus), corresponding to a melting range of 38 °C.
 
-- **What is the exact density of this alloy?**  
+### What is the exact density of this alloy?
   At 20 °C the density is 8.53 g/cm³, i.e., 8530 kg/m³ in SI units.
 
-- **What elongation does C260 exhibit in the annealed condition?**  
+### What elongation does C260 exhibit in the annealed condition?
   It reaches an elongation of 66 % in a 75 mm gauge length, demonstrating its exceptional plastic deformation capacity.
 
-- **What is the thermal conductivity of C260 brass?**  
+### What is the thermal conductivity of C260 brass?
   Its thermal conductivity is 120 W/m·K at 20 °C, facilitating heat dissipation in electrical and thermal components.
 
-- **Which ASTM standard covers C260 brass sheet?**  
+### Which ASTM standard covers C260 brass sheet?
   The main standard is ASTM B36/B36M, which specifies requirements for cartridge brass sheet.
 
 ## Technical standards
@@ -129,8 +129,7 @@ Poisson's ratio: 0.34 for all tempers.
 - SAE J463: Physical properties of metals.
 - Military specifications: MIL C-10375, MIL S-22499, MIL T-20219.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6341
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_alloy_eu.php?zname_id=1251

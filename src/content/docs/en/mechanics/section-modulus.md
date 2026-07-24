@@ -131,25 +131,24 @@ Working stress = 44 × 10⁶ N·mm / 324 000 mm³ = 135.8 MPa / 
 
 ## Frequently Asked Questions (FAQ)
 
-### 1. What is the section modulus and how is it calculated?
+### What is the section modulus and how is it calculated?
 The elastic section modulus *S* of a rectangular section with width 100 mm and height 200 mm (3.94 in × 7.87 in) is S = b·h²/6 = 100·200²/6 = 666 667 mm³ / 40.68 in³. It represents the geometric capacity to resist elastic bending.
 
-### 2. How is the section modulus related to the bending moment?
+### How is the section modulus related to the bending moment?
 The fundamental relationship is M<sub>y</sub> = S·σ<sub>y</sub>. For a beam with S = 150 000 mm³ (9.15 in³) and σ<sub>y</sub> = 355 MPa (51.5 ksi), the elastic resisting moment is 53.25 kN·m / 39.28 kip·ft.
 
-### 3. What is the difference between elastic modulus S and plastic modulus Z?
+### What is the difference between elastic modulus S and plastic modulus Z?
 S defines the strength up to the first fiber that yields (I/c), while Z considers full plastification of the section. In a rectangle of 50 mm × 100 mm (1.97 in × 3.94 in): S = 83 333 mm³ / 5.08 in³, Z = 125 000 mm³ / 7.63 in³ (shape factor 1.5).
 
-### 4. Which modulus should be used in seismic zones?
+### Which modulus should be used in seismic zones?
 In capacity design, the plastic modulus Z is used to ensure that the plastic hinge reaches moment M<sub>p</sub>. For example, an IPE 300 section has S<sub>x</sub> ≈ 557 000 mm³ (34.0 in³) and Z<sub>x</sub> ≈ 628 000 mm³ (38.3 in³), 12.7% higher.
 
-### 5. How does orientation influence the section modulus of an I-section?
+### How does orientation influence the section modulus of an I-section?
 An I-section subjected to bending about its strong axis (S<sub>x</sub>) can have a value 10 times greater than about the weak axis (S<sub>y</sub>); for example, S<sub>x</sub> ≈ 1 000 cm³ (61.0 in³) versus S<sub>y</sub> ≈ 100 cm³ (6.10 in³) in an IPE 300, which requires orienting the web in the direction of the main load.
 
-### 6. What is the typical section modulus of a hollow circular tube?
+### What is the typical section modulus of a hollow circular tube?
 For a steel tube with outer diameter D = 100 mm (3.94 in) and wall thickness t = 5 mm (0.197 in), the elastic section modulus S = π·(D⁴‑d⁴)/(32·D) ≈ 36 000 mm³ / 2.20 in³, much lower than an I-section of similar weight but effective when there is combined torsion or compression.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/material_science/section_modulus_12893.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/beams/casestudy_bc_simple.cfm

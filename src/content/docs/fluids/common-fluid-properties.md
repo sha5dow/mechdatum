@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 Las propiedades de los fluidos determinan su comportamiento en aplicaciones de transferencia de calor, flujo en tuberías y lubricación. La densidad, viscosidad, calor específico y conductividad térmica varían con la temperatura y la presión, por lo que los datos de referencia se presentan a condiciones de saturación. El agua es el fluido de trabajo más común; sus propiedades se listan como base de diseño. Para otros fluidos como aceites, se indican valores típicos a temperatura ambiente para comparación.
 
 ## Propiedades físicas
@@ -74,22 +73,22 @@ Las propiedades de los fluidos intervienen en numerosas correlaciones de ingenie
 La elección de un fluido de trabajo depende de los requisitos de transferencia de calor, lubricación, estabilidad química y rango de temperaturas. Un alto calor específico favorece el almacenamiento y transporte de energía (agua, aceites térmicos). La viscosidad alta mejora la lubricación pero aumenta las pérdidas por fricción; en sistemas hidráulicos se prefieren viscosidades entre 20 cSt / 2,2×10⁻⁵ ft²/s y 100 cSt / 1,1×10⁻⁴ ft²/s a la temperatura de operación. En sistemas de calefacción, la baja viscosidad y alta conductividad del agua la hacen preferible a los aceites. Para temperaturas superiores a 100 °C / 212 °F se emplean aceites térmicos o fluidos de siliconas con propiedades estables.
 
 ## Preguntas frecuentes (FAQ)
-**¿Cuál es la viscosidad del agua a 20 °C?**  
+### ¿Cuál es la viscosidad del agua a 20 °C?
 La viscosidad dinámica del agua a 20 °C / 68 °F es 1,002×10⁻³ Pa·s / 2,09×10⁻⁵ lbf·s/ft², correspondiente a una viscosidad cinemática de 1,004×10⁻⁶ m²/s / 1,08×10⁻⁵ ft²/s.
 
-**¿Cómo varía la densidad del agua con la temperatura?**  
+### ¿Cómo varía la densidad del agua con la temperatura?
 La densidad del agua líquida saturada disminuye de 999,8 kg/m³ / 62,4 lb/ft³ a 0 °C / 32 °F hasta 958,4 kg/m³ / 59,8 lb/ft³ a 100 °C / 212 °F, mientras que el vapor saturado aumenta de 0,0048 kg/m³ / 0,00030 lb/ft³ a 0,60 kg/m³ / 0,037 lb/ft³ en el mismo rango.
 
-**¿Qué valor de calor específico tiene el agua?**  
+### ¿Qué valor de calor específico tiene el agua?
 El agua líquida saturada tiene un calor específico promedio de 4,18 kJ/(kg·K) / 1,0 Btu/(lb·°F) entre 0 °C / 32 °F y 100 °C / 212 °F, con un máximo de 4,216 kJ/(kg·K) / 1,007 Btu/(lb·°F) en el punto de ebullición.
 
-**¿Cuál es la conductividad térmica del agua a 60 °C?**  
+### ¿Cuál es la conductividad térmica del agua a 60 °C?
 A 60 °C / 140 °F, la conductividad térmica del agua líquida saturada es 0,654 W/(m·K) / 0,378 Btu/(h·ft·°F), lo que permite altas tasas de transferencia de calor.
 
-**¿Qué número de Prandtl tiene el agua a temperatura ambiente?**  
+### ¿Qué número de Prandtl tiene el agua a temperatura ambiente?
 El número de Prandtl del agua a 20 °C / 68 °F es aproximadamente 7,0; indica que la difusividad de momento domina sobre la difusividad térmica en esta condición.
 
-**¿Qué densidad tiene un aceite hidráulico típico?**  
+### ¿Qué densidad tiene un aceite hidráulico típico?
 Un aceite hidráulico común presenta una densidad entre 850 kg/m³ / 53 lb/ft³ y 950 kg/m³ / 59 lb/ft³ a 20 °C / 68 °F; la viscosidad cinemática puede oscilar entre 20 cSt / 2,2×10⁻⁵ ft²/s y 100 cSt / 1,1×10⁻⁴ ft²/s.
 
 ## Fuentes consultadas

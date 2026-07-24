@@ -99,23 +99,23 @@ Lost-wax investment casting is the preferred choice when the following are requi
 
 If the required surface roughness is less than **Ra 1.6 µm / 63 µin**, the silica sol process should be chosen or a finishing step added. If parts are large (>35 kg) or walls require thicknesses greater than 10 mm, other processes (sand casting, forging) may be more economical.
 
-## Frequently Asked Questions
-1. **What dimensional tolerances can I expect in an investment cast part?**  
+## Frequently Asked Questions (FAQ)
+### What dimensional tolerances can I expect in an investment cast part?
    Typical tolerance is ±0.5% of the dimension, equivalent to ±0.125 mm on a 25 mm dimension, and can reach ±0.15% (≈±0.038 mm on 25 mm) for small parts with rigorous process control.
 
-2. **What is the minimum achievable wall thickness?**  
+### What is the minimum achievable wall thickness?
    Wall thicknesses of 0.5 mm / 0.020 in to 1.0 mm / 0.040 in can be achieved in easily cast alloys such as aluminum and bronzes; for steels and superalloys, the practical minimum wall is 1.0 mm / 0.040 in.
 
-3. **What surface roughness is obtained as-cast?**  
+### What surface roughness is obtained as-cast?
    Average roughness Ra ranges from 1.6 µm / 63 µin (silica sol) to 6.3 µm / 250 µin (sodium silicate), depending on the binder system used.
 
-4. **Why is the mold preheated to 1000 °C?**  
+### Why is the mold preheated to 1000 °C?
    The mold is preheated to approximately 1000 °C / 1832 °F to remove any wax residue, fully harden the ceramic binder, and ensure that molten metal fills thin sections without premature solidification.
 
-5. **What is the maximum weight of an investment cast part?**  
+### What is the maximum weight of an investment cast part?
    Parts can weigh from a few grams up to 35 kg / 80 lb, although the typical production range is between 200 g and 8 kg / 7 oz and 15 lb.
 
-6. **What non-ferrous materials are commonly investment cast?**  
+### What non-ferrous materials are commonly investment cast?
    In addition to aluminum and bronzes, nickel-based superalloys such as Inconel and Hastelloy, cobalt alloys such as Stellite, and precious metals (gold, silver, platinum) are investment cast with excellent detail fidelity.
 
 ## References
@@ -124,8 +124,3 @@ If the required surface roughness is less than **Ra 1.6 µm / 63 µin**, the sil
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/invest_casting.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/lost-wax-casting
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
-- **efunda.com**: https://www.efunda.com/processes/metal_processing/invest_casting.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/lost-wax-casting

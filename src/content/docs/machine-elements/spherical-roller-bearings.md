@@ -135,7 +135,7 @@ Durante el montaje se debe asegurar que el rodamiento tenga un juego radial inte
 ## Ventajas y limitaciones
 Las principales ventajas son la autoalineación, la alta capacidad de carga radial y axial, la aptitud para regímenes con cargas de impacto y la posibilidad de montaje sobre manguitos cónicos. Como limitaciones, presentan un rozamiento superior al de los rodamientos rígidos de bolas y una velocidad límite más baja. La fricción interna y el calor generado aumentan significativamente cuando se supera la desalineación permitida, reduciendo la vida útil.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 1. La desalineación máxima en un rodamiento serie 222 es de 1.5° bajo carga ligera, y para la serie 230 puede llegar a 2.5°. ¿Se pueden compensar desalineaciones permanentes?  
 Sí, siempre que la desalineación angular no rebase el valor admisible de la serie y que la carga no supere el 30 % de la capacidad dinámica. Desalineaciones superiores aceleran el desgaste y pueden dañar la jaula.
 

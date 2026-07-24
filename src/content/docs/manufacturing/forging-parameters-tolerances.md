@@ -124,23 +124,23 @@ La selección del material influye directamente en los ángulos de desmoldeo y l
 - Tolerancias menos ajustadas que en mecanizado, con sobreespesores para acabado posterior.
 - No apto para materiales frágiles o con poca capacidad de deformación plástica.
 
-## Preguntas frecuentes
-**1. ¿Qué tolerancia dimensional se espera en una pieza forjada estándar?**  
+## Preguntas frecuentes (FAQ)
+### ¿Qué tolerancia dimensional se espera en una pieza forjada estándar?
 La tolerancia positiva habitual es aproximadamente el 0,3 % de la dimensión nominal, redondeada al siguiente 0,5 mm / 0.020 in.
 
-**2. ¿Cuál es el radio mínimo de esquina para una protuberancia de 50 mm?**  
+### ¿Cuál es el radio mínimo de esquina para una protuberancia de 50 mm?
 Para una altura de 50 mm / 2.0 in se recomienda un radio mínimo de esquina de 5 mm / 0.2 in.
 
-**3. ¿Qué ángulo de desmoldeo necesita un diseño en acero inoxidable?**  
+### ¿Qué ángulo de desmoldeo necesita un diseño en acero inoxidable?
 Los aceros inoxidables requieren un ángulo de 5° a 8°; típicamente se elige 7° como valor seguro.
 
-**4. ¿Cuánto puede desplazarse una matriz en una forja de aluminio de 30 kg?**  
+### ¿Cuánto puede desplazarse una matriz en una forja de aluminio de 30 kg?
 Para 30 kg / 66 lb (categoría <50 kg) la tolerancia de coincidencia de matriz es 1,75 mm / 0.070 in.
 
-**5. ¿Qué espesor máximo de rebaba se acepta en una forja de titanio de 600 kg recortada?**  
+### ¿Qué espesor máximo de rebaba se acepta en una forja de titanio de 600 kg recortada?
 Para pesos >500 kg / >1100 lb, la tolerancia de rebaba alcanza 12,5 mm / 0.5 in.
 
-**6. ¿Cuánto movimiento permite el cierre de matriz en una pieza de pequeño tamaño?**  
+### ¿Cuánto movimiento permite el cierre de matriz en una pieza de pequeño tamaño?
 Cuando el área proyectada es inferior a 150 cm² / 23 in², la tolerancia de cierre es de 1 mm / 0.040 in.
 
 ## Fuentes consultadas

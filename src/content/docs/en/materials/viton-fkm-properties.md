@@ -106,7 +106,7 @@ Compared to other elastomers, FKM stands out for its temperature and chemical re
 | Ketone resistance | Poor | Fair | Fair | Good | Poor |
 | Relative cost | High | Low | Medium | Medium | Low |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum working temperature of Viton FKM?
 The maximum working temperature in continuous service for FKM is 220 °C, and it can withstand peaks of 300 °C under intermittent conditions without mechanical load.
@@ -126,8 +126,7 @@ The tensile strength of a standard FKM is 9 MPa, equivalent to 1305 psi.
 ### Which type of FKM offers the best low-temperature flexibility?
 Type 3 FKMs, which incorporate perfluoromethyl vinyl ether (PMVE), achieve a minimum service temperature of –50 °C, compared to –10 °C for standard types.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1991
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/chemical-resistance-rubbers-elastomers-d_1425.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=331

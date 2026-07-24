@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 La sinterización directa por láser de metales (DMLS) y la fusión selectiva por láser (SLM) son tecnologías de fabricación aditiva por fusión de lecho de polvo que utilizan un láser de alta potencia para fundir y fusionar polvo metálico capa por capa, creando componentes metálicos completamente densos. El proceso está normalizado por ASTM como fusión de lecho de polvo (PBF). Aunque comercialmente se presentan como procesos distintos —DMLS suele implicar una sinterización parcial y SLM una fusión completa—, ambos términos se usan hoy de forma intercambiable para referirse a la fusión total del material. El volumen de construcción típico alcanza dimensiones de hasta 500 mm / 19,69 in en cada eje, con equipos de gran formato que superan 1 m / 39,37 in.
 
 ## Proceso de fabricación

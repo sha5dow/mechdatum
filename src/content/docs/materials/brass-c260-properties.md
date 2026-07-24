@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Resumen
 El latón C260 (UNS C26000) es una aleación de cobre y zinc con aproximadamente 70 % de cobre y 30 % de zinc. Conocido como latón de cartuchería, presenta la ductilidad más alta de la familia de los latones amarillos y se destaca por su excelente capacidad de conformado en frío, buena resistencia a la corrosión y aspecto dorado. Se utiliza ampliamente en la fabricación de cartuchos, componentes de arquitectura, instrumentos musicales y aplicaciones de plomería.
 
 ## Composición química

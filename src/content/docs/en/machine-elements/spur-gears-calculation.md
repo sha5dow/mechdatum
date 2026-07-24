@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General Information
 Spur gears are the simplest type of gear; they transmit motion between parallel shafts using straight teeth oriented radially. Contact between involute profiles ensures a constant transmission ratio. The absence of axial thrust makes them suitable for moderate-speed applications. Modern standard pressure angles are 20° and 25°, while 14.5° is found in older equipment.
 
 The relationship between the module *m* and the number of teeth *z* defines all main dimensions. For gears with 17 or more teeth, the pitch diameter = *m* × *z*. In gears with fewer than 17 teeth, a profile shift is required, resulting in a corrected pitch diameter = *m* × *z* + *m*. Interference and undercutting are avoided by this shift.
@@ -87,26 +86,25 @@ The following table relates application sectors with typical recommendations for
 | Light vehicle transmissions | 3.0 – 6.0 / DP 8.47 – 4.23 | 20° | Induction hardened steel 42CrMo4 | Fluctuating loads, typical torque 500 – 1500 N·m / 369 – 1106 lbf·ft |
 | Mining, heavy conveyors | 8.0 – 12.0 / DP 3.18 – 2.12 | 25° | Cast steel, deep case hardening | Severe impacts, torque > 2000 N·m / 1475 lbf·ft |
 
-## Frequently Asked Questions
-**1. What is the formula for the pitch diameter of a pinion with 20 teeth and module 2 mm?**  
+## Frequently Asked Questions (FAQ)
+### What is the formula for the pitch diameter of a pinion with 20 teeth and module 2 mm?
 The pitch diameter is 20 × 2 mm = 40 mm (1.575 in). For standard modules this relationship is valid as long as the number of teeth is ≥ 17.
 
-**2. What backlash value is recommended for a module 4 gear?**  
+### What backlash value is recommended for a module 4 gear?
 A minimum backlash of 0.10 mm (0.004 in) and maximum of 0.20 mm (0.008 in) is recommended, following the practical rule of 0.05 × *m*.
 
-**3. What is the diametral pitch equivalent to module 3?**  
+### What is the diametral pitch equivalent to module 3?
 The equivalent diametral pitch is 25.4 / 3 = 8.467 teeth per inch. A module 3 gear with 30 teeth would have a pitch diameter of 90 mm (3.543 in).
 
-**4. What typical efficiency does a pair of well-lubricated spur gears have?**  
+### What typical efficiency does a pair of well-lubricated spur gears have?
 Efficiency varies between 94% and 98%. For preliminary calculations η = 0.95 is used, meaning that with 100 kW (134 hp) input, 95 kW (127 hp) useful output is obtained.
 
-**5. How many minimum teeth without correction are needed for a 20° pressure angle?**  
+### How many minimum teeth without correction are needed for a 20° pressure angle?
 To avoid interference with a 20° pressure angle, at least 17 teeth on the pinion are required. With 25° the minimum drops to 12 teeth, allowing more compact designs.
 
-**6. What torque can a module 4, case-hardened steel gear transmit for infinite life?**  
+### What torque can a module 4, case-hardened steel gear transmit for infinite life?
 A 20-tooth pinion with face width 40 mm, σ_Flim = 350 MPa (50 800 psi), can transmit approximately 1200 N·m (885 lbf·ft) according to ISO 6336. The exact value depends on quality and service factor.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/gear-output-torque-speed-horsepower-d_1691.html
 - **mcmaster.com**: https://www.mcmaster.com/products/spur-gears/

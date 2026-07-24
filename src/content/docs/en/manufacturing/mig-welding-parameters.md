@@ -115,28 +115,27 @@ Below are typical parameter tables for three widely used industrial materials. V
 | 5,0 mm / 0,197 in | 1,6 mm / 0,063 in | 26 – 30 V | 8,0 – 11,0 m/min / 26,2 – 36,1 ft/min | Ar 100% | Spray |
 | 6,0 mm / 0,236 in | 1,6 mm / 0,063 in | 28 – 32 V | 11,0 – 14,0 m/min / 36,1 – 45,9 ft/min | Ar 100% | Spray |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**1. What thickness range can be welded with MIG?**  
+### What thickness range can be welded with MIG?
 The typical range covers from 0,5 mm / 0,020 in to 6,3 mm / 0,250 in in a single pass. Greater thicknesses require multiple passes or proper beveling.
 
-**2. What is the recommended shielding gas flow rate for indoor use?**  
+### What is the recommended shielding gas flow rate for indoor use?
 The optimal flow rate is between 10 L/min and 20 L/min (0,35–0,71 ft³/min). Values below 8 L/min can cause porosity; above 25 L/min cause turbulence and contamination.
 
-**3. At what voltage is spray transfer achieved on carbon steel?**  
+### At what voltage is spray transfer achieved on carbon steel?
 The transition to spray generally occurs from 25 V with 1,2 mm wire and Ar/CO₂ 80/20 gas, reaching currents above 220 A.
 
-**4. What should the contact tip-to-work distance (stick-out) be?**  
+### What should the contact tip-to-work distance (stick-out) be?
 The recommended stick-out distance for solid wire is 10–15 mm / 0,39–0,59 in. An excessive value reduces penetration; one too short can overheat the nozzle.
 
-**5. What wire feed speed is needed to weld 3 mm aluminum?**  
+### What wire feed speed is needed to weld 3 mm aluminum?
 For 3 mm / 0,118 in aluminum with ⌀ 1,2 mm wire, between 7,0 and 9,5 m/min / 23,0–31,2 ft/min are used, with voltages of 23–26 V and pure argon.
 
-**6. How many tack welds per linear meter are recommended?**  
+### How many tack welds per linear meter are recommended?
 A minimum of 5 tack welds per linear meter is suggested, spaced at least 50 mm / 2 in apart to control thermal distortion in thin sheets.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-calculator-d_857.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_inertgas.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/manual-metal-arc-welding-mma

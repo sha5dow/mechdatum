@@ -123,24 +123,24 @@ El PA6 presenta buena resistencia a hidrocarburos, aceites y grasas, así como a
 | Moldeo por inyección reactiva (RIM) | Apto | — |
 | Extrusión | Apta para perfiles, láminas y fibra | — |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la densidad del PA6?**  
+### ¿Cuál es la densidad del PA6?
 La densidad del PA6 es de 1.084 g/cm³ a temperatura ambiente, menor que la del PA66 (1.14 g/cm³).
 
-**¿Qué temperatura máxima de operación soporta el PA6?**  
+### ¿Qué temperatura máxima de operación soporta el PA6?
 La temperatura máxima de operación continua recomendada para el PA6 es de 80 °C, con una temperatura de fusión de 218.3 °C.
 
-**¿Cuánto absorbe de agua el PA6 en comparación con otros polímeros?**  
+### ¿Cuánto absorbe de agua el PA6 en comparación con otros polímeros?
 El PA6 tiene una absorción de agua del 1.5 % en 24 horas, la más alta entre las poliamidas comerciales, frente al 1.2 % del PA66 o al 0.2 % del POM.
 
-**¿Cuál es la resistencia a la tracción del PA6 en estado seco?**  
+### ¿Cuál es la resistencia a la tracción del PA6 en estado seco?
 La resistencia a la tracción del PA6 en estado seco es de 40 MPa, valor que disminuye a aproximadamente 30 MPa tras acondicionamiento en humedad.
 
-**¿Qué clasificación de inflamabilidad tiene el PA6 según UL94?**  
+### ¿Qué clasificación de inflamabilidad tiene el PA6 según UL94?
 El PA6 sin modificar tiene clasificación UL94 HB, con un índice de oxígeno del 22 %.
 
-**¿A qué temperatura se procesa el PA6 por inyección?**  
+### ¿A qué temperatura se procesa el PA6 por inyección?
 El PA6 se procesa por inyección con temperatura de fusión entre 230 y 280 °C y temperatura de molde entre 40 y 60 °C.
 
 ## Fuentes consultadas

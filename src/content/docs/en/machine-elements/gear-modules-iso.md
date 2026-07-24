@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definition and principles
-
 The ISO standard module is the fundamental parameter that defines the size of teeth on involute profile cylindrical gears. It represents the ratio between the reference diameter (mm) and the number of teeth on the gear (m = d/z). A module of 1.5 mm indicates that for each tooth the wheel increases 1.5 mm in its pitch diameter.
 
 International standardization under ISO 54 unifies tooth dimensions to guarantee interchangeability of gears manufactured anywhere in the world. The module system makes it possible to build robust transmissions because it directly relates tooth thickness to load capacity and circular pitch. In the imperial system, diametral pitch (DP) is used, which is inversely proportional to the module (DP = 25.4 / m).
@@ -122,27 +120,26 @@ The assembly of gears with standard modules requires controlling the following t
 
 Final assembly verification is performed with feeler gauges on the center distance and with a thin layer of Prussian blue to check the contact pattern.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. What is the minimum module that can be manufactured in steel with standard milling?**  
+### What is the minimum module that can be manufactured in steel with standard milling?
 The practical minimum module is 0.5 mm / 50.8 teeth/in, because below that the cutters generate poor surface finish and the tooth strength is insufficient for most mechanical applications.
 
-**2. What service life in hours does a module 3 mm gear with oil pump have?**  
+### What service life in hours does a module 3 mm gear with oil pump have?
 A pair of straight gears in alloy steel with 55 HRC hardness, lubricated with ISO VG 100 oil, typically achieves 25,000 hours of continuous service before surface wear exceeds 0.2 mm / 0.008 in.
 
-**3. How much does the moment of inertia increase when doubling the module with the same number of teeth?**  
+### How much does the moment of inertia increase when doubling the module with the same number of teeth?
 The moment of inertia increases approximately 16 times because the pitch diameter doubles and the mass increases in proportion to the square of the radius.
 
-**4. At what tangential velocity does a straight gear of module 4 mm generate excessive noise?**  
+### At what tangential velocity does a straight gear of module 4 mm generate excessive noise?
 Above 12 m/s / 39.4 ft/s, 85 dB(A) is exceeded in non-insulated housings, requiring helical gearing or high-precision grinding.
 
-**5. What is the minimum face width for a module 2 mm pinion transmitting 50 N·m / 36.9 lb·ft?**  
+### What is the minimum face width for a module 2 mm pinion transmitting 50 N·m / 36.9 lb·ft?
 With case-hardened steel and a safety factor of 2.5, a minimum width of 18 mm / 0.71 in is required to keep bending stress below 250 MPa / 36.3 ksi.
 
-**6. How much radial load does a module 5 mm straight gear add to its shaft?**  
+### How much radial load does a module 5 mm straight gear add to its shaft?
 For a torque of 300 N·m / 221 lb·ft and a pitch diameter of 100 mm / 3.94 in, the resulting radial load is 6,000 N / 1,350 lbf, neglecting the pressure angle.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/din-standards-d_759.html
 - **mcmaster.com**: https://www.mcmaster.com/products/gears/

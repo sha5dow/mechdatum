@@ -85,7 +85,7 @@ La elección del tipo de engranaje cónico se puede orientar en función de la a
 
 La tabla relaciona la aplicación con el tipo de engranaje y la velocidad máxima de operación. En el caso de los hipoides, se incluye la relación de par frente a un engranaje cónico espiral recto equivalente, reflejando la ganancia en capacidad torsional debido al mayor diámetro del piñón hipoide.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la relación de transmisión máxima en un engranaje cónico recto?
 La relación de transmisión máxima práctica es 8:1, lo que significa que por cada 8 revoluciones del piñón conductor de 15 dientes, el engranaje seguidor de 120 dientes completa 1 revolución. Relaciones mayores suelen requerir engranajes hipoides o epicíclicos.

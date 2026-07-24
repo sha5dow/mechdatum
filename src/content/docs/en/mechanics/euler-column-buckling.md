@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Description
 Euler buckling describes the critical compressive load for slender columns, calculated with the formula derived in 1744 by Leonhard Euler. An axially loaded straight column remains stable until the load reaches a critical value; beyond this, sudden buckling occurs with lateral deflections. The theory assumes linear elastic behavior, perfect alignment, and absence of initial stresses. The critical load does not depend on the material strength but on its flexural stiffness (EI) and the effective length of the column.
 
 ## Euler Formula
@@ -115,7 +114,7 @@ In both cases, the design K factors from the table above must be used to account
 
 **Conclusion**: The column will buckle elastically with a load of approximately 12.05 kN (2 708 lbf) and a stress of only 13.95 MPa, confirming its extreme slenderness and the need to stiffen the member.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the critical buckling load for a 2 m long, pinned-pinned steel column with a square tube 50×50×3 mm?
 For steel E=200 GPa, I=1.29×10⁻⁷ m⁴, A=5.64×10⁻⁴ m², L_eff=2 m, we obtain P_cr ≈ 63.6 kN / 14 290 lbf, well below the yield stress.
@@ -140,7 +139,3 @@ Design codes typically require a safety factor of 2.0 to 2.5 on P_cr for static 
 - **engineersedge.com**: https://www.engineersedge.com/column_buckling/column_ideal.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/columns/columns.cfm
 
-## Sources Consulted
-
-- **engineersedge.com**: https://www.engineersedge.com/column_buckling/column_ideal.htm
-- **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/columns/columns.cfm

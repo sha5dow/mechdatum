@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general  
 El POM (polioximetileno) alcanza una densidad de **1,41 g/cm³** y se presenta como un termoplástico semicristalino, blanco opaco, que puede colorearse. Se comercializa en versiones homopolímero y copolímero; el copolímero ofrece mejor estabilidad termo‑oxidativa y resistencia a bases, mientras que el homopolímero posee mayor resistencia mecánica y dureza superficial. Ambas formas comparten rigidez, tenacidad, excelente resistencia al desgaste, baja fricción y buena estabilidad dimensional.
 
 ## Composición química  
@@ -105,23 +104,23 @@ Cuando se enfrenta al nailon (PA 66), el POM muestra una absorción de agua 40
 ## Procesamiento y transformación  
 Antes del moldeo por inyección, el material debe secarse durante **3 h a 90 °C** para alcanzar un contenido de humedad inferior al 0,05 %. La transformación se realiza en husillos de compresión baja‑media, con perfil de temperaturas de 190‑210 °C y molde calentado entre 60 y 120 °C. La contracción en molde alcanza **1,8‑2,0 %** por lo que se requiere sobredimensionar la cavidad. Tras el desmoldeo, se produce una poscontracción de ≈ 0,1 % que se completa en 48 horas a temperatura ambiente. No debe procesarse en equipos que hayan estado en contacto con halógenos (PVC, retardantes bromados) por riesgo de descomposición explosiva.
 
-## FAQ  
-**¿Cuál es la temperatura máxima de uso continuo del POM Delrin?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la temperatura máxima de uso continuo del POM Delrin?
 La temperatura máxima de uso continuo en aire para el copolímero es de **100 °C (212 °F)** y para el homopolímero de **80 °C (175 °F)**, superando a muchos termoplásticos de ingeniería en aplicaciones en caliente.
 
-**¿Qué valor de resistencia al impacto Izod tiene el POM?**  
+### ¿Qué valor de resistencia al impacto Izod tiene el POM?
 El ensayo Izod con entalla arroja un valor de **69 J/m (1,29 ft·lb/in)** en probetas moldeadas por inyección de copolímero, lo que indica una tenacidad moderada adecuada para piezas sometidas a choques.
 
-**¿Cuánto absorbe de agua el POM comparado con el nailon?**  
+### ¿Cuánto absorbe de agua el POM comparado con el nailon?
 Absorbe únicamente un **0,22 %** de agua en 24 h, frente a más del 8 % que puede absorber el nailon 66, reduciendo así los cambios dimensionales por humedad.
 
-**¿Qué temperatura de deflexión térmica soporta el POM?**  
+### ¿Qué temperatura de deflexión térmica soporta el POM?
 Bajo una carga de **1,80 MPa (264 psi)**, el copolímero alcanza una HDT de **110 °C (230 °F)**, mientras que a 0,45 MPa llega hasta **160 °C (320 °F)**, lo que permite su uso en entornos térmicos moderados.
 
-**¿Cuál es la dureza superficial del POM?**  
+### ¿Cuál es la dureza superficial del POM?
 En escala Rockwell M, el copolímero presenta una dureza de **M117**, y el homopolímero puede alcanzar **M120**, equivalente a una gran resistencia al rayado en aplicaciones de contacto.
 
-**¿Qué contracción lineal se debe considerar en el moldeo de POM?**  
+### ¿Qué contracción lineal se debe considerar en el moldeo de POM?
 La contracción en molde oscila entre **1,8 % y 2,0 %**, dependiendo del espesor de la pieza y de las condiciones de proceso, a lo que se suma una poscontracción de aproximadamente 0,1 % en las primeras 48 horas.
 
 ## Fuentes consultadas

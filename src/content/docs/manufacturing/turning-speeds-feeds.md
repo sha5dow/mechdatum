@@ -67,23 +67,23 @@ Prácticamente todos los metales y algunas aleaciones no metálicas pueden mecan
 6. **Verificar la carga de viruta y la potencia**: la sección de viruta (ap × f) debe coincidir con la geometría del inserto; si la potencia calculada supera el 80% de la nominal del husillo, reduzca ap o f.  
 7. **Realizar cortes de prueba** y ajustar hasta obtener el acabado deseado sin vibración ni sobrecalentamiento.
 
-## Preguntas frecuentes
-**¿Cuál es la velocidad de corte recomendada para aluminio con herramienta de carburo?**  
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la velocidad de corte recomendada para aluminio con herramienta de carburo?
 La velocidad de corte recomendada es de 150–300 m/min (500–1000 sfpm) para aluminio de forja con herramientas de carburo integral, pudiendo alcanzarse 500 m/min (1640 sfpm) en máquinas rígidas con plaquitas pulidas.
 
-**¿Qué avance se debe usar para obtener un acabado fino en acero al carbono?**  
+### ¿Qué avance se debe usar para obtener un acabado fino en acero al carbono?
 El avance típico para acabado es de 0,05–0,15 mm/rev (0,002–0,006 ipr), con un radio de punta de inserto de 0,4–0,8 mm que proporciona una rugosidad teórica Ra 0,8–3,2 µm / 32–126 µin.
 
-**¿Cuál es la profundidad de corte máxima en desbaste de acero?**  
+### ¿Cuál es la profundidad de corte máxima en desbaste de acero?
 La profundidad de corte máxima puede alcanzar 6 mm / 0,24 in en acero de baja aleación con máquinas de potencia superior a 10 kW y herramientas de carburo, aunque usualmente se limita a 4 mm / 0,16 in para preservar la vida útil del inserto.
 
-**¿Cómo se convierte la velocidad de corte en rpm?**  
+### ¿Cómo se convierte la velocidad de corte en rpm?
 Para un diámetro de pieza de 50 mm / 2 in y velocidad de corte de 100 m/min / 328 sfpm, las rpm resultantes son aproximadamente 636 rpm (usando N = (1000 × 100) / (π × 50) ≈ 637; en imperial N = (12 × 328) / (π × 2) ≈ 626 rpm).
 
-**¿Qué temperatura máxima alcanza la herramienta en el corte de acero inoxidable?**  
+### ¿Qué temperatura máxima alcanza la herramienta en el corte de acero inoxidable?
 La temperatura en la interfaz herramienta-viruta puede superar los 1000 °C / 1832 °F en acero inoxidable con velocidades de 80–100 m/min / 260–330 sfpm, por lo que se emplean recubrimientos de AlTiN o refrigeración de alta presión.
 
-**¿Qué rugosidad superficial es factible en torneado de precisión?**  
+### ¿Qué rugosidad superficial es factible en torneado de precisión?
 El torneado de precisión puede lograr regularmente Ra 0,4 µm / 16 µin con insertos de wiper y avances de 0,08 mm/rev / 0,003 ipr, e incluso Ra 0,2 µm / 8 µin en máquinas de ultraprecisión.
 
 ## Fuentes consultadas

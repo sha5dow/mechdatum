@@ -102,24 +102,24 @@ The following table contrasts 1018 steel with other commonly used carbon steels,
 
 *Machinability is referenced to the AISI 1212 standard (100 %); strength values may vary depending on manufacturer and heat treatment.*
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-### 1. What is the tensile strength of 1018 steel?
+### What is the tensile strength of 1018 steel?
 The tensile strength of cold drawn 1018 steel is 440 MPa (63.8 ksi). In the annealed condition it decreases to approximately 400 MPa (58 ksi).
 
-### 2. What hardness does 1018 steel have?
+### What hardness does 1018 steel have?
 The Brinell hardness of cold drawn 1018 is 126 HB, equivalent to 71 HRB. The annealed version has a Brinell hardness of 116.
 
-### 3. At what temperature is 1018 steel forged?
+### At what temperature is 1018 steel forged?
 Forging is performed in the range of 996 °C to 1260 °C (1825 – 2300 °F).
 
-### 4. Can 1018 steel be welded?
+### Can 1018 steel be welded?
 Yes, the maximum carbon content of 0.20 % provides excellent weldability with all conventional methods (gas, MIG, TIG, resistance), without the need for special preheating.
 
-### 5. What is the machinability of 1018 steel?
+### What is the machinability of 1018 steel?
 The machinability of 1018 is rated at 70 % relative to the reference steel AISI 1212 (100 %), making it a material suitable for series production.
 
-### 6. What is the elongation of 1018 steel?
+### What is the elongation of 1018 steel?
 The elongation at break of cold drawn 1018 is 15 % (measured over 50 mm). In the annealed condition, ductility rises to 25 %.
 
 ## References
@@ -128,8 +128,3 @@ The elongation at break of cold drawn 1018 is 15 % (measured over 50 mm). In
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/compositions-steel-d_1494.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=688
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/article.aspx?ArticleID=9138
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/compositions-steel-d_1494.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=688

@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción
 El pandeo de Euler describe la carga crítica de compresión para columnas esbeltas, calculada con la fórmula derivada en 1744 por Leonhard Euler. Una columna recta cargada axialmente permanece estable hasta que la carga alcanza un valor crítico; superado este, se produce un pandeo súbito con deflexiones laterales. La teoría asume comportamiento elástico lineal, perfecta alineación y ausencia de esfuerzos iniciales. La carga crítica no depende de la resistencia del material, sino de su rigidez a flexión (EI) y de la longitud efectiva de la columna.
 
 ## Fórmula de Euler
@@ -115,8 +114,7 @@ En ambos casos, los factores K de diseño de la tabla anterior deben emplearse p
 
 **Conclusión**: La columna pandeará elásticamente con una carga de aproximadamente 12,05 kN (2 708 lbf) y una tensión de solo 13,95 MPa, lo que confirma su extrema esbeltez y la necesidad de rigidizar el elemento.
 
-## Preguntas frecuentes
-
+## Preguntas frecuentes (FAQ)
 ### ¿Cuál es la carga crítica de pandeo para una columna de acero de 2 m de longitud, biarticulada, con un tubo cuadrado de 50×50×3 mm?
 Para acero E=200 GPa, I=1,29×10⁻⁷ m⁴, A=5,64×10⁻⁴ m², L_eff=2 m, se obtiene P_cr ≈ 63,6 kN / 14 290 lbf, muy por debajo del límite elástico.
 

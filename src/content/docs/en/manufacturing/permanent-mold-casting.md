@@ -54,28 +54,27 @@ The permanent mold casting process reduces the cost per part in production runs 
 
 Permanent mold casting is preferred when tighter dimensional tolerances and a finer surface finish than those provided by sand casting are required, and when the projected production volume exceeds one thousand parts. It is suitable for small to medium-sized parts — between 50 g / 1.5 oz and 70 kg / 150 lb — made of aluminum, magnesium or zinc alloys. If the geometry includes complex internal cavities, combination with disposable sand cores should be considered. For low-volume ferrous parts or geometries with deep undercuts requiring collapsibility, sand casting or investment casting offer more suitable alternatives. The slush casting variant applies when the part requires a hollow ornamental shape with good surface detail but without strict wall thickness uniformity requirements.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**What distinguishes permanent mold casting from sand casting?**
+### What distinguishes permanent mold casting from sand casting?
 Permanent mold casting uses a reusable metal mold that provides superior cooling rates, generating a finer grain size and higher mechanical properties. Dimensional tolerances are reduced to approximately ±0.25 mm / ±0.010 in compared to ±1.5 mm / ±0.060 in typical of sand, and the surface finish improves to a range of 2.5 µm / 100 µin to 7.5 µm / 250 µin. The initial tooling cost is 5 to 10 times higher, therefore it is only justified for runs of 1000 parts or more.
 
-**What is the correct preheat temperature for a permanent mold?**
+### What is the correct preheat temperature for a permanent mold?
 The mold is preheated to a range of 150 °C / 302 °F to 200 °C / 392 °F before the first casting cycle. During continuous production, the residual heat from previous parts maintains the operating temperature without the need for external reheating.
 
-**What dimensional tolerances can be expected in permanent mold aluminum parts?**
+### What dimensional tolerances can be expected in permanent mold aluminum parts?
 Aluminum parts produced by permanent mold casting exhibit typical linear tolerances of 2 % of the nominal dimension, with a process capability that can reach ±0.25 mm / ±0.010 in for small cross-sectional dimensions in optimized production.
 
-**Is it possible to manufacture parts with wall thickness less than 3 mm / 0.12 in?**
+### Is it possible to manufacture parts with wall thickness less than 3 mm / 0.12 in?
 Yes, for high-fluidity alloys such as zinc, minimum thicknesses of 1.5 mm / 0.06 in can be achieved. For aluminum and magnesium, the practical minimum thickness remains at 3 mm / 0.12 in for lengths up to 75 mm / 3 in, and increases proportionally in larger sections.
 
-**What is the main advantage of permanent mold casting over die casting?**
+### What is the main advantage of permanent mold casting over die casting?
 Permanent mold casting operates with gravity filling, which significantly reduces porosity from gas entrapment compared to the high-speed injection of die casting. This allows subsequent heat treatments and welding on the parts, practices that are problematic in die-cast parts with air entrapment.
 
-**What materials cannot be processed in a permanent metal mold?**
+### What materials cannot be processed in a permanent metal mold?
 Ferrous alloys with pouring temperatures above 1400 °C / 2550 °F, such as carbon steels and stainless steels, are not cast in conventional metal molds because the temperature compromises the thermal fatigue resistance of even the best cast iron. For these alloys, graphite molds are used, which tolerate thermal shock but have a limited service life.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/assembly-shrink-fits-d_951.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/permanent_mold.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/kokillgjutning

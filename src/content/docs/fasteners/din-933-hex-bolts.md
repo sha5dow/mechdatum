@@ -130,23 +130,22 @@ Basado en las recomendaciones de ISO 724 y la práctica general de taller. Diám
 - **Tratamientos térmicos**: temple y revenido para clases 8.8 y superiores.
 
 ## Preguntas frecuentes (FAQ)
-
-1. **¿Cuál es el paso de rosca estándar para un tornillo M8 DIN 933?**  
+### ¿Cuál es el paso de rosca estándar para un tornillo M8 DIN 933?
    El paso grueso ISO es 1,25 mm / 0.049 in; en M8 también existe paso fino de 1,0 mm / 0.039 in y 0,75 mm / 0.030 in, pero el estándar de suministro para DIN 933 es 1,25 mm.
 
-2. **¿Cuál es la carga de prueba mínima de un tornillo M12 clase 8.8?**  
+### ¿Cuál es la carga de prueba mínima de un tornillo M12 clase 8.8?
    Un M12 clase 8.8 soporta al menos 48,9 kN / 11 000 lbf sin deformación permanente, basada en área de tensión de 84,3 mm² y tensión de prueba de 580 MPa.
 
-3. **¿Cuánto mide el ancho entre caras de un tornillo M10 DIN 933?**  
+### ¿Cuánto mide el ancho entre caras de un tornillo M10 DIN 933?
    La medida tradicional es 17 mm / 0.669 in; la norma ISO 4017 actual especifica 16 mm / 0.630 in, aunque la mayor parte del inventario comercial aún utiliza 17 mm.
 
-4. **¿Qué torque se recomienda para un M6 8.8 en unión seca?**  
+### ¿Qué torque se recomienda para un M6 8.8 en unión seca?
    Se recomienda un par de apriete de 9,0 a 11 N·m / 6.6 a 8.1 lb·pie; con lubricación ligera se reduce aproximadamente un 30 %.
 
-5. **¿Qué broca de agujero pasante necesita un tornillo M16?**  
+### ¿Qué broca de agujero pasante necesita un tornillo M16?
    Para un agujero con holgura media se utiliza broca de 18 mm / 0.709 in; el diámetro de paso fino requeriría una broca de roscar de 14 mm / 0.551 in.
 
-6. **¿Con qué norma americana se puede intercambiar un tornillo DIN 933?**  
+### ¿Con qué norma americana se puede intercambiar un tornillo DIN 933?
    No hay un reemplazo directo en pulgadas; la norma métrica ANSI B18.2.3.1M define tornillos de cabeza hexagonal dimensionalmente similares a los DIN 933 / ISO 4017.
 
 ## Fuentes consultadas

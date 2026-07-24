@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General description
 Metric coarse threads constitute the most widely used screw fastening system worldwide. They are defined in standards **ISO 724** and **ISO 261**, with a symmetrical 60° V profile and a thread depth of **0.614 × pitch**. The coarse pitch represents the normal series and may be omitted in the designation; for example, an **M10** equals **M10 × 1.5**. The following table includes all standardized dimensions from **M1** to **M100**, including tap drill diameters, clearance hole diameters, and tensile stress area.
 
 ## Dimensions according to ISO 724
@@ -143,28 +142,27 @@ The clearance hole diameter follows ISO 273, with three fits: fine, medium and c
 
 *Values are rounded to the nearest tenth of a millimeter and follow common practice in general mechanical construction.*
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the pitch of an M10 coarse thread bolt?**
+### What is the pitch of an M10 coarse thread bolt?
 The standard pitch for an M10 coarse thread is **1.5 mm / 0.0591 in**. This pitch is the only one in the normal series and therefore does not need to be specified on the drawing.
 
-**2. What drill should be used to tap an M8 hole?**
+### What drill should be used to tap an M8 hole?
 The recommended tap drill is **6.80 mm / 0.2677 in**. It corresponds to the nominal diameter minus the pitch (8 mm – 1.25 mm = 6.75 mm), rounded according to ISO 724.
 
-**3. What is the actual major diameter of an M24 thread?**
+### What is the actual major diameter of an M24 thread?
 The nominal major diameter is **24 mm / 0.9449 in**, although the upper manufacturing limit is usually a few hundredths below (≈ 23.83 mm for class 6g).
 
-**4. What tightening torque does a dry M12 class 8.8 bolt require?**
+### What tightening torque does a dry M12 class 8.8 bolt require?
 **63 N·m / 46.5 ft·lb** is recommended for dry conditions (μ ≈ 0.15). For lubricated bolts the value drops to **47 N·m / 34.7 ft·lb**.
 
-**5. What is the tensile stress area of an M6 bolt?**
+### What is the tensile stress area of an M6 bolt?
 The effective tensile area is **20.1 mm² / 0.0312 in²**. This allows it to withstand a proof load in class 8.8 of approximately **12.9 kN / 2900 lbf**.
 
-**6. Under which standards are metric coarse threads manufactured?**
+### Under which standards are metric coarse threads manufactured?
 The basic dimension is defined by **ISO 724**, equivalent to **DIN 13‑1**. In the United States the same thread is covered as a metric series in **ANSI B1.13M**, although it never coincides with UNC/UNF threads.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/metric-iso-threads/
 - **mcmaster.com**: https://www.mcmaster.com/products/screws/system-of-measurement~metric/

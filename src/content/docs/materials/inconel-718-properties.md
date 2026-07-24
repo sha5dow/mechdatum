@@ -102,24 +102,24 @@ Inconel 718 se suelda mediante procesos convencionales como TIG (GTAW) o plasma.
 | Inconel X-750 | 8,28 | 1100 MPa (160 ksi) | ~ 815 °C (1500 °F) |
 | Waspaloy | 8,16 | 1310 MPa (190 ksi) | ~ 870 °C (1600 °F) |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción del Inconel 718 tras el envejecido?**  
+### ¿Cuál es la resistencia a la tracción del Inconel 718 tras el envejecido?
 La aleación alcanza una resistencia a la tracción mínima de 1240 MPa (180 ksi) en estado de solubilización y precipitación endurecida.
 
-**¿Cuál es la densidad del Inconel 718?**  
+### ¿Cuál es la densidad del Inconel 718?
 La densidad en condición envejecida es de 8,22 g/cm³ (0,297 lb/in³), ligeramente superior a los 8,19 g/cm³ del estado solubilizado.
 
-**¿A qué temperatura funde el Inconel 718?**  
+### ¿A qué temperatura funde el Inconel 718?
 Su rango de fusión se sitúa entre aproximadamente 1260 °C y 1338 °C (2300 – 2440 °F).
 
-**¿Qué conductividad térmica tiene el Inconel 718?**  
+### ¿Qué conductividad térmica tiene el Inconel 718?
 Presenta una conductividad térmica promedio de 6,5 W/m·K (11,2 BTU·ft/ft²·hr·°F) en el intervalo de 0 a 100 °C.
 
-**¿Cuánto níquel contiene el Inconel 718?**  
+### ¿Cuánto níquel contiene el Inconel 718?
 El contenido de níquel está comprendido entre el 50 % y el 55 % en peso.
 
-**¿Qué resistencia conserva a temperaturas criogénicas?**  
+### ¿Qué resistencia conserva a temperaturas criogénicas?
 A -196 °C, la resistencia a la tracción del Inconel 718 supera los 1800 MPa, lo que lo hace idóneo para aplicaciones criogénicas.
 
 ## Fuentes consultadas

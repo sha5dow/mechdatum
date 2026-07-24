@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción general
 La pintura en polvo es un proceso de recubrimiento seco en el que una mezcla de polímeros termoestables o termoplásticos en forma de polvo fino se aplica electrostáticamente sobre una superficie, generalmente metálica, y se cura mediante calor o radiación ultravioleta para formar una película continua, duradera y de alto espesor. A diferencia de los recubrimientos líquidos convencionales, no utiliza disolventes, por lo que presenta emisiones prácticamente nulas de compuestos orgánicos volátiles (COV) y permite la recuperación del polvo no adherido, lo que reduce el desperdicio.
 
 El tamaño típico de partícula oscila entre 2 y 50 µm (0,08 y 2,0 mils), con una temperatura de fusión alrededor de 150 °C (302 °F) y curado estándar a 200 °C (392 °F) durante 10 a 15 minutos. Con formulaciones especiales pueden lograrse películas desde 30 µm (1,2 mils) hasta más de 150 µm (5,9 mils), siendo 60-80 µm (2,4-3,1 mils) el rango más habitual para uso industrial.
@@ -89,7 +88,7 @@ Para elegir entre pintura en polvo y otras alternativas de recubrimiento industr
 - **Tipo de sustrato y temperatura de proceso**: para metales que soporten 180-200 °C (356-392 °F) la pintura en polvo es ideal; para plásticos o composites se debe optar por polvos de curado UV o formulaciones de baja temperatura (120-150 °C / 248-302 °F).  
 - **Exigencias normativas y ambientales**: en instalaciones con restricciones estrictas de COV, la pintura en polvo elimina el uso de disolventes y simplifica la gestión de emisiones.  
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 1. **¿Cuál es el espesor recomendado para una primera capa de pintura en polvo?** El espesor estándar de película seca se sitúa entre 60 y 80 µm (2,4-3,1 mils), aunque en piezas expuestas a corrosión severa pueden aplicarse hasta 120-150 µm (4,7-5,9 mils).  
 

@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
-
 The ISO 2553 standard establishes the international system of symbolic representation for welded joints in technical drawings. It defines the structure, position, and meaning of each graphical element necessary to fully describe a welded joint without resorting to extensive notes. The designation includes the reference line, the arrow, the basic and supplementary symbols, and the dimensions indicating the size, length, and edge preparation.
 
 ## Symbol structure
@@ -101,28 +99,27 @@ The application of ISO 2553 symbols presents advantages and limitations that the
 - Representation of welds with geometries not covered by basic symbols (e.g., friction or deep penetration laser welds) requires additional notes, losing the graphical advantage.
 - ISO 2553 does not specify dimensional tolerances by process; these must be consulted in complementary standards (ISO 13920, ISO 5817), requiring the handling of additional documentation.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the difference between the arrow side and the other side in a welding symbol?**  
+### What is the difference between the arrow side and the other side in a welding symbol?
 The arrow side refers to the surface of the joint that the arrow points to on the drawing. The symbol placed above the reference line indicates welding on that side, while the symbol below the continuous line (or above the dashed identification line) indicates welding on the opposite side. The separation between the two reference and identification lines is a minimum of 2.5 mm / 0.1 in.
 
-**How is an intermittent weld indicated with ISO 2553?**  
+### How is an intermittent weld indicated with ISO 2553?
 The weld bead length is placed to the right of the basic symbol, followed by a hyphen and the center-to-center spacing. For example, "50-150" indicates beads of 50 mm / 1.97 in length with a pitch of 150 mm / 5.91 in. The number of beads and exact location are defined with an enlarged detail if the part has a total length less than 200 mm / 7.87 in.
 
-**What minimum height should the text have in a welding symbol?**  
+### What minimum height should the text have in a welding symbol?
 The letter height (h) for any number or letter within the symbol must not be less than 2.5 mm / 0.1 in. ISO recommends 3.5 mm / 0.14 in for A3 and A4 formats, and 5 mm / 0.2 in for A2 and larger formats to ensure readability in reduced reproductions.
 
-**Can more than one basic symbol be combined on the same reference line?**  
+### Can more than one basic symbol be combined on the same reference line?
 Yes, ISO 2553 allows multiple basic symbols on the same reference line to indicate combined welds, such as a fillet weld with a plug. Each symbol is placed in its normal position above or below the line, and independent dimensions are associated separated by a thin vertical line of 0.35 mm / 0.014 in thickness.
 
-**How is the surface finish after welding specified?**  
+### How is the surface finish after welding specified?
 A horizontal line is added above the basic symbol, and above that line, the indication of the finishing process, for example 'M' for machining or 'G' for grinding. If a roughness value is required, it is written next; for example 'M Ra 6.3' indicates a machined finish with an arithmetic mean roughness of 6.3 µm / 248 µin.
 
-**What does the circle at the junction of the arrow and reference line indicate?**  
+### What does the circle at the junction of the arrow and reference line indicate?
 The circle indicates a perimeter weld, i.e., a joint that must be made around the entire accessible contour of the part. Its diameter is drawn between 3 mm / 0.12 in and 4 mm / 0.16 in and its stroke is reinforced with a line thickness of 0.7 mm / 0.028 in to ensure its visibility on the drawing.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pfd-process-flow-diagram-d_465.html
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?thread=8717&id=9057
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/mag-welding

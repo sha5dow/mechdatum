@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Structural adhesives are polymeric formulations capable of transmitting loads between components without excessive deformation, replacing or supplementing mechanical fasteners. The technical market concentrates on epoxies, acrylics, cyanoacrylates, and ceramic cements, selected according to the specific strength required — from 0.055 MPa·m³/kg (approximately 7 800 psi·in³/lb) for epoxy to the high-temperature resistance of ceramics (980 °C / 1800 °F). The following table summarizes the key properties of epoxy adhesive as a representative class of structural adhesives.
 
 | Property | Value |
@@ -93,28 +92,27 @@ The choice of structural adhesive must be guided by service conditions and mecha
 
 *Source of criteria: eFunda (Strain Gage: Materials) and epoxy properties from Engineering Toolbox.*
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-### 1. What is the typical tensile strength of a structural epoxy adhesive?
+### What is the typical tensile strength of a structural epoxy adhesive?
 Neat epoxy adhesive reports a tensile strength of 69 MPa / 10 000 psi, a value that can be increased with glass fiber up to 300 MPa / 43 500 psi.
 
-### 2. Up to what temperature can a ceramic adhesive be used?
+### Up to what temperature can a ceramic adhesive be used?
 Ceramic cements of the NBS-x-142 type maintain their integrity up to 980 °C / 1800 °F, according to specifications validated by eFunda.
 
-### 3. How long does a cyanoacrylate adhesive require to reach handling strength?
+### How long does a cyanoacrylate adhesive require to reach handling strength?
 Conventional cyanoacrylate allows handling of the part within 10 min, with only 1–2 min of light pressure during the initial fixing phase.
 
-### 4. What clamping pressure is recommended when applying an epoxy adhesive?
+### What clamping pressure is recommended when applying an epoxy adhesive?
 A clamping pressure of 35–140 kPa / 5–20 psi is common; for thin bond lines 350 kPa / 50 psi is recommended, always according to the manufacturer's instructions.
 
-### 5. What density does a typical epoxy adhesive have and how does it affect joint weight?
+### What density does a typical epoxy adhesive have and how does it affect joint weight?
 The density of neat epoxy is 1.25 × 10³ kg/m³ / 78 lb/ft³, making it a lightweight option compared to equivalent metallic mechanical fasteners.
 
-### 6. What is the specific strength (strength‑density ratio) of an epoxy adhesive?
+### What is the specific strength (strength‑density ratio) of an epoxy adhesive?
 Epoxy presents a specific strength of 0.055 MPa·m³/kg (≈ 7 800 psi·in³/lb), a value that justifies its use in aerospace and automotive applications where the strength-weight ratio is critical.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
 - **efunda.com**: https://www.efunda.com/designstandards/measurements/strain_gages/strain_gage_selection_matl.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/search/process?field_process_parents_is=1031

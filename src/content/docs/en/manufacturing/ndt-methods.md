@@ -175,27 +175,26 @@ Correct application of NDT requires following standardized procedures. The main 
 - **ISO 5817**: Quality levels for imperfections in welded joints (applicable to NDT).
 These standards establish acceptance criteria, test parameters and minimum equipment requirements.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the minimum working temperature allowed for liquid penetrant testing according to most standards?**
+### What is the minimum working temperature allowed for liquid penetrant testing according to most standards?
 The temperature of the part and the penetrant must be maintained between 10 °C / 50 °F and 50 °C / 122 °F, although special penetrants exist for extended ranges.
 
-**2. What maximum thickness of steel can a conventional ultrasonic equipment inspect in a single scan?**
+### What maximum thickness of steel can a conventional ultrasonic equipment inspect in a single scan?
 With low-frequency probes (2 MHz) and good attenuation, it is possible to inspect up to 5000 mm / 197 in of rolled steel.
 
-**3. What radiation dose does an operator receive during a typical radiograph of a 25 mm thick weld?**
+### What radiation dose does an operator receive during a typical radiograph of a 25 mm thick weld?
 The annual occupational dose is limited by law (generally 20 mSv/year). In a well-planned individual exposure, the dose received by the operator, positioned behind barriers, can be less than 0.01 mSv.
 
-**4. What minimum crack size can a visual inspection with a 10× magnifying glass detect under high illumination conditions?**
+### What minimum crack size can a visual inspection with a 10× magnifying glass detect under high illumination conditions?
 With 2000 lux illumination and 10×, cracks of approximately 0.01 mm / 0.0004 in width and ≥ 0.2 mm / 0.008 in length can be discerned.
 
-**5. How long must the penetrant remain on the surface to ensure defect detection in stainless steel?**
+### How long must the penetrant remain on the surface to ensure defect detection in stainless steel?
 The standard penetration time for visible penetrants in stainless steel is 15 min; for fluorescent penetrants, 30 min to 60 min is recommended, depending on temperature.
 
-**6. What frequency is typically used in ultrasonic testing to inspect aluminum forgings?**
+### What frequency is typically used in ultrasonic testing to inspect aluminum forgings?
 For fine-grained aluminum forgings, frequencies from 5 MHz to 10 MHz are used, which allows detecting discontinuities of 0.5 mm / 0.02 in equivalent diameter.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/ndt-non-destructive-testing-d_314.html
 - **efunda.com**: https://www.efunda.com/designstandards/gdt/introduction.cfm

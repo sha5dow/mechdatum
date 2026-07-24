@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Technical Summary
-
 Wires for mechanical springs are predominantly manufactured from high-carbon steels, alloy steels, and nickel alloys, with standardized diameters from 0.13 mm / 0.005 in up to more than 12 mm / 0.5 in according to ASTM A228 and equivalents. Oil-tempered music wire has the highest tensile strength among commercial spring steels, reaching values of 2620–2930 MPa / 380–425 ksi in fine diameters, while chromium-silicon alloys and Inconel are reserved for severe cyclic loading conditions and temperatures above 200 °C / 392 °F, respectively. Material selection directly governs load capacity, fatigue life, and relaxation resistance of the spring.
 
 ## Mechanical Properties Table
@@ -119,7 +117,6 @@ Beryllium copper with age-hardening heat treatment achieves an electrical conduc
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/young-modulus-d_417.html
 - **mcmaster.com**: https://www.mcmaster.com/products/music-wire/
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/young-modulus-d_417.html
 - **mcmaster.com**: https://www.mcmaster.com/products/music-wire/

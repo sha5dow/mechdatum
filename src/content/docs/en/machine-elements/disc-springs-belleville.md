@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 Belleville disc springs can support working loads from 27 N (6 lb) in the smallest diameters to over 38 kN (8650 lb) in high-strength versions, with a typical deflection range of 0,08 mm (0.003 in) to 1,0 mm (0.039 in) per disc. Patented in 1867 by Julien Belleville, they are conical washers of annular section that work under axial load, both static and dynamic. Their frustoconical geometry gives them a non-linear load‑deflection curve, allowing high forces in tight spaces and the possibility of combining them in stacks to multiply load or deflection. They are used to maintain tension, separate components on shafts, under screw heads, and in high-pressure valves. The most common configurations are parallel stacking (nest, to increase load), series stacking (alternating directions, to increase deflection), and a combination of both.
 
 ## Standard dimensions
@@ -81,27 +80,26 @@ A load eccentricity greater than 0,1 mm (0.004 in) can reduce fatigue life by mo
 | Seismic dampers in buildings | Large accumulated deflections | High-strength steel | Large diameter discs (>100 mm OD) | Multiple stacks in series/parallel |
 | Precision rifle triggers | Ultra-fast response, minimal space | Hardened carbon steel | Miniatures, shaft 3/32 in | Nest of 5‑8 discs for high load |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-**1. What is the maximum load a Belleville spring can support?**  
+### What is the maximum load a Belleville spring can support?
 The maximum flat load (fully flattened disc) in standard commercial sizes reaches 55,6 kN (12 500 lb), as in the heavy shaft 5/8 in disc from the table. By stacking in parallel, that value can be multiplied by the number of discs in the nest.
 
-**2. Can they be stacked to increase deflection?**  
+### Can they be stacked to increase deflection?
 Yes. By placing three discs in series (alternating orientations), the total deflection is three times the individual deflection. For example, a 1/4 in disc that deflects 0,20 mm (0.008 in) will provide 0,60 mm (0.024 in) with three discs in series.
 
-**3. What material to choose for corrosive environments?**  
+### What material to choose for corrosive environments?
 18‑8 stainless steel resists humidity and mild chemicals up to 300 °C (570 °F); for extreme temperature and corrosion conditions (−240 °C to 593 °C / −400 °F to 1100 °F), Inconel 718 nickel alloy is used.
 
-**4. How is deflection calculated in a mixed stacking arrangement?**  
+### How is deflection calculated in a mixed stacking arrangement?
 In a stack with n packages in parallel (each with the same load C) and m packages in series, the total deflection is m × d (where d is the deflection of one disc under load C). For example, 2 discs in parallel each sharing the 200 N (45 lb) load from the previous example, and 3 of these packages in series, give a deflection of 3 × 0,20 mm = 0,60 mm (0.024 in).
 
-**5. What is the fatigue life?**  
+### What is the fatigue life?
 With maximum stresses below 50 % of the yield strength, heat-treated steel Belleville springs can exceed 10⁶ cycles. Asymmetric loading conditions or high eccentricities drastically reduce life, sometimes to less than 10⁵ cycles.
 
-**6. Can they be used as safety washers in bolted joints?**  
+### Can they be used as safety washers in bolted joints?
 No. Unlike Grower or toothed washers, Belleville springs do not have significant locking capacity; their function is to maintain a constant preload, but they do not prevent loosening due to vibration unless combined with other fastening elements.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/cantilever-beams-d_1848.html
 - **mcmaster.com**: https://www.mcmaster.com/products/belleville-disc-springs/

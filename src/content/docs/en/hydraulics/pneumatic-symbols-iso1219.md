@@ -59,7 +59,7 @@ The ISO 1219-1:2012 standard defines standard graphic symbols for pneumatic and 
 | Pneumatic pressure switch | Switches an electrical contact when pneumatic pressure reaches a preset value. Adjustment range 0.2 bar to 12 bar / 2.9 psi to 174 psi. Repeatability ±1% of full scale. | Symbol with pressure line and normally open or normally closed electrical contact. |
 | Pneumatic silencer | Reduces noise from compressed air exhaust at valve and cylinder ports. Sound attenuation from 15 dB(A) to 35 dB(A) depending on internal porous material. Connections from M5 to G1. | The symbol shows an element at the valve exhaust with acoustic attenuation indication. |
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### Which international standard regulates pneumatic symbols for circuits?
 
@@ -85,8 +85,7 @@ A standard pneumatic silencer reduces exhaust noise between 15 dB(A) and 35 dB(A
 
 The maintenance unit composed of filter, regulator and lubricator (FRL) is described in ISO 1219-1:2012 within the family of symbols for compressed air treatment. The filter retains particles from 5 µm / 0.0002 in to 40 µm / 0.0016 in, the regulator maintains a stable secondary pressure in a range of 0.5 bar to 10 bar / 7.25 psi to 145 psi, and the lubricator doses oil for flow rates up to 3000 Nl/min / 105.9 scfm.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/iso-valve-standards-d_375.html
 - **engineersedge.com**: https://www.engineersedge.com/hydraulic/symbols/hydraulic_iso_schematic_symbols.htm
 - **efunda.com**: https://www.efunda.com/designstandards/oring/oring_intro.cfm

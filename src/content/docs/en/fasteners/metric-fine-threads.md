@@ -104,28 +104,27 @@ Metric fine pitch threads are internationally regulated by ISO 724, which establ
 
 In the American system, ASME B1.13M fully adopts the profile and dimensions of ISO metric threads, so an M10 x 1,25 bolt manufactured under ASME B1.13M is completely interchangeable with one manufactured under ISO 724 or DIN 13. The equivalence is not based on a conversion to UNC/UNF threads, but on the direct adoption of the metric system.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the thread depth in the basic profile of a metric fine pitch thread?**
+### What is the thread depth in the basic profile of a metric fine pitch thread?
 The depth is equal to 0,614 times the nominal pitch; for example, on an M10 x 1,25 thread the theoretical thread depth is 0,767 mm / 0.030 in.
 
-**How is a metric fine pitch thread distinguished from a coarse pitch thread on the same diameter?**
+### How is a metric fine pitch thread distinguished from a coarse pitch thread on the same diameter?
 A fine pitch M10 bolt has a pitch of 1,00 mm or 1,25 mm, while the standard coarse pitch is 1,50 mm. The designation is written including the pitch, for example M10 x 1,00, while M10 without pitch indication is assumed coarse pitch.
 
-**How much larger is the tensile stress area of a fine thread compared to a coarse thread?**
+### How much larger is the tensile stress area of a fine thread compared to a coarse thread?
 In a fine M12 x 1,25 the tensile stress area is 92,1 mm², versus 84,3 mm² for coarse pitch M12 x 1,75, which represents an increase of 9,2 %.
 
-**What maximum tightening torque is recommended for an M8 x 1,00 class 8.8 bolt?**
+### What maximum tightening torque is recommended for an M8 x 1,00 class 8.8 bolt?
 The maximum suggested torque for M8 x 1,00 class 8.8 is 25 Nm / 18 ft·lb under light lubrication and dry tightening conditions.
 
-**What is the correct drill for making a pilot hole for tapping a female M12 x 1,5 thread?**
+### What is the correct drill for making a pilot hole for tapping a female M12 x 1,5 thread?
 It is recommended to use a 10,50 mm / 0.413 in drill, which corresponds to the theoretical minor diameter of the thread.
 
-**In which diameters are extra fine pitch combinations offered?**
+### In which diameters are extra fine pitch combinations offered?
 Extra fine pitch combinations (for example 0,75 mm on M10 or 1,00 mm on M16) are standardized in ISO 261 and are used when thin wall or micrometric adjustment is required, being available from M1 up to at least M100.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/metric-iso-threads/
 - **mcmaster.com**: https://www.mcmaster.com/products/screws/system-of-measurement~metric/thread-spacing~fine/

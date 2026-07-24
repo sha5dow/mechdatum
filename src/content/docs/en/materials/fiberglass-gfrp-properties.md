@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General description
 E-glass fiber accounts for approximately 90 % of the global production of reinforcing fibers for plastics. It is an inorganic glass filament with low alkali content (< 1 % Na₂O + K₂O) that, once embedded in a polymer matrix, forms the so-called glass fiber reinforced plastic composites (GFRP). Its excellent strength‑to‑weight ratio, dimensional stability, fire resistance, and moderate cost make it the most widely used reinforcing fiber in the construction, automotive, marine, and aerospace industries.
 
 ## Chemical composition
@@ -120,28 +119,27 @@ Glass fibers for reinforcement are covered by numerous ASTM standards, including
 | ASTM D2105 | Determination of tensile strength of glass strands |
 | DIN 61850 | Textile glass — Designation and main types |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of a unidirectional GFRP composite?**  
+### What is the tensile strength of a unidirectional GFRP composite?
 A unidirectional GFRP laminate with 60 % fiber volume fraction typically reaches 1000–1200 MPa in the fiber direction, which is 50–60 % of the dry fiber strength.
 
-**What is the density of a typical GFRP laminate?**  
+### What is the density of a typical GFRP laminate?
 The density of a laminate with polyester or epoxy matrix ranges from 1.8 to 2.0 g/cm³, approximately 70 % that of aluminum.
 
-**Up to what temperature can GFRP be used?**  
+### Up to what temperature can GFRP be used?
 The maximum continuous service temperature of a composite with a hot-cured polymer matrix is between 120 and 150 °C, although the fiber itself retains its properties up to over 600 °C.
 
-**Is GFRP resistant to acids?**  
+### Is GFRP resistant to acids?
 GFRP laminates with vinyl ester or epoxy matrix withstand exposure to most mineral and organic acids, achieving a rating of 5/5 in immersion tests, provided they do not contain hydrofluoric acid.
 
-**What is the thermal conductivity of GFRP?**  
+### What is the thermal conductivity of GFRP?
 The transverse thermal conductivity of a GFRP laminate is typically between 0.3 and 0.5 W/(m·K), about 80 times lower than that of carbon steel.
 
-**How much lighter is GFRP compared to steel?**  
+### How much lighter is GFRP compared to steel?
 With a density 4 times lower (1.9 vs. 7.85 g/cm³), a GFRP component can reduce weight by 50–60 % for the same specific stiffness, provided the design takes advantage of the reinforcement directions.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=764
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/polymer-composite-fibers-d_1226.html
 - **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php

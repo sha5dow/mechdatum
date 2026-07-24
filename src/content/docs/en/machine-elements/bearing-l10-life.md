@@ -91,27 +91,26 @@ These intervals allow the engineer to narrow the search; it can be refined with 
 4. Working temperature above 120 °C / 248 °F requires applying a reduction factor for C that manufacturers publish in their catalogs.
 5. Hot mounting by thermal expansion (heating to 110 °C / 230 °F) facilitates installation without damaging the raceways and preserves the catalog nominal life.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What does L10 exactly mean?**  
+### What does L10 exactly mean?
 L10 is the nominal life in millions of revolutions that 90% of a group of identical bearings achieve under the same load. It corresponds to a 90% reliability and is the basis of standard sizing.
 
-**What is the life exponent for tapered roller bearings?**  
+### What is the life exponent for tapered roller bearings?
 The exponent p is 10/3, equivalent to 3,33, which reflects the greater sensitivity of roller bearings to load. Thus, a 10% increase in load reduces L10 life by approximately 27% in this type of bearing.
 
-**How is life in millions of revolutions converted to hours?**  
+### How is life in millions of revolutions converted to hours?
 Divide the value in millions of revolutions by the rotational speed in rpm and by 60: L10h = L10 × 10⁶ / (60 n). For example, a bearing with L10 = 500 million revolutions rotating at 1500 rpm will have a life of 5.556 hours.
 
-**What load to use in the calculation if radial and axial forces exist simultaneously?**  
+### What load to use in the calculation if radial and axial forces exist simultaneously?
 Calculate the equivalent dynamic load P = X·Fr + Y·Fa. For deep groove ball bearings with Fa/Fr ≤ 0,25, X=1 and Y=0; otherwise X=0,56 and Y is between 1 and 2 according to the manufacturer's catalog.
 
-**What happens if the applied load P exceeds the static load rating C0?**  
+### What happens if the applied load P exceeds the static load rating C0?
 L10 life should not be calculated because the bearing is in a regime of permanent plastic deformation; under these conditions the life can be less than 100 revolutions. Static safety requires P0 ≤ C0/S0 with S0 ≥ 2 in general.
 
-**What L10h life is recommended for a 50 HP electric motor?**  
+### What L10h life is recommended for a 50 HP electric motor?
 An industrial electric motor of that power typically operates between 1.500 and 3.000 rpm, and the recommended life is between 20.000 and 30.000 hours. A safe design value is to select a bearing that provides at least 25.000 hours L10h.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/w-steel-beam-uniform-load-d_1722.html
 - **mcmaster.com**: https://www.mcmaster.com/products/bearings/

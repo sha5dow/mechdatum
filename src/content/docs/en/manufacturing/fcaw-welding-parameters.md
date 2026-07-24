@@ -94,7 +94,7 @@ The decision between gas-shielded and self-shielded FCAW is based on the environ
 
 For thicknesses greater than **20 mm / 0.79 in** in structural steels, FCAW with pure CO₂ is preferred to maximize penetration. On sheets of **≤ 3 mm / 0.12 in** outdoors, self-shielded FCAW with **0,9 mm / 0.035 in** wire offers greater ease of handling.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
 ### What is the maximum deposition rate that can be achieved in FCAW?
 The deposition rate in flat position can reach up to **15 kg/h / 33 lb/h** with 2.4 mm / 3/32 in wires and high currents, exceeding solid GMAW rates by more than **40%** under equivalent conditions.
@@ -114,6 +114,5 @@ Breezes above **8 km/h / 5 mph** start to disperse the shielding gas and cause p
 ### How much can a local exhaust system reduce smoke?
 A local exhaust system with a capacity of **150 to 300 m³/h / 5300 to 10600 ft³/h** per torch can reduce the concentration of fumes in the environment by more than **80%** compared to general ventilation.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/formulae/heat_transfer/radiation/view_factors.cfm

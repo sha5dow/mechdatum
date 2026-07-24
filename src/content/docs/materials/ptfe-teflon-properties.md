@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El politetrafluoroetileno (PTFE) es un fluoropolímero totalmente fluorado, semicristalino y de color blanco semitransparente, con una densidad de 2.15 g/cm³ (2150 kg/m³). Destaca por su excepcional resistencia química, un bajísimo coeficiente de fricción, alta estabilidad térmica (hasta 180 °C en uso continuo) y excelentes propiedades dieléctricas. Se trata de un termoplástico que no puede procesarse por fusión convencional, sino mediante sinterizado de polvo.
 
 ## Composición química
@@ -96,24 +95,24 @@ El PTFE se compara frecuentemente con otros fluoropolímeros de uso técnico. A 
 | Constante dieléctrica (1 kHz) | 2.1 | 2.0 | 2.1 | 2.6 |
 | Coeficiente de fricción dinámico | 0.04 – 0.10 | 0.08 – 0.20 | 0.08 – 0.20 | 0.20 – 0.40 |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la temperatura máxima de uso continuo del PTFE?**
+### ¿Cuál es la temperatura máxima de uso continuo del PTFE?
 La temperatura máxima de uso continuo recomendada es de 180 °C (360 °F), pudiendo soportar picos puntuales cercanos a la fusión (~327 °C) sin degradación inmediata.
 
-**¿Cuál es la densidad del PTFE virgen?**
+### ¿Cuál es la densidad del PTFE virgen?
 La densidad típica del PTFE sin cargas es de 2.15 g/cm³ (2150 kg/m³), aunque puede variar entre 2.10 y 2.20 g/cm³ según el grado y el procesamiento.
 
-**¿Qué resistencia a la tracción tiene el PTFE?**
+### ¿Qué resistencia a la tracción tiene el PTFE?
 La resistencia a la tracción del PTFE virgen es de 25 MPa (3.6 ksi), con un alargamiento a la rotura del 400 %, aunque estos valores se modifican con la adición de cargas.
 
-**¿Se puede mecanizar el PTFE?**
+### ¿Se puede mecanizar el PTFE?
 Sí, el PTFE se mecaniza con facilidad mediante torno, fresa o taladro convencional; su dureza Shore D de 63 y baja resistencia al corte exigen herramientas afiladas y refrigeración ocasional.
 
-**¿Qué coeficiente de fricción tiene el PTFE?**
+### ¿Qué coeficiente de fricción tiene el PTFE?
 El coeficiente de fricción estático del PTFE se sitúa entre 0.04 y 0.10, siendo uno de los más bajos entre los materiales de ingeniería, especialmente en seco contra acero.
 
-**¿Cuál es la constante dieléctrica del PTFE a 1 kHz?**
+### ¿Cuál es la constante dieléctrica del PTFE a 1 kHz?
 La constante dieléctrica a 1 kHz es 2.1, combinada con un factor de disipación extremadamente bajo de 0.0001, ideal para aplicaciones de alta frecuencia.
 
 ## Fuentes consultadas

@@ -155,7 +155,7 @@ La sensibilidad a la velocidad de deformación es baja, lo que permite operacion
 
 Las piezas de gran producción en fundición maleable requieren un control riguroso de la composición, especialmente de la relación Mn/S y de elementos residuales como cromo, boro o telurio, que estabilizan los carburos y pueden inhibir la grafitización durante el recocido.
 
-## FAQ
+## Preguntas frecuentes (FAQ)
 
 ### ¿Qué límite elástico tiene la fundición maleable ferrítica?
 La fundición maleable ferrítica grado EN‑GJMB‑350‑10 presenta un límite elástico Rp0,2 de 200 MPa para diámetros nominales de 12 a 15 mm. En los grados perlíticos más resistentes como el EN‑GJMB‑650‑2 el límite elástico alcanza 430 MPa.

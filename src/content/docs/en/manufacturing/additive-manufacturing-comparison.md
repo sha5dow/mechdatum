@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Operating principle
-
 The analyzed additive manufacturing processes build parts layer by layer from a digital model, but differ in the way material is deposited and consolidated:
 
 - **FDM (Fused Deposition Modeling):** extrudes a thermoplastic filament through a heated nozzle that moves in the X‑Y axes, depositing the molten material onto a platform. The part is formed as each layer solidifies.
@@ -66,24 +64,24 @@ Select the process based on the primary criterion:
 - **Urgent delivery deadline → FDM** (lower machine time for simple parts). For highly detailed parts, SLA may be competitive.
 - **Low production volume (up to 100 units) → SLS**, thanks to nesting and the absence of supports which reduces post-processing.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-1. **What is the typical dimensional accuracy of SLA?**  
+### What is the typical dimensional accuracy of SLA?
    SLA routinely achieves tolerances of ±0,1 mm / 0.004 in, and can reach ±0,05 mm / 0.002 in on high-end machines.
 
-2. **What layer thickness does SLS use for nylon PA12?**  
+### What layer thickness does SLS use for nylon PA12?
    The standard layer thickness for PA12 in SLS ranges from 0,1 mm / 0.004 in to 0,15 mm / 0.006 in, which determines surface roughness and build time.
 
-3. **What is the nozzle temperature in FDM for ABS?**  
+### What is the nozzle temperature in FDM for ABS?
    The extruder temperature for ABS is typically maintained between 220 °C / 428 °F and 250 °C / 482 °F, and the heated bed between 90 °C / 194 °F and 110 °C / 230 °F to prevent warping.
 
-4. **What surface roughness can be expected in unsealed SLS parts?**  
+### What surface roughness can be expected in unsealed SLS parts?
    The average roughness (Ra) of an SLS part without surface treatment is between 5 µm / 197 µin and 15 µm / 591 µin, due to the powdery nature of the sintered powder.
 
-5. **How long does a 100 mm tall SLA print take?**  
+### How long does a 100 mm tall SLA print take?
    A 100 mm / 3.94 in tall part typically completes in 5 to 10 hours with a 0,1 mm / 0.004 in layer setting, depending on geometric complexity and cross-sectional area.
 
-6. **What is the minimum wall thickness that can be guaranteed in FDM with a 0.4 mm nozzle?**  
+### What is the minimum wall thickness that can be guaranteed in FDM with a 0.4 mm nozzle?
    The functional minimum wall thickness in FDM is 0,8 mm / 0.031 in (twice the nozzle diameter) to ensure structural strength, although decorative details can reach 0,4 mm / 0.016 in.
 
 ## References
@@ -91,7 +89,3 @@ Select the process based on the primary criterion:
 - **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sls.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/stereolithography-sla
 
-## Sources Consulted
-
-- **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sls.cfm
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/stereolithography-sla

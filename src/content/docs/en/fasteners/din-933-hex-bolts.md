@@ -129,28 +129,27 @@ Based on ISO 724 recommendations and general workshop practice. Diameters in mm 
 - **Common surface finishes**: electrolytic zinc plating (silver or blue), chromate, hot-dip galvanizing (HDG), and nickel plating.
 - **Heat treatments**: quenching and tempering for classes 8.8 and above.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-1. **What is the standard thread pitch for an M8 DIN 933 bolt?**  
+### What is the standard thread pitch for an M8 DIN 933 bolt?
    The ISO coarse pitch is 1,25 mm / 0.049 in; for M8 there are also fine pitches of 1,0 mm / 0.039 in and 0,75 mm / 0.030 in, but the standard supply for DIN 933 is 1,25 mm.
 
-2. **What is the minimum proof load of an M12 grade 8.8 bolt?**  
+### What is the minimum proof load of an M12 grade 8.8 bolt?
    An M12 grade 8.8 supports at least 48,9 kN / 11 000 lbf without permanent deformation, based on a tensile stress area of 84,3 mm² and proof stress of 580 MPa.
 
-3. **What is the width across flats of an M10 DIN 933 bolt?**  
+### What is the width across flats of an M10 DIN 933 bolt?
    The traditional measurement is 17 mm / 0.669 in; the current ISO 4017 standard specifies 16 mm / 0.630 in, although most commercial inventory still uses 17 mm.
 
-4. **What torque is recommended for an M6 8.8 in a dry joint?**  
+### What torque is recommended for an M6 8.8 in a dry joint?
    A tightening torque of 9,0 to 11 N·m / 6.6 to 8.1 lb·pie is recommended; with light lubrication, reduce by approximately 30%.
 
-5. **What clearance hole drill does an M16 bolt need?**  
+### What clearance hole drill does an M16 bolt need?
    For a medium clearance hole, use a 18 mm / 0.709 in drill; the fine pitch diameter would require a tap drill of 14 mm / 0.551 in.
 
-6. **Which American standard can a DIN 933 bolt be interchanged with?**  
+### Which American standard can a DIN 933 bolt be interchanged with?
    There is no direct inch replacement; the metric standard ANSI B18.2.3.1M defines hex head screws dimensionally similar to DIN 933 / ISO 4017.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metric-threads-d_777.html
 - **bossard.com**: https://www.bossard.com/in-en/eshop/screws-and-bolts-with-external-drive/hex-head-screws-fully-threaded/p/624/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-933-cap-screws/

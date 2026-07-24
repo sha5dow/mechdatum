@@ -124,22 +124,22 @@ El acero 1020 se diferencia del 1018 y del 1025 principalmente en su contenido d
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la dureza típica del acero 1020 en estado de suministro?**  
+### ¿Cuál es la dureza típica del acero 1020 en estado de suministro?
    La dureza Brinell más habitual es de 111 HB, equivalente a 64 HRB.
 
-2. **¿Se puede templar el acero 1020 para aumentar su dureza en todo el espesor?**  
+### ¿Se puede templar el acero 1020 para aumentar su dureza en todo el espesor?
    No, su contenido de carbono inferior a 0.25 % impide el endurecimiento por temple convencional; solo puede endurecerse superficialmente mediante cementación o carbonitruración.
 
-3. **¿Qué resistencia a la tracción alcanza después de la cementación?**  
+### ¿Qué resistencia a la tracción alcanza después de la cementación?
    La resistencia a la tracción del núcleo permanece alrededor de 395 MPa, mientras que la capa cementada alcanza durezas superficiales de 60‑65 HRC.
 
-4. **¿Es adecuado soldar piezas de acero 1020 después de cementarlas?**  
+### ¿Es adecuado soldar piezas de acero 1020 después de cementarlas?
    No se recomienda; la soldadura sobre una capa cementada puede producir grietas y pérdida de dureza. Lo ideal es soldar antes del tratamiento de cementación.
 
-5. **¿Cuál es la temperatura de recocido recomendada para el 1020?**  
+### ¿Cuál es la temperatura de recocido recomendada para el 1020?
    El recocido se realiza entre 870 °C y 910 °C con enfriamiento lento en horno.
 
-6. **¿Qué norma europea equivale al acero AISI 1020?**  
+### ¿Qué norma europea equivale al acero AISI 1020?
    La equivalencia más cercana según EN es el acero C22E (1.1151).
 
 ## Fuentes consultadas

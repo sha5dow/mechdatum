@@ -87,7 +87,7 @@ Ambos sistemas, ISO 286 y ANSI B4.1, clasifican los ajustes en las mismas tres c
 
 La principal diferencia operativa radica en que la designación ANSI especifica el ajuste resultante (el conjunto agujero-eje) como una entidad única, mientras que ISO codifica por separado la tolerancia del agujero (p.ej., H7) y la del eje (p.ej., f7). El estándar ISO también ofrece una mayor granularidad en la elección de grados de tolerancia (grados IT) y posiciones de tolerancia, permitiendo combinaciones no normalizadas para casos especiales. En cambio, las clases ANSI son combinaciones predefinidas con tablas completas de valores límite para cada diámetro, simplificando la selección en diseño mecánico básico. En la práctica industrial norteamericana, las designaciones ANSI (RC, LC, FN) son de uso común en planos de taller y catálogos de componentes, mientras que la documentación técnica internacional se inclina por el sistema ISO.
 
-## Preguntas Frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuántas clases de ajuste con huelgo define la norma ANSI B4.1?
 La norma ANSI B4.1 define 9 clases de ajuste con huelgo, designadas desde RC1 hasta RC9, donde RC1 proporciona el juego mínimo para guiados de máxima precisión y RC9 el juego máximo para condiciones de suciedad o dilatación extrema.

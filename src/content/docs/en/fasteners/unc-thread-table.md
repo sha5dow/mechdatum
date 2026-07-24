@@ -149,26 +149,25 @@ There is no direct interchangeability between UNC threads and ISO/DIN metric thr
 
 ## Frequently Asked Questions (FAQ)
 
-**What distinguishes the pitch of a UNC thread from that of a UNF thread for the same diameter?**  
+### What distinguishes the pitch of a UNC thread from that of a UNF thread for the same diameter?
 A UNC thread always has fewer threads per inch than UNF: for example, 1/4"–20 UNC has a pitch of 1.270 mm / 0.0500 in, while 1/4"–28 UNF has a pitch of 0.907 mm / 0.0357 in.
 
-**What is the flank angle of the UNC thread?**  
+### What is the flank angle of the UNC thread?
 The basic profile of the UNC thread is symmetric V with an included angle of 60°, identical to that of ISO metric threads.
 
-**Which standard regulates the dimensions of UNC threads?**  
+### Which standard regulates the dimensions of UNC threads?
 UNC threads are defined in the American standard ANSI/ASME B1.1 – Unified Inch Screw Threads, which unifies the standards of the USA and Canada.
 
-**How is an external UNC 1/4"–20 thread correctly designated?**  
+### How is an external UNC 1/4"–20 thread correctly designated?
 It is written as 1/4–20 UNC, indicating first the nominal diameter in inches, then the number of threads per inch, and finally the series abbreviation.
 
-**What drill size should I use for a 3/8"–16 UNC tap?**  
+### What drill size should I use for a 3/8"–16 UNC tap?
 For a 3/8"–16 UNC tap, a drill of 8.25 mm / 0.325 in is used, which corresponds to the fraction 5/16" or the letter "O".
 
-**What is the typical proof load of a 1/2"–13 UNC Grade 5 bolt?**  
+### What is the typical proof load of a 1/2"–13 UNC Grade 5 bolt?
 A 1/2"–13 UNC Grade 5 bolt has a proof load of approximately 53.7 kN / 12,062 lbf, calculated over a stress area of 0.1419 in² and a proof stress of 85 ksi.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/unified-screw-threads-unc-unf-d_1809.html
 - **bossard.com**: https://www.bossard.com/global-en/knowledge-hub/resources/technical-information/metric-iso-threads/
 - **mcmaster.com**: https://www.mcmaster.com/products/thread-size-identifiers/thread-type~unc/

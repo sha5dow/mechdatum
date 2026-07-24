@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Introducción
-
 El aluminio 5052 es una aleación de aluminio y magnesio de la serie 5000, con una densidad de 2,68 g/cm³, no tratable térmicamente pero endurecible por deformación en frío. Destaca por su excelente resistencia a la corrosión, especialmente frente al agua de mar y ambientes salinos, y por su buena soldabilidad, lo que le convierte en una elección frecuente en aplicaciones marinas, recipientes a presión y elementos arquitectónicos.
 
 ## Composición química
@@ -103,7 +101,7 @@ Gracias a su elevada resistencia a la corrosión en ambiente marino y a su buena
 
 El 5052 sobresale frente al 6061 en ambientes marinos por su inmunidad a la corrosión bajo tensión, mientras que frente al 3003 ofrece una relación resistencia‑peso netamente superior.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la resistencia a la tracción del aluminio 5052 en temple H32?
 La resistencia a la tracción del 5052‑H32 es de 228 MPa (33 ksi) como valor típico, con un límite elástico de 193 MPa (28 ksi). Según la norma ASTM B209, el intervalo permitido puede oscilar entre 31,0 y 38,0 ksi.

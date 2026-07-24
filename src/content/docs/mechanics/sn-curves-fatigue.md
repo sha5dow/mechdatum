@@ -169,24 +169,24 @@ En la Tabla se resumen valores típicos de límite de fatiga (materiales férreo
 ² Sₑ ≅ 0,4 Sᵤₜ (máx. 170 MPa / 24 ksi).  
 ³ S\_f ≅ 0,4 Sᵤₜ (máx. 130 MPa / 19 ksi para aluminios, 97 MPa / 14 ksi para cobres). Para diseño se requiere aplicar los factores modificadores.
 
-## FAQ – Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Qué valor de límite de fatiga tiene un acero típico?**  
+### ¿Qué valor de límite de fatiga tiene un acero típico?
 El límite de fatiga de laboratorio (Sₑ′) en un acero al carbono normalizado es aproximadamente la mitad de su resistencia última a la tracción, con un límite máximo de 290 MPa (42 ksi). Por ejemplo, un acero 1045 con Sᵤₜ = 630 MPa (91 ksi) tiene Sₑ′ ≈ 315 MPa (46 ksi), que una vez aplicados todos los factores modificadores puede bajar a valores del orden de 150‑200 MPa (22‑29 ksi) en una pieza real.
 
-**2. ¿Cuál es la diferencia entre límite de fatiga y resistencia a la fatiga?**  
+### ¿Cuál es la diferencia entre límite de fatiga y resistencia a la fatiga?
 El límite de fatiga (Sₑ) es un valor de esfuerzo por debajo del cual el material puede soportar un número ilimitado de ciclos (acero, titanio). La resistencia a la fatiga (S\_f) se define para un número finito de ciclos, habitualmente 5 × 10⁸ en aluminios y cobres. En aluminio 6061‑T6, la resistencia a 200 000 ciclos es 128,9 MPa (18,7 ksi), mientras que a 10⁸ ciclos sería mucho menor (98 MPa / 14,2 ksi), sin llegar nunca a un valor asintótico.
 
-**3. ¿Cómo influye el acabado superficial en la resistencia a la fatiga?**  
+### ¿Cómo influye el acabado superficial en la resistencia a la fatiga?
 Un acabado superficial rugoso reduce drásticamente el límite de fatiga. Para un acero con Sᵤₜ = 600 MPa (87 ksi), el factor de superficie Cₛ es 0,84 en piezas mecanizadas, 0,62 en laminado en caliente y apenas 0,38 en piezas forjadas. Esto significa que la misma pieza forjada podría tener un límite de fatiga de solo un 38 % del valor que tendría con acabado rectificado.
 
-**4. ¿Cuál es la ecuación que describe la curva S‑N del aluminio 6061‑T6?**  
+### ¿Cuál es la ecuación que describe la curva S‑N del aluminio 6061‑T6?
 La curva ajustada a los datos experimentales entre 10³ y 10⁷ ciclos, para tensión completamente alternante (R = −1), es S (MPa) = 14 479 / √N + 96,5 MPa, o bien S (psi) = 2 100 000 / √N + 14 000 psi. Para 200 000 ciclos, la tensión predicha es 129 MPa (18,7 ksi).
 
-**5. ¿Cómo se aplica la regla de Miner para una carga con múltiples bloques?**  
+### ¿Cómo se aplica la regla de Miner para una carga con múltiples bloques?
 Se suma el daño parcial de cada bloque. Por ejemplo: bloque 1 aplica 3 000 ciclos a 280 MPa (40,6 ksi), cuya vida N₁ = 8 000 ciclos (daño parcial 0,375); bloque 2 aplica 50 000 ciclos a 210 MPa (30,5 ksi) con N₂ = 150 000 ciclos (daño 0,333). El daño total es 0,375 + 0,333 = 0,708 < 1, por lo que no se prevé falla.
 
-**6. ¿Cuál es el efecto de una entalla en la resistencia a la fatiga?**  
+### ¿Cuál es el efecto de una entalla en la resistencia a la fatiga?
 Una entalla introduce un factor de concentración de esfuerzos estático Kₜ y reduce la resistencia a la fatiga según K\_f = 1 + q (Kₜ − 1). La sensibilidad a la entalla q varía entre 0 (material insensible) y 1 (totalmente sensible). En un acero de alta resistencia con Kₜ = 2,5 y q = 0,8, el factor efectivo es K\_f = 1 + 0,8 (2,5 − 1) = 2,2, lo que significa que el límite de fatiga corregido será Sₑ/K\_f, es decir, menos de la mitad del valor nominal.
 
 ## Fuentes consultadas

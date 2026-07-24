@@ -15,8 +15,6 @@ verified: true
 
 The typical layer thickness in additive manufacturing processes ranges from 0,05 mm / 0.002 in to 0,30 mm / 0.012 in, largely defining the resolution and surface finish of the part.
 
-## Process Description
-
 Design for Additive Manufacturing (DfAM) is an engineering methodology that optimizes the geometry, materials, and functionality of a product by leveraging the specific freedoms and constraints of material additive manufacturing processes. Unlike design for traditional manufacturing, DfAM does not merely adapt an existing part but rethinks the architecture of the entire assembly to maximize the benefits of 3D printing: component consolidation, weight reduction through lightweight structures, integration of internal cooling channels, and mass customization. DfAM encompasses both general principles and technology-specific rules (FDM, SLA, SLS, SLM, DMLS, etc.), considering everything from print orientation and supports to mechanical anisotropy and achievable tolerances.
 
 ## Operating Parameters
@@ -82,27 +80,26 @@ It is recommended to set a minimum wall thickness of 1 mm / 0.039 in for functio
 | High-volume plastic production | MJF | Higher speed than SLS and uniform finish |
 | Extreme assembly consolidation | Select technology according to the most restrictive material | Evaluate the consolidated part and choose the process that meets all requirements |
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-**What is the critical angle for printing overhangs without supports?**
+### What is the critical angle for printing overhangs without supports?
 For most FDM and SLS technologies, the critical angle is 45° / 0.79 rad from the horizontal; below this value, supports or geometry redesign are required.
 
-**What dimensional tolerance can I expect in SLS with polyamide 12?**
+### What dimensional tolerance can I expect in SLS with polyamide 12?
 Tolerances of ±0,3 mm / ±0.012 in are achieved for parts up to 100 mm / 3.94 in, provided shrinkage is controlled with a scale compensation of 3 % / 3 %.
 
-**How much material is wasted on average in reusable metal powder?**
+### How much material is wasted on average in reusable metal powder?
 Approximately 5 % to 10 % of the metal powder becomes non-reusable reject after repeated cycles, although the finished part material represents only 15 % of the total powder bed volume.
 
-**From what thickness is a wall considered self-supporting in photopolymer resins?**
+### From what thickness is a wall considered self-supporting in photopolymer resins?
 In SLA, walls of 0,5 mm / 0.020 in or more are usually stable without additional reinforcement, provided they do not exceed a free height of 50 mm / 1.97 in without lateral supports.
 
-**What weight reduction is feasible through topological optimization in DfAM?**
+### What weight reduction is feasible through topological optimization in DfAM?
 It is common to achieve a mass reduction of 40 % to 60 % in components redesigned for AM, maintaining or improving the original stiffness thanks to optimized material distribution.
 
-**How much can mechanical strength vary between XY and Z directions in FDM parts?**
+### How much can mechanical strength vary between XY and Z directions in FDM parts?
 The tensile strength in the Z direction can be between 30 % and 50 % lower than in the XY plane, depending on interlayer adhesion and printing parameters such as extrusion temperature and layer height.
 
-## Sources Consulted
-
+## References
 - **efunda.com**: https://www.efunda.com/designstandards/
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/additiv-tillverkning?page=1

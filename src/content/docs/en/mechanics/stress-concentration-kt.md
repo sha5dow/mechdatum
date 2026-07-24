@@ -68,7 +68,7 @@ The ratio d/W = 20 mm / 100 mm = 0.20. From the corresponding table, Kt = 3.14. 
 
 The yield strength of the material is 275 MPa / 39.9 ksi. With static loading, local yielding prevents sudden failure, but under cyclic loads the concentration factor would act fully. If one wishes to limit σ_max to 200 MPa / 29.0 ksi in fatigue, with the same load a Kt ≤ 4.0 would be needed, which allows holes up to d ≈ 35 mm / 1.378 in (Kt ≈ 3.7). Alternatively, the plate width can be increased or the hole size reduced.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 **What is the typical maximum value of Kt in mechanical parts?** Kt values usually range between 1.0 and 6.0 for most common geometries; a sharp notch with a very small radius can exceed Kt = 10 from a theoretical elastic standpoint, although yielding reduces it in practice.
 
@@ -82,7 +82,6 @@ The yield strength of the material is 275 MPa / 39.9 ksi. With static loading, l
 
 **Should Kt be applied in the static design of ductile materials?** Generally not, because local yielding redistributes stresses, equalizing the ultimate load to that obtained with elementary formulas; in ductile materials, fatigue failure is the condition that always requires considering Kt.
 
-## Sources Consulted
-
+## References
 - **engineersedge.com**: https://www.engineersedge.com/material_science/stress_concentration_factors_for_flat_plates__15193.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/stress_concentration/stresscon_intro.cfm

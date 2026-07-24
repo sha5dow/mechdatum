@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General description
 Hydraulic fluid is the power transfer medium in machines and oil-hydraulic systems. In addition to transmitting force and motion, the fluid lubricates components, cools the circuit, protects against corrosion, carries contaminants to the filters, and helps seal internal clearances, including O-rings. The most common base is mineral oil with additives, although synthetic formulations, phosphate esters, polyglycols, and water-in-oil emulsions exist for specific applications.
 
 ## Functions and properties
@@ -122,7 +121,7 @@ ISO standard 3448 establishes the ISO VG (Viscosity Grade) grades for industrial
 
   νₙ₊₁ ≈ 1,5 × νₙ (~50 % increase in kinematic viscosity)
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 ### What is ISO VG grade and how is it determined?
 ISO VG grade 46, for example, has a mean kinematic viscosity of 46 cSt at 40 °C (104 °F). It is defined per ISO 3448, with a range of ±10 % about the nominal value, so an ISO VG 46 oil can exhibit between 41,4 cSt and 50,6 cSt at the reference temperature.
 
@@ -141,8 +140,7 @@ The replacement interval ranges between 2000 and 4000 service hours under normal
 ### What effects does using a fluid of incorrect viscosity have?
 A fluid that is too viscous (e.g., ISO VG 100 in a system designed for ISO VG 46) causes overheating, power losses greater than 10 %, and slow response. A fluid that is too thin (ISO VG 22 instead of ISO VG 46) leads to increased internal leakage, premature wear of pumps and valves, and a drop in working pressure below design values.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/iso-vg-grade-d_1206.html
 - **engineersedge.com**: https://www.engineersedge.com/fluid_flow/viscosity_grade_table_iso_3448_16078.htm
 - **efunda.com**: https://www.efunda.com/designstandards%20/oring/oring_intro.cfm

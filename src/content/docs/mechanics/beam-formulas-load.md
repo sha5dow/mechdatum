@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Introducción
 Las vigas son elementos estructurales que trabajan principalmente a flexión, con luces típicas desde 2 m / 6.56 ft en edificación residencial hasta más de 50 m / 164 ft en puentes. Esta guía reúne fórmulas de resistencia de materiales para el cálculo de reacciones, esfuerzos internos, pendientes y flechas en vigas isostáticas sometidas a los tipos más habituales de carga y condiciones de apoyo.
 
 ## Ecuación diferencial de la viga
@@ -64,24 +63,23 @@ Se dimensiona una viga simplemente apoyada de acero S275 (E = 200 GPa / 29 000 k
 ## Criterios de diseño
 La práctica habitual limita la flecha máxima bajo cargas de servicio a L/250 en vigas de edificación, equivalente a 8 mm en una luz de 2 m / 0.31 in en 6.56 ft. Para combinaciones poco frecuentes se acepta L/300, y en elementos que soporten tabiques frágiles se reduce hasta L/500. La tensión de trabajo en acero no debe superar la resistencia de cálculo fy/γM, con γM = 1.05 según normativa, lo que para S275 da 262 MPa / 38 ksi. En vigas de madera la flecha admisible suele ser L/300 y la tensión admisible a flexión del orden de 10 MPa / 1.45 ksi.
 
-## Preguntas frecuentes
-
-**¿Cuál es la flecha máxima admisible en una viga de acero para uso residencial?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la flecha máxima admisible en una viga de acero para uso residencial?
 La flecha se limita habitualmente a L/250, es decir, 8 mm para una viga de 2 m / 0.31 in para 6.56 ft, aunque en zonas con tabiquería frágil se exige L/500 (4 mm / 0.16 in en 2 m).
 
-**¿Cómo se calcula el momento flector máximo en una viga simplemente apoyada con carga puntual?**
+### ¿Cómo se calcula el momento flector máximo en una viga simplemente apoyada con carga puntual?
 El momento máximo vale PL/4, lo que para P=20 kN y L=4 m da 20 kN·m / 14.75 kip·ft, localizándose justo bajo la carga.
 
-**¿Qué efecto tiene duplicar la luz en la flecha de una viga biapoyada con carga uniforme?**
+### ¿Qué efecto tiene duplicar la luz en la flecha de una viga biapoyada con carga uniforme?
 Como la flecha es proporcional a L³, al duplicar la luz de 3 m a 6 m / 9.84 ft a 19.7 ft la flecha se multiplica por 8, pasando, por ejemplo, de 2 mm a 16 mm / 0.08 in a 0.63 in.
 
-**¿Cuál es la pendiente máxima en el extremo de un voladizo con carga puntual?**
+### ¿Cuál es la pendiente máxima en el extremo de un voladizo con carga puntual?
 La pendiente en el extremo libre vale PL²/(2EI); para P=5 kN, L=1.5 m y una sección con EI=400 kN·m² se obtienen 0.014 rad ≈ 0.8°.
 
-**¿Cómo varía la tensión normal a lo largo de una viga en voladizo con carga uniforme?**
+### ¿Cómo varía la tensión normal a lo largo de una viga en voladizo con carga uniforme?
 La tensión normal máxima en las fibras extremas es \(M y/I\), con M=WL/2. Para W=10 kN, L=2 m y sección con W_el=80 cm³ se alcanzan 125 MPa / 18.1 ksi en el empotramiento.
 
-**¿Qué diferencia de flecha hay entre una viga simplemente apoyada y una empotrada en ambos extremos bajo carga uniforme?**
+### ¿Qué diferencia de flecha hay entre una viga simplemente apoyada y una empotrada en ambos extremos bajo carga uniforme?
 La flecha máxima en la viga simplemente apoyada es \(5WL^3/(384EI)\); en la empotrada-empotrada es \(WL^3/(384EI)\). La diferencia es un factor 5, de modo que para W=50 kN, L=6 m y EI=5000 kN·m² se obtienen 7.0 mm y 1.4 mm / 0.28 in y 0.06 in, respectivamente.
 
 ## Fuentes consultadas

@@ -13,8 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
-
 El acero herramienta A2 es un acero para trabajos en frío de temple al aire, de aleación media, con un contenido de carbono entre 0.95 % y 1.05 %. Su composición, que incluye cromo y molibdeno, le confiere una elevada templabilidad y permite alcanzar durezas de 63–65 HRC con un enfriamiento en aire en secciones de hasta 100 mm de diámetro. Este comportamiento minimiza la distorsión y el agrietamiento durante el temple. El A2 se caracteriza por una buena resistencia al desgaste, una dureza profunda y una maquinabilidad media, siendo apto para aplicaciones donde la estabilidad dimensional es crítica.
 
 ## Composición química
@@ -108,22 +106,22 @@ El acero A2 se emplea principalmente en troqueles, cuchillas de corte (slitters)
 
 ## Preguntas frecuentes (FAQ)
 
-1. **¿Cuál es la dureza máxima alcanzable del acero A2 después del temple al aire?**  
+### ¿Cuál es la dureza máxima alcanzable del acero A2 después del temple al aire?
    El acero A2 puede alcanzar una dureza de 63–65 HRC en estado endurecido al aire.
 
-2. **¿A qué temperatura se debe forjar el acero A2?**  
+### ¿A qué temperatura se debe forjar el acero A2?
    La forja debe realizarse entre 1093 °C y 913 °C (2000 °F y 1675 °F), sin descender de 899 °C (1650 °F).
 
-3. **¿Cuál es la temperatura de fusión del acero A2?**  
+### ¿Cuál es la temperatura de fusión del acero A2?
    El punto de fusión del acero A2 es de 1424 °C (2595 °F).
 
-4. **¿Cuál es el coeficiente de dilatación térmica del acero A2 entre 20 °C y 100 °C?**  
+### ¿Cuál es el coeficiente de dilatación térmica del acero A2 entre 20 °C y 100 °C?
    El coeficiente de dilatación térmica es de 10.7 × 10⁻⁶ /°C.
 
-5. **¿Cuál es el contenido de carbono del acero A2?**  
+### ¿Cuál es el contenido de carbono del acero A2?
    El contenido de carbono oscila entre 0.95 % y 1.05 %.
 
-6. **¿Cuál es la densidad del acero A2?**  
+### ¿Cuál es la densidad del acero A2?
    La densidad es de 7.86 g/cm³ (0.284 lb/in³).
 
 ## Fuentes consultadas

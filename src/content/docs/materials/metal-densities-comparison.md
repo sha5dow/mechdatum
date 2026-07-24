@@ -110,27 +110,27 @@ Las superaleaciones base níquel, como Inconel (8.50 g/cm³), presentan una dens
 
 ## Preguntas frecuentes (FAQ)
 
-**1. ¿Cuál es el metal de uso industrial con mayor densidad?**
+### ¿Cuál es el metal de uso industrial con mayor densidad?
 
 El wolframio (tungsteno), con una densidad de 19.60 g/cm³, es el metal de mayor densidad utilizado industrialmente, seguido por el oro con 19.32 g/cm³. El osmio (22.61 g/cm³) y el iridio (22.65 g/cm³) presentan densidades superiores pero su escasez y costo limitan drásticamente sus aplicaciones, quedando restringidos a aleaciones especiales de altísima dureza. En aplicaciones de blindaje radiológico donde el peso es un factor funcional, el plomo (11.34 g/cm³) sigue siendo la opción predominante por su relación costo-densidad.
 
-**2. ¿Qué diferencia de peso existe entre una pieza de aluminio y una equivalente de acero?**
+### ¿Qué diferencia de peso existe entre una pieza de aluminio y una equivalente de acero?
 
 Una pieza de aluminio pesa aproximadamente un 65% menos que una pieza geométricamente idéntica fabricada en acero al carbono (densidad 7.85 g/cm³ frente a 2.70 g/cm³). Esta diferencia ha impulsado la sustitución progresiva del acero por aluminio en carrocerías de automoción, estructuras aeronáuticas y componentes de transporte, logrando reducciones de masa de hasta dos tercios sin necesidad de modificar el diseño volumétrico del componente.
 
-**3. ¿Cuál es la densidad de la aleación de titanio Ti6Al4V Grado 5?**
+### ¿Cuál es la densidad de la aleación de titanio Ti6Al4V Grado 5?
 
 La densidad de la aleación Ti6Al4V Grado 5 se encuentra en el rango de 4.43 a 4.51 g/cm³, equivalente a un valor entre 277 y 282 lb/ft³. Esta densidad es aproximadamente un 43% inferior a la del acero y un 60% superior a la del aluminio, lo que sitúa al titanio como el material de elección cuando se requiere la máxima relación resistencia-peso en aplicaciones estructurales de altas prestaciones.
 
-**4. ¿En qué rango de densidades se sitúan los aceros inoxidables?**
+### ¿En qué rango de densidades se sitúan los aceros inoxidables?
 
 Los aceros inoxidables presentan densidades comprendidas entre 7.48 y 8.00 g/cm³, variando en función de su microestructura: los grados ferríticos tienden al extremo inferior del rango, mientras que los grados austeníticos, con mayor contenido en níquel y cromo, alcanzan los valores superiores. Esta variación, aunque moderada en términos porcentuales, puede ser relevante en el diseño de grandes estructuras o componentes sometidos a requisitos estrictos de masa.
 
-**5. ¿Cómo se convierten las unidades de densidad entre el sistema métrico y el imperial?**
+### ¿Cómo se convierten las unidades de densidad entre el sistema métrico y el imperial?
 
 El factor de conversión fundamental es 1 kg/m³ = 0.0624 lb/ft³. Para convertir g/cm³ a kg/m³ basta con multiplicar por 1000, de modo que 8.96 g/cm³ equivalen a 8960 kg/m³ o 559 lb/ft³. En sentido inverso, una densidad expresada en lb/ft³ se convierte a kg/m³ multiplicando por 16.018. La relación con lb/in³ es 1 kg/m³ = 0.000036127 lb/in³, por lo que 7850 kg/m³ equivalen a 0.284 lb/in³.
 
-**6. ¿Cuál es el metal estructural más ligero disponible comercialmente?**
+### ¿Cuál es el metal estructural más ligero disponible comercialmente?
 
 El magnesio, con una densidad de 1.74 g/cm³, es el metal estructural más ligero de uso comercial, seguido por el berilio con 1.85 g/cm³. Las aleaciones de magnesio como la AZ31B (1.77 g/cm³) se emplean en carcasas de dispositivos electrónicos, componentes de automoción y estructuras aeronáuticas donde cada gramo de reducción es crítico. El principal factor limitante de su adopción es su menor resistencia a la corrosión en comparación con el aluminio.
 

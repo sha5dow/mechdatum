@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Descripción general
 El acero AISI 1060 es un acero al carbono con un contenido nominal de carbono del 0.60%, clasificado dentro de los aceros de alto carbono no aleados. Presenta una excelente templabilidad, buena resistencia al desgaste y una ductilidad moderada en estado estirado en frío. Se suministra habitualmente en barras, alambres y chapas, y se utiliza donde se requiere una combinación de tenacidad y dureza después del tratamiento térmico.
 
 ## Composición química
@@ -143,24 +142,24 @@ El acero 1060 (UNS G10600) cuenta con numerosas designaciones equivalentes a niv
 - La maquinabilidad en estado recocido o normalizado es aceptable (≈50 % respecto al acero B1112), pero el temple puede generar zonas duras que dificultan el mecanizado posterior.
 - En ambientes corrosivos es necesaria protección superficial (pintura, galvanizado, fosfatado) porque no ofrece resistencia intrínseca a la corrosión.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el contenido de carbono del acero 1060?**
+### ¿Cuál es el contenido de carbono del acero 1060?
 El contenido de carbono del acero 1060 se encuentra entre 0.55% y 0.66% en peso, lo que lo clasifica como un acero de alto carbono.
 
-**¿Qué resistencia a la tracción tiene el acero 1060 en estado estirado en frío?**
+### ¿Qué resistencia a la tracción tiene el acero 1060 en estado estirado en frío?
 En condición de estirado en frío, la resistencia a la tracción es de 620 MPa (89 900 psi), según la ficha técnica de AISI 1060.
 
-**¿Cuál es la dureza Brinell típica del acero 1060?**
+### ¿Cuál es la dureza Brinell típica del acero 1060?
 La dureza Brinell en estado estirado en frío es de 183 HB; después de temple y revenido puede superar los 350 HB dependiendo de la temperatura de revenido.
 
-**¿Qué designación europea es equivalente al acero 1060?**
+### ¿Qué designación europea es equivalente al acero 1060?
 La designación europea equivalente es C60 (1.0601), un acero no aleado con un contenido de carbono de aproximadamente 0.60%.
 
-**¿A qué temperatura se forja el acero 1060?**
+### ¿A qué temperatura se forja el acero 1060?
 La forja del acero 1060 se realiza a temperaturas comprendidas entre 950 °C y 1200 °C, evitando calentamientos prolongados por encima de 1200 °C.
 
-**¿Se puede soldar el acero 1060?**
+### ¿Se puede soldar el acero 1060?
 Sí, pero requiere un precalentamiento de 150 °C a 260 °C y un tratamiento térmico posterior para evitar la formación de fases duras y frágiles en la zona soldada.
 
 ## Fuentes consultadas

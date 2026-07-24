@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Overview
 Hydraulic fittings and hoses are the most common connection components in fluid power systems, with working pressures typically exceeding 690 bar / 10 000 psi in high-demand applications. Standardized fittings SAE J514 (JIC 37°), SAE J1453 (ORFS) and BSPP threads (ISO 228) enable leak-tight connections via conical surfaces, flat seats with O-ring, or integrated elastomeric seals. Correct sizing of hose and fitting relies on the "dash size" nomenclature and unified thread pitch standards (UNC/UNF) or metric.
 
 ## Types and standards
@@ -58,7 +57,7 @@ Unified Fine Thread (UNF) is the standard for most JIC and ORFS connections. Its
 ## Materials and Applications
 Hydraulic fittings are manufactured in forged carbon steel (galvanized or dichromated) for most fluid power systems, 316 stainless steel for corrosive environments or food/pharmaceutical sectors, and copper‑nickel alloys (Monel) or brass in marine and instrumentation applications. Thermoplastic hoses with one or two steel braid reinforcements withstand pressures up to 280 bar / 4000 psi, while wire spiral (4 and 6 layers) reach 450 bar / 6500 psi. Compatibility of the inner elastomer (NBR, EPDM, HNBR, FKM) with the hydraulic fluid is decisive for the assembly's service life.
 
-## FAQ
+## Frequently Asked Questions (FAQ)
 
 ### What is the difference between a JIC fitting and a SAE 45° fitting?
 JIC fittings have a 37° flared seat while SAE (J512) use 45°; they are not interchangeable despite sharing threads on dash sizes 2, 3, 4, 5, 8 and 10. The maximum working pressure of a JIC is 690 bar / 10 000 psi, compared to the typical 210 bar / 3000 psi of SAE 45° in hydraulic systems.
@@ -84,8 +83,3 @@ Not directly. Komatsu and JIS flares use 30° and metric threads (Komatsu) or BS
 - **engineersedge.com**: https://www.engineersedge.com/iso_hardware_menu.shtml
 - **efunda.com**: https://www.efunda.com/designstandards/oring/oring_as568.cfm
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/unified-screw-threads-unc-unf-d_1809.html
-- **engineersedge.com**: https://www.engineersedge.com/iso_hardware_menu.shtml
-- **efunda.com**: https://www.efunda.com/designstandards/oring/oring_as568.cfm

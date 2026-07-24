@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Introduction
-
 In precision mechanical design, an interference fit (also called *press fit* or force fit) occurs when the shaft diameter is larger than the hole diameter before assembly, creating a solid joint by contact without the need for additional fasteners. ISO 286 establishes a tolerance system with alphanumeric designations that allows selecting the magnitude of the interference in a standardized manner. In an interference fit, parts must be assembled by cold pressing, heating the hole or cooling the shaft, and the dimensional difference ensures stress transmission, relative immobilization or permanent centering. The choice of fit depends on the mechanical load, material, nominal diameter and required manufacturing quality.
 
 ## Classification of interference fits according to ISO
@@ -126,26 +124,25 @@ The US standard ANSI B4.1 classifies interference fits with FN (*force fit*) cla
 
 For diameters above 120 mm, it is recommended to verify the exact limits, since ANSI series have different tolerance intervals that can modify the expected interference by more than 10%.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 
-### 1. What interference is obtained with an H7/p6 fit on a 50 mm diameter shaft?
+### What interference is obtained with an H7/p6 fit on a 50 mm diameter shaft?
 The interference can vary between -0,004 mm / -0.0002 in (very small clearance in the worst case) and a maximum of 0,045 mm / 0.0018 in; therefore, positive interference is not guaranteed in 100% of parts. To ensure net interference, it is recommended to move to H7/r6.
 
-### 2. What is the minimum interference guaranteed by an H7/s6 fit for a 100 mm diameter?
+### What is the minimum interference guaranteed by an H7/s6 fit for a 100 mm diameter?
 The H7/s6 fit offers a minimum interference of 0,037 mm / 0.0015 in and a maximum of 0,094 mm / 0.0037 in at a nominal diameter of 100 mm, allowing transmission of moderate stresses without additional joining elements.
 
-### 3. Which ISO fit provides at least 0.025 mm of minimum interference on a 30 mm diameter?
+### Which ISO fit provides at least 0.025 mm of minimum interference on a 30 mm diameter?
 For a 30 mm diameter, the H7/t6 fit gives a minimum interference of 0,018 mm / 0.0007 in (insufficient), so H7/u6 must be used, which ensures a minimum interference of 0,030 mm / 0.0012 in, exceeding the requirement of 0.025 mm.
 
-### 4. What temperature difference is needed to assemble by expansion an H7/u6 fit of 200 mm diameter in steel?
+### What temperature difference is needed to assemble by expansion an H7/u6 fit of 200 mm diameter in steel?
 Considering a maximum interference of 0,256 mm / 0.0101 in and a coefficient of linear expansion for steel of 12 × 10⁻⁶ °C⁻¹, the required diametral expansion is 0.256 mm. The required temperature increase is approximately 107 °C (ΔT = 0.256 / (200 × 12 × 10⁻⁶) ≈ 106.7 °C). Starting from an ambient temperature of 20 °C / 68 °F, the hole must be heated to about 127 °C / 260 °F.
 
-### 5. How much does the interference vary between an H7/r6 and H7/s6 fit for a 150 mm diameter?
+### How much does the interference vary between an H7/r6 and H7/s6 fit for a 150 mm diameter?
 With a diameter of 150 mm, H7/r6 produces an interference from 0,018 mm / 0.0007 in to 0,083 mm / 0.0033 in, while H7/s6 raises it to a range of 0,053 mm / 0.0021 in to 0,118 mm / 0.0046 in. The difference in minimum interference is 0,035 mm / 0.0014 in and in maximum interference also 0,035 mm / 0.0014 in, representing a notable increase in contact pressure.
 
-### 6. What shaft quality is commonly used with H7 in interference fits and what maximum interference value is reached in H7/u6 for 400 mm?
+### What shaft quality is commonly used with H7 in interference fits and what maximum interference value is reached in H7/u6 for 400 mm?
 A shaft of quality IT6, more precise than IT7, is generally used to better control the interference. For a diameter of 400 mm, the H7/u6 fit reaches a maximum interference of 0,517 mm / 0.0204 in, the highest of the combinations listed in the table.
 
-## Sources Consulted
-
+## References
 - **roymech.org**: https://roymech.org/Useful_Tables/ISO_Tolerances/ISO_Hole_LIM_1.html

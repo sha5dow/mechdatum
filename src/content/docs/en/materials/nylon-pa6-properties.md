@@ -123,28 +123,27 @@ PA6 exhibits good resistance to hydrocarbons, oils and greases, as well as to di
 | Reaction injection molding (RIM) | Suitable | — |
 | Extrusion | Suitable for profiles, sheets, and fiber | — |
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the density of PA6?**  
+### What is the density of PA6?
 The density of PA6 is 1.084 g/cm³ at room temperature, lower than that of PA66 (1.14 g/cm³).
 
-**What maximum operating temperature does PA6 withstand?**  
+### What maximum operating temperature does PA6 withstand?
 The recommended maximum continuous operating temperature for PA6 is 80 °C, with a melting temperature of 218.3 °C.
 
-**How much water does PA6 absorb compared to other polymers?**  
+### How much water does PA6 absorb compared to other polymers?
 PA6 has a water absorption of 1.5% in 24 hours, the highest among commercial polyamides, compared to 1.2% for PA66 or 0.2% for POM.
 
-**What is the tensile strength of PA6 in dry state?**  
+### What is the tensile strength of PA6 in dry state?
 The tensile strength of PA6 in dry state is 40 MPa, which decreases to approximately 30 MPa after conditioning in humidity.
 
-**What flammability rating does PA6 have according to UL94?**  
+### What flammability rating does PA6 have according to UL94?
 Unmodified PA6 has a UL94 HB rating, with an oxygen index of 22%.
 
-**At what temperature is PA6 processed by injection molding?**  
+### At what temperature is PA6 processed by injection molding?
 PA6 is processed by injection molding with a melt temperature between 230 and 280 °C and a mold temperature between 40 and 60 °C.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=442
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/nylon-rope-strength-d_1513.html
 - **steelnumber.com**: https://www.steelnumber.com/en/search_form_eu.php

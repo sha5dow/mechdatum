@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Resumen técnico
 La **fundición gris** es la aleación de hierro colado más común, con una resistencia a la tracción mínima que varía desde **140 MPa** (20 ksi) hasta más de 400 MPa (58 ksi) según la clase. Se distingue por la presencia de grafito en forma de laminillas (hojuelas) que le confieren alta maquinabilidad, buena capacidad de amortiguamiento, excelente conductividad térmica y una superficie de fractura de color gris oscuro. Se utiliza ampliamente en componentes donde la rigidez, la absorción de vibraciones y el costo reducido son críticos, como bloques de motor, discos de freno, carcasas de bombas y bancadas de máquinas herramienta.
 
 | Propiedad típica (clase media ASTM A48 CL 30) | Valor SI | Valor Imperial |
@@ -117,22 +116,22 @@ La fundición gris se compara usualmente con la fundición dúctil (nodular) y l
 Frente a la fundición dúctil, la gris es notablemente más frágil pero ofrece mejor capacidad de amortiguamiento, mayor conductividad térmica y una facilidad de colada superior. Con la fundición maleable, la gris comparte la matriz perlítica pero la maleable, al carecer de grafito laminar, absorbe energía de forma dúctil. Comparada con los aceros al carbono colados, la fundición gris sacrifica resistencia y tenacidad en favor de la facilidad de moldeo y el bajo coste.
 
 ## Preguntas frecuentes (FAQ)
-**1. ¿Cuál es la resistencia a la tracción típica de la fundición gris?**  
+### ¿Cuál es la resistencia a la tracción típica de la fundición gris?
 La resistencia a la tracción mínima oscila entre **140 MPa** (20 ksi) en la clase ASTM A48 CL 20 y **400 MPa** (58 ksi) en grados aleados como la clase CL 60.
 
-**2. ¿Qué dureza Brinell se puede esperar en una fundición gris clase 30?**  
+### ¿Qué dureza Brinell se puede esperar en una fundición gris clase 30?
 La clase ASTM A48 CL 30 presenta una dureza Brinell típica de **175 BHN**, dentro de un intervalo habitual de 160 a 210 BHN para grados comerciales no aleados.
 
-**3. ¿Cuál es la conductividad térmica de la fundición gris a temperatura ambiente?**  
+### ¿Cuál es la conductividad térmica de la fundición gris a temperatura ambiente?
 La conductividad térmica se sitúa alrededor de **50 W/(m·K)** (29 BTU/(hr·ft·°F)), aproximadamente el doble que la de muchos aceros al carbono.
 
-**4. ¿Hasta qué temperatura puede operar una pieza de fundición gris de forma continua?**  
+### ¿Hasta qué temperatura puede operar una pieza de fundición gris de forma continua?
 Puede utilizarse sin carga estructural hasta unos **500 °C** (930 °F); por encima de esa temperatura la oxidación y el cambio microestructural limitan la vida útil.
 
-**5. ¿Se puede soldar la fundición gris para reparar una grieta?**  
+### ¿Se puede soldar la fundición gris para reparar una grieta?
 Sí, pero las probabilidades de éxito son modestas; se requiere precalentar a **400 – 600 °C** y enfriar muy lentamente, o bien usar electrodos especiales de níquel y procedimientos de soldadura en frío.
 
-**6. ¿Cuánto grafito contiene una fundición gris típica en volumen?**  
+### ¿Cuánto grafito contiene una fundición gris típica en volumen?
 El grafito ocupa entre el **6 % y el 10 % del volumen** total, lo que otorga a la fractura el color gris característico y facilita la maquinabilidad.
 
 ## Fuentes consultadas

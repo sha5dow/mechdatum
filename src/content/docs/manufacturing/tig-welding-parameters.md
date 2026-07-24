@@ -80,24 +80,24 @@ La soldabilidad con TIG (proceso por arco con electrodo no consumible) se clasif
 
 La selección rápida de parámetros se basa en el material y el espesor, empezando siempre con un rango de corriente de referencia de 30‑40 A por milímetro de espesor para aceros y de 40‑50 A por milímetro para aluminio. Para acero al carbono e inoxidable se emplea DCEN y tungstenos aleados (dorado, rojo, gris). Con aluminio y magnesio se cambia a corriente alterna (AC) y tungsteno verde o dorado. El caudal de argón se fija en un valor base de 10 L / min (21 CFH) y se ajusta ±20 % según el tamaño de boquilla y la velocidad de avance. En aplicaciones de altas exigencias (titanio, superaleaciones) se adopta argón de ultra alta pureza (99,999 %) con copa de arrastre o cámara inerte para mantener el nivel de oxígeno por debajo de 10 ppm. Siempre verifique la compatibilidad de la varilla de aporte (serie del metal base) y la preparación de bordes: para espesores mayores de 3 mm / 0,12 in es recomendable un bisel en V de 60‑75° con una cara de raíz de 1,5‑2 mm / 0,06‑0,08 in.
 
-## Preguntas Frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el amperaje recomendado para soldar aluminio de 3 mm?**  
+### ¿Cuál es el amperaje recomendado para soldar aluminio de 3 mm?
 Se recomienda un rango de 120‑200 A en corriente alterna (AC) para aluminio de 3 mm / 0,12 in, utilizando un electrodo de tungsteno verde (EWP) de 2,4 mm / 3 / 32 in.
 
-**¿Qué caudal de argón se necesita para soldar acero inoxidable de 1,5 mm?**  
+### ¿Qué caudal de argón se necesita para soldar acero inoxidable de 1,5 mm?
 El caudal óptimo es de 8‑12 L / min (17‑25 CFH) con boquilla estándar de 8 mm / 0,31 in; caudales inferiores a 6 L / min (12,7 CFH) provocan falta de protección.
 
-**¿Con qué materiales se puede soldar autógenamente?**  
+### ¿Con qué materiales se puede soldar autógenamente?
 La soldadura TIG autógena es viable en acero inoxidable y titanio de hasta 2 mm / 0,08 in, siempre que el ajuste entre piezas sea inferior a 0,25 mm / 0,01 in.
 
-**¿Qué diámetro de tungsteno debo usar para una corriente de 150 A?**  
+### ¿Qué diámetro de tungsteno debo usar para una corriente de 150 A?
 A 150 A se recomienda un electrodo de 2,4 mm / 3 / 32 in; para corrientes entre 80‑150 A también puede usarse de 1,6 mm / 1 / 16 in, aunque el de mayor diámetro reduce el riesgo de contaminación.
 
-**¿Se pueden soldar aleaciones de cobre con TIG sin precalentamiento?**  
+### ¿Se pueden soldar aleaciones de cobre con TIG sin precalentamiento?
 En espesores menores de 3 mm / 0,12 in generalmente no es necesario, pero para más de 3 mm se aplica un precalentamiento de 150‑300 °C / 302‑572 °F con argón‑helio para mejorar la fluidez.
 
-**¿Cuánto afecta un mal caudal de gas a la calidad de la soldadura?**  
+### ¿Cuánto afecta un mal caudal de gas a la calidad de la soldadura?
 Un caudal insuficiente (< 6 L / min / 12,7 CFH) puede elevar la porosidad hasta un 15‑20 % del área de soldadura, mientras que un caudal excesivo genera turbulencias que arrastran oxígeno y duplican el riesgo de oxidación.
 
 ## Fuentes consultadas

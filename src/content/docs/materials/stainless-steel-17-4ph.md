@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Resumen Ejecutivo
 El acero inoxidable 17-4PH (UNS S17400, AISI 630) es una aleación martensítico‑endurecible por precipitación que combina alta resistencia mecánica, dureza elevada y buena resistencia a la corrosión. Su composición, con alrededor del 17 % de cromo, 4 % de níquel y 4 % de cobre, permite obtener mediante tratamiento térmico resistencias a la tracción superiores a 1 300 MPa. Se utiliza ampliamente en las industrias aeroespacial, marina, química, médica y del petróleo, donde se requieren componentes con excelente comportamiento mecánico hasta temperaturas cercanas a 300 °C y una resistencia a la corrosión comparable a la de algunos aceros inoxidables austeníticos. Su estructura martensítica le confiere propiedades magnéticas.
 
 ## Composición Química
@@ -115,23 +114,23 @@ Gracias a su excelente combinación de resistencia mecánica, dureza y resistenc
 ## Comparativa con Materiales Similares
 Frente a los aceros inoxidables austeníticos tipo 304, el 17-4PH ofrece una resistencia a la tracción hasta tres veces superior y dureza mucho más alta, aunque su resistencia a la corrosión en ambientes muy agresivos (p. ej., agua de mar estancada) es inferior, pudiendo sufrir corrosión por picaduras. Con respecto al 15-5PH, la diferencia principal radica en la microestructura y la soldabilidad; el 17-4PH presenta un contenido de carbono ligeramente mayor, lo que favorece la respuesta al endurecimiento, mientras que el 15-5PH muestra menor tendencia al agrietamiento en soldaduras de gran espesor. En comparación con los aceros martensíticos tradicionales como el 410, el 17-4PH conserva una resistencia a la corrosión mucho mejor y puede operar a temperaturas más elevadas sin perder propiedades mecánicas.
 
-## FAQ
-1. **¿Cuál es la resistencia a la tracción máxima del 17-4PH?**
+## Preguntas frecuentes (FAQ)
+### ¿Cuál es la resistencia a la tracción máxima del 17-4PH?
    Alcanza 1 310 MPa (190 ksi) en condición H900, y 1 300 MPa (190 ksi) como valor típico de referencia.
 
-2. **¿Qué dureza Rockwell se puede obtener con el tratamiento H900?**
+### ¿Qué dureza Rockwell se puede obtener con el tratamiento H900?
    Se logra una dureza de 44 HRC en la condición de envejecimiento H900 (482 °C).
 
-3. **¿Cuál es la maquinabilidad del 17-4PH comparada con un acero de referencia?**
+### ¿Cuál es la maquinabilidad del 17-4PH comparada con un acero de referencia?
    En estado recocido, su maquinabilidad es del 48 % respecto al acero AISI 1212, que tiene un 100 % de maquinabilidad relativa.
 
-4. **¿Hasta qué temperatura máxima puede trabajar el 17-4PH manteniendo sus propiedades?**
+### ¿Hasta qué temperatura máxima puede trabajar el 17-4PH manteniendo sus propiedades?
    La temperatura de servicio máxima continua recomendada es de 300 °C (572 °F) para conservar la resistencia y la dureza.
 
-5. **¿Es magnético el acero inoxidable 17-4PH?**
+### ¿Es magnético el acero inoxidable 17-4PH?
    Sí, su estructura martensítica lo hace ferromagnético, a diferencia de los aceros austeníticos como el 304.
 
-6. **¿Se puede soldar el 17-4PH y qué método se recomienda?**
+### ¿Se puede soldar el 17-4PH y qué método se recomienda?
    Es soldable mediante todos los métodos de fusión y resistencia habituales (TIG, MIG, plasma), pero no se aconseja la soldadura oxiacetilénica; a menudo se requiere tratamiento postsoldadura.
 
 ## Fuentes consultadas

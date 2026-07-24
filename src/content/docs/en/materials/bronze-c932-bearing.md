@@ -95,27 +95,26 @@ Bronze C932 is supplied in accordance with the following specifications:
 - SAE J461
 - SAE J462
 
-## Frequently asked questions (FAQ)
-1. **What is the density of bronze C932?**  
+## Frequently Asked Questions (FAQ)
+### What is the density of bronze C932?
    Bronze C932 has a density of 8,93 g/cm³ (0.323 lb/in³) at room temperature.
 
-2. **What tensile strength does it have in the as‑cast condition?**  
+### What tensile strength does it have in the as‑cast condition?
    The typical tensile strength is 240 MPa (34 800 psi), with a yield strength of 125 MPa (18 100 psi).
 
-3. **What is its Brinell hardness?**  
+### What is its Brinell hardness?
    The average Brinell hardness is 65 HB.
 
-4. **What machinability index does bronze C932 have?**  
+### What machinability index does bronze C932 have?
    It has a machinability index of 70 % relative to free‑cutting brass C36000.
 
-5. **What is the thermal conductivity of C932?**  
+### What is the thermal conductivity of C932?
    Approximately 61 W/(m·K), equivalent to 35 Btu/(h·ft·°F) at 20 °C.
 
-6. **Is it possible to weld this bronze?**  
+### Is it possible to weld this bronze?
    Arc welding in any of its variants is not recommended; however, it allows brazing and soldering.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6294
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1356

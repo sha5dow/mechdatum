@@ -141,24 +141,24 @@ El aluminio 7075 en temple T6 alcanza una resistencia a la tracción en torno a 
 | 6061 T6 | 290 – 310 | 240 – 260 | 12 – 17 | Muy buena | Buena |
 | 2024 T3 | 470 – 480 | 325 – 345 | 18 – 20 | Pobre | Muy limitada |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción del aluminio 7075 en temple T6?**  
+### ¿Cuál es la resistencia a la tracción del aluminio 7075 en temple T6?
 La resistencia a la tracción del aluminio 7075 T6 se sitúa entre 510 y 570 MPa (74 000 – 83 000 psi), dependiendo del espesor y la forma del producto.
 
-**¿Cuánto pesa el aluminio 7075 comparado con el acero?**  
+### ¿Cuánto pesa el aluminio 7075 comparado con el acero?
 Con una densidad de 2.81 g/cm³, el aluminio 7075 pesa aproximadamente un 65 % menos que un acero típico al carbono (7.85 g/cm³), manteniendo una resistencia específica comparable a muchos aceros de construcción.
 
-**¿Se puede soldar el aluminio 7075 sin perder resistencia?**  
+### ¿Se puede soldar el aluminio 7075 sin perder resistencia?
 No existen procesos de soldadura por fusión que conserven íntegra la resistencia del 7075 en la unión. La resistencia de la soldadura suele ser un 50–60 % inferior a la del metal base T6, por lo que se prefieren las uniones mecánicas (remaches) o la soldadura por fricción-agitación.
 
-**¿Qué significa el temple T651?**  
+### ¿Qué significa el temple T651?
 El temple T651 corresponde a un tratamiento T6 (solución, temple y envejecimiento artificial) al que se añade un alivio de tensiones mediante estirado controlado del orden del 1.5 al 3 %. Reduce las tensiones residuales sin afectar sensiblemente las propiedades mecánicas estáticas.
 
-**¿Cuál es la temperatura máxima de trabajo del aluminio 7075?**  
+### ¿Cuál es la temperatura máxima de trabajo del aluminio 7075?
 La temperatura máxima de trabajo continua recomendada para el aluminio 7075 es de 160 °C; superada esta temperatura, la aleación en temple T6 sufre sobreenvejecimiento con pérdida de resistencia y dureza.
 
-**¿Qué dureza tiene el aluminio 7075 en estado T6?**  
+### ¿Qué dureza tiene el aluminio 7075 en estado T6?
 La dureza del aluminio 7075 T6 es de 150 HBW (Brinell) o 87 HRB (Rockwell B), valores que se reducen a 60 HBW en estado recocido (temple O).
 
 ## Fuentes consultadas

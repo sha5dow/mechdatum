@@ -108,22 +108,22 @@ Compared to high-strength aluminum 7075-T6, Ti-6Al-4V provides about 20% higher 
 
 ## Frequently Asked Questions (FAQ)
 
-**What is the density of Ti-6Al-4V?**  
+### What is the density of Ti-6Al-4V?
 The typical density is 4.43 g/cm³, representing a weight saving of 45% compared to common stainless steel.
 
-**What tensile strength can be achieved?**  
+### What tensile strength can be achieved?
 In the annealed condition, values between 900 and 1000 MPa are obtained, while after solution treatment and aging the strength exceeds 1100 MPa.
 
-**At what temperature does this alloy melt?**  
+### At what temperature does this alloy melt?
 The melting range lies between 1605 °C and 1660 °C (1878–1933 K), typical of titanium alloys.
 
-**What is the modulus of elasticity?**  
+### What is the modulus of elasticity?
 The Young's modulus ranges between 110 and 119 GPa, approximately half that of steel, providing greater flexibility.
 
-**What is the thermal conductivity?**  
+### What is the thermal conductivity?
 The thermal conductivity at room temperature is 7.1–7.3 W/m·K, being about 1/10 that of pure aluminum.
 
-**What corrosion resistance does it exhibit in seawater?**  
+### What corrosion resistance does it exhibit in seawater?
 In marine environments the rating is 5 out of 5, indicating total immunity to pitting and crevice corrosion.
 
 ## References
@@ -131,7 +131,3 @@ In marine environments the rating is 5 out of 5, indicating total immunity to pi
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=1547
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 
-## Sources Consulted
-
-- **azom.com**: https://www.azom.com/properties.aspx?ArticleID=1547
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html

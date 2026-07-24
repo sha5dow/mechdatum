@@ -105,24 +105,24 @@ El aluminio 6063 se utiliza cuando se requiere un buen acabado superficial, alta
 
 El 6063 es la elección estándar para perfilería arquitectónica visible, mientras que el 6061 y el 6082 se prefieren en aplicaciones estructurales que demandan mayor resistencia mecánica.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la resistencia a la tracción del aluminio 6063 T6?**  
+### ¿Cuál es la resistencia a la tracción del aluminio 6063 T6?
 El aluminio 6063 en temple T6 presenta una resistencia a la tracción mínima de 215 MPa (31,2 ksi) en barras y perfiles extrusionados de hasta 150 mm de diámetro o espesor equivalente.
 
-**¿Qué dureza Brinell alcanza el 6063 después del envejecimiento artificial?**  
+### ¿Qué dureza Brinell alcanza el 6063 después del envejecimiento artificial?
 En estado T6, la dureza Brinell es de 75 HB como mínimo, y en temple T5 ronda los 65 HB.
 
-**¿A qué temperatura funde la aleación 6063?**  
+### ¿A qué temperatura funde la aleación 6063?
 La temperatura de fusión se sitúa aproximadamente en 615 °C (1 139 °F), inferior a la de aleaciones como el 6061.
 
-**¿Cuánto varía dimensionalmente con la temperatura?**  
+### ¿Cuánto varía dimensionalmente con la temperatura?
 El coeficiente de dilatación térmica lineal es de 2,34 × 10⁻⁵ /K (13,0 × 10⁻⁶ /°F), lo que equivale a un alargamiento de 2,34 mm por metro y cada incremento de 100 °C.
 
-**¿Es posible soldar el aluminio 6063 sin perder sus propiedades mecánicas?**  
+### ¿Es posible soldar el aluminio 6063 sin perder sus propiedades mecánicas?
 Sí, pero la soldadura reduce localmente la resistencia hasta un 30 % (estado equivalente a temple O). El tratamiento térmico postsoldadura (T6) permite recuperar casi la totalidad de las propiedades originales.
 
-**¿Cuál es la diferencia principal entre el temple T5 y el T6 en 6063?**  
+### ¿Cuál es la diferencia principal entre el temple T5 y el T6 en 6063?
 El T5 se obtiene por enfriamiento tras la extrusión y envejecimiento artificial, ofreciendo una resistencia a la tracción mínima de 160 MPa (23,2 ksi) y un límite elástico de 110 MPa (16,0 ksi). El T6 implica solubilizado previo y envejecimiento artificial, alcanzando 215 MPa (31,2 ksi) de tracción y 170 MPa (24,7 ksi) de límite elástico, con un incremento significativo de la dureza.
 
 ## Fuentes consultadas

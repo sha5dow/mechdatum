@@ -76,24 +76,24 @@ Propiedades termodinámicas del aire húmedo a presión atmosférica estándar d
 | 50 °C / 122 °F | 20 | 29,6 °C / 85,3 °F | 21,1 °C / 70,0 °F | 15,4 / 0,0154 | 89,7 / 38,6 | 0,974 / 15,60 |
 | 50 °C / 122 °F | 40 | 36,5 °C / 97,7 °F | 33,9 °C / 93,0 °F | 32,8 / 0,0328 | 135,4 / 58,2 | 1,007 / 16,13 |
 
-## FAQ: Preguntas frecuentes sobre la carta psicrométrica
+## Preguntas frecuentes (FAQ)
 
-**¿Cuál es la pendiente aproximada de las líneas de entalpía en una carta psicrométrica estándar?**  
+### ¿Cuál es la pendiente aproximada de las líneas de entalpía en una carta psicrométrica estándar?
 Las líneas de entalpía constante presentan una pendiente de aproximadamente −2,4 kJ/kg por cada g/kg de aumento en la humedad absoluta, lo que equivale a −1,03 BTU/lb por cada lb/lb de incremento en la relación de humedad. Esta pendiente es prácticamente paralela a la de la temperatura de bulbo húmedo y permite leer directamente ambos parámetros en un solo trazado.
 
-**¿A qué presión se traza la carta psicrométrica convencional y cómo se corrige por altitud?**  
+### ¿A qué presión se traza la carta psicrométrica convencional y cómo se corrige por altitud?
 La carta psicrométrica más difundida se traza a la presión atmosférica estándar al nivel del mar de 101,325 kPa / 14,696 psi. Para cada 500 m / 1640 ft de incremento en la altitud, la presión barométrica disminuye aproximadamente 6 kPa / 0,87 psi, lo que exige utilizar una carta específica para la altitud o aplicar factores de corrección del 5‑7 % en las lecturas de humedad absoluta.
 
-**¿Qué diferencia máxima se acepta entre la temperatura de bulbo húmedo y la temperatura de saturación adiabática en el sistema aire‑agua?**  
+### ¿Qué diferencia máxima se acepta entre la temperatura de bulbo húmedo y la temperatura de saturación adiabática en el sistema aire‑agua?
 Para el sistema aire húmedo con agua, la diferencia entre la temperatura termodinámica de bulbo húmedo y la temperatura de saturación adiabática es inferior a 0,2 °C / 0,36 °F en todo el intervalo de confort, debido a que el número de Luikov es aproximadamente igual a 1. Esta coincidencia permite emplear ambas líneas indistintamente en los cálculos de climatización.
 
-**¿Cuánto desciende el punto de rocío al reducir la humedad relativa un 10 % a temperatura seca constante de 25 °C / 77 °F?**  
+### ¿Cuánto desciende el punto de rocío al reducir la humedad relativa un 10 % a temperatura seca constante de 25 °C / 77 °F?
 A 25 °C / 77 °F, una reducción de humedad relativa del 60 % al 50 % produce un descenso del punto de rocío de aproximadamente 17,4 °C / 63,3 °F a 13,8 °C / 56,8 °F, es decir, una caída cercana a 3,6 °C / 6,5 °F. Esta variación es crítica en procesos de enfriamiento para evitar condensaciones superficiales no deseadas.
 
-**¿Qué velocidad de aire mínima debe mantenerse en un psicrómetro de aspiración para limitar el error de medición al 1 %?**  
+### ¿Qué velocidad de aire mínima debe mantenerse en un psicrómetro de aspiración para limitar el error de medición al 1 %?
 Para asegurar un error de medición de humedad relativa inferior al 1 %, la velocidad del aire sobre los bulbos de un psicrómetro de aspiración forzada debe ser de al menos 4,5 m/s / 885 ft/min. Velocidades inferiores a 2 m/s / 394 ft/min provocan errores por encima del 5 % debido a la insuficiente renovación de la capa límite húmeda.
 
-**¿Qué incremento de humedad absoluta se produce al calentar aire desde 10 °C / 50 °F y 60 % HR hasta 30 °C / 86 °F e inyectar vapor hasta alcanzar 50 % HR?**  
+### ¿Qué incremento de humedad absoluta se produce al calentar aire desde 10 °C / 50 °F y 60 % HR hasta 30 °C / 86 °F e inyectar vapor hasta alcanzar 50 % HR?
 Al calentar aire desde 10 °C / 50 °F con una humedad absoluta inicial de 4,6 g/kg / 0,0046 lb/lb y agregar vapor hasta alcanzar 30 °C / 86 °F y 50 % HR, la humedad absoluta final asciende a 13,5 g/kg / 0,0135 lb/lb. Esto representa una adición de 8,9 gramos de vapor de agua por cada kilogramo de aire seco procesado, equivalente a 62,3 granos de vapor por libra de aire seco.
 
 ## Fuentes consultadas

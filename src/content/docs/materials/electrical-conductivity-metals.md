@@ -110,22 +110,22 @@ El cobre C101 admite trabajo en frío con excelente ductilidad en estado recocid
 
 ## Preguntas frecuentes (FAQ)
 
-**¿Cuál es el metal con mayor conductividad eléctrica?**
+### ¿Cuál es el metal con mayor conductividad eléctrica?
 La plata es el metal con mayor conductividad eléctrica, alcanzando 63.0 × 10⁶ S/m, lo que representa un 104.9% IACS y supera al cobre recocido en aproximadamente 5 puntos porcentuales de conductividad relativa.
 
-**¿Qué significa el porcentaje IACS en la conductividad de metales?**
+### ¿Qué significa el porcentaje IACS en la conductividad de metales?
 El porcentaje IACS expresa la conductividad eléctrica de un material como porcentaje del estándar internacional de cobre recocido. Un valor de 100% IACS equivale a una conductividad de 58.0 MS/m a 20 °C, que corresponde al cobre comercialmente puro en estado recocido según la norma establecida en 1914.
 
-**¿Por qué el aluminio se utiliza en cables de transmisión si conduce menos que el cobre?**
+### ¿Por qué el aluminio se utiliza en cables de transmisión si conduce menos que el cobre?
 El aluminio tiene una conductividad de 37.7 MS/m, equivalente al 59.8% IACS, pero su densidad es aproximadamente 3 veces menor que la del cobre. Esta relación conductividad-peso lo hace más eficiente para líneas aéreas de transmisión donde el peso propio del conductor es un factor crítico de diseño.
 
-**¿Cómo afecta la temperatura a la conductividad eléctrica de los metales?**
+### ¿Cómo afecta la temperatura a la conductividad eléctrica de los metales?
 El aumento de temperatura incrementa la agitación térmica de los átomos en la red cristalina, lo que dificulta el flujo de electrones y reduce la conductividad. La medición estándar IACS se referencia a 20 °C, y las variaciones pueden ser significativas en aplicaciones de alta temperatura.
 
-**¿Qué impurezas afectan más la conductividad del cobre?**
+### ¿Qué impurezas afectan más la conductividad del cobre?
 Pequeñas cantidades de fósforo, hierro, arsénico y otros elementos reducen drásticamente la conductividad del cobre. El cobre C101 para aplicaciones eléctricas mantiene las impurezas totales por debajo del 0.10% para garantizar el 100% IACS nominal de conductividad.
 
-**¿Qué metales ofrecen un equilibrio entre conductividad y resistencia a la corrosión?**
+### ¿Qué metales ofrecen un equilibrio entre conductividad y resistencia a la corrosión?
 El oro ofrece 71.7% IACS con inmunidad total a la oxidación atmosférica, mientras que el platino proporciona 16.1% IACS con excelente resistencia química. El cobre ofrece 100% IACS con buena resistencia a la corrosión en la mayoría de ambientes, aunque es vulnerable a sulfuros y soluciones amoniacales.
 
 ---

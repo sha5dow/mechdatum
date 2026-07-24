@@ -115,24 +115,24 @@ A continuación se presentan tablas de parámetros típicos para tres materiales
 | 5,0 mm / 0,197 in | 1,6 mm / 0,063 in | 26 – 30 V | 8,0 – 11,0 m/min / 26,2 – 36,1 ft/min | Ar 100% | Spray |
 | 6,0 mm / 0,236 in | 1,6 mm / 0,063 in | 28 – 32 V | 11,0 – 14,0 m/min / 36,1 – 45,9 ft/min | Ar 100% | Spray |
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**1. ¿Qué rango de espesores puede soldarse con MIG?**  
+### ¿Qué rango de espesores puede soldarse con MIG?
 El rango típico abarca desde 0,5 mm / 0,020 in hasta 6,3 mm / 0,250 in en una sola pasada. Espesores mayores requieren múltiples pasadas o bisel adecuado.
 
-**2. ¿Cuál es el caudal de gas de protección recomendado para interiores?**  
+### ¿Cuál es el caudal de gas de protección recomendado para interiores?
 El caudal óptimo se sitúa entre 10 L/min y 20 L/min (0,35–0,71 ft³/min). Valores por debajo de 8 L/min pueden generar porosidad; superiores a 25 L/min provocan turbulencias y contaminación.
 
-**3. ¿Con qué voltaje se logra la transferencia por spray en acero al carbono?**  
+### ¿Con qué voltaje se logra la transferencia por spray en acero al carbono?
 La transición a spray ocurre generalmente a partir de 25 V con alambre de 1,2 mm y gas Ar/CO₂ 80/20, alcanzando corrientes superiores a 220 A.
 
-**4. ¿Cuánto debe medir la distancia de contacto (stick-out)?**  
+### ¿Cuánto debe medir la distancia de contacto (stick-out)?
 La distancia stick-out recomendada para alambre sólido es de 10–15 mm / 0,39–0,59 in. Un valor excesivo reduce la penetración; uno demasiado corto puede sobrecalentar la boquilla.
 
-**5. ¿Qué velocidad de alimentación se necesita para soldar aluminio de 3 mm?**  
+### ¿Qué velocidad de alimentación se necesita para soldar aluminio de 3 mm?
 Para aluminio de 3 mm / 0,118 in con alambre ⌀ 1,2 mm se utilizan entre 7,0 y 9,5 m/min / 23,0–31,2 ft/min, con voltajes de 23–26 V y argón puro.
 
-**6. ¿Cuantos puntos de fijación por metro lineal se recomiendan?**  
+### ¿Cuantos puntos de fijación por metro lineal se recomiendan?
 Se sugiere un mínimo de 5 puntos por metro lineal, espaciados al menos 50 mm / 2 in entre sí para controlar la distorsión térmica en chapas finas.
 
 ## Fuentes consultadas

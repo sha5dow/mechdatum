@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## General Description
 Pipe friction losses, also known as major losses, represent the pressure drop experienced by a fluid flowing through a straight conduit due to viscous stresses on the walls. The Darcy‑Weisbach equation is the most accurate and universally accepted method for quantifying this loss in steady, incompressible, fully developed flow. The friction factor (λ) depends on the Reynolds number and the relative roughness of the pipe.
 
 ## Darcy‑Weisbach Equation
@@ -90,7 +89,7 @@ When sizing piping systems with the Darcy‑Weisbach equation, the following cri
 - **Economic diameter:** a larger diameter reduces pressure loss but increases material cost; optimization is based on minimizing the sum of pumping and pipe costs.
 - **Safety factor:** due to the inherent uncertainty in the correlations (±10 %), it is advisable to oversize the pumping power by 10 to 15 %.
 
-## Frequently Asked Questions
+## Frequently Asked Questions (FAQ)
 ### What is the pressure loss per meter in a DN 50 steel pipe with water at 2 m/s?
 In a smooth pipe of 0.05 m diameter, with water at 20 °C (ν≈1.0×10⁻⁶ m²/s, ρ=1000 kg/m³), Re = 100 000. Applying Blasius (λ≈0.0178) the pressure loss is approximately 712 Pa per linear meter (0.103 psi/ft).
 
@@ -109,8 +108,7 @@ The hydraulic diameter is calculated as Dₕ = 4A/P. For a rectangle of 0.3 m ×
 ### How does water temperature affect friction loss?
 When the temperature increases from 10 °C to 80 °C (50 °F to 176 °F), the kinematic viscosity of water decreases from 1.31 to 0.36×10⁻⁶ m²/s. With the same flow rate, the Reynolds number increases by a factor of ~3.6 and the friction factor decreases, which reduces the pressure loss by approximately 15‑25 % for smooth pipes.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/darcy-weisbach-equation-d_646.html
 - **efunda.com**: https://www.efunda.com/formulae/fluids/calc_pipe_friction.cfm
 - **thermopedia.com**: https://www.thermopedia.com/content/857/

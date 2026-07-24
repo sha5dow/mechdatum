@@ -92,27 +92,27 @@ La decisión de emplear SLS frente a otras tecnologías aditivas debe basarse en
 - Componentes de automoción: conductos de ventilación, soportes internos y alojamientos.
 - Aplicaciones médicas: modelos anatómicos para planificación quirúrgica, órtesis y prótesis personalizadas.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
-**¿Qué tolerancia dimensional se puede alcanzar con SLS?**
+### ¿Qué tolerancia dimensional se puede alcanzar con SLS?
 La tolerancia dimensional típica en SLS es de ±0,3 % con un mínimo de ±0,3 mm / ±0,012 in, aunque puede variar entre ±0,25 y ±0,3 mm para piezas pequeñas bien calibradas.
 
-**¿Cuál es la temperatura de precalentamiento de la cama de polvo para PA12?**
+### ¿Cuál es la temperatura de precalentamiento de la cama de polvo para PA12?
 La cama de polvo de PA12 se precalienta a 170 °C / 338 °F, manteniéndose entre 168 y 172 °C para asegurar la sinterización sin fusión completa.
 
-**¿Cuánto tiempo requiere una impresión SLS de un lote típico?**
+### ¿Cuánto tiempo requiere una impresión SLS de un lote típico?
 El tiempo medio de impresión de una cámara de 300 x 300 x 300 mm / 11,8 x 11,8 x 11,8 in es de 4 a 12 horas, dependiendo del volumen de llenado y de la altura total de las piezas.
 
-**¿Cuál es la velocidad de escaneo del láser en SLS?**
+### ¿Cuál es la velocidad de escaneo del láser en SLS?
 La velocidad de escaneo habitual del láser de CO₂ alcanza hasta 10 m/s / 32,8 ft/s, permitiendo trazados rápidos de la sección transversal.
 
-**¿Qué porcentaje de polvo no sinterizado se puede reutilizar?**
+### ¿Qué porcentaje de polvo no sinterizado se puede reutilizar?
 Entre el 50 % y el 80 % del polvo no sinterizado puede reutilizarse tras tamizado y mezcla con material virgen, siempre que no haya sufrido degradación térmica significativa.
 
-**¿Qué resistencia a la tracción ofrece el nailon PA12 sinterizado?**
+### ¿Qué resistencia a la tracción ofrece el nailon PA12 sinterizado?
 Las piezas de PA12 sinterizadas alcanzan una resistencia a la tracción de 45 a 48 MPa / 6,5 a 7,0 ksi, comparable a la del nailon moldeado por inyección.
 
-**¿Qué diámetro tiene el haz láser en un equipo SLS estándar?**
+### ¿Qué diámetro tiene el haz láser en un equipo SLS estándar?
 El diámetro del haz focalizado en el plano de sinterización suele ser de 0,3 a 0,5 mm / 0,012 a 0,020 in, lo que define la anchura mínima de trazo.
 
 ## Fuentes consultadas

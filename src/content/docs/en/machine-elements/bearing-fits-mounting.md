@@ -15,8 +15,6 @@ verified: true
 
 Engineering fits for bearings define the clearance or interference between the inner ring and the shaft, and between the outer ring and the housing, determining whether the parts can rotate freely, require mounting force, or form a permanent joint. Correct fit selection is critical to ensure bearing service life, rotation accuracy, and load capacity of the assembly.
 
-## Overview
-
 The ISO system of fits classifies couplings into three main categories: clearance (always exists play), transition (may result in small clearance or interference), and interference (always exists tightness). For bearings, the ISO alphanumeric designation such as H7/p6 specifies the housing tolerance in uppercase and the shaft tolerance in lowercase, allowing the manufacturer and assembler to know the exact dimensional limits without referring to full tables on each drawing. Fits are selected during the design phase considering the type of load (rotating or stationary), rotational speed, operating temperature, and support material.
 
 ## Standard dimensions and tolerances
@@ -61,7 +59,7 @@ Mounting of bearings with interference fit requires methods that avoid damaging 
 
 Incorrect fit selection manifests through characteristic failures: excessively loose fit causes circumferential slippage of the ring on its seat, generating wear marks, fretting corrosion, and vibration at rotation frequency. An excessively tight fit reduces the internal radial clearance below the minimum of 3 µm / 118 µin for small ball bearings, causing uncontrolled heating and seizing. Misalignment during mounting generates parasitic axial loads that reduce L10 service life by up to 30% compared to the theoretical calculation.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 ### What maximum temperature does a bearing withstand during heat mounting?
 
@@ -92,7 +90,6 @@ For a nominal diameter of 50 mm / 1.969 in, the k6 fit provides interference bet
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/centrifugal-pumps-standards-d_1116.html
 - **mcmaster.com**: https://www.mcmaster.com/products/bearing-housings/
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/centrifugal-pumps-standards-d_1116.html
 - **mcmaster.com**: https://www.mcmaster.com/products/bearing-housings/

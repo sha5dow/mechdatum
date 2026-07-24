@@ -68,7 +68,7 @@ For thicknesses above 4 mm or R/T ratios above 3.0, the K-factor tends to stabil
 
 The selection of the appropriate K-factor depends on the combination of thickness, bend radius, and material condition. For precision work in annealed 304 stainless steel sheet with thicknesses between 1 mm and 3 mm and an R/T ratio between 1 and 2, it is recommended to start with a value of 0.40 and adjust using test specimens. In components with demanding dimensional tolerances of ±0.15 mm on the developed length, the K-factor must be verified through test bends and measurement of the resulting part, correcting the value in increments of 0.01 according to the observed deviation. For thin thicknesses below 0.8 mm with R/T = 1, the K-factor drops to values of 0.33–0.35 due to the greater relative effect of compression on the inner face. In cold-rolled material condition with partial hardening (tensile strength near 620 MPa), the K-factor shifts slightly toward the inner face, recommending an initial value of 0.36 for R/T = 1. When the process involves bending in rotary dies or edge bending (hemming) in thicknesses from 0.5 mm to 1.5 mm, the K-factor can drop to 0.30 due to extreme material compression.
 
-## Frequently asked questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 1. **What is the K-factor value for 304 stainless steel of 1.5 mm thickness?** The recommended value is 0.38 for an inside radius equal to the thickness, with an R/T ratio = 1. This value produces an accurate flat pattern development with a typical tolerance of ±0.2 mm on the total length of the bent part. If the bend radius is increased to 2.25 mm (R/T = 1.5), the K-factor rises to 0.43.
 
@@ -87,7 +87,3 @@ The selection of the appropriate K-factor depends on the combination of thicknes
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html
 - **efunda.com**: https://www.efunda.com/materials/alloys/stainless_steels/show_stainless.cfm?ID=AISI_Type_304&show_prop=uts&Page_Title=Stainless%20Steel%20AISI%20Type%20304
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html
-- **efunda.com**: https://www.efunda.com/materials/alloys/stainless_steels/show_stainless.cfm?ID=AISI_Type_304&show_prop=uts&Page_Title=Stainless%20Steel%20AISI%20Type%20304

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Overview
 Shielded metal arc welding (SMAW) electrodes consist of a solid metallic core coated with a mixture of minerals, organic compounds, and binders that form the flux coating. During operation, the arc simultaneously melts the electrode and the base material, generating a weld pool protected by gases and a slag that prevent atmospheric contamination. The AWS (American Welding Society) classification identifies the mechanical characteristics, chemical composition, and operating conditions of each electrode. This guide analyzes four representative types: E6010, E6013 (carbon steels), E7018 (low‑hydrogen), and E308L (austenitic stainless steel). Their properties make them widely used options in fabrication, maintenance, and pipe construction.
 
 ## Operating parameters
@@ -107,7 +106,7 @@ The choice of electrode depends on five main factors: required strength, nature 
 
 When a combination of penetration and toughness is required, a sequence of different electrodes is used (e.g., E6010 for root and E7018 for fill). The operating parameters table should be consulted to adjust the current to the chosen diameter.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
 **1.** What is the recommended current for a 3,2 mm (1/8") E6010 electrode?  
 The optimal current is between 80 and 140 A with direct current electrode positive (DC+).
@@ -127,8 +126,7 @@ In horizontal fillet, the typical thickness reaches 6 mm / 1/4 in, although it d
 **6.** At what temperature does the flux coating of an SMAW electrode melt?  
 The flux melts at around 1400 °C / 2550 °F, a temperature close to the melting point of the base steel, estimated at 1538 °C / 2800 °F according to the Engineering Toolbox database.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-boiling-temperatures-d_390.html
 - **efunda.com**: https://www.efunda.com/DesignStandards/screws/unified.cfm
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/metal-powder-welding

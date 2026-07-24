@@ -113,7 +113,7 @@ Frente a otras aleaciones de aluminio de uso estructural, el 2024 ocupa una posi
 
 El 2014 y el 2024 comparten filosofía de aleación (Al‑Cu), pero el 2014 se prefiere para forja mientras que el 2024 se emplea en chapa y placa. El 6061 ofrece menor resistencia pero gana en soldabilidad y protección contra corrosión. El 7075, por su parte, alcanza las resistencias más altas de la familia del aluminio, aunque con menor ductilidad y mayor sensibilidad a la concentración de tensiones.
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 
 ### ¿Cuál es la resistencia a la tracción del aluminio 2024 en estado T3?
 La resistencia a la tracción del 2024‑T3 se sitúa en un intervalo típico de 395 a 450 MPa (57‑65 ksi), con un valor promedio de 441 MPa (64 ksi).

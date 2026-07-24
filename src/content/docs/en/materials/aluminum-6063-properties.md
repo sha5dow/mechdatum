@@ -105,28 +105,27 @@ Aluminum 6063 is used when good surface finish, high corrosion resistance, and e
 
 6063 is the standard choice for visible architectural profiles, while 6061 and 6082 are preferred in structural applications demanding higher mechanical strength.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**What is the tensile strength of aluminum 6063 T6?**  
+### What is the tensile strength of aluminum 6063 T6?
 Aluminum 6063 in temper T6 presents a minimum tensile strength of 215 MPa (31.2 ksi) in extruded bars and profiles up to 150 mm diameter or equivalent thickness.
 
-**What Brinell hardness does 6063 reach after artificial aging?**  
+### What Brinell hardness does 6063 reach after artificial aging?
 In T6 condition, the Brinell hardness is 75 HB minimum, and in temper T5 it is around 65 HB.
 
-**At what temperature does alloy 6063 melt?**  
+### At what temperature does alloy 6063 melt?
 The melting temperature is approximately 615 °C (1 139 °F), lower than that of alloys such as 6061.
 
-**How much does it dimensionally vary with temperature?**  
+### How much does it dimensionally vary with temperature?
 The linear thermal expansion coefficient is 2.34 × 10⁻⁵ /K (13.0 × 10⁻⁶ /°F), which corresponds to an elongation of 2.34 mm per meter for each 100 °C increase.
 
-**Is it possible to weld aluminum 6063 without losing its mechanical properties?**  
+### Is it possible to weld aluminum 6063 without losing its mechanical properties?
 Yes, but welding locally reduces the strength by up to 30 % (state equivalent to temper O). Post-weld heat treatment (T6) allows recovery of almost all original properties.
 
-**What is the main difference between temper T5 and T6 in 6063?**  
+### What is the main difference between temper T5 and T6 in 6063?
 T5 is obtained by cooling after extrusion and artificial aging, offering a minimum tensile strength of 160 MPa (23.2 ksi) and a yield strength of 110 MPa (16.0 ksi). T6 involves prior solution heat treatment and artificial aging, reaching 215 MPa (31.2 ksi) tensile and 170 MPa (24.7 ksi) yield strength, with a significant increase in hardness.
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=2812
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1152

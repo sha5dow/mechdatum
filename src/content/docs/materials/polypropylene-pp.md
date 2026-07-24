@@ -152,7 +152,7 @@ El polipropileno tarda entre 20 y 30 años en descomponerse en vertederos, por l
 - Soportes para bicicletas
 - Rastrillos y cubos de basura
 
-## Preguntas frecuentes
+## Preguntas frecuentes (FAQ)
 A continuación se responden 6 cuestiones habituales sobre el polipropileno, con datos cuantitativos que facilitan su selección en ingeniería.
 
 ### ¿Cuál es la temperatura máxima de uso continuo del PP?

@@ -114,28 +114,27 @@ Extrusion is the optimal choice when a constant cross-section profile is require
 
 Typical application cases: profiles for window and door frames, heat sinks, rails, aircraft structural components, tubes for heat exchangers.
 
-## Frequently asked questions
+## Frequently Asked Questions (FAQ)
 
-**1. What is the maximum pressure achievable in hot extrusion of steel?**
+### What is the maximum pressure achievable in hot extrusion of steel?
 The maximum pressure in steel extrusion can reach 700 MPa / 101,5 ksi, depending on the extrusion ratio and billet temperature.
 
-**2. What minimum wall thickness can be achieved in an extruded aluminum profile?**
+### What minimum wall thickness can be achieved in an extruded aluminum profile?
 The minimum achievable wall thickness in aluminum is 1 mm / 0.040 in, provided the geometry allows it and the die is properly designed.
 
-**3. What surface roughness (Ra) is typically obtained in aluminum extrusion?**
+### What surface roughness (Ra) is typically obtained in aluminum extrusion?
 Aluminum and magnesium extrusion produces a surface finish of 0,8 µm Ra / 30 µin, without the need for additional operations.
 
-**4. At what temperature is aluminum alloy 6063 extruded?**
+### At what temperature is aluminum alloy 6063 extruded?
 Alloy 6063 is hot extruded in a range of 350 °C to 500 °C / 662 °F to 932 °F, representing between 50% and 75% of its melting temperature.
 
-**5. What is the typical extrusion ratio for aluminum profiles?**
+### What is the typical extrusion ratio for aluminum profiles?
 The extrusion ratio for aluminum typically varies between 10:1 and 100:1, allowing very significant area reductions in a single pass.
 
-**6. What minimum corner radius can be obtained in an extruded steel part?**
+### What minimum corner radius can be obtained in an extruded steel part?
 The minimum corner radius for extruded steel is 0,8 mm / 0.030 in, while the minimum fillet radius is 4 mm / 0.120 in.
 
-## Sources Consulted
-
+## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/properties-aluminum-pipe-d_1340.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/extrusion.cfm?search_string=g%20steel
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/ordlista/tolerances-thermal-cutting

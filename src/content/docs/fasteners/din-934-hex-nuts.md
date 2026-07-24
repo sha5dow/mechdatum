@@ -13,7 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Descripción general
 La tuerca hexagonal DIN 934 tiene una altura nominal de 0,8 veces el diámetro de la rosca (0,8d) y corresponde al tipo normal o "estándar" dentro de la familia de tuercas métricas. Se fabrica mayoritariamente en acero con clases de resistencia 6, 8 y 10 según ISO 898‑2, apta para temperaturas de servicio de –50 °C a +300 °C (–58 °F a +572 °F). Originalmente normalizada por el Deutsches Institut für Normung, la norma DIN 934 fue sustituida por la serie armonizada ISO 4032, aunque sigue siendo ampliamente solicitada bajo su designación histórica en mantenimiento, construcción de maquinaria y equipamiento industrial.
 
 ## Tabla de dimensiones
@@ -159,23 +158,22 @@ Las tuercas DIN 934 se suministran en acero al carbono bonificado o en acero ino
 *Las clases en acero inoxidable se designan según ISO 3506‑2 (ej. A2‑70).*
 
 ## Preguntas frecuentes (FAQ)
-
-### 1. ¿Qué altura tiene una tuerca DIN 934 respecto al diámetro del perno?
+### ¿Qué altura tiene una tuerca DIN 934 respecto al diámetro del perno?
 La altura nominal de una tuerca DIN 934 es 0,8 veces el diámetro nominal de la rosca (0,8d); por ejemplo, una M10 tiene 8 mm de altura (0.315 in).
 
-### 2. ¿Cuál es el torque de apriete máximo para una tuerca DIN 934 M12 clase 8 montada en un tornillo 8.8?
+### ¿Cuál es el torque de apriete máximo para una tuerca DIN 934 M12 clase 8 montada en un tornillo 8.8?
 El torque máximo recomendado para M12 clase 8 con tornillo 8.8 es de 82 Nm / 60,5 ft‑lb en condiciones de lubricación ligera y μ ≈ 0,12.
 
-### 3. ¿Con qué llave se monta una tuerca DIN 934 de rosca M10?
+### ¿Con qué llave se monta una tuerca DIN 934 de rosca M10?
 La medida de llave para M10 es 17 mm (0.669 in) entre caras planas, aunque en series ligeras (ISO 4035) puede ser 16 mm; la DIN 934 utiliza 17 mm.
 
-### 4. ¿Cuál es la carga de prueba que soporta una tuerca DIN 934 M16 clase 8 antes de sufrir deformación permanente?
+### ¿Cuál es la carga de prueba que soporta una tuerca DIN 934 M16 clase 8 antes de sufrir deformación permanente?
 La carga de prueba para M16 clase 8 es de 94,2 kN (21180 lbf), calculada sobre el área de esfuerzo del perno de clase equivalente.
 
-### 5. ¿Qué broca se necesita para el agujero pasante de un tornillo M16 que utilizará tuerca DIN 934?
+### ¿Qué broca se necesita para el agujero pasante de un tornillo M16 que utilizará tuerca DIN 934?
 Para un agujero pasante de serie media (H13) se necesita una broca de 17,5 mm / 0.689 in de diámetro.
 
-### 6. ¿Hasta qué temperatura puede trabajar una tuerca DIN 934 de acero inoxidable A4?
+### ¿Hasta qué temperatura puede trabajar una tuerca DIN 934 de acero inoxidable A4?
 Las tuercas de acero inoxidable A4 (316) mantienen sus propiedades mecánicas hasta 400 °C / 752 °F, aunque la resistencia a la fluencia disminuye gradualmente por encima de 300 °C / 572 °F.
 
 ## Fuentes consultadas

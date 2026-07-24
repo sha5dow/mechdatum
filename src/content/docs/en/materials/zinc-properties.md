@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## General information
 Zinc is a bluish-white non-ferrous metal that is widely used in die casting alloys due to its excellent fluidity, high impact resistance, and ability to accept a variety of surface finishes. Zinc alloy parts are much more durable than their plastic equivalents and allow complex geometries with tight dimensional tolerances. The most common alloy used in hot-chamber die casting is designated ZP5, according to European standard EN 12844, consuming more than 60 % of the zinc cast in this industrial sector.
 
 ## Chemical composition
@@ -92,8 +91,7 @@ Zinc alloys offer the advantage of casting at lower temperature, which extends m
 | NF A 55‑010 | Z‑A4U1 G‑ZnAl4Cu1 |
 | UNI 3717 | G‑ZnAl4Cu1 |
 
-## Sources Consulted
-
+## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=9562
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/metal-alloys-densities-d_50.html
 - **steelnumber.com**: https://www.steelnumber.com/en/steel_alloy_composition_eu.php?name_id=1475

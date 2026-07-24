@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## General description
 V-belts are power transmission elements that use friction between their trapezoidal flanks and grooved pulleys to transfer motion between shafts. Their wedge-shaped cross-section allows transmitting up to 500 kW / 670 hp of power in industrial configurations, operating in a temperature range of –35 to 85 °C / –31 to 185 °F with a typical mechanical efficiency of 95 %.
 
 Compared to flat belts, V-belts multiply the traction capacity thanks to the wedging effect in the pulley groove, which increases the effective friction force by a factor of 3 to 5 for the same coefficient of friction.
@@ -132,23 +131,23 @@ When installing a new belt, never force it with levers over the pulley, as the t
 
 ---
 
-## Frequently asked questions
-**1. What maximum temperature does a standard V-belt withstand?**  
+## Frequently Asked Questions (FAQ)
+### What maximum temperature does a standard V-belt withstand?
 The continuous service temperature for SBR belts is limited to 85 °C / 185 °F. EPDM formulations reach up to 120 °C / 248 °F intermittently.
 
-**2. How many belts can be mounted on the same pulley?**  
+### How many belts can be mounted on the same pulley?
 On standard pulleys up to 12 grooves for profiles A and B, 10 for C, and 8 for D are allowed, maintaining a length difference between belts of the same set below 0.2 %.
 
-**3. How often should a V-belt drive be retensioned?**  
+### How often should a V-belt drive be retensioned?
 It is recommended to check tension after the first 24 hours of operation and then every 500 hours or three months, whichever occurs first. Most belts lose up to 3 % of their length during initial seating.
 
-**4. Is it possible to replace a classic belt with a narrow one?**  
+### Is it possible to replace a classic belt with a narrow one?
 Yes, a 5V belt can replace a B belt in many applications, provided the pulleys have the same groove width. The narrow belt transmits up to 50 % more power in the same space.
 
-**5. What efficiency does a well-maintained V-belt drive have?**  
+### What efficiency does a well-maintained V-belt drive have?
 Mechanical efficiency ranges between 92 % and 98 %, with a typical value of 95 % when the load is stable and the linear speed does not exceed 20 m/s / 3937 fpm.
 
-**6. How is the length of a V-belt measured?**  
+### How is the length of a V-belt measured?
 The pitch length is measured at the height of the neutral axis of the tensile cord. An A‑40 belt has a pitch length of 1016 mm / 40 in. The actual measurement over the back of the belt is approximately 1.5 % greater.
 
 ---
@@ -158,7 +157,3 @@ The pitch length is measured at the height of the neutral axis of the tensile co
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pulley-motor-speed-d_1475.html
 - **mcmaster.com**: https://www.mcmaster.com/products/v-belts/
 
-## Sources Consulted
-
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pulley-motor-speed-d_1475.html
-- **mcmaster.com**: https://www.mcmaster.com/products/v-belts/
