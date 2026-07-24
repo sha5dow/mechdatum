@@ -4,7 +4,6 @@
     "translations": {
       "en": "Materials"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Compuestos",
@@ -342,7 +341,6 @@
     "translations": {
       "en": "Manufacturing Processes"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Acabados Superficiales",
@@ -630,7 +628,6 @@
     "translations": {
       "en": "Tolerances & Fits"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "GD&T",
@@ -730,7 +727,6 @@
     "translations": {
       "en": "Fasteners"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Grados y Normas",
@@ -856,7 +852,6 @@
     "translations": {
       "en": "Machine Elements"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Ejes y Acoplamientos",
@@ -1056,7 +1051,6 @@
     "translations": {
       "en": "Hydraulics & Pneumatics"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Sistema Hidráulico",
@@ -1115,7 +1109,6 @@
     "translations": {
       "en": "Strength of Materials"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Columnas",
@@ -1200,7 +1193,6 @@
     "translations": {
       "en": "Fluids & Thermodynamics"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Mecánica de Fluidos",
@@ -1267,7 +1259,6 @@
     "translations": {
       "en": "Converters"
     },
-    "collapsed": true,
     "items": [
       {
         "label": "Dureza",
