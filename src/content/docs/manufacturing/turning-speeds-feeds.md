@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
 El torneado es un proceso de mecanizado por arranque de viruta donde una herramienta de corte monofilo, estacionaria o en movimiento controlado, remueve material de la superficie de una pieza en rotación. La correcta selección de la velocidad de corte (Vc, en m/min o sfpm) y del avance (f, en mm/rev o ipr) determina la productividad, la vida útil de la herramienta y la calidad superficial de la pieza. La velocidad de corte se refiere a la velocidad tangencial relativa entre el filo de la herramienta y la superficie maquinada, mientras que el avance indica la distancia que la herramienta avanza por cada revolución del husillo. Junto con la profundidad de corte (ap), estos parámetros conforman el triplete operativo fundamental del torneado.
 
 ## Parámetros operativos

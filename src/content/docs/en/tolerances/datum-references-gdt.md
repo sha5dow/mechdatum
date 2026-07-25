@@ -9,91 +9,83 @@ topic: "gdt"
 subcategory: "datum-references"
 skill: "standards-guide"
 launch_phase: 3
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+A datum reference in GDT drawings establishes a three-dimensional coordinate system that restricts up to 6 degrees of freedom of the part, defining the origin from which geometric tolerances such as position, orientation, or profile are controlled. The correct selection of the datum reference frame (DRF) is essential to ensure functionality, assembly, and repeatability in manufacturing and inspection.
 
-A datum reference is a geometric feature of a part (point, line, plane, hole, or set of surfaces) that is used as a basis to define nominal geometry and to measure actual dimensional conformity. In GD&T, datums establish the origin of spatial relationships and are essential to ensure assembly and functionality. A datum is not a tolerance, but an immutable reference element from which all dimensions and geometric tolerances originate.
+## Fundamental principles of datum in GDT
+A datum is an actual geometric feature of a part (surface, axis, mid-plane, point) that acts as a reference to define the nominal geometry and measure deviations. The typical datum reference frame consists of three mutually perpendicular planes, identified as primary datum (A), secondary datum (B), and tertiary datum (C), capable of eliminating the 6 degrees of freedom.
 
-## Fundamental principles
-The guiding principle is that every part must mate with others, so functional datums reflect the mounting surfaces. A datum reference is not necessarily the manufacturing surface; often design datums differ from production datums to optimize costs. The theory of degrees of freedom states that every free rigid body has six possible displacements: three translations and three rotations. Datum references are selected to constrain these degrees in a hierarchical order: primary, secondary, and tertiary.
+The functional selection of datums should reflect how the part mounts or contacts others in the assembly. Manufacturing datums may differ from functional ones for cost and repeatability reasons, requiring a tolerance analysis for conversion.
 
-## Types of datum references
-- **Plane datum:** flat surface considered ideal. Controls orientation and location.
-- **Axis datum:** centerline of a cylinder or hole. Common in rotational parts.
-- **Point datum:** intersection of planes or center of a sphere. Used in tooling.
-- **Compound datum:** combination of several features (e.g., two holes) that form a common datum.
-- **Datum target:** designated areas on an irregular surface to simulate support points in inspection, indicated by a target symbol.
+## Standardized symbols for datums
+Datums are indicated by a filled equilateral triangle (ASME) or unfilled (ISO) resting on the reference surface or on an extension line, accompanied by a capital letter inside a square frame. When the reference is not a complete surface, datum targets are used with a point, line, or area.
 
-## Standard symbology
-| Symbol | Meaning | Typical application |
+| Symbol | Meaning | Typical use |
 | --- | --- | --- |
-| ![Filled triangle](https://roymech.org/images/datum_symbol.gif) ISO datum symbol (filled or open triangle on leader line) | Identification of datum feature | Plane, axis, or median plane |
-| ![Datum target](https://roymech.org/images/datum_target.gif) Datum target symbol | Defined support point on the part | Forgings, castings |
-| Ⓜ Maximum Material (MMR) | Requirement applicable to datum or tolerance | Assemblies with clearance |
-| Ⓛ Least Material (LMR) | Requirement for critical thicknesses | Thin walls |
-| CZ (Common Zone) | Common tolerance for multiple separate features | Groups of holes |
+| ▸ A | Primary datum A | Flat surface restricting 3 degrees of freedom |
+| ▸ B | Secondary datum B | Surface perpendicular to A restricting 2 additional degrees |
+| ▸ C | Tertiary datum C | Surface perpendicular to A and B restricting the last degree |
+| ◇ A1 | Datum target (point) | Reference on inaccessible or rough surfaces |
+| ⊂ ⊃ | Datum zone frame (area) | Specification of contact area for inspection |
 
-## Datum reference frame
-The datum reference system is structured in three levels:
+## Datum reference frame (DRF): primary, secondary and tertiary
+The DRF orders the datum references A, B, C in the sequence that appears within the feature control frame, separated by hyphens. The primary datum always appears first and eliminates the greatest number of degrees of freedom (minimum 3), while the tertiary eliminates the fewest (usually 1). The sequence directly influences the orientation of the part during measurement.
 
-- **Primary datum (A):** constrains the most critical degrees of freedom. Usually the surface with the largest area or the one that establishes the main orientation. Typically controls 3 degrees (e.g., a primary plane eliminates one translation and two rotations).
-- **Secondary datum (B):** reduces additional degrees once the primary is fixed. Generally a surface perpendicular to A. Controls 2 degrees (remaining translation and rotation in the perpendicular plane).
-- **Tertiary datum (C):** eliminates the last degree of freedom. A third surface at 90° to the previous ones or a hole/locator. Provides the final translational constraint.
-
-The frame is declared in the feature control frame as **|A|B|C|** , read from left to right according to priority.
-
-## Selection of datum planes
-Incorrect selection of datums is the most common cause of non-conformities in GD&T. The following guidelines are followed:
-
-1. **Functionality first:** the surfaces that contact other components in the assembly are the natural candidates.
-2. **Accessibility:** datums must be accessible both in production and inspection.
-3. **Repeatability:** large and stable surfaces reduce measurement uncertainty.
-4. **Derived tolerances:** when functional datums are not practical to manufacture, a tolerance analysis is performed to define equivalent machining datums.
-
-## Controlled degrees of freedom
-The following table summarizes the constraint capacity of the most common datum types. A primary plane with dimensions ≥ 50 mm / 1.97 in equivalent diameter is usually sufficient for stable inspection.
-
-| Datum type | Translations constrained | Rotations constrained | Degrees controlled | Minimum dimensional example |
-| --- | --- | --- | --- | --- |
-| Primary plane (surface A) | 1 (Z) | 2 (u, v) | 3 | 50 mm x 50 mm / 1.97 in x 1.97 in |
-| Secondary plane (B) | 1 (X) | 1 (w) | 2 | 25 mm x 25 mm / 0.98 in x 0.98 in |
-| Tertiary plane (C) | 1 (Y) | 0 | 1 | 15 mm x 15 mm / 0.59 in x 0.59 in |
-| Primary axis (cylinder A) | 2 (X, Y) | 2 (u, v) | 4 | Diameter 20 mm / 0.79 in, length 30 mm / 1.18 in |
-
-## Real application examples
-**Centrifugal pump housing:** the suction flange plane is designated datum A (primary), the concentric pilot hole datum B (secondary), and a through hole datum C (tertiary). The A|B|C frame ensures concentricity between impeller and housing.
-
-**Engine block:** the crankshaft bearing surfaces are datums A and B (bedplate planes), while the connecting rod bushings reference a common axis C. This strategy allows controlling parallelism between cylinders and crankshaft within 0.05 mm / 0.002 in.
-
-## Comparison between ISO and ANSI systems
-| Aspect | ISO 5459:2011 | ASME Y14.5-2018 |
+| Datum type | Degrees of freedom restricted | Detail |
 | --- | --- | --- |
-| Datum designation | Filled or open triangle on datum leader | Filled triangle with letter in square |
-| Material modifiers | Ⓜ, Ⓛ applicable to datum | Ⓜ, Ⓛ, and virtual condition modifier |
-| Concept of "datum feature simulator" | Defined as "real contact situation" | Perfect theoretical simulator |
-| Simultaneous requirements | CZ (common zone) for multiple tolerances | Simultaneous requirement by default |
-| Treatment of datum targets | Indicated with target symbol and implied coordinates | Contact area diameter required, e.g., "⌀12 / ⌀0.47 in" |
+| Primary plane A | 3 (1 translation, 2 rotations) | Translation normal to the plane, rotation about the two axes contained in the plane |
+| Secondary plane B | 2 (1 translation, 1 rotation) | Translation along the longest axis, rotation about the axis perpendicular to plane A |
+| Tertiary plane C | 1 (1 translation) | Translation along the remaining axis |
+| Primary cylinder (axis) | 4 (2 translations, 2 rotations) | Translations perpendicular to the axis, rotations about axes perpendicular to the axis |
+| Secondary cylinder | 2 (1 translation, 1 rotation) | Axial translation, rotation about the cylinder axis |
+
+## Material requirements (MMR and LMR) in datum references
+Material modifiers adjust the tolerance zone based on the actual state of the datum feature, optimizing assembly capability without sacrificing functionality. The symbol Ⓜ (M inside a circle) indicates maximum material requirement (MMR), while Ⓛ (L inside a circle) indicates least material requirement (LMR).
+
+When MMR is applied to a datum, the reference is formed by the virtual condition of the datum element, allowing additional shift (datum shift) if the datum element departs from its maximum material. This results in an increase of the geometric tolerance of the controlled feature without violating the assembly condition.
+
+- **MMR on datum**: the datum is simulated at its maximum material virtual condition (MMVC). If the datum element has more clearance, the part can shift up to the virtual limit, expanding the location tolerance of the feature.
+- **LMR on datum**: used to protect minimum wall thicknesses. The datum is established at the least material condition, ensuring that critical sections are not reduced.
+
+## Examples of industrial application
+In an automobile wheel hub, the bolt hole pattern defines a bolt circle that acts as the primary datum. From it, the concentricity of the rim and tire is controlled, ensuring the assembly rotates without vibration. The primary datum restricts 4 degrees of freedom; a flat support surface acts as secondary (1 translation) and a guide hole as tertiary (1 final rotation).
+
+Another typical case is a base plate with two pin holes. The bottom face is designated datum A (primary), which supports the plate on the horizontal plane. A pin in one hole is established as datum B (secondary) restricting two translations, while the second aligned hole becomes datum C (tertiary) restricting the remaining rotation. The assembly ensures a unique position and orientation for machining position tolerances with the sequence A|B|C.
+
+## Comparison between systems: ISO (5459) vs ASME (Y14.5)
+Although both systems define datum reference frames with a similar philosophy, there are differences in interpretation and notation detail.
+
+| Aspect | ISO 5459 | ASME Y14.5 |
+| --- | --- | --- |
+| Datum symbol | Unfilled triangle and letter | Filled triangle and letter |
+| DRF ordering | Sequence indicated by a hyphen inside the feature control frame (e.g. A-B-C) | Sequence written separated by commas or vertical bars (e.g. A, B, C or A\|B\|C) |
+| Datum targets | Require specifying the target shape (point, line, area) with full dimensioning | Same indication, but allows a generic symbol when shape is not critical |
+| Material modifiers | MMR (Ⓜ), LMR (Ⓛ), both on datum if applicable | Only MMC (Ⓜ) on datum; LMC is limited to the controlled feature, rarely on datum |
+| Virtual datum interpretation | Virtual condition recalculated with the same principle, but part simulation in inspection may differ depending on associated verification standard | Explicitly defines datum shift based on actual size of datum element, without ambiguity |
+| Degrees of freedom | Sequence A-B-C always restricts 6 degrees, but the standard allows explicitly declaring unused degrees of freedom | Similar, but default sequence assumes full restriction unless "6 partial degrees" is indicated with modifiers |
 
 ## Frequently Asked Questions (FAQ)
-### How many degrees of freedom does a primary plane datum constrain?
-   A primary plane datum constrains exactly 3 degrees of freedom: 1 translation perpendicular to the plane and 2 rotations about axes contained in it.
+### What is the difference between a datum and a datum feature?
+A datum is the ideal reference plane, axis, or point established from the datum feature, which is the real physical surface or element of the part. The datum feature must be accessible, functional, and suitable to support measurement.
 
-### What is the difference between a functional datum and a manufacturing datum?
-   A functional datum reflects the assembly function, while the manufacturing datum is chosen to facilitate machining. Conversion between them requires a tolerance analysis with typical deviations of 0.2 mm / 0.008 in.
+### How is the primary datum selected for a part?
+The surface with the largest contact area in the assembly that restricts at least one translation and two rotations is chosen. Generally it is the face that first contacts in the assembly.
 
-### What is the minimum recommended diameter for a point-type datum target in CMM inspection?
-   A contact diameter of at least 12 mm / 0.47 in is recommended for medium-sized parts (between 200 mm / 7.87 in and 500 mm / 19.69 in) to ensure repeatability.
+### Why is the sequence of datums in the feature control frame critical?
+The sequence defines the order of restriction of degrees of freedom. A part with DRF A|B|C is oriented differently than B|A|C; changing the order modifies the measurement and may incorrectly validate or reject parts.
 
-### Can a datum be a center line without associated material?
-   Yes, a datum can be a center line (median plane) of a slot or a width feature. It must be indicated with the datum symbol attached to the corresponding dimension line.
+### When is the maximum material requirement (MMR) applied in the datum reference?
+When it is desired to take advantage of the clearance of the datum element (for example, a hole) to allow additional shift that increases the position tolerance of a feature, provided that assembly is not compromised.
 
-### In what order are the datums read in the A|B|C reference frame?
-   They are read from left to right as primary, secondary, and tertiary. For example, A|B|C means A constrains more degrees, then B, and finally C.
+### Is a datum in ASME Y14.5 the same as in ISO 5459?
+Essentially the concept is equivalent, but they differ in graphical symbols, DRF notation, and the application of material modifiers on the datum. See the comparison table in the guide for details.
 
-### What typical error occurs when omitting the tertiary datum?
-   Omitting the tertiary datum leaves the last translational degree of freedom uncontrolled, which can cause a maximum batch displacement equal to the unassigned position tolerance, typically 0.5 mm / 0.020 in for non-critical parts.
+### How are datums simulated during measurement with a coordinate measuring machine?
+Probes or physical support surfaces (verification granite, expanding cylinders) are used that represent the virtual condition of the datum. The software aligns the machine's coordinate system with the planes or axes defined by those probes, establishing the measurement origin.
 
-## References
+## Sources Consulted
+
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/beams-fixed-both-ends-support-loads-deflection-d_809.html
 - **roymech.org**: https://roymech.org/Useful_Tables/Drawing/draw_geom_notes.html

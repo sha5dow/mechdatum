@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definición general
 Un resorte de torsión es un elemento mecánico elástico que almacena energía al ser retorcido alrededor de su eje, ejerciendo un par de torsión proporcional al ángulo de giro. El momento torsor máximo que puede soportar un eje circular macizo de 50 mm de diámetro en acero con una tensión cortante admisible de 40,8 MPa es de aproximadamente 1000 N·m / 737,6 lb·ft. La deflexión angular de ese mismo eje sometido a dicho momento y con una longitud de 1 m resulta de 1,2° (0,021 rad), considerando un módulo de rigidez de 79 GPa.
 
 | Característica | Descripción |

@@ -9,140 +9,117 @@ topic: "polymers"
 subcategory: "elastomers"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
+Nitrile butadiene rubber (NBR) has a Shore A hardness between 40 and 95, and a continuous service temperature range of -55 °C to 108 °C (-67 °F to 226 °F) depending on the formulation and acrylonitrile (ACN) content. This synthetic elastomer stands out for its excellent resistance to oils, fuels, hydraulic fluids, and many chemicals. Typical density ranges from 0.96 to 1.00 g/cm³ (960–1000 kg/m³). Its combination of mechanical strength, flexibility, and chemical stability makes it a reference material for gaskets, seals, hoses, and sealing components in the automotive, oil & gas, and process industries.
 
-Nitrile butadiene rubber (NBR) is a synthetic elastomer copolymer of acrylonitrile (ACN) and butadiene, commercially developed in Germany in 1935. Its ACN content typically ranges from 18% to 50%, providing excellent resistance to oils, fuels, greases, and many chemicals. NBR is supplied in a wide range of Shore A hardnesses, from 30 to 95, and is extensively used in the automotive, aerospace, oil and gas, and medical industries.
+## Chemical Composition
+NBR is a random copolymer of acrylonitrile and butadiene. The ratio between the two monomers determines the final properties of the elastomer; the higher the acrylonitrile (ACN) content, the better the oil and solvent resistance, but the lower the low-temperature flexibility. The typical monomer composition of commercial grades is presented below:
 
-## Chemical composition
-NBR is a linear chain polymer obtained by emulsion polymerization of acrylonitrile (CH₂=CH–CN) and butadiene (CH₂=CH–CH=CH₂). The proportion of ACN determines the final properties of the material; a higher ACN content improves fluid resistance and mechanical strength but reduces low-temperature flexibility. The typical composition of a commercial NBR is shown below.
+| Monomer | Typical Mass Content |
+|---|---|
+| Acrylonitrile (ACN) | 18 % – 50 % |
+| Butadiene | 50 % – 82 % |
 
-| Component | Typical content | Primary function |
-| --- | --- | --- |
-| Acrylonitrile (ACN) | 18 – 50% | Chemical and abrasion resistance |
-| Butadiene | 50 – 82% | Elasticity and flexibility |
+In addition to the monomers, formulations include curing agents (sulfur or peroxides), reinforcing fillers such as carbon black or silica, plasticizers, antioxidants, and other processing additives.
 
-## Mechanical properties
-NBR offers tensile strength that can vary between 5 MPa and 25 MPa (725 – 3625 psi) depending on the acrylonitrile content and the compound formulation. Typical mechanical properties measured at 23 °C according to ASTM D412 and D2240 are summarized in the following table.
+## Mechanical Properties by Treatment Condition
+The mechanical properties of NBR vary according to the curing system, ACN content, type and loading of reinforcement. The values presented correspond to standard vulcanized compounds reinforced with carbon black, tested at 23 °C (73 °F) according to ISO 37 and ISO 7619 methods.
 
-| Property | Typical value | SI units | Imperial units |
-| --- | --- | --- | --- |
-| Shore A hardness | 30 – 95 | – | – |
-| Tensile strength | 5 – 25 | MPa | 725 – 3625 psi |
-| Elongation at break | 200 – 600 | % | % |
-| Modulus at 100% elongation | 1 – 10 | MPa | 145 – 1450 psi |
+| Property | Typical Range (metric / imperial) |
+|---|---|
+| Tensile strength | 5 – 25 MPa / 725 – 3625 psi |
+| Elongation at break | 100 – 800 % |
+| Shore A hardness | 40 – 95 |
+| Modulus at 100% elongation | 2 – 10 MPa / 290 – 1450 psi |
+| Tear strength (trouser) | 10 – 40 kN/m / 57 – 228 lbf/in |
+| Compression set (70 h / 100 °C) | 10 – 50 % |
 
-## Physical properties
-NBR density is between 1.0 g/cm³ and 1.2 g/cm³ (0.036 – 0.043 lb/in³) in solid state. Its low gas permeability and good abrasion resistance make it suitable for dynamic sealing. Typical physical properties are summarized below.
+For grades with high ACN content (≥ 40 %), the highest values of hardness and tensile strength are obtained, while elongation decreases. Peroxide-cured compounds exhibit better heat aging resistance and lower permanent set than sulfur-cured ones.
 
-| Property | Value | Units |
-| --- | --- | --- |
-| Density | 1.0 – 1.2 | g/cm³ (0.036 – 0.043 lb/in³) |
-| Usual color | Black (can be pigmented) | – |
-| Abrasion resistance | Good – Excellent | – |
-| Gas permeability | Low | – |
-| Ozone resistance | Moderate (can be improved with additives) | – |
+## Physical and Thermal Properties
+The density of NBR is typically between 0.96 and 1.00 g/cm³ (960–1000 kg/m³), and its usual color is black due to the incorporation of carbon black, although colored grades can be produced.
 
-## Thermal properties
-NBR continuous service temperature ranges from -40 °C to 108 °C (-40 °F to 226 °F), although some compounds can withstand peaks up to 120 °C. The glass transition temperature (Tg) ranges from -55 °C to -10 °C depending on the acrylonitrile content. The most relevant reference values are presented.
+| Property | Typical Value (metric / imperial) |
+|---|---|
+| Density | 0.96 – 1.00 g/cm³ / 60 – 62.4 lb/ft³ |
+| Glass transition temperature (Tg) (depending on ACN) | -55 to -20 °C / -67 to -4 °F |
+| Continuous service range | -55 to 108 °C / -67 to 226 °F |
+| Thermal conductivity | 0.25 W/(m·K) / 1.73 BTU·in/(h·ft²·°F) |
+| Specific heat | 1.5 – 2.0 kJ/(kg·K) / 0.36 – 0.48 BTU/(lb·°F) |
+| Coefficient of linear thermal expansion | 160 – 230 × 10⁻⁶ K⁻¹ / 89 – 128 × 10⁻⁶ in/in/°F |
+| Volume resistivity (electrical insulation) | 10¹⁰ – 10¹² Ω·cm |
+| Air permeability (24 h, 23 °C) | 0.5 – 2.0 × 10⁻¹⁷ m²/(Pa·s) (approx.) |
 
-| Property | Value | Units |
-| --- | --- | --- |
-| Continuous service temperature | -40 to 108 | °C (-40 to 226 °F) |
-| Intermittent service temperature | -55 to 120 | °C (-67 to 248 °F) |
-| Tg (ACN 18‑35%) | -55 to -30 | °C (-67 to -22 °F) |
-| Tg (ACN 35‑50%) | -30 to -10 | °C (-22 to 14 °F) |
+Flame resistance is low, and most grades are flammable unless flame retardant additives are incorporated. Water absorption is less than 1 % under ambient conditions, making it suitable for applications with occasional moisture contact.
 
-## Chemical resistance
-NBR exhibits excellent resistance to mineral oils, fuels (gasoline, diesel), greases, water, and hydraulic fluids. Conversely, it is vulnerable to polar solvents such as ketones (acetone, MEK), esters, chlorinated hydrocarbons, and strong oxidizing acids. The following table shows compatibility with commonly used fluids.
+## Applications
+NBR is widely used in sectors where resistance to oils, fuels, and greases is required, together with good elasticity and sealing capability. The main applications by industry are:
 
-| Fluid | Compatibility | Remarks |
-| --- | --- | --- |
-| Mineral oils | Excellent | Slight swelling with low ACN |
-| Gasoline / diesel | Very good | ACN > 30% recommended |
-| Water and glycols | Good | Suitable up to 100 °C |
-| Dilute acids | Moderate | Do not use with oxidizing acids |
-| Ketones (acetone) | Not compatible | Severe swelling and degradation |
-| Chlorinated hydrocarbons | Not compatible | Rapid chemical attack |
+**Automotive**
+- Fuel and oil hoses.
+- Seals, O-rings, and engine shaft seals.
+- Diaphragms and membranes in fuel systems.
+- Gaskets in transmissions.
 
-## Industry applications
-NBR is heavily used in sectors that demand resistance to hydrocarbons. The automotive market is the largest consumer, but it is also prominent in the oil and gas, aerospace, and medical industries. The most representative applications by sector are listed below.
+**Oil & Gas**
+- Seals and gaskets for valves and pumps.
+- Hoses for mud and drilling fluids.
+- Roller coverings in crude handling systems.
+- Expansion joints and flexible connectors.
 
-| Industry | Typical applications |
-| --- | --- |
-| Automotive | O-rings, seals, fuel hoses, diaphragms |
-| Aerospace | Self-sealing tank seals, flexible couplings |
-| Oil and gas | Downhole packings, plugs, wellhead seals |
-| General industry | Printing rollers, belts, protective gloves, footwear |
-| Medical and food | Examination gloves, equipment seals (with approved formulations) |
+**General Industrial**
+- Chemical protection gloves (laboratories, cleaning, food).
+- Roller coverings in graphics and paper industries.
+- Extruded profiles for door and window sealing.
+- Anti-slip sheets and mats.
 
-## Comparison with similar materials
-Compared to other elastomers, NBR stands out for its balance of oil resistance and moderate cost. It is commonly compared with SBR, CR, EPDM, and FKM, as shown in the following table of relative properties.
+**Food and Pharmaceutical**
+- Hoses for food liquid transfer (approved grades).
+- Gaskets in food processing equipment.
+- Metering pump components.
 
-| Material | Oil resistance | Max. continuous temp. | Relative cost | Cold flexibility |
-| --- | --- | --- | --- | --- |
-| NBR (18‑50% ACN) | Excellent | 108 °C (226 °F) | Low-Medium | Good (low ACN) |
-| SBR | Poor | 82 °C (180 °F) | Very low | Good |
-| CR (neoprene) | Good | 115 °C (239 °F) | Medium | Moderate |
-| EPDM | Poor | 150 °C (302 °F) | Medium | Excellent |
-| FKM (Viton®) | Excellent | 200 °C (392 °F) | High | Limited |
-| HNBR | Excellent | 165 °C (329 °F) | Medium-High | Good (low ACN) |
+**Aerospace**
+- Self-sealing fuel tank seals.
+- Static and dynamic seals in hydraulic systems.
 
-## Designations and standards
-Nitrile rubber is marketed under various registered names and is specified by the main international standards for elastomer classification.
+## Comparison with Similar Materials
+The following table compares representative properties of standard NBR (33 % ACN, 70 Shore A) with other elastomers used in sealing applications.
 
-| Designation / Standard | Description |
-| --- | --- |
-| NBR, Buna-N | Generic name and historical name (BASF) |
-| Perbunan®, Nipol®, Krynac®, Europrene® | Trade names |
-| ASTM D2000 M2BG | ASTM classification for general purpose NBR |
-| ISO 1629:2013 | N series (NBR) in ISO nomenclature |
-| SAE J200 | SAE classification for elastomeric materials |
+| Property | NBR | HNBR | EPDM | FKM (standard) |
+|---|---|---|---|---|
+| Shore A hardness (typical range) | 40 – 95 | 50 – 90 | 40 – 90 | 55 – 90 |
+| Temperature range (°C / °F) | -55 to 108 / -67 to 226 | -40 to 165 / -40 to 329 | -50 to 150 / -58 to 302 | -20 to 250 / -4 to 482 |
+| Oil and fuel resistance | Excellent | Excellent | Poor | Excellent |
+| Weather and ozone resistance | Good | Very Good | Excellent | Excellent |
+| Abrasion resistance | Good | Very Good | Good | Moderate |
+| Relative cost | Low | Medium | Low | High |
 
-## Forms of supply
-NBR is available in numerous forms to suit different processing methods and end applications.
-
-| Form | Description |
-| --- | --- |
-| Sheets and slabs | Thicknesses from 0.5 mm to 50 mm |
-| Rolls and coils | Standard lengths from 10 m to 30 m |
-| Rods and profiles | Round, square, special sections |
-| Molded parts | O-rings, seals, hoses |
-| Adhesives and sealants | Solvent-based or water-based |
-| NBR latex | For dipping and coatings |
-
-## Limitations and precautions
-NBR is not suitable for applications involving contact with ketones, esters, chlorinated hydrocarbons, or strong oxidizing acids. Prolonged exposure to weather, UV radiation, and ozone can cause surface cracking, although stabilized grades exist. It is recommended to store the material in a cool, dry place away from heat sources and direct sunlight.
+HNBR (hydrogenated nitrile rubber) offers superior thermal and mechanical performance compared to NBR, while maintaining similar chemical resistance, so it is used when service temperatures exceed 120 °C (250 °F). EPDM is preferable for outdoor applications but is not suitable for contact with hydrocarbons. FKM provides the highest thermal and chemical resistance, although its cost is high.
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the maximum continuous service temperature of NBR?
-NBR can operate continuously up to 108 °C (226 °F) without significant accelerated degradation, although some high-saturation formulations can withstand peaks of 120 °C.
+### What is NBR and what is it used for?
+NBR (nitrile butadiene rubber) is a synthetic elastomer with excellent resistance to oils, fuels, and greases. It is mainly used in the manufacture of gaskets, seals, hoses, gloves, and molded parts for the automotive, oil & gas, and chemical industries.
 
-### What is the most common Shore A hardness of NBR?
-Standard NBR hardness ranges from 40 to 95 Shore A, allowing selection from very flexible grades to semi-rigid formulations.
+### What is the working temperature range of NBR?
+NBR can operate continuously between -55 °C and 108 °C (-67 °F to 226 °F), although grades with low acrylonitrile content maintain better low-temperature elasticity, and those with high content exhibit better performance in hot conditions for short periods.
 
-### What acrylonitrile content is typical for NBR?
-Commercial grades contain between 18% and 50% acrylonitrile; the most common values for general use are in the 33‑35% range.
+### How resistant is NBR to oils and fuels?
+NBR is considered one of the elastomers with the best resistance-to-cost ratio against mineral oils, diesel, gasoline, and petroleum-based hydraulic fluids. Resistance improves as the acrylonitrile content of the polymer increases.
 
-### Is NBR suitable for steam?
-Its use with saturated steam at elevated pressures is not recommended, as it can soften and hydrolyze over time at temperatures above 100 °C.
+### What is the difference between NBR and HNBR?
+HNBR is the hydrogenated version of NBR. This saturation of the polymer chain gives it significantly superior heat, ozone, and aging resistance, with a temperature range up to 165 °C (329 °F), while maintaining similar chemical resistance.
 
-### What is the average shelf life of properly stored NBR?
-Stored at 20 °C and without direct light exposure, the shelf life is 3‑5 years before mechanical properties begin to degrade.
+### What is the typical hardness of NBR?
+The Shore A hardness of NBR can be formulated over a very wide range, from 40 (very soft) to 95 (hard). The most common values in sealing applications are between 60 and 80 Shore A.
 
-### Can NBR be bonded to metals?
-Yes, NBR is easily vulcanized onto metal inserts, achieving adhesion strengths greater than 3 MPa (435 psi) in properly prepared bonds.
+### How does NBR compare to EPDM in automotive applications?
+NBR is chosen when the component is in contact with oils or fuels (fuel hoses, engine gaskets), while EPDM is the preferred choice for applications exposed to the weather, such as weatherstripping and coolant hoses, due to its better ozone and atmospheric resistance.
 
----
+## Sources Consulted
 
-Sources consulted:  
-- https://www.azom.com/article.aspx?ArticleID=1724  
-- https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html  
-- https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
-
-## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1724
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
+- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=319

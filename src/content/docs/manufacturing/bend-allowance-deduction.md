@@ -9,72 +9,103 @@ topic: "forming"
 subcategory: "bend-allowance"
 skill: "process-parameters"
 launch_phase: 2
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+El plegado de chapa metálica requiere calcular con precisión la longitud de la fibra neutra para obtener un desarrollo plano exacto. Los dos métodos principales para este cálculo son la **tolerancia de curvatura** (*Bend Allowance*, BA) y la **deducción de curvatura** (*Bend Deduction*, BD). La BA es la longitud del arco de la línea neutra en la zona deformada, mientras que la BD es el valor que debe restarse de la suma de las longitudes exteriores de las alas para obtener la longitud total del desarrollo. La elección entre ambos métodos depende de la forma en que se acoten las piezas y del proceso de plegado empleado.
 
-El cálculo preciso de la **longitud desarrollada** en piezas de chapa plegada depende de dos conceptos complementarios: la **tolerancia de doblado** (*Bend Allowance*, BA) y la **deducción de plegado** (*Bend Deduction*, BD). La BA representa la longitud del arco de la fibra neutra a lo largo del radio de doblado, mientras que la BD es la cantidad que debe restarse de la suma de las dimensiones externas de las alas para obtener la longitud total de la chapa plana. Ambos valores dependen del espesor del material, del radio interior, del ángulo de plegado y del factor **K**, que define la posición de la fibra neutra. Utilizar las fórmulas correctas evita errores dimensionales y garantiza que la pieza final cumpla las especificaciones.
+Durante el doblado, la capa exterior de la chapa se alarga y la interior se comprime. En el interior del espesor existe una **fibra neutra** que no experimenta variación de longitud. La posición de esta fibra se define mediante el **factor K** (K), que expresa el cociente entre la distancia desde la cara interior hasta la fibra neutra y el espesor del material (t). Para materiales dúctiles y procesos de plegado por aire, K oscila normalmente entre 0,33 y 0,50.
 
-## Fórmulas de cálculo
-Para un doblado con radio interior **R**, espesor **T**, ángulo de plegado **A** (en grados) y factor K **k** (adimensional), se aplican las siguientes expresiones:
+La **tolerancia de curvatura (BA)** es la longitud del arco de la fibra neutra en función del radio interior (R), el espesor (t), el ángulo de doblado (A en grados) y el factor K:
 
-- **Bend Allowance (BA)** = (π / 180) × A × (R + k × T)
-- **Retroceso exterior (OSSB)** = tan(A / 2) × (R + T)
-- **Bend Deduction (BD)** = 2 × OSSB − BA
-- **Longitud desarrollada (L)** = Σ longitudes rectas de las alas + Σ BA  (método de la tolerancia)
-- Alternativamente: **L** = Σ (dimensiones externas de las alas) − Σ BD  (método de la deducción)
+> **BA = (π × (R + K × t) × A) / 180°**
 
-La conversión entre BA y BD es inmediata a partir de las fórmulas anteriores. El método más usado en diseño de chapa es el de la deducción de plegado, porque trabaja directamente con las cotas exteriores medidas sobre el plano.
+La **deducción de curvatura (BD)** se basa en la distancia exterior de retroceso (*Outside Setback*, OSSB), calculada como:
 
-## Parámetros y factores clave
+> **OSSB = tan(A/2) × (R + t)**
 
-| Parámetro | Valor típico / Rango | Unidad |
-| --- | --- | --- |
-| **Factor K (acero dulce)** | 0.33 – 0.40 | — |
-| **Factor K (acero inoxidable 304)** | 0.40 – 0.45 | — |
-| **Factor K (aluminio 5052-O)** | 0.40 – 0.45 | — |
-| **Factor K (cobre dúctil)** | 0.35 – 0.42 | — |
-| **Radio interior mínimo recomendado** | ≥ 1 × T | mm / in |
-| **Anchura mínima del ala** | ≥ 4T + R | mm / in |
-| **Distancia mínima de taladros al borde de plegado** | ≥ 3T + R | mm / in |
-| **Precisión angular en doblado al aire** | ±0.5° | grados |
+La BD se obtiene a partir de dos veces el OSSB menos la BA:
 
-El factor K expresa la posición de la fibra neutra como fracción del espesor, medida desde la cara interior del doblado. En el doblado al aire, el radio interior se determina aproximadamente por la abertura de la matriz en V; una regla empírica frecuente es que el radio interior natural equivale al 16 % de la apertura de la V.
+> **BD = 2 × OSSB – BA = 2 × tan(A/2) × (R + t) – BA**
 
-## Materiales aplicables y guía de selección
-La tabla siguiente recoge los parámetros de diseño recomendados para los materiales más habituales en plegado de chapa. Las tolerancias de plegado dependen del estado de suministro y del espesor.
+Para una pieza con dos alas de longitudes L1 y L2 medidas desde el borde hasta el vértice externo, el desarrollo plano (Lₜ) se calcula como:
 
-| Material | Espesor típico (mm / in) | Radio interior mínimo recomendado (mm / in) | Factor K recomendado | Observaciones |
+> **Lₜ = L1 + L2 – BD**
+
+Alternativamente, si se dimensiona desde la cara interior, puede emplearse la BA sumándola a las longitudes rectas.
+
+## Parámetros operativos
+
+La tabla siguiente resume parámetros de plegado recomendados para los materiales más habituales, suponiendo plegado por aire con punzón de radio estándar. Los anchos de V indicados corresponden a la práctica común de 6 a 12 veces el espesor; para espesores finos se usan los valores inferiores del rango y para gruesos los superiores.
+
+| Material | Espesor típico (mm / in) | Radio interior mínimo (mm / in) | Ancho de V recomendado (mm / in) | Factor K típico |
 | --- | --- | --- | --- | --- |
-| Acero laminado en frío DC01 | 1.0 / 0.039 | 1.0 / 0.039 | 0.37 | Doblado perpendicular a laminación |
-| Acero inoxidable AISI 304 | 1.5 / 0.059 | 1.5 / 0.059 | 0.42 | Admite doblado paralelo si Rb < 85 |
-| Aluminio 5052-O | 2.0 / 0.079 | 2.0 / 0.079 | 0.43 | Excelente conformabilidad en frío |
-| Cobre recocido | 0.8 / 0.031 | 0.8 / 0.031 | 0.38 | Evitar radios excesivamente agudos |
-| Latón 70/30 semiduro | 1.2 / 0.047 | 1.5 / 0.059 | 0.40 | Puede requerir radio > 1.5T |
+| Acero suave laminado en frío (DC01) | 0,5 – 6,0 mm / 0.020 – 0.236 in | 1,0 × t | 6·t – 10·t | 0,33 – 0,38 |
+| Acero inoxidable AISI 304 | 0,5 – 4,0 mm / 0.020 – 0.157 in | 1,5 × t | 8·t – 12·t | 0,40 – 0,45 |
+| Aluminio 5052-H32 | 0,5 – 5,0 mm / 0.020 – 0.197 in | 1,0 × t | 6·t – 8·t | 0,33 |
+| Cobre suave (C11000) | 0,3 – 3,0 mm / 0.012 – 0.118 in | 0,5 × t | 6·t – 8·t | 0,35 |
 
-Para materiales con dureza Rockwell B superior a 70, se desaconseja el doblado paralelo a la dirección de laminación; debe emplearse doblado perpendicular y aumentar el radio interior hasta 2T cuando sea necesario.
+Para aceros de alta resistencia (Rₘ > 600 MPa / 87 ksi) el radio mínimo debe incrementarse hasta 2·t y el factor K se sitúa próximo a 0,40 – 0,45.
 
-## Tolerancias de doblado
-La tolerancia angular en el doblado al aire es de aproximadamente ±0.5°, siempre que se mantenga constante la carrera del punzón y se compense la recuperación elástica (*springback*). En procesos de estampación por fondo (*bottoming*) se pueden alcanzar precisiones angulares de ±0.25°. La variación de espesor del material y el desgaste de las herramientas afectan directamente a la deducción de plegado; por ello se recomienda verificar los parámetros con piezas de prueba antes de la producción en serie. En aceros al carbono, una tolerancia típica sobre la longitud desarrollada es de ±0.2 mm (±0.008 in) para espesores inferiores a 3 mm (0.118 in).
+## Tolerancias típicas
+
+| Parámetro | Tolerancia típica |
+| --- | --- |
+| Ángulo de doblado (plegado por aire) | ±0,5° |
+| Ángulo de doblado (acuñado / bottoming) | ±0,25° |
+| Longitud de desarrollo plano (Lₜ < 500 mm / 19.7 in) | ±0,2 mm / ±0.008 in |
+| Longitud de desarrollo plano (Lₜ 500 – 1500 mm / 19.7 – 59 in) | ±0,5 mm / ±0.020 in |
+| Radio interior (plegado por aire) | ±0,5 mm / ±0.020 in |
+
+Las tolerancias angulares dependen de la precisión de la prensa y del control de la carrera. En plegado por aire, las variaciones en el espesor del material o en la dureza provocan dispersión del ángulo, que puede corregirse con sistemas de medición angular en máquina.
+
+## Materiales aplicables
+
+Cualquier chapa metálica con ductilidad suficiente puede plegarse. Los materiales más frecuentes y sus propiedades de tracción se muestran a continuación.
+
+| Material | Resistencia a la tracción (MPa / ksi) | Alargamiento A50 (%) | Factor K típico |
+| --- | --- | --- | --- |
+| Acero DC01 laminado en frío | 270 – 350 MPa / 39 – 51 ksi | 28 – 32 | 0,33 |
+| Acero DC04 embutición profunda | 270 – 350 MPa / 39 – 51 ksi | 34 – 38 | 0,33 |
+| Acero inoxidable AISI 304 | 520 – 720 MPa / 75 – 104 ksi | 40 – 50 | 0,42 |
+| Aluminio 5052-H32 | 210 – 250 MPa / 30 – 36 ksi | 12 – 18 | 0,33 |
+| Aluminio 1050-H14 | 95 – 125 MPa / 14 – 18 ksi | 25 – 30 | 0,36 |
+| Cobre C11000 suave | 210 – 260 MPa / 30 – 38 ksi | 35 – 45 | 0,35 |
+| Latón CuZn37 semiduro | 320 – 450 MPa / 46 – 65 ksi | 20 – 25 | 0,38 |
+
+Los materiales templados (dureza H18, H19, etc.) y los aceros con resistencia > 800 MPa / 116 ksi presentan un radio de doblado mínimo muy alto y riesgo de agrietamiento; en esos casos el factor K puede desviarse significativamente de los valores tabulados y se recomienda validar experimentalmente.
 
 ## Ventajas y limitaciones
-El uso de las fórmulas de *Bend Allowance* y *Bend Deduction* permite obtener la longitud exacta del desarrollo plano, optimizar el consumo de material y reducir ajustes en el taller. Es un procedimiento estandarizado compatible con software CAD/CAM y con las tablas de parámetros de las prensas plegadoras. Las principales limitaciones están asociadas a la variabilidad del factor K real en producción, la influencia del estado de la matriz y la no linealidad del *springback* en materiales de alta resistencia. Por ello, se recomienda realizar un ensayo previo para cada lote de material cuando se exijan tolerancias cerradas.
 
-## Preguntas frecuentes (FAQ)
+**Ventajas**
+- Permiten calcular el desarrollo plano de forma rápida y reproducible, reduciendo errores de corte.
+- A partir de un parámetro único (factor K) es posible adaptar el cálculo a múltiples espesores y radios.
+- La deducción de curvatura (BD) es especialmente útil cuando las cotas del plano se toman respecto a los bordes exteriores, caso frecuente en diseño 3D de chapa.
+- Compatible con sistemas CAD/CAM, que integran tablas de BA/BD en sus librerías de materiales.
 
-1. **¿Qué precisión angular se puede esperar en doblado al aire de chapa metálica?** La precisión típica es de ±0.5° en condiciones controladas.
+**Limitaciones**
+- El factor K real puede variar con el tipo de utillaje, sentido de laminación, lote de material y grado de desgaste de las herramientas.
+- Para radios muy pequeños o muy grandes (R/t < 0,5 o R/t > 3) la hipótesis de fibra neutra única pierde precisión.
+- En plegado por acuñado o coining, la distribución de tensiones es distinta y el factor K difiere del empleado en plegado por aire.
+- La fórmula de BA supone que el ángulo de doblado es constante y la zona de transición es perfectamente circular, lo que puede no cumplirse en piezas con retorno elástico elevado.
 
-2. **¿Cuál es el radio interior mínimo para acero inoxidable AISI 304 en doblado?** El radio mínimo debe ser al menos 1 veces el espesor del material; por ejemplo, para una chapa de 1.5 mm / 0.059 in, el radio mínimo es 1.5 mm / 0.059 in.
+## Guía de selección
 
-3. **¿Cuánto se alarga una chapa de acero de 2 mm / 0.079 in al doblarla a 90° con radio igual al espesor?** El alargamiento medido como Bend Allowance es de 4.40 mm / 0.173 in.
+La elección entre el método de tolerancia de curvatura (BA) y el de deducción de curvatura (BD) depende fundamentalmente de la referencia utilizada para acotar las alas:
 
-4. **¿Qué deducción de plegado se debe aplicar para una chapa de aluminio de 1.5 mm / 0.059 in con radio interior 1 mm / 0.039 in y ángulo de 90°?** La deducción de plegado es de 2.37 mm / 0.093 in, considerando un factor K de 0.45.
+- Si las cotas se miden desde los **bordes exteriores de la pieza hasta el vértice** (método de molde exterior), se recomienda emplear la **deducción de curvatura (BD)** y usar la fórmula Lₜ = L1 + L2 – BD.
+- Si las cotas se toman desde la **cara interior** de cada ala, el desarrollo se obtiene como Lₜ = longitud total de tramos rectos interiores + BA.
+- En entornos CAD modernos, se prefiere crear una tabla de **BA** en función del ángulo, radio y material, y dejar que el sistema calcule el desarrollo automáticamente a partir de la fibra neutra. En este caso, se introduce el factor K en la biblioteca de materiales y el software deriva la BA internamente.
+- Para piezas con múltiples radios y ángulos, es más práctico mantener una tabla unitaria de BA por doblez y sumar todas las tolerancias.
 
-5. **¿Cuál es el ancho mínimo de ala para un doblado en prensa plegadora según normas de diseño?** El ancho mínimo debe ser al menos 4 veces el espesor más el radio interior; para una chapa de 2 mm / 0.079 in con radio de 2 mm / 0.079 in, el ancho mínimo es 10 mm / 0.39 in.
-
-6. **¿Cómo afecta la dirección de laminación al radio mínimo de doblado en acero laminado en frío?** Para acero con dureza Rockwell B superior a 70, el doblado debe realizarse perpendicular a la dirección de laminación para evitar fracturas; el radio mínimo se mantiene en 1T bajo esa orientación y puede requerir hasta 2T si se dobla en paralelo.
+Para seleccionar el factor K adecuado:
+- En aceros al carbono con plegado por aire y radio 1·t – 2·t, emplee K = 0,33 – 0,38.
+- En aceros inoxidables austeníticos, valore K = 0,42.
+- En aluminios semiduros y cobres blandos, un K = 0,33 – 0,36 ofrece buena correlación.
+- Si la precisión es crítica, realice probetas de doblado con el mismo utillaje y mida el desarrollo resultante para ajustar el factor K real.
 
 ## Fuentes consultadas
 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pipe-formulas-d_1335.html
 - **efunda.com**: https://www.efunda.com/processes/metal_processing/bending_design.cfm
+- **manufacturingguide.com**: https://www.manufacturingguide.com/en/platbockning

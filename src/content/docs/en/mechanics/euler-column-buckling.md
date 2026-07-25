@@ -9,133 +9,130 @@ topic: "columns"
 subcategory: "euler-buckling"
 skill: "mechanics-reference-table"
 launch_phase: 8
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+Column buckling is an elastic instability phenomenon that limits the load capacity of slender members subjected to axial compression. The Euler critical buckling load, derived by Leonhard Euler in 1744, predicts the value of the compressive force at which a perfectly straight ideal column suddenly loses its straight shape and deflects laterally. This theory forms the basis for the design of long columns in structural and mechanical engineering.
 
-Euler buckling describes the critical compressive load for slender columns, calculated with the formula derived in 1744 by Leonhard Euler. An axially loaded straight column remains stable until the load reaches a critical value; beyond this, sudden buckling occurs with lateral deflections. The theory assumes linear elastic behavior, perfect alignment, and absence of initial stresses. The critical load does not depend on the material strength but on its flexural stiffness (EI) and the effective length of the column.
+## Euler Formula for Critical Buckling Load
 
-## Euler Formula
-The critical elastic buckling load is given by the following expression, where the constant π² ≈ 9.8696:
+The generalized expression for the critical buckling load, which incorporates the effective length factor K to account for different support conditions, is:
 
-\[
-P_{cr} = \frac{\pi^2 E I}{(L_{eff})^2} = \frac{\pi^2 E I}{(K L)^2}
-\]
+> **Pcr = π² E I / (K L)²**
 
-| Quantity | Symbol | Units (Metric / Imperial) |
+where each variable is described in the following table.
+
+| Variable | Meaning | Units |
 | --- | --- | --- |
-| Critical buckling load | \(P_{cr}\) | N / lbf |
-| Modulus of Elasticity | \(E\) | Pa (N/m²) / psi |
-| Minimum moment of inertia | \(I\) | m⁴ / in⁴ |
-| Effective buckling length | \(L_{eff}\) | m / in |
-| Actual column length | \(L\) | m / in |
-| Effective length factor | \(K\) | dimensionless |
+| Pcr | Critical axial buckling load | N / lbf |
+| E | Modulus of elasticity of the material (Young's modulus) | Pa (N/m²) / psi |
+| I | Minimum moment of inertia of the cross section | m⁴ / in⁴ |
+| K | Effective length factor, dimensionless according to end support conditions | — |
+| L | Actual unsupported length of the column | m / in |
 
-For the ideal case of a column with two pinned ends (K=1), the formula simplifies to \(P_{cr} = \pi^2 E I / L^2\). The critical buckling stress is obtained by dividing by the cross-sectional area \(A\):
+The formula is also frequently expressed in terms of the effective length Leff = K L, resulting in **Pcr = π² E I / Leff²**. For columns pinned at both ends, K = 1 and the expression reduces to the classical Euler form.
 
-\[
-\sigma_{cr} = \frac{P_{cr}}{A} = \frac{\pi^2 E}{(L_{eff}/r)^2}
-\]
+## Effective Length Factor According to Support Conditions
 
-where \(r = \sqrt{I/A}\) is the radius of gyration. Validity is limited to \(\sigma_{cr} < \sigma_y\), with \(\sigma_y\) the yield stress of the material.
+The factor K reflects the restraint provided by the supports against rotation and lateral displacement of the column ends. In design, it is recommended to adopt values increased by 10 % to 20 % over the theoretical value to account for unavoidable imperfections.
 
-## Model Assumptions
-The 10 fundamental hypotheses that ensure the applicability of the formula are:
-
-1. The material is homogeneous and isotropic.
-2. The compressive load is exclusively axial.
-3. The column has no initial stresses.
-4. The self-weight of the column is neglected.
-5. The column is initially perfectly straight (no load eccentricity).
-6. The pinned supports have no friction (they transmit no moment) and the fixed supports are rigid (prevent rotation).
-7. The cross-section is uniform over the entire length.
-8. The direct stress is very small compared to the bending stress; the material remains in the linear elastic range.
-9. The column length is much greater than the cross-sectional dimensions.
-10. Failure occurs only by buckling, provided the critical stress does not exceed the yield stress.
-
-## Effective Length and Factor K
-The effective buckling length, \(L_{eff} = K L\), adapts the original Euler formula for any support condition. It is defined as the distance between points of zero bending moment in the buckled shape. For columns with simply supported ends, K = 1. Values of K less than 1 correspond to configurations that restrain buckling, increasing the critical load; values greater than 1 reduce the strength.
-
-In practical design, **engineering** effective length factors (\(K_{dis}\)) are used, which increase the theoretical value by 10 % to 20 % to account for imperfections, partial friction, and eccentricities. The following table lists the theoretical values and those recommended for design, based on extreme support conditions.
-
-## Effective Length Factors Based on Support Conditions
-
-| Support Condition | Theoretical K | Design K (\(K_{dis}\)) |
+| Support Condition | Theoretical K Factor | Recommended K Factor for Design |
 | --- | --- | --- |
-| Free – Free | 1.0 | 1.2 |
-| Pinned – Free | 1.0 | 1.2 |
-| Pinned – Pinned | 1.0 | 1.0 |
-| Fixed – Free | 2.0 | 2.1 |
-| Fixed – Pinned | 0.707 | 0.8 |
-| Fixed – Guided | 1.0 | 1.2 |
+| Pinned – Pinned (both ends pinned) | 1.0 | 1.0 |
+| Fixed – Free (cantilever) | 2.0 | 2.1 |
+| Fixed – Pinned | 0.7 | 0.8 |
 | Fixed – Fixed | 0.5 | 0.65 |
-| Guided – Free | 2.0 | 2.1 |
-| Guided – Pinned | 2.0 | 2.0 |
-| Guided – Guided | 1.0 | 1.2 |
+| Fixed – Guided | 1.0 | 1.2 |
+| Pinned – Guided | 2.0 | 2.0 |
 
-*Note: “Pinned” corresponds to supports that allow free rotation but prevent lateral displacement; “Guided” prevents rotation but allows lateral displacement; “Fixed” restricts both rotation and displacement.*
+For unusual conditions (such as free–free or guided–guided), specialized sources should be consulted. In all cases, the value of K should be selected conservatively and must match the actual support conditions of the structure.
 
-## Slenderness Ratio
-The slenderness of a column is quantified by the dimensionless parameter \(\lambda\):
+## Slenderness Ratio and Column Classification
 
-\[
-\lambda = \frac{L_{eff}}{r} = \frac{K\,L}{r}
-\]
+The dimensionless slenderness ratio λ is defined as the quotient of the effective buckling length and the minimum radius of gyration r of the cross section.
 
-where \(r = \sqrt{I/A}\) is the minimum radius of gyration of the cross-section. Values of \(\lambda\) below a critical limit \(\lambda_{cr}\) indicate that the column is “short” and will fail by yielding before elastic buckling. For \(\lambda > \lambda_{cr}\), the column is considered “long” and the Euler formula is applicable. The critical slenderness is obtained by equating the Euler critical stress to the yield stress:
+> **λ = (K L) / r**  
+> **r = √(I / A)**
 
-\[
-\lambda_{cr} = \sqrt{\frac{\pi^2 E}{\sigma_y}}
-\]
+where A is the cross-sectional area (m² / in²).
 
-For example, for a steel with E = 200 GPa (29 000 ksi) and \(\sigma_y = 250\) MPa (36.3 ksi), the critical slenderness is approximately 88.9.
+The slenderness ratio governs the failure mode and the validity of the Euler formula. For practical purposes, three ranges are established:
 
-## Design Criteria
-To select the verification method, compare the column slenderness with the critical value:
+- λ < 40: **short columns** – failure occurs by yielding (crushing) of the material.
+- 40 ≤ λ ≤ 120: **intermediate columns** – interaction between inelastic buckling and yielding exists; the Euler formula is not directly applicable, and models such as Johnson's or tangent modulus formulas are used.
+- λ > 120: **long columns** – elastic buckling dominates, and the Euler equation correctly describes behavior until the critical stress reaches the proportional limit of the material.
 
-- **Long column (\(\lambda > \lambda_{cr}\))** → Elastic buckling governs. Use Euler: \(P_{cr} = \pi^2 E I / (K L)^2\) and apply an appropriate safety factor (typically 1.92 – 2.5 against buckling).
-- **Short column (\(\lambda \le \lambda_{cr}\))** → Failure occurs by compressive yielding or inelastic buckling. Use the Johnson parabolic formula or Engesser’s tangent modulus. The allowable stress is limited to the yield stress divided by the safety factor.
+The corresponding Euler critical stress is:
 
-In both cases, the design K factors from the table above must be used to account for imperfections. If the slenderness is extremely low (\(\lambda < 10\)), the column is considered stocky and is designed for pure compression only, without buckling risk.
+> **σcr = Pcr / A = π² E / λ²**
 
-## Application Example
-**Problem**: An S275 steel column (E = 200 GPa / 29 000 ksi, \(\sigma_y = 275\) MPa / 39.9 ksi) with a length of 3.5 m (137.8 in) is fixed at the base and free at the top (fixed-free configuration). The cross-section is a circular tube with outer diameter 60 mm (2.36 in) and wall thickness 5 mm (0.197 in). Calculate the critical buckling load, the critical stress, and verify if the Euler formula is applicable.
+This stress must be less than the yield strength of the material for the assumption of linear elastic behavior to hold.
 
-**Calculation**:
-- Area: \(A = \frac{\pi}{4}(d_e^2 - d_i^2) = \frac{\pi}{4}(0.060^2 - 0.050^2) \approx 8.639 \times 10^{-4}\) m² (1.339 in²).
-- Moment of inertia (tube): \(I = \frac{\pi}{64}(d_e^4 - d_i^4) = \frac{\pi}{64}(0.060^4 - 0.050^4) \approx 3.293 \times 10^{-7}\) m⁴ (0.791 in⁴).
-- Radius of gyration: \(r = \sqrt{I/A} = \sqrt{3.293\times10^{-7} / 8.639\times10^{-4}} \approx 0.0195\) m (0.769 in).
-- Effective length (fixed-free, design K = 2.1): \(L_{eff} = 2.1 \times 3.5 = 7.35\) m (289 in).
-- Slenderness: \(\lambda = L_{eff} / r = 7.35 / 0.0195 \approx 377\).
-- Critical slenderness for S275 steel: \(\lambda_{cr} = \sqrt{\pi^2 \times 200\times10^9 / 275\times10^6} \approx 84.7\).
-- Since \(\lambda > \lambda_{cr}\) → Euler is applicable.
-- Critical load: \(P_{cr} = \frac{\pi^2 E I}{L_{eff}^2} = \frac{\pi^2 \times 200\times10^9 \times 3.293\times10^{-7}}{7.35^2} \approx 12 048\) N (2 708 lbf).
-- Critical stress: \(\sigma_{cr} = P_{cr}/A \approx 13.95 \times 10^6\) Pa = 13.95 MPa (2 023 psi), well below the yield stress.
+## Assumptions of the Euler Model
 
-**Conclusion**: The column will buckle elastically with a load of approximately 12.05 kN (2 708 lbf) and a stress of only 13.95 MPa, confirming its extreme slenderness and the need to stiffen the member.
+The Euler formula is subject to the following simplifying hypotheses, which must be reasonably satisfied for the results to be reliable:
+
+1. The material is homogeneous, isotropic, and obeys Hooke's law within the considered load range.
+2. The compressive load is applied axially, without eccentricities.
+3. The column is perfectly straight and free of initial stresses.
+4. The self-weight of the column is neglected.
+5. The cross section is prismatic and constant along the entire length.
+6. The support conditions are ideal: frictionless pins, perfectly rigid fixed ends, and guides without play.
+7. Lateral deflections are small, and second-order analysis is valid.
+8. Failure occurs exclusively by buckling, without the yield limit being reached at any point before instability.
+
+When any of these conditions is not met, more refined analysis methods must be used.
+
+## Calculation Example
+
+**Data:** Structural steel column (E = 200 GPa / 29 000 ksi) with length L = 3.0 m / 118.1 in, pinned ends (K = 1.0). Rectangular tubular section 100 mm × 50 mm × 5 mm (3.94 in × 1.97 in × 0.197 in). Minimum moment of inertia Iy = 6.97 × 10⁻⁷ m⁴ / 1.67 in⁴ (calculated about the weak axis). Area A = 1.44 × 10⁻³ m² / 2.23 in².
+
+**Calculation of the Euler critical load:**
+
+Leff = K L = 1.0 × 3.0 m = 3.0 m
+
+> **Pcr = π² × (200 × 10⁹ Pa) × (6.97 × 10⁻⁷ m⁴) / (3.0 m)²**
+
+Pcr = (9.8696 × 200 × 10⁹ × 6.97 × 10⁻⁷) / 9
+
+Pcr ≈ 152 500 N = 152.5 kN / 34 300 lbf (34.3 kip)
+
+For the same column with fixed ends (K = 0.5) the critical load is multiplied by 4, resulting in approximately 610 kN / 137 kip, which illustrates the strong influence of support conditions.
+
+The critical stress is:
+
+σcr = Pcr / A = 152 500 N / 1.44 × 10⁻³ m² ≈ 106 MPa / 15.4 ksi
+
+Since this value is less than the typical yield strength of steel (~250 MPa / 36 ksi), it is confirmed that the column buckles in the elastic range and the Euler formula is applicable.
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the critical buckling load for a 2 m long, pinned-pinned steel column with a square tube 50×50×3 mm?
-For steel E=200 GPa, I=1.29×10⁻⁷ m⁴, A=5.64×10⁻⁴ m², L_eff=2 m, we obtain P_cr ≈ 63.6 kN / 14 290 lbf, well below the yield stress.
+### What is the difference between the Euler critical load and the ultimate load of a real column?
 
-### Which effective length factor should be used for a fixed-fixed column in practical design?
-The design factor table recommends K_dis = 0.65 (compared to the theoretical 0.5). It increases the effective length by 30 % relative to the ideal value to absorb imperfections.
+The Euler formula predicts the load at which ideal elastic instability initiates. In real columns, the ultimate load may be lower due to eccentricities, residual stresses, or geometric imperfections. Additionally, in short columns failure occurs by yielding before the Euler load is reached, so the ultimate strength is limited by the material strength.
 
-### At what slenderness does a 6061-T6 aluminum column cease to be short and Euler govern?
-With E = 68.9 GPa / 10 000 ksi and σ_y = 276 MPa / 40 ksi, the critical slenderness is approximately 49.6. Above 50, Euler applies.
+### How is the effective length factor K determined for non-ideal connections?
 
-### How much does the critical load decrease if the length of a pinned-pinned column is doubled?
-Since P_cr ∝ 1/L², doubling the length reduces the critical load to 1/4 of the original value, i.e., a reduction of 75 %, for example from 100 kN to 25 kN.
+In real structures, connections are never perfectly rigid nor perfectly pinned. Values of K are based on nomograms (e.g., those from AISC) or elastic stability analysis. As a conservative criterion, an increase of 10 % to 20 % over the theoretical K suggested in the ideal support conditions table is applied.
 
-### What is the maximum load an A36 steel column of 1.5 m, fixed-free, with an IPE 100 profile can support?
-With E=200 GPa, I=1.71×10⁻⁶ m⁴, L_eff=3.15 m, P_cr ≈ 340 kN / 76 400 lbf. However, its slenderness λ≈102 exceeds the critical value of 96, so elastic buckling governs.
+### Why is the Euler formula not valid for short columns?
 
-### What minimum safety factor is usually applied to the critical buckling load in metal structures?
-Design codes typically require a safety factor of 2.0 to 2.5 on P_cr for static loads, equivalent to a reduction of the allowable load between 50 % and 60 %.
+Because in columns with a low slenderness ratio the Euler critical stress exceeds the proportional limit of the material, and the column fails by yielding before elastic buckling develops. For λ below a critical value (typically around 100 for steel), formulas that account for inelastic behavior, such as Johnson's formula or the tangent modulus method, must be used.
 
-## References
+### What is the physical meaning of the slenderness ratio and how is it used in design?
 
+The slenderness ratio λ measures a column's propensity to buckle: high values indicate high slenderness and failure by elastic buckling (Euler), while low values indicate failure by pure compression. In design, it is used to classify the column (short, intermediate, or long) and to select the appropriate strength calculation formula, as well as to limit the maximum slenderness according to codes.
+
+### Is the modulus of elasticity E the same for all materials and in all directions?
+
+No. Each material has its own modulus of elasticity (200 GPa / 29 000 ksi for steel; 70 GPa / 10 000 ksi for aluminum; 3 GPa / 0.4 × 10⁶ psi for typical polymers). The Euler formula assumes an isotropic material, where E is equal in all directions. For anisotropic materials (wood, composites), the analysis must consider the stiffness in the buckling direction; a more complex approach is often required.
+
+### How can the buckling resistance of a column be increased without changing its length?
+
+The most effective ways are: 1) increase the moment of inertia I, for example by using a cross section with greater depth or open shapes that move material away from the centroid; 2) improve the support conditions, reducing the K factor (e.g., by welding stiffeners that approach a fixed condition); 3) add intermediate lateral bracing that reduces the effective buckling length.
+
+## Sources Consulted
+
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/euler-column-formula-d_1813.html
 - **engineersedge.com**: https://www.engineersedge.com/column_buckling/column_ideal.htm
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/columns/columns.cfm
-

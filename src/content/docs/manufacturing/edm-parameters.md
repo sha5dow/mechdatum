@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Información general
 La electroerosión por descarga eléctrica (EDM, *Electrical Discharge Machining*) es un proceso de mecanizado no convencional donde la remoción de material se produce mediante descargas eléctricas controladas entre un electrodo (herramienta) y la pieza de trabajo, ambos sumergidos en un fluido dieléctrico. El proceso permite mecanizar geometrías complejas en materiales conductores con independencia de su dureza, ya que no existe contacto mecánico entre herramienta y pieza.
 
 ## Parámetros de proceso

@@ -13,8 +13,6 @@ last_updated: "2026-07-23"
 verified: true
 ---
 
-## Definición
-
 El momento de inercia de área de una sección rectangular de 150 mm × 300 mm (5.91 in × 11.81 in) respecto al eje horizontal que pasa por su centroide es de 337.5 × 10⁶ mm⁴ (811 in⁴). Conocido también como segundo momento de área, el momento de inercia de área es una propiedad geométrica que cuantifica la resistencia de una sección transversal a la flexión y a la deflexión. Su valor depende exclusivamente de la forma y dimensiones de la sección, y es fundamental en el diseño de vigas, pilares y elementos estructurales sometidos a cargas transversales. La unidad en el sistema métrico es el mm⁴ (o m⁴) y en el sistema imperial el in⁴. Un valor elevado de I indica una sección más rígida frente a la flexión.
 
 ## Propiedades de secciones típicas

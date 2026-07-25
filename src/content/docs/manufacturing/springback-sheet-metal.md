@@ -17,7 +17,6 @@ La recuperación elástica tras el doblado, conocida como springback, modifica e
 
 El springback es un fenómeno inherente al conformado en frío de chapas metálicas, donde la pieza, una vez liberada de la herramienta, recupera parcialmente su forma original debido a la liberación de las tensiones elásticas acumuladas durante la deformación plástica. Como resultado, el ángulo de la pieza doblada es mayor que el ángulo del punzón, lo que obliga a sobredoblar para alcanzar la geometría deseada.
 
-## Principio de funcionamiento
 Durante el doblado, el material se somete a una deformación que combina una componente plástica (permanente) y una componente elástica (recuperable). Al retirar la carga, la parte elástica se relaja y la geometría cambia: el radio de curvatura aumenta y el ángulo se abre. La magnitud del springback se cuantifica por el factor de recuperación Ks = (180° – αf) / (180° – αi), donde αf es el ángulo final y αi el ángulo impuesto por la herramienta. La compensación consiste en sobreplegar la chapa un ángulo igual al springback previsto.
 
 ## Parámetros de springback

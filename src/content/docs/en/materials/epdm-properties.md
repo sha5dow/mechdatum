@@ -9,120 +9,144 @@ topic: "polymers"
 subcategory: "elastomers"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-## Classification and family
-EPDM (ethylene propylene diene monomer) is a synthetic rubber of the M class according to ASTM D1418, characterized by a saturated polymethylene polymer chain that provides high stability against aging, ozone, and weathering.
+Ethylene-propylene-diene rubber (EPDM) is a synthetic elastomer of the M class, characterized by its fully saturated polymethylene backbone. This structure gives it exceptional resistance to heat, oxidation, ozone, and weathering, properties that make it one of the fastest-growing and most versatile synthetic rubbers, with applications ranging from specialty to general-purpose. Its polymerization parameters allow the design of tailor-made grades for demanding processing and performance requirements, from automotive seals to waterproofing membranes in construction.
 
 ## Chemical composition
-EPDM is a terpolymer of ethylene (45–80 wt%), propylene, and a non-conjugated diene, with typical diene content ranging from 2 to 12%. The most commonly used dienes are ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB). Commercial grades may incorporate extender oil and achieve widely varying molecular weights.
 
-| Component | Typical content (wt%) |
-| --- | --- |
-| Ethylene | 45–80 |
-| Propylene | Balance (usually 18–53) |
-| Diene (ENB, DCPD, VNB) | 2–12 |
+EPDM is a terpolymer of ethylene, propylene, and a non-conjugated diene that provides unsaturation in the side chains to allow sulfur vulcanization. The most common dienes are ethylidene norbornene (ENB), dicyclopentadiene (DCPD), and vinyl norbornene (VNB). The ethylene content determines crystallinity and mechanical properties, while the diene controls crosslink density and cure rate. Its diene-free counterpart, ethylene-propylene rubber (EPM), lacks side unsaturations and can only be crosslinked using peroxides or high-energy radiation.
+
+| Component | Typical range (wt%) | Main function |
+| --- | --- | --- |
+| Ethylene | 45 – 80 % | Provides crystallinity, mechanical strength, and reinforcement load capacity |
+| Propylene | 20 – 55 % | Imparts amorphous character and low-temperature flexibility |
+| Diene (ENB, DCPD, VNB) | 0 – 15 % * | Introduces side unsaturation for sulfur vulcanization |
+| Pure polymer density | 0.855 – 0.88 g/cm³ (depending on composition) | — |
+
+> * Commercial EPDM grades typically contain between 2 % and 12 % diene; the EPM variant contains 0 % diene.
 
 ## Mechanical properties
-In the vulcanized state, the tensile strength of EPDM typically ranges between 7 and 21 MPa (1000–3000 psi), with elongation at break from 100% to over 600%. Tear resistance is fair to good and abrasion resistance is good to excellent.
 
-| Property | Typical value (SI) | Typical value (Imperial) |
+The mechanical properties of EPDM depend critically on the cure system used and the compound formulation (type and amount of fillers, plasticizers, and protective agents). Conventional sulfur accelerator systems yield heat aging resistance up to 130 °C / 266 °F, while peroxide-cured compounds achieve stability up to 160 °C / 320 °F and significantly lower compression set values at high temperature. Incorporating reinforcements such as carbon black enables high tensile strength, tear strength, and abrasion resistance.
+
+| Property | Typical value (vulcanized) | Units |
 | --- | --- | --- |
-| Shore A hardness | 30–95 | — |
-| Tensile strength | 7–21 MPa | 1000–3000 psi |
-| Elongation at break | 100–600% | — |
-| Compression set (Method B) | 20–60% | — |
+| Shore A hardness | 30 – 95 | Shore A |
+| Tensile strength | 7 – 21 MPa / 1015 – 3045 psi | MPa / psi |
+| Elongation at break | 100 – 600 % | % |
+| Compression set (22 h / 70 °C) | 20 – 60 % | % |
+| Tear resistance | Fair to Good | Qualitative |
+| Abrasion resistance | Good to Excellent | Qualitative |
+| Resilience | Fair to Good (stable over wide temperature range) | Qualitative |
 
-Resilience (rebound) is fair to good and remains stable over a wide temperature range. By using sulfur donor or peroxide curing systems, high resistance to compression set is achieved, especially at high temperatures (up to 160°C with peroxide systems).
+> The full range of properties cannot be obtained in a single compound; a trade-off balance between stiffness, elasticity, tear resistance, and compression set is required.
 
 ## Physical properties
-The density of the base polymer is between 0.855 and 0.88 g/cm³ (53.4–54.9 lb/ft³); in compounds filled with carbon black or mineral fillers, density can exceed 2.0 g/cm³ (125 lb/ft³). EPDM is an opaque material usually supplied in black. Gas permeability is intermediate, and UV radiation and weather resistance are excellent.
 
-| Property | Value (SI) | Value (Imperial) |
+Amorphous or low-crystallinity grades exhibit excellent low-temperature flexibility, with elastic behavior down to −40 °C / −40 °F or lower depending on the formulation. Being non-polar elastomers, they have good electrical resistivity and low water absorption, although density increases significantly with the addition of mineral fillers or carbon black. The appearance of the vulcanized compound is typically black and non-transparent when carbon black is present, but non-black pigmented formulations also show good color stability outdoors.
+
+| Property | Typical value | Units |
 | --- | --- | --- |
-| Polymer density | 0.855–0.88 g/cm³ | 53.4–54.9 lb/ft³ |
-| Compound density | 0.90 to >2.0 g/cm³ | 56.2 to >125 lb/ft³ |
-| Resilience (rebound) | Fair to good | — |
-| Abrasion resistance | Good to excellent | — |
+| Compound density | 0.90 to > 2.0 (depending on filler) | g/cm³ |
+| Water absorption (24 h / 23 °C) | Very low (< 0.5 %) | % |
+| Gas permeability | Medium-low | Qualitative |
+| Color | Black (with carbon black) or customizable | — |
 
 ## Thermal properties
-The glass transition temperature (Tg) of EPDM is between −60 °C and −54 °C (−76 to −65 °F), providing excellent cold flexibility. The maximum continuous service temperature is 150 °C (302 °F), with peaks up to 160 °C (320 °F) achievable with peroxide-crosslinked formulations. The usual working range extends from −50 °C (−58 °F) to +150 °C.
 
-| Property | Value (SI) | Value (Imperial) |
+The saturation of the main chain gives EPDM superior thermal resistance compared to unsaturated rubbers such as natural rubber (NR) or styrene-butadiene rubber (SBR). It can operate continuously in hot air within a range that spans from sub-zero temperatures to environments near 150 °C / 302 °F, and can withstand brief peaks up to 160 °C / 320 °F with appropriate formulations. The glass transition temperature is around −54 °C / −65 °F, ensuring elasticity even in cold climates.
+
+| Property | Typical value | Units |
 | --- | --- | --- |
-| Glass transition temperature | −54 to −60 °C | −65 to −76 °F |
-| Minimum service temperature | −50 °C | −58 °F |
-| Maximum service temperature (sulfur) | 150 °C | 302 °F |
-| Maximum service temperature (peroxide) | 160 °C | 320 °F |
-| Linear coefficient of thermal expansion | 160 μm/(m·K) | 89 × 10⁻⁶ in/(in·°F) |
-
-Thermal aging resistance is outstanding: with sulfur accelerator systems, resistances up to 130 °C are achieved, while peroxide-cured compounds withstand continuous service at 160 °C without appreciable degradation.
+| Minimum service temperature | −50 to −40 (depending on grade) | °C / °F |
+| Maximum service temperature (continuous) | 130 – 150 (up to 160 with peroxide) | °C / °F |
+| Glass transition temperature (Tg) | −54 | °C / °F |
+| Coefficient of linear thermal expansion | 160 | μm/(m·K) / μin/(in·°F) |
 
 ## Electrical properties
-EPDM exhibits excellent dielectric properties, with volume resistivity in the dry state reaching values on the order of 10¹⁵ Ω·cm. Its non-polar nature and resistance to moisture make it especially suitable for low and medium voltage electrical insulation.
 
-| Property | Qualitative value |
+Thanks to its non-polar nature and the ability to formulate it with high-resistivity fillers, EPDM behaves as an excellent electrical insulator. It is widely used in cable sheathing and insulation for low and medium voltage, both in indoor and outdoor applications, where its resistance to moisture and treeing gives it an advantage over other dielectrics.
+
+| Property | Value / Classification |
 | --- | --- |
-| Electrical resistivity | Excellent |
-| Electrical insulation | Very good |
-| Arc and corona resistance | Good |
+| Dielectric strength | High |
+| Volume resistivity | Excellent |
+| Surface resistivity | Excellent |
+| Behavior in humid environments | Good (low water absorption) |
 
-## Chemical and weather resistance
-The saturated structure of EPDM gives it outstanding resistance to weathering, ozone, UV radiation, and heat aging. It is very resistant to polar fluids such as water, dilute acids, alkalis, phosphate esters, and many ketones and alcohols. It is also compatible with fire-resistant hydraulic fluids and brake fluids.
+## Chemical resistance
 
-However, it has very limited resistance to mineral oils, aromatic hydrocarbons, chlorinated solvents, and fuels, so it is not recommended for continuous contact with petroleum derivatives.
+The saturated hydrocarbon backbone and the absence of double bonds in the main chain give EPDM outstanding resistance to polar media and atmospheric agents. It withstands hot and cold water, steam, dilute acids, alkalis, ketones, alcohols, phosphate esters, and HFC-type fire-resistant hydraulic fluids. However, as a non-polar hydrocarbon, it swells significantly in contact with mineral oils, fuels, aliphatic and aromatic solvents, and asphalt bitumens, limiting its use in applications requiring hydrocarbon resistance.
 
 | Medium | Behavior |
 | --- | --- |
-| Hot/cold water | Excellent |
-| Dilute acids | Excellent |
-| Alkalis | Excellent |
-| Ozone and weathering | Excellent |
-| Phosphate esters | Good |
-| Ketones and alcohols | Good |
-| Mineral oils | Poor |
-| Hydrocarbons and solvents | Poor |
+| Water / steam | Excellent resistance |
+| Dilute acids and alkalis | Excellent resistance |
+| Ketones and alcohols | Good resistance |
+| Phosphate esters | Good resistance |
+| Brake fluids (DOT 3, DOT 4) | Compatible (typical application) |
+| Mineral oils and fuels | Not resistant (high swelling) |
+| Aromatic and aliphatic solvents | Not resistant |
+| Bituminous materials | Degradation by chemical interaction |
 
 ## Applications by industry
-With global production exceeding 1.9 trillion pounds, EPDM is one of the fastest-growing and most versatile synthetic rubbers. Applications are distributed across multiple sectors:
 
-| Industry | Typical applications |
+The versatility of polymer design and its exceptional weather resistance have extended the use of EPDM to virtually all industrial sectors requiring a durable elastomer for outdoor applications or in contact with water and steam. The automotive and construction industries together account for more than 60% of global demand, followed by electrical, appliance, and consumer goods applications.
+
+| Industry | Representative applications |
 | --- | --- |
-| Automotive | Weatherstrips, profiles, radiator and heater hoses, membranes, silent blocks, gaskets, air conditioning tubes |
-| Construction | Roofing membranes, waterstops, expansion joints, window profiles |
-| Electrical | Low and medium voltage cable insulation, sheaths, connectors, molded parts |
-| Appliances | Washing machine hoses, oven gaskets, appliance components |
-| Industrial | O-rings, diaphragms, transmission belts, rollers, garden and industrial hoses |
-| Additives | Impact modifiers for plastics (PP, PE), thermoplastic vulcanizate (TPV) components |
+| Automotive | Weatherstrips and seals for doors, windows, and trunks; glass run channels; radiator, heater, and turbocharger hoses; gaskets and seals in cooling systems; extruded profiles |
+| Construction | Waterproofing membranes for roofs (EPDM roofs); expansion joints; weathertight profiles for facades and windows; geotextile sheets |
+| Electrical / Electronics | Insulation and sheathing for low and medium voltage cables; watertight connectors and bushings; terminal encapsulations |
+| Appliances | Hoses for washing machines and dishwashers; appliance gaskets; parts in contact with hot water and steam |
+| General industrial | Garden and agricultural hoses; transmission belts; diaphragms and membranes; molded technical parts; impact modification of plastics (PP/EPDM) |
+| Additives | Viscosity index improver in engine oils (predominantly EPM) |
 
 ## Comparison with similar materials
-Compared to other elastomers, EPDM stands out for its exceptional resistance to ozone, heat, and weathering, as well as good cold flexibility. The following table summarizes its relative performance.
 
-| Property | EPDM | Neoprene (CR) | Nitrile (NBR) | Natural rubber (NR) | Silicone (VMQ) |
+Compared to other general-purpose synthetic elastomers, EPDM stands out in weather resistance, ozone resistance, and hot water resistance, as well as excellent dielectric behavior. The following table compares its key attributes with those of other rubbers used in similar applications (NBR, CR, SBR, and VMQ). The main trade-off is its poor resistance to oils and fuels, for which NBR or FKM are preferred.
+
+| Property | EPDM | NBR | CR (Neoprene) | SBR | VMQ (Silicone) |
 | --- | --- | --- | --- | --- | --- |
-| Ozone/weather resistance | Excellent | Very good | Fair | Poor | Excellent |
-| Heat resistance (max.) | 150–160 °C | 90 °C | 100 °C | 70–80 °C | 200 °C |
-| Mineral oil resistance | Poor | Good | Excellent | Poor | Fair |
-| Cold flexibility | Very good (≤−50 °C) | Good (−35 °C) | Good (−30 °C) | Good (−50 °C) | Excellent (−50 °C) |
-| Mechanical properties | Good | Good | Good | Excellent | Fair |
-| Relative cost | Medium | Medium‑high | Low‑medium | Low | High |
+| Service temperature (°C) | −50 to +150 | −30 to +100 | −35 to +90 | −40 to +110 | −50 to +200 |
+| Ozone / weather resistance | Excellent | Poor | Good | Poor | Excellent |
+| Dry heat resistance (air) | Very good (up to 150 °C) | Fair (up to 100 °C) | Good (up to 90 °C) | Fair | Excellent |
+| Mineral oil resistance | Poor | Excellent | Fair-Good | Poor | Poor (except FVMQ) |
+| Low-temperature flexibility | Excellent (−50 °C) | Good (−30 °C) | Good (−35 °C) | Good (−40 °C) | Excellent (−50 °C and lower) |
+| Electrical properties | Excellent | Good | Good | Good | Excellent |
+| Abrasion resistance | Good–Excellent | Good–Excellent | Good | Excellent | Poor–Fair |
+| Relative cost | Medium | Medium | Medium–High | Low | High |
 
-## Processing and vulcanization
-EPDM is supplied in grades with Mooney viscosity ML(1+4) at 125 °C ranging from 5 to over 200 units, suitable for open mill mixing, internal mixer, injection molding, extrusion, and calendering. Vulcanization is mainly carried out using sulfur or sulfur donor systems, which optimize compression set resistance and thermal aging up to 130 °C. For applications demanding higher temperatures (up to 160 °C), peroxide crosslinking systems are used. Curing with phenolic resins or by electron beam radiation is also possible, the latter common in foams, cables, and high-speed profiles.
+## Frequently Asked Questions (FAQ)
 
-## Standards and designations
-EPDM is classified as M-Class rubber according to ASTM D1418, and its international designation per ISO 1629 is EPDM. The versatility of the polymer is reflected in the wide range of available grades, differentiated by ethylene content (45–80%), diene type and level (0 to 15%), and Mooney viscosity. Commercial nomenclature often adds suffixes indicating the diene type (P: DCPD copolymer, E: ENB, etc.) and extender oil content.
+### What is the difference between EPDM and EPM?
 
-| Polymer property | Typical range |
-| --- | --- |
-| Mooney viscosity ML(1+4) at 125 °C | 5–200+ |
-| Ethylene content (wt%) | 45–80 |
-| Diene content (wt%) | 0–15 |
-| Specific gravity (polymer) | 0.855–0.88 |
+EPDM incorporates a small percentage of a diene (typically between 2% and 12%) that introduces side unsaturations and allows sulfur vulcanization. EPM lacks diene and can only be crosslinked by peroxides or radiation, which limits curing options but provides even greater thermal and electrical stability.
 
-## References
+### Does EPDM contain natural latex and can it cause allergies?
+
+No, EPDM is a completely synthetic rubber derived from petroleum. It contains no natural latex proteins, so it is considered safe for people with latex allergies and is frequently used in devices and environments free of this allergen.
+
+### What is the maximum temperature that EPDM can withstand?
+
+In continuous service, well-stabilized formulations withstand 150 °C / 302 °F. Peroxide-cured compounds with suitable antioxidants can tolerate peaks up to 160 °C / 320 °F for limited periods while maintaining acceptable tensile and compression set properties.
+
+### Is EPDM suitable for contact with food or drinking water?
+
+Yes, there are specific grades formulated with non-toxic fillers and plasticizers that meet requirements of regulations such as FDA, NSF/ANSI 61, or European standards for contact with drinking water and food. These grades are free of migratory substances under intended use conditions, although the specific certification of the compound must be verified.
+
+### Why is EPDM not recommended in contact with oils or fuels?
+
+EPDM is a non-polar polymer with a saturated backbone. Its chemical affinity with liquid hydrocarbons causes intense swelling and loss of mechanical properties when in contact with mineral oils, gasoline, diesel, or organic solvents. For these applications, NBR, HNBR, or FKM, which are specifically designed to resist hydrocarbons, are recommended.
+
+### Can EPDM be bonded or repaired?
+
+Yes, although its low surface energy makes adhesion difficult. For robust bonds, contact adhesives based on polyurethane, flexible epoxy, or cyanoacrylates specific for low-polarity elastomers are used. Surface preparation by cleaning with appropriate solvents and light abrasion or primer treatment significantly improves bond strength.
+
+## Sources Consulted
+
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1822
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-operating-temperatures--d_2242.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=2557
+- **steelnumber.com**: https://www.steelnumber.com/en/standard_steel_comparison_eu.php?gostname_id=5

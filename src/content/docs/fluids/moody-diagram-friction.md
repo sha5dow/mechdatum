@@ -9,87 +9,119 @@ topic: "fluid-mechanics"
 subcategory: "moody-diagram"
 skill: "fluids-reference-table"
 launch_phase: 9
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+El diagrama de Moody, presentado por Lewis F. Moody en 1944, correlaciona gráficamente el factor de fricción de Darcy (_f<sub>D</sub>_) con el número de Reynolds (_Re_) y la rugosidad relativa (_ε/D_), a partir de más de 10 000 experimentos en tuberías circulares. Constituye la herramienta más utilizada para predecir pérdidas de carga por fricción en flujo incompresible completamente desarrollado.
 
-El diagrama de Moody es una representación gráfica adimensional que relaciona el factor de fricción de Darcy-Weisbach (f_D), el número de Reynolds (Re) y la rugosidad relativa (ε/D) para flujo completamente desarrollado en una tubería circular. Publicado en 1944 por Lewis Ferry Moody, este diagrama permite predecir la caída de presión o el caudal en sistemas de tuberías y es una herramienta fundamental en mecánica de fluidos aplicada. El factor de fricción de Darcy-Weisbach (λ o f) se utiliza en la ecuación fundamental de pérdida de carga para calcular las pérdidas por fricción en conductos cerrados.
+## Ecuación de Darcy‑Weisbach
 
-## Principio de funcionamiento
+La pérdida de carga _h<sub>f</sub>_ en una tubería recta de longitud _L_ y diámetro interno _D_ es proporcional al cuadrado de la velocidad media _V_, y se expresa mediante la ecuación fundamental:
 
-El diagrama se construye a partir del equilibrio de fuerzas en una tubería, donde el esfuerzo cortante en la pared (τ_w) se equilibra con la caída de presión. La ecuación unidimensional de balance de fuerzas establece que Δp · S = τ_w · A, donde S es el área de la sección transversal y A es el área superficial de la tubería. El factor de fricción se define como una relación adimensional entre el esfuerzo cortante en la pared y la energía cinética del fluido, expresada como f = 2τ_w / (ρV²).
+> **h<sub>f</sub> = f<sub>D</sub> · (L / D) · (V² / 2g)**
 
-El diagrama de Moody correlaciona datos experimentales de aproximadamente 10,000 ensayos y los presenta en un solo gráfico logarítmico. Las variables adimensionales que gobiernan el fenómeno son el número de Reynolds (Re = ρVD/μ) y la rugosidad relativa (ε/D), donde ε es la altura media de las asperezas de la pared interior y D es el diámetro de la tubería.
+donde _g_ = 9.81 m/s² (32.174 ft/s²) es la aceleración de la gravedad y _f<sub>D</sub>_ el factor de fricción de Darcy. La caída de presión asociada es:
 
-Existen dos definiciones del factor de fricción: la basada en el sistema SI (factor de Darcy-Weisbach f_D) y la imperial (factor de Fanning f_F). El factor de Darcy-Weisbach es cuatro veces mayor que el factor de Fanning (f_D = 4f_F). La ecuación de pérdida de carga utilizando el factor de Darcy-Weisbach se expresa como h_f = f_D · (L/D) · (V²/(2g)), donde L es la longitud de la tubería, V la velocidad media del fluido y g la aceleración de la gravedad.
+> **∆p = f<sub>D</sub> · (ρ V² / 2) · (L / D) = ρ g h<sub>f</sub>**
 
-## Formulaciones y ecuaciones
+| Símbolo | Magnitud | Unidad SI | Unidad US |
+|---------|----------|-----------|-----------|
+| _h<sub>f</sub>_ | Pérdida de carga | m | ft |
+| _f<sub>D</sub>_ | Factor de fricción de Darcy | adimensional | adimensional |
+| _L_ | Longitud de la tubería | m | ft |
+| _D_ | Diámetro interno de la tubería | m | ft – in |
+| _V_ | Velocidad media del fluido | m/s | ft/s |
+| _g_ | Aceleración de la gravedad | 9.81 m/s² | 32.174 ft/s² |
+| _ρ_ | Densidad del fluido | kg/m³ | lb/ft³ |
+| ∆_p_ | Caída de presión | Pa | psi – lb/in² |
 
-| Ecuación | Expresión | Condiciones de aplicación |
-|---|---|---|
-| Darcy-Weisbach (pérdida de carga) | h_f = f_D · (L/D) · (V² / 2g) | Flujo completamente desarrollado en tuberías circulares |
-| Caída de presión directa | Δp = f_D · (ρV²/2) · (L/D) | Válida para cualquier régimen de flujo |
-| Poiseuille (laminar) | f_D = 64 / Re | Re < 2100, independiente de la rugosidad |
-| Blasius (turbulento liso) | f_D = 0,3164 / Re^(0,25) | 3000 < Re < 100,000, tuberías lisas |
-| Colebrook-White (transición) | 1/√f_D = -2,0·log₁₀[(ε/D)/3,7 + 2,51/(Re·√f_D)] | Re > 4000, cualquier rugosidad (ecuación implícita) |
-| Karman-Nikuradse (liso) | 1/√f_F = 2,0·log₁₀(Re·√f_F) - 0,8 | Tuberías lisas, régimen turbulento |
-| Completamente rugoso | 1/√f_F = 2,0·log₁₀(3,7/(ε/D)) | Régimen completamente rugoso, independiente de Re |
+## Factor de fricción de Darcy (f<sub>D</sub>)
 
-La ecuación de Colebrook-White es implícita en f_D y requiere iteración (método de Newton-Raphson) para su resolución. Converge a la ecuación de Karman-Nikuradse para tuberías lisas cuando ε → 0, y al régimen completamente rugoso cuando Re → ∞. Para flujo en transición (2100 < Re < 4000), el factor de fricción no puede determinarse con certeza y generalmente se interpola entre los valores laminar y turbulento.
+Para régimen laminar (_Re_ ≤ 2300) el factor de fricción es independiente de la rugosidad y vale exactamente:
 
-## Factores que afectan
+> **f<sub>D</sub> = 64 / Re**
 
-| Factor | Efecto sobre el factor de fricción | Rango de influencia |
-|---|---|---|
-| Número de Reynolds (Re) | Determina el régimen de flujo. En laminar, f_D ∝ 1/Re. En turbulento, f_D disminuye con Re hasta estabilizarse | Re < 2100 laminar; 2100–4000 transición; Re > 4000 turbulento |
-| Rugosidad relativa (ε/D) | Sin efecto en flujo laminar. En turbulento, a mayor ε/D, mayor f_D para un mismo Re | Adimensional, valores típicos de 10⁻⁶ a 10⁻² |
-| Rugosidad absoluta (ε) | Depende del material y método de fabricación. Las tuberías comerciales tienen patrones de rugosidad no uniformes | Varía desde 0,0015 mm (tubos estirados) hasta > 0,26 mm (fundición) |
-| Régimen de rugosidad (u*ε/ν) | Define tres zonas: dinámicamente liso (0–5), transición (5–70) y completamente rugoso (>70) | Adimensional (u* = velocidad de fricción, ν = viscosidad cinemática) |
-| Diámetro de la tubería (D) | Afecta la rugosidad relativa. A igual ε, mayor D → menor ε/D → menor f_D | Influye indirectamente a través de ε/D y Re |
-| Velocidad del fluido (V) | Influye en Re y en el régimen de flujo. A mayor V, mayor Re y potencial transición a turbulento | Directamente proporcional a Re |
-| Densidad (ρ) y viscosidad (μ) del fluido | Definen las propiedades del flujo. Mayor μ reduce Re; mayor ρ aumenta Re | Varían con temperatura y presión del fluido |
+En régimen turbulento (_Re_ ≥ 4000) la dependencia es más compleja y se describe con la ecuación implícita de Colebrook‑White, que cubre tanto tuberías lisas como rugosas:
 
-## Rugosidad absoluta de tuberías comerciales
+> **1 / √f<sub>D</sub> = –2.0 log₁₀ [ (ε/D) / 3.7  +  2.51 / (Re √f<sub>D</sub>) ]**
+
+Esta fórmula converge rápidamente por iteración y es el fundamento del diagrama de Moody. Para tuberías lisas y _Re_ entre 3 000 y 100 000 puede emplearse la aproximación de Blasius:
+
+> **f<sub>D</sub> = 0.0791 Re⁻¹/⁴**
+
+A números de Reynolds muy altos (_Re_ > 10⁵) se obtiene mayor exactitud con:
+
+> **f<sub>D</sub> = 0.046 Re⁻¹/⁵**
+
+## Diagrama de Moody
+
+El diagrama de Moody representa el factor de fricción _f<sub>D</sub>_ en función del número de Reynolds _Re_, para rugosidades relativas _ε/D_ comprendidas entre 0.000001 y 0.05. Se organiza en tres zonas principales:
+
+- **Zona laminar** (_Re_ ≤ 2300): línea recta _f<sub>D</sub> = 64/Re_, única e independiente de la rugosidad.
+- **Zona crítica o de transición** (2300 < _Re_ < 4000): el flujo oscila entre laminar y turbulento; el factor de fricción no está definido con certeza y se suele interpolar entre el valor laminar en _Re_ = 2300 y el valor turbulento en _Re_ = 4000.
+- **Zona turbulenta** (_Re_ ≥ 4000): familia de curvas que, para cada _ε/D_, descienden desde la curva de tubería lisa hasta alcanzar una asíntota horizontal en el régimen completamente rugoso, donde _f<sub>D</sub>_ depende únicamente de la rugosidad relativa.
+
+A continuación se recogen valores típicos del factor de fricción para tubería lisa en régimen turbulento, calculados con la fórmula de Colebrook‑White (ε = 0).
+
+| Número de Reynolds, _Re_ | Factor de fricción, _f<sub>D</sub>_ |
+|--------------------------|-------------------------------------|
+| 4 000 | 0.0399 |
+| 10⁴ | 0.0309 |
+| 10⁵ | 0.0180 |
+| 10⁶ | 0.0116 |
+| 10⁷ | 0.0081 |
+| 10⁸ | 0.0059 |
+
+## Rugosidades absolutas de materiales comunes
+
+La rugosidad absoluta del acero comercial es de aproximadamente 0.046 mm (0.0018 in), mientras que la del hierro fundido alcanza los 0.26 mm (0.010 in). La tabla siguiente reúne valores representativos medidos en tuberías nuevas; con el envejecimiento y la corrosión la rugosidad puede aumentar considerablemente.
 
 | Material | Rugosidad absoluta ε |
-|---|---|
-| Vidrio | 0,0015 mm / 0.000059 in |
-| Tubo estirado (drawn tubing) | 0,0015 mm / 0.000059 in |
-| Acero comercial o hierro forjado | 0,046 mm / 0.0018 in |
-| Hierro fundido asfaltado | 0,12 mm / 0.0047 in |
-| Hierro galvanizado | 0,15 mm / 0.0059 in |
-| Hierro fundido | 0,26 mm / 0.0102 in |
-| PVC (rugosidad típica) | 0,0015 mm / 0.000059 in |
+|----------|-----------------------|
+| Tubo estirado (cobre, latón, vidrio) | 0.0015 mm / 0.00006 in |
+| Acero comercial o hierro forjado | 0.046 mm / 0.0018 in |
+| Hierro fundido asfaltado | 0.12 mm / 0.0047 in |
+| Hierro galvanizado | 0.15 mm / 0.0059 in |
+| Hierro fundido sin revestir | 0.26 mm / 0.010 in |
+| Hormigón | 0.3 – 3 mm / 0.012 – 0.118 in |
+| Acero remachado | 0.9 – 9 mm / 0.035 – 0.354 in |
 
 ## Criterios de selección del factor de fricción
 
-El procedimiento de selección del factor de fricción mediante el diagrama de Moody sigue una secuencia determinada por el régimen de flujo. Primero se calcula el número de Reynolds (Re = ρVD/μ) y se determina el régimen: si Re < 2100, el flujo es laminar y f_D = 64/Re independientemente de la rugosidad; si Re > 4000, el flujo es turbulento y se requiere la rugosidad relativa (ε/D) para ingresar al diagrama; si 2100 < Re < 4000, el flujo está en zona de transición y el factor de fricción es incierto, recomendándose interpolar.
+Para _Re_ ≤ 2300 se emplea directamente _f<sub>D</sub> = 64/Re_. Entre 2300 y 4000 el flujo es transitorio y el factor de fricción es incierto; se recomienda tomar el valor turbulento correspondiente a _Re_ = 4000 para cálculos conservadores. Por encima de 4000 el procedimiento operativo es:
 
-Para el régimen turbulento, se calcula la rugosidad relativa ε/D con los valores de rugosidad absoluta de la tabla anterior y el diámetro de la tubería. Con Re y ε/D, se ingresa al diagrama de Moody: en el eje horizontal (abscisas) se ubica Re, se asciende verticalmente hasta intersecar la curva de ε/D correspondiente, y se lee f_D en el eje vertical izquierdo. Alternativamente, puede utilizarse la ecuación de Colebrook-White para obtener mayor precisión numérica.
+1. Calcular el número de Reynolds: _Re = ρ V D / μ_.
+2. Determinar la rugosidad relativa: _ε/D_, usando el valor de ε de la tabla anterior.
+3. Con _Re_ y _ε/D_, leer _f<sub>D</sub>_ directamente del diagrama de Moody, o resolver la ecuación de Colebrook‑White mediante iteración (método de Newton‑Raphson, por ejemplo).
+4. Sustituir _f<sub>D</sub>_ en la ecuación de Darcy‑Weisbach para obtener la pérdida de carga.
 
-Para tuberías comerciales en la zona de transición, la ecuación de Colebrook-White proporciona valores que difieren de los obtenidos con rugosidad artificial de arena (Nikuradse), ya que los patrones de rugosidad comercial no son uniformes. Se estima que las caídas de presión calculadas mediante este método tienen una incertidumbre de al menos un 10%, debido a la dispersión de los datos experimentales subyacentes.
-
-En sistemas con fluidos no newtonianos o flujo multifásico, el diagrama de Moody estándar no es directamente aplicable y se requieren correlaciones específicas. Para tuberías no circulares, se utiliza el diámetro hidráulico D_h = 4A/P, donde A es el área de la sección transversal y P el perímetro mojado, manteniendo la misma formulación. La precisión del método gráfico original es suficiente para la mayoría de aplicaciones de ingeniería, con valores típicos de f_D entre 0,008 y 0,08.
+Debe tenerse en cuenta que existe una incertidumbre de al menos ±10 % en los valores de _f<sub>D</sub>_ obtenidos del diagrama, debida a la dispersión experimental y a las variaciones reales de la rugosidad.
 
 ## Preguntas frecuentes (FAQ)
 
-### ¿Cuál es la fórmula del factor de fricción para flujo laminar?
-El factor de fricción de Darcy-Weisbach (f_D) para flujo laminar se calcula analíticamente como f_D = 64/Re, válido para números de Reynolds (Re) inferiores a 2100. Esta expresión, derivada de la ecuación de Hagen-Poiseuille, es independiente de la rugosidad de la tubería y produce valores que oscilan entre 0,03 (Re ≈ 2100) y 0,064 (Re = 1000).
+### ¿Qué diferencia hay entre el factor de fricción de Darcy y el de Fanning?
 
-### ¿Cómo se determina el factor de fricción en la zona de transición (2100 < Re < 4000)?
-En la zona de transición (2100 < Re < 4000), el flujo alterna entre características laminares y turbulentas, y el factor de fricción no puede determinarse con precisión. La práctica habitual consiste en interpolar linealmente entre el valor laminar a Re = 2100 (f_D = 64/2100 ≈ 0,0305) y el valor turbulento a Re = 4000, calculado con la ecuación de Colebrook-White para la rugosidad relativa correspondiente.
+El factor de Fanning _f<sub>F</sub>_ equivale a una cuarta parte del factor de Darcy (_f<sub>D</sub> = 4 f<sub>F</sub>_). El diagrama de Moody utiliza el factor de Darcy, que es el que aparece en la ecuación de Darcy‑Weisbach para el cálculo directo de la pérdida de carga.
 
-### ¿Qué diferencia existe entre el factor de fricción de Darcy-Weisbach y el de Fanning?
-El factor de fricción de Darcy-Weisbach (f_D) es exactamente cuatro veces mayor que el factor de Fanning (f_F): f_D = 4 · f_F. El factor de Darcy-Weisbach (también denominado λ) se utiliza en la ecuación de pérdida de carga h_f = f_D·(L/D)·(V²/2g), mientras que el factor de Fanning (f_F) aparece en la definición de esfuerzo cortante τ_w = f_F·(ρV²/2). Es esencial identificar cuál de los dos se está utilizando al leer valores del diagrama, ya que una confusión introduce un error de factor 4.
+### ¿Por qué el diagrama de Moody no cubre números de Reynolds entre 2300 y 4000?
 
-### ¿Para qué valor de rugosidad relativa se puede considerar una tubería como lisa?
-Una tubería se considera hidráulicamente lisa cuando el parámetro adimensional de rugosidad u*ε/ν está entre 0 y 5, donde u* = √(τ_w/ρ) es la velocidad de fricción y ν la viscosidad cinemática. En términos prácticos, para Re = 10⁵, esto corresponde aproximadamente a ε/D < 0,000001; para Re = 10⁶, ε/D < 0,00001. En estas condiciones, las asperezas quedan sumergidas dentro de la subcapa viscosa y no afectan el factor de fricción.
+En ese intervalo el flujo puede ser laminar o turbulento de forma intermitente, dependiendo de perturbaciones externas, y no existe una curva única. En la práctica se interpola o se toma el valor turbulento para quedar del lado de la seguridad.
 
-### ¿Qué incertidumbre tienen las caídas de presión calculadas con el diagrama de Moody?
-Las caídas de presión calculadas mediante el diagrama de Moody presentan una incertidumbre de al menos un 10%, atribuible a la dispersión de los datos experimentales que sustentan las curvas y a las diferencias entre la rugosidad artificial uniforme (arena de Nikuradse) y los patrones irregulares de rugosidad en tuberías comerciales. Para aplicaciones críticas se recomienda verificación experimental o el uso de factores de seguridad adecuados.
+### ¿Cuál es la rugosidad de una tubería de PVC?
 
-### ¿Cómo se calcula el factor de fricción sin utilizar el gráfico?
-El factor de fricción puede calcularse numéricamente sin recurrir al gráfico mediante la ecuación de Colebrook-White: 1/√f_D = -2,0·log₁₀[(ε/D)/3,7 + 2,51/(Re·√f_D)]. Por ser implícita, requiere iteración; el método de Newton-Raphson es el más utilizado y converge típicamente en 3 a 5 iteraciones. Existen también aproximaciones explícitas como la ecuación de Swamee-Jain, válida para 10⁻⁶ < ε/D < 10⁻² y 5000 < Re < 10⁸: f_D = 0,25 / [log₁₀((ε/D)/3,7 + 5,74/Re^0,9)]².
+El PVC nuevo presenta una rugosidad absoluta típica de 0.0015 mm (0.00006 in), similar a la del vidrio o el tubo estirado. Con el tiempo pueden adherirse depósitos que aumentan este valor.
+
+### ¿Es válido el diagrama para cualquier fluido?
+
+Sí, siempre que el flujo sea monofásico, incompresible y completamente desarrollado. La influencia de las propiedades del fluido se captura a través del número de Reynolds; el diagrama es adimensional y universal.
+
+### ¿Cómo se procede cuando se conoce la caída de presión y se desconoce el caudal?
+
+Al ser _f<sub>D</sub>_ función de _Re_, que a su vez depende del caudal, el problema es iterativo. Se supone un valor inicial de _f<sub>D</sub>_ (por ejemplo 0.02), se calcula la velocidad, se recalcula _Re_ y se corrige _f<sub>D</sub>_ hasta converger.
+
+### ¿Qué precisión tiene la ecuación de Colebrook‑White?
+
+Para tuberías comerciales en el rango _Re_ > 4000 la ecuación de Colebrook‑White reproduce los datos experimentales con un error inferior al 5 %, siempre que la rugosidad esté correctamente caracterizada.
 
 ## Fuentes consultadas
 

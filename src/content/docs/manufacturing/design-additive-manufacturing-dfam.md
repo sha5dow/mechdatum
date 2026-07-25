@@ -15,8 +15,6 @@ verified: true
 
 El espesor de capa típico en los procesos de manufactura aditiva abarca desde 0,05 mm / 0.002 in hasta 0,30 mm / 0.012 in, definiendo en gran medida la resolución y el acabado superficial de la pieza.
 
-## Descripción del proceso
-
 El diseño para manufactura aditiva (DfAM) es una metodología de ingeniería que optimiza la geometría, los materiales y la funcionalidad de un producto aprovechando las libertades y restricciones específicas de los procesos de fabricación por adición de material. A diferencia del diseño para manufactura tradicional, DfAM no solo adapta una pieza existente, sino que replantea la arquitectura del conjunto completo para maximizar los beneficios de la impresión 3D: consolidación de componentes, reducción de peso mediante estructuras ligeras, integración de canales internos de refrigeración y personalización masiva. DfAM abarca tanto principios generales como reglas particulares para cada tecnología (FDM, SLA, SLS, SLM, DMLS, etc.), considerando desde la orientación de impresión y soportes hasta la anisotropía mecánica y las tolerancias alcanzables.
 
 ## Parámetros operativos

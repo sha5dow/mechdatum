@@ -9,138 +9,159 @@ topic: "gears"
 subcategory: "worm-gears"
 skill: "machine-element-reference-table"
 launch_phase: 6
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+El mecanismo de tornillo sin fin es un engranaje helicoidal cruzado formado por un tornillo (gusano) y una rueda helicoidal (corona) cuyos ejes, generalmente perpendiculares, no se intersecan. Se caracteriza por ofrecer relaciones de reducción muy elevadas en una sola etapa —desde 5:1 hasta más de 100:1— con funcionamiento silencioso y capacidad de autobloqueo cuando el ángulo de avance es suficientemente pequeño. Se emplea masivamente en reductores de velocidad, sistemas de elevación, transportadores, mesas giratorias y mecanismos de ajuste de precisión.
 
-Los engranajes de tornillo sin fin son un sistema de transmisión mecánica por deslizamiento que consta de un tornillo sin fin (también llamado gusano) y una rueda dentada helicoidal (corona). Los ejes del tornillo y de la rueda se cruzan habitualmente a 90°, permitiendo relaciones de reducción muy elevadas en una sola etapa, normalmente entre 5:1 y 100:1. Una de sus características más valoradas es la posibilidad de ser **auto-bloqueantes**: cuando el ángulo de avance del tornillo es inferior al ángulo de fricción el sistema no puede ser arrastrado desde la salida, lo que garantiza la irreversibilidad del movimiento en aplicaciones de elevación o sujeción.
+## Nomenclatura y tipos
 
-Según la geometría de contacto se distinguen tres tipos: sin garganta (contacto puntual, cargas ligeras), de garganta simple (rueda con garganta envolvente, mayor superficie de contacto) y de doble garganta (ambos elementos abrazan el perfil, máxima capacidad de carga). La excelente capacidad de reducción y el funcionamiento silencioso los hacen idóneos para transportadores, ascensores, mesas giratorias, posicionadores de precisión y accionamientos de válvulas.
-
-## Parámetros geométricos
-Un engranaje de tornillo sin fin se define mediante los siguientes parámetros:
-
-- **Módulo** _m_ (mm) o **paso diametral** _DP_ (`DP = 25,4 / m`).
-- **Ángulo de presión** _α_: 20° en la mayoría de los diseños métricos; 14,5° o 20° en imperiales.
-- **Número de entradas** _z₁_ (comúnmente 1, 2, 3 o 4).
-- **Número de dientes de la rueda** _z₂_.
-- **Relación de transmisión** _i = z₂ / z₁_.
-- **Diámetro de paso del tornillo** _d₁_, diámetro exterior _da₁_ y longitud del tornillo _L_.
-- **Ángulo de avance** _γ = arctan(m·z₁ / d₁)_.
-
-La tabla siguiente recoge dimensiones normalizadas de tornillos sin fin con acabado rectificado, montados sobre eje, según especificaciones comerciales habituales.
-
-| Módulo (mm) / DP (pulg⁻¹) | Diámetro de paso (mm / in) | Diámetro exterior (mm / in) | Longitud (mm / in) | Entradas (z₁) | Ángulo de presión (°) |
-| --- | --- | --- | --- | --- | --- |
-| 0,5 / 50,8 | 9 / 0.354 | 10 / 0.394 | 12 / 0.472 | 1 | 20 |
-| 1,0 / 25,4 | 16 / 0.630 | 18 / 0.709 | 32 / 1.260 | 1 | 20 |
-| 1,5 / 16,9 | 25 / 0.984 | 28 / 1.102 | 40 / 1.575 | 1 | 20 |
-| 2,0 / 12,7 | 31 / 1.220 | 35 / 1.378 | 46 / 1.811 | 1 | 14,5 |
-| 2,5 / 10,16 | 37 / 1.457 | 42 / 1.654 | 63 / 2.480 | 2 | 20 |
-
-La rueda debe tener un número de dientes \(z_2\) como mínimo 20 para evitar socavación. La distancia entre centros se calcula como \(a ≈ (d_1 + d_2)/2\), donde \(d_2 = m·z_2\) es el diámetro de paso de la rueda.
-
-## Materiales y tratamientos
-La combinación clásica es tornillo de acero con rueda de bronce, que ofrece baja fricción, buena disipación térmica y resistencia al desgaste. En aplicaciones donde prima la capacidad de carga estática o el costo se emplea fundición de hierro. La tabla siguiente resume los materiales más comunes, sus tratamientos y aplicaciones típicas.
-
-| Componente | Material | Tratamiento / Acabado | Características | Aplicaciones típicas |
-| --- | --- | --- | --- | --- |
-| Tornillo | Acero al carbono 1045 | Sin templar, roscado laminado | Económico, buena maquinabilidad | Cargas moderadas, series económicas |
-| Tornillo | Acero al carbono 1045 | Cementado y rectificado (HRC 58–62) | Alta resistencia al desgaste, precisión | Uso intensivo, larga vida |
-| Tornillo | Acero aleado 4140 | Templado y rectificado (HRC 56–60) | Excelente resistencia a la fatiga, integrado en eje | Engranajes de alta exigencia |
-| Tornillo | Acero inoxidable 303 | Sin templar | Resistente a la corrosión, higiénico | Industria alimentaria, ambientes húmedos |
-| Rueda | Bronce al estaño (CuSn12) | Fundición centrífuga o forja | Bajo coeficiente de fricción, buena evacuación térmica | Combinación estándar con tornillo de acero |
-| Rueda | Fundición gris (GG-25) | Mecanizado | Alta rigidez, bajo costo | Velocidades bajas, carga predominantemente estática |
-
-## Lubricación y refrigeración
-El contacto tornillo-rueda es mayoritariamente por deslizamiento, lo que genera calor y exige una lubricación adecuada para controlar el desgaste y la temperatura. Se emplean aceites minerales o sintéticos de alta viscosidad con aditivos de extrema presión (EP). La tabla siguiente orienta sobre la viscosidad ISO VG en función de la velocidad periférica del tornillo.
-
-| Velocidad periférica (m/s / ft/min) | Viscosidad ISO VG recomendada | Método de lubricación |
+| Elemento | Denominación estándar | Función principal |
 | --- | --- | --- |
-| < 2,5 / < 492 | ISO VG 680 | Baño de aceite o grasa fluida |
-| 2,5 – 5 / 492 – 984 | ISO VG 460 | Baño de aceite / salpique |
-| > 5 / > 984 | ISO VG 320 | Circulación forzada con refrigeración |
+| Tornillo o gusano | Eje motriz | Transmite el movimiento giratorio mediante sus filetes helicoidales |
+| Corona o rueda helicoidal | Eje conducido | Recibe el movimiento y entrega el par amplificado a la salida |
+| Entradas (z₁) | Número de hélices del tornillo | Define la relación de reducción para un número fijo de dientes de la corona |
 
-La temperatura de servicio debe mantenerse por debajo de 80 °C / 176 °F para preservar el lubricante y los materiales. Reductores con alta potencia térmica incorporan refrigeración adicional: ventilador montado en el eje, serpentín de agua o intercambiador de calor aceite-agua.
+**Tipos según la geometría del dentado:**
+- **Sin garganta:** el tornillo es cilíndrico y la corona es un engranaje helicoidal estándar; capacidad de carga limitada.
+- **De simple garganta:** la corona es abrazada (throated), lo que aumenta la superficie de contacto y la capacidad de carga.
+- **De doble garganta (globoidal):** tanto el tornillo como la corona tienen forma de reloj de arena; soportan las cargas más elevadas y se usan en aplicaciones de alta exigencia.
 
-## Capacidad de carga
-Las fórmulas básicas de transmisión para un reductor de tornillo sin fin son las siguientes:
+## Parámetros de diseño normalizados
 
-- **Par de salida** \(M_o = M_i · i · \eta\) (Nm / lb·ft)
-- **Velocidad de salida** \(S_o = S_i / i\) (rpm)
-- **Potencia de salida** \(P_o = P_i · \eta\) (W / hp)
+Los parámetros principales se derivan del módulo (sistema métrico) o del paso diametral (DP, sistema imperial). A continuación se muestran dimensiones normalizadas típicas para tornillos y coronas comerciales, extraídas de catálogos de referencia.
 
-donde \(M_i\) = par de entrada, \(S_i\) = velocidad de entrada, \(i\) = relación de transmisión y \(\eta\) = rendimiento.
+**Sistema métrico (ISO)**
 
-La **eficiencia** \(\eta\) depende fuertemente del ángulo de avance, la velocidad de deslizamiento, los materiales y la lubricación. La tabla siguiente muestra valores orientativos en función del número de entradas.
-
-| Número de entradas (z₁) | Ángulo de avance γ (°) | Rendimiento η | Relación de transmisión típica i |
-| --- | --- | --- | --- |
-| 1 | 3 – 6 | 0,30 – 0,55 | 20:1 – 100:1 |
-| 2 | 7 – 16 | 0,65 – 0,80 | 10:1 – 40:1 |
-| 3 | 10 – 20 | 0,75 – 0,90 | 5:1 – 20:1 |
-| 4 o más | > 20 | 0,85 – 0,95 | < 15:1 |
-
-Los reductores auto-bloqueantes (z₁ = 1, γ < 5° con μ ≈ 0,1) presentan rendimientos por debajo del 50 %. La capacidad de carga admisible se determina a partir de la resistencia a fatiga superficial del flanco de la rueda y de la resistencia del tornillo, y debe verificarse también la potencia térmica disipada.
-
-## Criterios de selección
-Para elegir un tamaño de engranaje de tornillo sin fin se recomienda seguir la secuencia:
-
-1. **Definir la relación de transmisión** \(i = n_{entrada} / n_{salida}\) y decidir el número de entradas del tornillo (1 para auto-bloqueo, ≥2 para mayor eficiencia).
-2. **Calcular el par de salida requerido** \(M_o\) (Nm) a partir de la potencia \(P\) (kW) y la velocidad de salida \(n_2\) (rpm): \(M_o = 9550·P / n_2\).
-3. **Seleccionar el módulo** en función del par y de la distancia entre centros disponible, empleando tablas de carga del fabricante. La tabla siguiente orienta sobre pares máximos admisibles para tornillo de acero cementado/rectificado y rueda de bronce, con lubricación adecuada y régimen continuo.
-
-   | Módulo (mm) | Par máximo orientativo (Nm / lb·ft) | Distancia entre centros típica (mm / in) |
-   | --- | --- | --- |
-   | 0,5 | 1,2 / 0,89 | 12 – 15 / 0.47 – 0.59 |
-   | 1,0 | 12 / 8,9 | 20 – 30 / 0.79 – 1.18 |
-   | 1,5 | 40 / 29,5 | 35 – 50 / 1.38 – 1.97 |
-   | 2,0 | 85 / 62,7 | 50 – 70 / 1.97 – 2.76 |
-   | 2,5 | 160 / 118 | 70 – 100 / 2.76 – 3.94 |
-
-4. **Verificar el auto-bloqueo** si la aplicación lo exige: el ángulo de avance debe ser menor que el ángulo de fricción (aprox. 4° a 6°).
-5. **Comprobar la potencia térmica**: la potencia disipada en régimen nominal no debe superar la capacidad térmica del reductor sin refrigeración auxiliar.
-6. **Elegir materiales y lubricación** acordes con la velocidad, el entorno y la duración esperada.
-
-## Montaje
-La correcta instalación del engranaje determina su vida útil y precisión. Se deben seguir estas recomendaciones:
-
-- Garantizar una alineación exacta entre los ejes del tornillo y de la rueda, utilizando soportes rígidos y rodamientos de bolas o rodillos cónicos que absorban cargas axiales y radiales.
-- Ajustar el juego circunferencial (backlash) mediante desplazamiento axial del tornillo o de la rueda; en aplicaciones de posicionamiento puede aplicarse una ligera precarga.
-- Prever dilataciones térmicas, especialmente en tornillos largos; montar un extremo con rodamiento fijo y el otro con rodamiento libre axial.
-- Asegurar que el sistema de lubricación alcance todos los puntos de contacto; en montajes verticales emplear laberintos o retenes especiales para evitar fugas.
-- Montar preferentemente en posición horizontal; si es vertical, disponer un sistema de recirculación de aceite y un depósito auxiliar.
-
-## Tablas de selección por aplicación
-La tabla siguiente ofrece una guía rápida para elegir la configuración más adecuada según el tipo de máquina o instalación.
-
-| Aplicación | Relación típica | Módulo recomendado | Material tornillo / rueda | Tipo de lubricación | Rendimiento estimado |
+| Módulo (mm) | Diámetro primitivo tornillo (mm / in) | Diámetro exterior tornillo (mm / in) | Longitud del tornillo (mm / in) | Entradas disponibles | Ángulo de presión (°) |
 | --- | --- | --- | --- | --- | --- |
-| Instrumentos de precisión (telescopios) | 40:1 – 100:1, 1 entrada | 0,5 – 1,0 | Acero 1045 / Bronce | Grasa fluida o aceite ISO VG 460 | 0,35 – 0,55 |
-| Transportadores de banda (carga media) | 20:1 – 30:1, 1 o 2 entradas | 1,0 – 1,5 | Acero cementado / Bronce | Baño de aceite ISO VG 460 | 0,55 – 0,75 |
-| Ascensores y montacargas | 30:1 – 50:1, 1 entrada | 1,5 – 2,5 | Acero cementado / Bronce | Baño con refrigeración por ventilador | 0,45 – 0,65 |
-| Maquinaria de elevación (grúas) | 50:1 – 100:1, 1 entrada (autoblocante) | 2,0 – 3,0 | Acero aleado templado / Fundición o bronce | Circulación forzada ISO VG 680 | 0,35 – 0,50 |
-| Accionamientos de válvulas y compuertas | 20:1 – 60:1, 1 entrada | 1,0 – 2,0 | Acero inoxidable / Bronce | Grasa especial para exteriores | 0,40 – 0,60 |
-| Husillos de máquinas herramienta | 5:1 – 15:1, 2 o 3 entradas | 1,5 – 2,5 | Acero cementado rectificado / Bronce | Aceite con EP ISO VG 320 | 0,75 – 0,90 |
+| 0.5 | 11 / 0.433 | 12 / 0.472 | 18 / 0.709 | 1, 2 | 20 |
+| 0.8 | 14 / 0.551 | 15.6 / 0.614 | 30 / 1.181 | 1, 2 | 20 |
+| 1 | 16 / 0.630 | 18 / 0.709 | 32 / 1.260 | 1, 2 | 20 |
+| 1.25 | 21 / 0.827 | 23.5 / 0.925 | 37 / 1.457 | 1 | 20 |
+| 1.5 | 25 / 0.984 | 28 / 1.102 | 40 / 1.575 | 1, 2 | 20 |
+| 2 | 31 / 1.220 | 35 / 1.378 | 46 / 1.811 | 1, 2 | 14.5 / 20 |
+| 2.5 | 37 / 1.457 | 42 / 1.654 | 63 / 2.480 | 2 | 20 |
+
+**Sistema imperial (AGMA)**
+
+| Paso diametral (DP) | Diámetro primitivo tornillo (in / mm) | Diámetro exterior tornillo (in / mm) | Longitud del tornillo (in / mm) | Entradas disponibles | Ángulo de presión (°) |
+| --- | --- | --- | --- | --- | --- |
+| 12 | 1.00 / 25.40 | 1.17 / 29.72 | 1.125 / 28.58 | 1 | 14.5 |
+| 10 | 1.25 / 31.75 | 1.45 / 36.83 | 1.375 / 34.93 | 1 | 14.5 |
+| 8 | 1.50 / 38.10 | 1.75 / 44.45 | 1.750 / 44.45 | 1 | 14.5 |
+| 6 | 2.00 / 50.80 | 2.33 / 59.18 | 2.500 / 63.50 | 1 | 14.5 |
+
+## Relación de transmisión
+
+La relación de transmisión (i) es el cociente entre la velocidad angular del tornillo (n₁) y la de la corona (n₂), determinado exclusivamente por el número de entradas del tornillo (z₁) y el número de dientes de la corona (z₂).
+
+> **i = n₁ / n₂ = z₂ / z₁**
+
+| Variable | Descripción | Unidad |
+| --- | --- | --- |
+| i | Relación de transmisión (–) | adimensional |
+| n₁ | Velocidad angular del tornillo (entrada) | rpm |
+| n₂ | Velocidad angular de la corona (salida) | rpm |
+| z₁ | Número de entradas (hélices) del tornillo | – |
+| z₂ | Número de dientes de la corona | – |
+
+Para un tornillo de una entrada (z₁ = 1) y una corona de 40 dientes (z₂ = 40), la relación de transmisión es i = 40:1, lo que significa que por cada 40 revoluciones del tornillo la corona gira una vuelta completa. Si el tornillo tuviera 2 entradas, la relación con la misma corona sería 20:1.
+
+## Eficiencia y autobloqueo
+
+La eficiencia (η) de un tornillo sin fin depende del ángulo de avance del tornillo (λ) y del ángulo de fricción (φ) en el contacto entre los filetes. El ángulo de fricción se obtiene a partir del coeficiente de fricción (μ) mediante φ = arctan(μ). La eficiencia se calcula con la siguiente expresión:
+
+> **η = tan(λ) / tan(λ + φ)**
+
+| Variable | Descripción | Unidad |
+| --- | --- | --- |
+| η | Eficiencia del engranaje | – (o %) |
+| λ | Ángulo de avance del tornillo | ° |
+| φ | Ángulo de fricción | ° |
+| μ | Coeficiente de fricción entre materiales | – |
+
+En condiciones de lubricación adecuada, la eficiencia varía entre 40 % (reducciones altas, una entrada) y 95 % (reducciones bajas, múltiples entradas, engranajes globoidales). El autobloqueo se presenta cuando λ < φ; en ese caso el mecanismo no puede ser arrastrado por la corona, una característica deseable en aplicaciones de elevación que requieren freno intrínseco. Con μ ≈ 0.1 (bronce sobre acero cementado, lubricado), φ ≈ 5.7°, típicamente se alcanza autobloqueo con λ < 5°. Tornillos de una sola entrada suelen ser autoblocantes, mientras que los de múltiples entradas raramente lo son.
+
+## Capacidad de carga y potencia
+
+Las relaciones fundamentales entre el par motor (torque), la velocidad y la potencia se rigen por las fórmulas de reducción. La potencia de salida (Pₒ) es igual a la potencia de entrada (Pₓ) multiplicada por la eficiencia (η). El par de salida (Mₒ) y la velocidad de salida (Sₒ) dependen de la relación de transmisión (i) y de la eficiencia.
+
+> **Mₒ = Mₓ × i × η**
+> **Sₒ = Sₓ / i**
+> **Pₒ = Pₓ × η**
+
+| Variable | Descripción | Unidad métrica | Unidad imperial |
+| --- | --- | --- | --- |
+| Mₒ | Par de salida | N·m | lb·ft |
+| Mₓ | Par de entrada | N·m | lb·ft |
+| Sₒ | Velocidad de salida | rpm | rpm |
+| Sₓ | Velocidad de entrada | rpm | rpm |
+| Pₒ | Potencia de salida | kW | hp |
+| Pₓ | Potencia de entrada | kW | hp |
+| i | Relación de transmisión | – | – |
+| η | Eficiencia | – | – |
+
+**Ejemplo de cálculo:** con un par de entrada de 100 N·m (73.8 lb·ft), i = 20 y η = 0.85, el par de salida es Mₒ = 100 × 20 × 0.85 = 1700 N·m (1254 lb·ft). Si la velocidad de entrada es 1500 rpm, la velocidad de salida es 1500 / 20 = 75 rpm.
+
+La capacidad de carga admisible está limitada por la resistencia al desgaste y a la fatiga superficial de la corona, así como por la rigidez del conjunto. A continuación se presenta una tabla orientativa de potencia nominal para coronas de bronce trabajando con tornillos de acero cementado y rectificado, lubricación en baño de aceite, temperatura ambiente hasta 40 °C / 104 °F y servicio continuo.
+
+| Módulo (mm) / DP | Relación típica | Velocidad entrada (rpm) | Potencia nominal (kW / hp) |
+| --- | --- | --- | --- |
+| 0.8 / 32 | 30:1 | 1400 | 0.06 / 0.08 |
+| 1 / 25 | 20:1 | 1400 | 0.12 / 0.16 |
+| 1.5 / 16 | 15:1 | 1400 | 0.25 / 0.34 |
+| 2 / 12 | 10:1 | 1400 | 0.55 / 0.74 |
+| 2.5 / 10 | 20:1 | 1400 | 1.1 / 1.47 |
+| 6 (DP 6) | 40:1 | 1750 | 2.2 / 2.95 |
+
+## Materiales
+
+| Componente | Materiales comunes | Características destacadas |
+| --- | --- | --- |
+| Tornillo (gusano) | Acero al carbono 1045, acero aleado 4140, acero cementado 20MnCr5 | Alta resistencia superficial y al desgaste; los aceros cementados y rectificados ofrecen máxima duración |
+| Corona (rueda) | Bronce SAE 65 (C93200), bronce al aluminio, fundición gris | El bronce tiene bajo coeficiente de fricción y buena disipación térmica; la fundición es económica para cargas moderadas |
+| Aceros inoxidables | AISI 303, 304, 316 | Para ambientes húmedos, alimentación o corrosivos; menor capacidad de carga que los aceros tratados |
+| Materiales plásticos | Nylon 6, POM (Delrin®) | Usados en aplicaciones de baja carga, funcionamiento en seco y bajo ruido |
+
+## Selección por aplicación
+
+| Aplicación | Relación recomendada (i) | Módulo / DP típico | Material corona | Autobloqueo requerido | Notas |
+| --- | --- | --- | --- | --- | --- |
+| Reductores compactos | 5:1 a 100:1 | 1 – 2.5 mm / 10 – 16 DP | Bronce | Opcional | Ejes perpendiculares, carcasa cerrada, lubricación por aceite |
+| Elevadores de carga | 20:1 a 60:1 | 2 – 4 mm / 6 – 10 DP | Bronce | Sí | Freno de seguridad adicional si hay riesgo de retroceso dinámico |
+| Transportadores | 10:1 a 30:1 | 1.5 – 3 mm / 8 – 12 DP | Bronce o fundición | No | Diseñar para marcha continua, controlar temperatura de operación |
+| Mesas giratorias | 40:1 a 80:1 | 2 – 4 mm / 6 – 10 DP | Bronce | Sí | Requiere alta precisión de posicionamiento, juego mínimo |
+| Actuadores lineales | 5:1 a 20:1 | 0.8 – 1.5 mm / 16 – 25 DP | Bronce o acero inoxidable | Depende | Combinado con husillo, carreras cortas, ciclos intermitentes |
+| Equipos médicos | 30:1 a 60:1 | 0.5 – 1 mm / 20 – 32 DP | Acero inoxidable | Sí | Ambiente esterilizable, funcionamiento suave y preciso |
+
+## Consideraciones de montaje
+
+- **Alineación:** los ejes del tornillo y de la corona deben ser perpendiculares con una tolerancia de ±0.05 mm (±0.002 in) en el plano de contacto. La distancia entre centros debe respetar la especificación del fabricante para asegurar un engrane correcto con holgura circunferencial de 0.08–0.15 mm (0.003–0.006 in).
+- **Juego axial del tornillo:** limitar a 0.02–0.05 mm (0.0008–0.002 in) mediante rodamientos de contacto angular o rígidos de bolas con precarga. Un juego excesivo provoca ruido y desgaste prematuro.
+- **Lubricación:** en reductores cerrados se recomienda baño de aceite mineral EP (extrema presión) con viscosidad ISO VG 220–460 en función de la velocidad periférica. Para montajes abiertos o de difícil acceso se emplean grasas de jabón de litio con aditivos EP. En aplicaciones alimentarias se seleccionan lubricantes NSF H1.
+- **Disipación térmica:** en régimen continuo, la temperatura de la carcasa no debe superar 80 °C / 176 °F. Por encima de 1.5 kW (2 hp) se recomienda prever aletas de refrigeración o ventilación forzada.
+- **Fijación:** la corona suele montarse sobre un cubo con chavetero y prisioneros; el tornillo se fija sobre su eje con chaveta o apriete directo. Verificar concentricidad y perpendicularidad tras el montaje final.
 
 ## Preguntas frecuentes (FAQ)
-1. ¿Cuál es la relación de transmisión máxima que puede alcanzar un tornillo sin fin de una entrada?  
-   Con un tornillo de una sola entrada la relación de transmisión es igual al número de dientes de la rueda, pudiendo alcanzar hasta 100:1 en diseños compactos de una etapa, aunque los valores más frecuentes se sitúan entre 5:1 y 60:1.
 
-2. ¿Qué eficiencia mínima se espera de un reductor auto-bloqueante?  
-   La eficiencia de un conjunto auto-bloqueante oscila entre el 30 % y el 50 %, limitada por el bajo ángulo de avance (3°–6°) y la fricción inherente al deslizamiento con lubricación convencional.
+### ¿Qué es el autobloqueo y cómo se garantiza?
+El autobloqueo es la capacidad del engranaje sin fin para impedir que la corona arrastre al tornillo cuando se aplica un par inverso. Se consigue cuando el ángulo de avance (λ) es menor que el ángulo de fricción (φ). En la práctica, se da con tornillos de una entrada y lubricación adecuada, pero nunca debe sustituir un freno de seguridad en aplicaciones críticas porque el autobloqueo puede fallar bajo vibraciones o choques.
 
-3. ¿Cuál es la longitud estándar de un tornillo sin fin de módulo 1 con diámetro de paso 16 mm?  
-   La longitud normalizada para un tornillo de módulo 1 y diámetro de paso 16 mm es de 32 mm / 1.260 in, medida sobre el cuerpo roscado montado en el eje.
+### ¿Cuál es la eficiencia típica de un tornillo sin fin?
+La eficiencia varía entre 40 % y 95 % dependiendo de la relación de transmisión, el número de entradas y el acabado superficial. Reducciones altas (i > 50) con tornillo de una entrada suelen tener eficiencias del 40–60 %, mientras que configuraciones de múltiples entradas con superficies rectificadas y lubricación forzada pueden superar el 90 %.
 
-4. ¿Qué ángulo de presión utilizan los engranajes de tornillo sin fin métricos?  
-   Los engranajes métricos adoptan predominantemente un ángulo de presión de 20°, mientras que en los sistemas imperiales se encuentran tanto 14,5° como 20°.
+### ¿Qué número de entradas elegir para mi aplicación?
+Para relaciones i > 40:1 se utiliza habitualmente 1 entrada, que suele proporcionar autobloqueo. Entre 10:1 y 40:1 se eligen 1 o 2 entradas según se necesite capacidad de autobloqueo o mejor eficiencia. Para i < 10:1 se emplean 3 o más entradas para maximizar la eficiencia y la velocidad de salida, sacrificando el autobloqueo.
 
-5. ¿Cuántas entradas debe tener un tornillo para lograr una eficiencia superior al 80 %?  
-   Para sobrepasar el 80 % de rendimiento se requieren al menos 2 entradas; con 3 o más entradas y ángulos de avance por encima de 15° se alcanzan eficiencias del 85 % al 95 %.
+### ¿Qué material es el más adecuado para la corona?
+El bronce SAE 65 (C93200) es el estándar industrial por su baja fricción contra acero y buena disipación del calor. En ambientes corrosivos o alimenticios se recurre al acero inoxidable, mientras que la fundición gris se reserva para cargas moderadas y producciones de alto volumen donde el costo es determinante.
 
-6. ¿Qué viscosidad de aceite se recomienda para un tornillo sin fin de carga media a alta?  
-   Para condiciones de carga media a alta se recomienda un aceite ISO VG 460 (equivalente a SAE 140), preferiblemente con aditivos de extrema presión (EP) que protejan contra el desgaste por deslizamiento.
+### ¿Cómo se calcula la relación de transmisión si no conozco el número de dientes?
+Si no se dispone del dato de dientes de la corona (z₂), se puede determinar experimentalmente girando el tornillo un número entero de vueltas y midiendo el giro resultante en la corona. La relación i será el número de vueltas del tornillo dividido entre la fracción de vuelta de la corona (o el inverso si se mide al revés). Analíticamente, siempre se cumple i = z₂ / z₁.
+
+### ¿Qué mantenimiento requiere un engranaje de tornillo sin fin?
+El mantenimiento principal consiste en controlar el nivel y estado del lubricante cada 2000 horas de operación o según recomendación del fabricante. En reductores cerrados se deben revisar los retenes y juntas para evitar fugas. También se recomienda inspeccionar el juego axial del tornillo y la holgura entre dientes cada 5000 horas, reajustando si es necesario. En aplicaciones de alto ciclo, los cambios de aceite periódicos son clave para la vida útil.
 
 ## Fuentes consultadas
 

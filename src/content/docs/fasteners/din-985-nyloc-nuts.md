@@ -9,110 +9,158 @@ topic: "standard-fasteners"
 subcategory: "din-985"
 skill: "fastener-reference-table"
 launch_phase: 4
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+Las tuercas autoblocantes DIN 985, conocidas comúnmente como tuercas nyloc, son tuercas hexagonales que incorporan un anillo insertado de poliamida (nylon) para generar fricción sobre la rosca del tornillo y prevenir el aflojamiento por vibración. La temperatura máxima de servicio del inserto de poliamida es de 121 °C / 250 °F. Estas tuercas están normalizadas como tipo de par de frenado (prevailing torque) y se fabrican mayoritariamente en acero zincado con clase de resistencia 10, apta para tornillos de clase 10.9.
 
-La tuerca autoblocante DIN 985, conocida como tuerca con inserto de poliamida o nyloc, es un elemento de fijación de uso generalizado que incorpora un anillo de nailon en su extremo para generar fricción en la rosca y prevenir el aflojamiento involuntario. Su capacidad de bloqueo se mantiene eficaz hasta temperaturas de 121 °C / 250 °F. La norma DIN 985 regula las dimensiones, propiedades mecánicas y requisitos de par de frenado para este tipo de tuerca hexagonal alta con inserto de poliamida.
+## Dimensiones
 
-## Dimensiones principales
+Los valores de ancho entre caras y altura corresponden a la clase de resistencia 10 según DIN 985 e ISO 10511. Se incluyen los pasos gruesos habituales y los pasos finos comerciales más frecuentes.
 
-La siguiente tabla comprende las dimensiones estándar para las tuercas DIN 985 con clase de producto A y B, abarcando los diámetros nominales de rosca métrica desde M3 hasta M36.
+| Tamaño nominal y paso | Ancho entre caras (s) | Altura (m) |
+| --- | --- | --- |
+| M4 × 0.7 | 7 mm / 0.276 in | 5 mm / 0.197 in |
+| M5 × 0.8 | 8 mm / 0.315 in | 5 mm / 0.197 in |
+| M6 × 1 | 10 mm / 0.394 in | 6 mm / 0.236 in |
+| M8 × 1 | 13 mm / 0.512 in | 8 mm / 0.315 in |
+| M8 × 1.25 | 13 mm / 0.512 in | 8 mm / 0.315 in |
+| M10 × 1 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M10 × 1.25 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M10 × 1.5 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M12 × 1.25 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M12 × 1.5 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M12 × 1.75 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M14 × 1.5 | 22 mm / 0.866 in | 14 mm / 0.551 in |
+| M14 × 2 | 22 mm / 0.866 in | 14 mm / 0.551 in |
+| M16 × 1.5 | 24 mm / 0.945 in | 16 mm / 0.630 in |
+| M16 × 2 | 24 mm / 0.945 in | 16 mm / 0.630 in |
+| M18 × 1.5 | 27 mm / 1.063 in | 18 mm / 0.709 in |
+| M18 × 2.5 | 27 mm / 1.063 in | 18.5 mm / 0.728 in |
+| M20 × 1.5 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M20 × 2 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M20 × 2.5 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M22 × 1.5 | 32 mm / 1.260 in | 22 mm / 0.866 in |
+| M22 × 2.5 | 32 mm / 1.260 in | 22 mm / 0.866 in |
+| M24 × 1.5 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M24 × 2 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M24 × 3 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M27 × 3 | 41 mm / 1.614 in | 27 mm / 1.063 in |
+| M30 × 2 | 46 mm / 1.811 in | 30 mm / 1.181 in |
+| M30 × 3.5 | 46 mm / 1.811 in | 30 mm / 1.181 in |
+| M33 × 3.5 | 50 mm / 1.969 in | 33 mm / 1.299 in |
+| M36 × 3 | 55 mm / 2.165 in | 36 mm / 1.417 in |
+| M36 × 4 | 55 mm / 2.165 in | 36 mm / 1.417 in |
+| M39 × 4 | 60 mm / 2.362 in | 39 mm / 1.535 in |
+| M42 × 4.5 | 65 mm / 2.559 in | 42 mm / 1.654 in |
 
-| Rosca (Métrica) | Paso (mm) | Ancho entre caras, s (mm / in) | Altura, m (mm / in) | Diámetro exterior, dₑ (mm / in) |
-| :--- | :--- | :--- | :--- | :--- |
-| M3 | 0,5 | 5,5 mm / 0.217 in | 4,0 mm / 0.157 in | 6,4 mm / 0.252 in |
-| M4 | 0,7 | 7,0 mm / 0.276 in | 5,0 mm / 0.197 in | 8,1 mm / 0.319 in |
-| M5 | 0,8 | 8,0 mm / 0.315 in | 5,0 mm / 0.197 in | 9,2 mm / 0.362 in |
-| M6 | 1,0 | 10,0 mm / 0.394 in | 6,0 mm / 0.236 in | 11,5 mm / 0.453 in |
-| M8 | 1,25 | 13,0 mm / 0.512 in | 8,0 mm / 0.315 in | 15,0 mm / 0.591 in |
-| M10 | 1,5 | 17,0 mm / 0.669 in | 10,0 mm / 0.394 in | 19,6 mm / 0.772 in |
-| M12 | 1,75 | 19,0 mm / 0.748 in | 12,0 mm / 0.472 in | 21,9 mm / 0.862 in |
-| M14 | 2,0 | 22,0 mm / 0.866 in | 14,0 mm / 0.551 in | 25,4 mm / 1.000 in |
-| M16 | 2,0 | 24,0 mm / 0.945 in | 16,0 mm / 0.630 in | 27,7 mm / 1.091 in |
-| M20 | 2,5 | 30,0 mm / 1.181 in | 20,0 mm / 0.787 in | 34,6 mm / 1.362 in |
-| M24 | 3,0 | 36,0 mm / 1.417 in | 24,0 mm / 0.945 in | 41,6 mm / 1.638 in |
-| M30 | 3,5 | 46,0 mm / 1.811 in | 30,0 mm / 1.181 in | 53,1 mm / 2.091 in |
-| M36 | 4,0 | 55,0 mm / 2.165 in | 36,0 mm / 1.417 in | 63,5 mm / 2.500 in |
+## Torques de apriete recomendados
 
-## Materiales y propiedades mecánicas
+Los valores corresponden a tornillos de clase 10.9 con lubricación ligera (coeficiente de fricción µ ≈ 0.12) y rosca de paso grueso, según práctica habitual para uniones con tuercas autoblocantes DIN 985.
 
-Las tuercas DIN 985 se suministran principalmente en dos clases de acero al carbono, con sus respectivos rangos de dureza y cargas de prueba, complementadas por opciones de acero inoxidable para aplicaciones con requisitos de resistencia a la corrosión. El inserto de bloqueo es de poliamida 6.6 (nailon) con un rango operativo de temperatura de -50 °C a 121 °C / -58 °F a 250 °F.
-
-| Material | Clase | Dureza (HV) | Carga de prueba, M6–M16 (kN / lbf) | Carga de prueba, M20–M36 (kN / lbf) | Acabados típicos |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Acero al carbono | Clase 8 | 180–300 HV | 10,4–32,0 kN / 2338–7193 lbf | 51,0–147,5 kN / 11465–33159 lbf | Cincado electrolítico, bicromatado |
-| Acero al carbono | Clase 10 | 295–370 HV | 12,4–38,0 kN / 2788–8543 lbf | 59,4–172,0 kN / 13354–38667 lbf | Cincado electrolítico, niquelado |
-| Acero inoxidable A2 | A2-70 | 200–300 HV | 10,4–32,0 kN / 2338–7193 lbf | 51,0–147,5 kN / 11465–33159 lbf | Sin recubrimiento, pasivado |
-| Acero inoxidable A4 | A4-80 | 200–300 HV | 12,4–38,0 kN / 2788–8543 lbf | 59,4–172,0 kN / 38667 lbf | Sin recubrimiento, pasivado |
-
-## Pares de apriete recomendados
-
-El par de apriete total bajo cabeza equivale al par de rosca requerido para la precarga más el par de frenado causado por el inserto de nailon. La tabla de abajo presenta valores de par para tuercas Clase 8 con acabado cincado estándar, aplicados sobre tornillos de clase 8.8 en unión roscada sin lubricación adicional. Para calcular el par real en el montaje, sume entre 0,2 Nm (para M3) y 15 Nm (para M36) adicionales de par de frenado que genera el inserto plástico.
-
-| Rosca | Par de apriete (Nm / lb·ft) | Par de apriete máximo (Nm / lb·ft) |
-| :--- | :--- | :--- |
-| M3 | 1,2 Nm / 0.9 lb·ft | 1,5 Nm / 1.1 lb·ft |
-| M4 | 2,7 Nm / 2.0 lb·ft | 3,3 Nm / 2.4 lb·ft |
-| M5 | 5,5 Nm / 4.1 lb·ft | 6,7 Nm / 4.9 lb·ft |
-| M6 | 9,5 Nm / 7.0 lb·ft | 11,5 Nm / 8.5 lb·ft |
-| M8 | 23 Nm / 17.0 lb·ft | 28 Nm / 20.7 lb·ft |
-| M10 | 46 Nm / 33.9 lb·ft | 56 Nm / 41.3 lb·ft |
-| M12 | 80 Nm / 59.0 lb·ft | 95 Nm / 70.1 lb·ft |
-| M14 | 128 Nm / 94.4 lb·ft | 150 Nm / 110.6 lb·ft |
-| M16 | 196 Nm / 144.6 lb·ft | 240 Nm / 177.0 lb·ft |
-| M20 | 385 Nm / 284.0 lb·ft | 460 Nm / 339.3 lb·ft |
-| M24 | 660 Nm / 486.8 lb·ft | 790 Nm / 582.7 lb·ft |
-| M30 | 1300 Nm / 958.9 lb·ft | 1550 Nm / 1143.3 lb·ft |
-| M36 | 2300 Nm / 1696.4 lb·ft | 2700 Nm / 1991.4 lb·ft |
+| Tamaño nominal | Paso (mm) | Par de apriete |
+| --- | --- | --- |
+| M4 | 0.7 | 3.0 Nm / 2.2 lb‑ft |
+| M5 | 0.8 | 6.0 Nm / 4.4 lb‑ft |
+| M6 | 1.0 | 10 Nm / 7.4 lb‑ft |
+| M8 | 1.25 | 25 Nm / 18 lb‑ft |
+| M10 | 1.5 | 49 Nm / 36 lb‑ft |
+| M12 | 1.75 | 85 Nm / 63 lb‑ft |
+| M14 | 2 | 135 Nm / 100 lb‑ft |
+| M16 | 2 | 210 Nm / 155 lb‑ft |
+| M18 | 2.5 | 290 Nm / 214 lb‑ft |
+| M20 | 2.5 | 410 Nm / 302 lb‑ft |
+| M22 | 2.5 | 550 Nm / 406 lb‑ft |
+| M24 | 3 | 710 Nm / 524 lb‑ft |
+| M27 | 3 | 1050 Nm / 775 lb‑ft |
+| M30 | 3.5 | 1450 Nm / 1070 lb‑ft |
+| M33 | 3.5 | 1900 Nm / 1401 lb‑ft |
+| M36 | 4 | 2500 Nm / 1844 lb‑ft |
+| M39 | 4 | 3200 Nm / 2360 lb‑ft |
+| M42 | 4.5 | 4000 Nm / 2950 lb‑ft |
 
 ## Tamaños de broca para agujero pasante
 
-Para el montaje de un tornillo con tuerca autoblocante DIN 985 se requiere un agujero pasante con holgura suficiente de acuerdo al diámetro nominal. Los valores abajo corresponden a la serie de agujeros de paso medio (serie M), según ISO 273.
+Diámetros recomendados para agujeros de paso medio (serie media según ISO 273), adecuados para montaje con tornillos de rosca métrica y tuercas DIN 985.
 
-| Rosca | Diámetro de broca, paso medio (mm / in) |
-| :--- | :--- |
-| M3 | 3,4 mm / 0.134 in |
-| M4 | 4,5 mm / 0.177 in |
-| M5 | 5,5 mm / 0.217 in |
-| M6 | 6,6 mm / 0.260 in |
-| M8 | 9,0 mm / 0.354 in |
-| M10 | 11,0 mm / 0.433 in |
-| M12 | 13,5 mm / 0.531 in |
-| M14 | 15,5 mm / 0.610 in |
-| M16 | 17,5 mm / 0.689 in |
-| M20 | 22,0 mm / 0.866 in |
-| M24 | 26,0 mm / 1.024 in |
-| M30 | 33,0 mm / 1.299 in |
-| M36 | 39,0 mm / 1.535 in |
+| Tamaño nominal del tornillo | Diámetro de broca |
+| --- | --- |
+| M4 | 4.5 mm / 0.177 in |
+| M5 | 5.5 mm / 0.217 in |
+| M6 | 6.6 mm / 0.260 in |
+| M8 | 9.0 mm / 0.354 in |
+| M10 | 11.0 mm / 0.433 in |
+| M12 | 13.5 mm / 0.531 in |
+| M14 | 15.5 mm / 0.610 in |
+| M16 | 17.5 mm / 0.689 in |
+| M18 | 20.0 mm / 0.787 in |
+| M20 | 22.0 mm / 0.866 in |
+| M22 | 24.0 mm / 0.945 in |
+| M24 | 26.0 mm / 1.024 in |
+| M27 | 30.0 mm / 1.181 in |
+| M30 | 33.0 mm / 1.299 in |
+| M33 | 36.0 mm / 1.417 in |
+| M36 | 39.0 mm / 1.535 in |
+| M39 | 42.0 mm / 1.654 in |
+| M42 | 45.0 mm / 1.772 in |
+
+## Cargas admisibles
+
+Las cargas de prueba (proof load) mínimas corresponden a tuercas clase 10 según ISO 898‑2, acopladas con tornillos de clase 10.9 y rosca de paso grueso. La tuerca debe soportar la carga sin deformación permanente ni daño en la rosca.
+
+| Tamaño nominal | Carga de prueba (kN) | Carga de prueba (lbf) |
+| --- | --- | --- |
+| M4 | 7.0 kN / 1570 lbf |
+| M5 | 11.5 kN / 2590 lbf |
+| M6 | 20.1 kN / 4520 lbf |
+| M8 | 36.6 kN / 8230 lbf |
+| M10 | 58.0 kN / 13040 lbf |
+| M12 | 84.3 kN / 18950 lbf |
+| M14 | 115 kN / 25860 lbf |
+| M16 | 157 kN / 35300 lbf |
+| M18 | 192 kN / 43170 lbf |
+| M20 | 245 kN / 55080 lbf |
+| M22 | 303 kN / 68120 lbf |
+| M24 | 353 kN / 79360 lbf |
+| M27 | 459 kN / 103190 lbf |
+| M30 | 561 kN / 126120 lbf |
+| M33 | 694 kN / 156030 lbf |
+| M36 | 817 kN / 183690 lbf |
+| M39 | 976 kN / 219430 lbf |
+| M42 | 1120 kN / 251800 lbf |
 
 ## Equivalencias entre normas
 
-Las tuercas autoblocantes con inserto de poliamida tienen un perfil constructivo ampliamente armonizado entre los diferentes sistemas internacionales. A continuación se listan las equivalencias reconocidas en el ámbito industrial y de la ingeniería:
-
-| Norma | Denominación | Compatibilidad con DIN 985 |
-| :--- | :--- | :--- |
-| DIN 985 (edición 1987) | Tuerca hexagonal alta con inserto de poliamida | Referencia original, obsoleta pero aún utilizada como descriptor |
-| ISO 10511:2012 | Tuerca hexagonal autoblocante con inserto no metálico, tipo 1 | Equivalente dimensional y técnicamente a DIN 985; se prefiere para nuevos diseños |
-| UNI 7473 | Dado esagonale autofrenante con inserto in nylon | Idéntica en geometría y clase de carga; aplicable en ámbito italiano |
-| ASME B18.16.6 | Prevailing-torque locknuts, nylon insert, style NE | Versión norteamericana funcionalmente equivalente; las dimensiones en pulgadas difieren, pero el principio de bloqueo es el mismo |
-| BS 3692 / BS 7755 | Hexagon prevailing torque type insert nuts | Norma británica armonizada con ISO 10511 |
+La tuerca DIN 985 es equivalente a la norma internacional ISO 10511 («Tuercas hexagonales autoblocantes, par de frenado, con inserto de poliamida»). En el ámbito europeo se designa también como EN ISO 10511. No existe un equivalente directo en la serie ANSI, aunque las tuercas de inserción de nylon conforme a ANSI/ASME B18.16.6 presentan un principio de funcionamiento similar. Para aplicaciones que requieran trazabilidad con normas americanas, se debe verificar la intercambiabilidad dimensional y la clase de resistencia caso por caso.
 
 ## Preguntas frecuentes (FAQ)
-1.  **¿Cuál es la temperatura máxima de operación de una tuerca DIN 985?** La poliamida 6.6 mantiene sus propiedades elásticas hasta un límite de 121 °C / 250 °F; por encima de esta temperatura el inserto pierde progresivamente la capacidad de generar fricción de bloqueo.
 
-2.  **¿Se pueden reutilizar las tuercas nyloc DIN 985?** En aplicaciones generales se permite la reutilización siempre que se verifiquen al menos 5 ciclos de montaje con un par de frenado remanente superior a 0,2 Nm para M3 o 15 Nm para M36; en aplicaciones aeronáuticas o donde la falla pueda causar daño a personas, se recomienda reemplazo único.
+### ¿Cuál es la temperatura máxima de funcionamiento de una tuerca DIN 985?
 
-3.  **¿Qué par de apriete debo aplicar para una tuerca DIN 985 M10 en clase 8?** El par de asentamiento recomendado en seco es de 46 Nm / 33.9 lb·ft, valor al cual debe sumarse el par de frenado del inserto, que típicamente añade entre 0,5 y 1,5 Nm para ese diámetro.
+El inserto de poliamida soporta hasta 121 °C / 250 °F en servicio continuo sin perder la capacidad de bloqueo.
 
-4.  **¿Es intercambiable una tuerca DIN 985 con una tuerca ISO 10511?** Sí, la ISO 10511 tipo 1 es dimensionalmente intercambiable con la DIN 985, manteniendo las mismas series de altura, ancho entre caras y requisitos de par de frenado.
+### ¿Se pueden reutilizar las tuercas autoblocantes DIN 985?
 
-5.  **¿Qué carga de prueba mínima ofrece una tuerca DIN 985 M12 en clase 8?** La carga de prueba mínima es de 32 kN / 7193 lbf contra el fallo por desgarro de la rosca, según los valores normalizados para tuercas hexagonales altas.
+Sí, el inserto no se daña durante la instalación y permite varias reutilizaciones, aunque el par de frenado disminuye con cada montaje. No se recomienda su reutilización en aplicaciones críticas donde la pérdida de par de frenado pueda comprometer la seguridad.
 
-6.  **¿Con qué tamaño de llave se aprieta una tuerca DIN 985 de M8?** La tuerca de diámetro nominal M8 requiere una llave de 13 mm / 0.512 in entre caras, comúnmente del tipo fija hexagonal o vaso de ½".
+### ¿Qué norma internacional equivale a DIN 985?
+
+La equivalencia directa es ISO 10511, que cubre las mismas dimensiones y requisitos de par de frenado.
+
+### ¿Qué clase de resistencia tienen las tuercas DIN 985?
+
+La versión estándar corresponde a la clase 10, diseñada para acoplarse con tornillos de clase 10.9.
+
+### ¿Es necesario usar arandelas con las tuercas DIN 985?
+
+No es necesario para la función de bloqueo, pero se pueden emplear arandelas planas para distribuir la presión superficial o compensar irregularidades en la superficie de apoyo.
+
+### ¿El inserto de nylon se daña al apretar la tuerca?
+
+No, el inserto se deforma elásticamente sobre la rosca del tornillo y no se corta. Sin embargo, si se supera la temperatura máxima, el nylon puede volverse frágil y perder efectividad.
 
 ## Fuentes consultadas
 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/fasteners-t_74.html
-- **bossard.com**: https://www.bossard.com/global-en/eshop/locking-nuts-with-polyamide-insert/prevailing-torque-type-hex-lock-nuts-thin-type-with-polyamide-insert/p/161/
+- **bossard.com**: https://www.bossard.com/global-en/eshop/locking-nuts-with-polyamide-insert/prevailing-torque-type-hex-lock-nuts-thin-type-with-polyamide-insert/p/637/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-985-nuts

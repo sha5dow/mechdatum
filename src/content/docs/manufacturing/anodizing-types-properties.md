@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
 El anodizado incrementa la capa natural de óxido de aluminio desde aproximadamente **4 nm / 0,16 µin** hasta espesores controlados de **150 µm / 6 mils**. Es un proceso electrolítico en el que la pieza de aluminio actúa como ánodo dentro de un baño ácido. Al aplicar corriente continua, el oxígeno liberado en la superficie reacciona con el metal formando una película de óxido poroso. Según el electrolito y las condiciones de operación se obtienen los tipos I (ácido crómico), II (ácido sulfúrico) y III (capa dura). Los tipos I y III requieren un control estricto del voltaje y la temperatura, mientras que el tipo II es el más versátil para aplicaciones decorativas y arquitectónicas. Tras la formación de la capa, se aplica un sellado hidrotérmico o con acetato de níquel para cerrar los poros y maximizar la resistencia a la corrosión.
 
 ## Materiales aplicables

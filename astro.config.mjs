@@ -9,6 +9,7 @@ export default defineConfig({
     starlight({
       title: 'MechDatum',
       description: 'Base de datos técnica de referencia para ingenieros mecánicos en español.',
+      customCss: ['./src/styles/custom.css'],
       defaultLocale: 'root',
       locales: {
         root: {

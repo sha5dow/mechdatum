@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Generalidades
 La silicona de caucho (polidimetilsiloxano, VMQ) es un elastómero sintético que combina una amplia estabilidad térmica (−50 a 200 °C de forma continua, picos de 300 °C), excelente resistencia química (especialmente a ácidos, álcalis y agua) y notables propiedades dieléctricas. Se comercializa en formas RTV (vulcanización a temperatura ambiente), HTV (vulcanización en caliente) y LSR (caucho de silicona líquida) y, una vez curado, mantiene su flexibilidad en un rango de temperaturas inusualmente amplio para un elastómero.
 
 ## Composición química

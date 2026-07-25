@@ -9,118 +9,110 @@ topic: "ferrous-metals"
 subcategory: "alloy-steels"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
+AISI/SAE 4130 steel, UNS designation G41300, is a low-alloy chromium-molybdenum steel that achieves a tensile strength of approximately 560 MPa / 81200 psi in normalized condition. It belongs to the "cromoly" family of steels and is characterized by its excellent strength-to-weight ratio, good weldability and high toughness, making it a widely used material in aerospace, automotive, and structural component industries.
 
-AISI/SAE 4130 steel is a medium-low hardenability alloy belonging to the chromium‑molybdenum (chromoly) family. Its combination of low carbon content, good mechanical strength, and excellent weldability makes it a common choice when a high strength‑to‑weight ratio is required. With a density of 7.85 g/cm³ (0.284 lb/in³), it offers a balance between toughness and ductility that distinguishes it from conventional carbon steels.
+## Chemical Composition
 
-## Chemical composition
-Typical casting values for 4130 steel are given in the following table.
+The chemical composition of 4130 steel is based on its controlled carbon content and the addition of chromium and molybdenum as hardening agents. Balance is iron.
 
 | Element | Content (%) |
-| --- | --- |
-| Iron, Fe | 97.03 – 98.22 |
-| Chromium, Cr | 0.80 – 1.10 |
-| Manganese, Mn | 0.40 – 0.60 |
-| Carbon, C | 0.280 – 0.330 |
-| Silicon, Si | 0.15 – 0.35 |
-| Molybdenum, Mo | 0.15 – 0.25 |
-| Phosphorus, P (max) | 0.035 |
-| Sulfur, S (max) | 0.040 |
+|---|---|
+| Iron, Fe | 97,03 – 98,22 |
+| Carbon, C | 0,28 – 0,33 |
+| Chromium, Cr | 0,80 – 1,10 |
+| Manganese, Mn | 0,40 – 0,60 |
+| Silicon, Si | 0,15 – 0,35 |
+| Molybdenum, Mo | 0,15 – 0,25 |
+| Phosphorus, P | ≤ 0,035 |
+| Sulfur, S | ≤ 0,040 |
 
-## Physical properties
+## Physical Properties
 
-| Property | Metric | Imperial |
-| --- | --- | --- |
-| Density | 7.85 g/cm³ | 0.284 lb/in³ |
-| Melting point | 1432 °C | 2610 °F |
+The physical properties of 4130 steel determine its behavior in service without considering the influence of external forces. Its typical density is 7,85 g/cm³ / 0.284 lb/in³.
 
-## Mechanical properties
-Mechanical properties depend largely on the heat treatment or deformation condition. Indicative values are given below for two common conditions.
+| Property | Value |
+|---|---|
+| Density | 7,85 g/cm³ / 0.284 lb/in³ |
+| Melting point | 1432 °C / 2610 °F |
 
-### Annealed condition
-| Property | Metric | Imperial |
-| --- | --- | --- |
-| Tensile strength, ultimate | 560 MPa | 81 200 psi |
-| Yield strength, 0.2 % | 460 MPa | 66 700 psi |
-| Elongation at break (in 50 mm) | 21.5 % | 21.5 % |
-| Reduction of area | 59.6 % | 59.6 % |
-| Brinell hardness | 217 HB | 217 HB |
-| Rockwell C hardness (estimated) | 17 HRC | 17 HRC |
-| Young's modulus | 190 – 210 GPa | 27 560 – 30 460 ksi |
-| Poisson's ratio | 0.27 – 0.30 | 0.27 – 0.30 |
+## Mechanical Properties
 
-### Normalized or cold drawn condition
-| Property | Range | Unit (SI/Imperial) |
-| --- | --- | --- |
-| Tensile strength, ultimate | 590 – 760 MPa | 85 – 110 ksi |
-| Yield strength, 0.2 % | 480 – 590 MPa | 70 – 85 ksi |
-| Elongation at break (in 2 in) | 20 – 30 % | 20 – 30 % |
-| Rockwell B hardness | 90 – 96 HRB | 90 – 96 HRB |
+The mechanical performance of 4130 steel varies significantly depending on the heat treatment condition and forming process. The machinability in annealed and cold drawn condition is 70 % relative to AISI 1212 steel.
 
-### After quenching and tempering (typical indicative values)
-Tensile strength can range between 850 MPa and 1050 MPa (123 – 152 ksi) depending on the selected tempering temperature, with elongations typically between 12 % and 18 %.
+**Normalized and Annealed Condition**
 
-## Thermal properties
+| Property | Normalized Condition | Annealed Condition (Cold drawn) |
+|---|---|---|
+| Tensile strength | 560 – 760 MPa / 81,2 – 110 ksi | 590 – 760 MPa / 85 – 110 ksi |
+| Yield strength | 460 – 590 MPa / 66,7 – 85 ksi | 480 – 590 MPa / 70 – 85 ksi |
+| Young modulus | 190 – 210 GPa / 27557 – 30458 ksi | 190 – 210 GPa / 27557 – 30458 ksi |
+| Elongation (in 50 mm) | 20 – 30 % | 20 – 30 % |
+| Reduction of area | 59,6 % | – |
+| Brinell hardness (HB) | 217 | – |
+| Rockwell B hardness (HRB) | – | 90 – 96 |
+| Poisson's ratio | 0,27 – 0,30 | 0,27 – 0,30 |
 
-| Property | Condition | Metric | Imperial |
-| --- | --- | --- | --- |
-| Thermal conductivity | 100 °C | 42.7 W/(m·K) | 296 BTU·in/(h·ft²·°F) |
-| Coefficient of thermal expansion | 20 – 100 °C | ≈ 12.2 μm/(m·K) | ≈ 6.8 μin/(in·°F) |
-| Specific heat | 20 °C | ≈ 460 J/(kg·K) | ≈ 0.11 BTU/(lb·°F) |
+**Quenched and Tempered Condition**
 
-## Heat treatments
+Oil or water quenching followed by tempering dramatically increases hardness and strength. Final values depend on tempering temperature and part diameter.
 
-| Process | Temperature | Cooling / Detail |
-| --- | --- | --- |
-| Normalizing | 870 – 925 °C (1600 – 1700 °F) | Still air |
-| Quenching | 870 – 930 °C (1600 – 1700 °F) | Oil |
-| Tempering | 400 – 565 °C (750 – 1050 °F) | According to desired strength; air cooling |
-| Annealing | 840 – 860 °C (1550 – 1580 °F) | Slow furnace cooling |
-| Forging | 955 – 1204 °C (1750 – 2200 °F) | Slow cooling in ash or vermiculite |
-| Hot working | 815 – 1095 °C (1500 – 2000 °F) | Controlled cooling |
+| Diameter / Thickness (mm) | Tensile strength (MPa / ksi) | Minimum yield strength (MPa / ksi) | Minimum elongation (%) |
+|---|---|---|---|
+| d ≤ 16 mm, t ≤ 8 mm / d ≤ 0,63 in, t ≤ 0,31 in | 1100 – 1300 MPa / 160 – 190 ksi | 900 MPa / 130 ksi | 10 % |
+| 16 < d ≤ 40 mm, 8 < t ≤ 20 mm / 0,63 < d ≤ 1,57 in, 0,31 < t ≤ 0,79 in | 1000 – 1200 MPa / 150 – 170 ksi | 750 MPa / 109 ksi | 11 % |
+| 40 < d ≤ 100 mm, 20 < t ≤ 60 mm / 1,57 < d ≤ 3,94 in, 0,79 < t ≤ 2,36 in | 900 – 1100 MPa / 130 – 160 ksi | 650 MPa / 94 ksi | 12 % |
+| 100 < d ≤ 160 mm, 60 < t ≤ 100 mm / 3,94 < d ≤ 6,30 in, 2,36 < t ≤ 3,94 in | 800 – 950 MPa / 116 – 138 ksi | 550 MPa / 80 ksi | 13 % |
+| 160 < d ≤ 250 mm, 100 < t ≤ 160 mm / 6,30 < d ≤ 9,84 in, 3,94 < t ≤ 6,30 in | 750 – 900 MPa / 109 – 131 ksi | 500 MPa / 73 ksi | 14 % |
 
-## Welding and machinability
-4130 steel can be welded by all commercial procedures, with preheating recommended at 150 – 260 °C (300 – 500 °F) and post‑weld treatment to avoid cold cracking. Its machinability, in the annealed and cold drawn condition, is 70 % taking AISI 1212 steel with index 100 % as reference. Machining becomes more difficult as hardness increases after quenching.
+## Thermal Properties
 
-## Applications
-Thanks to its excellent strength‑to‑weight ratio and good toughness, 4130 is used in sectors where structural reliability is a priority: aeronautical components (engine mounts, welded joints), high‑performance bicycle frames, competition roll cages, gas pressure vessels, seamless structural tubing, gears, shafts and crankshafts, as well as carburized parts requiring a tough core.
+Thermal conductivity and expansion values are critical for applications involving heating and cooling cycles. Typical thermal conductivity is approximately 42,7 W/m·K / 296 BTU·in/(h·ft²·°F) at 100 °C.
 
-## Equivalent materials
+| Property | Value at 100 °C / 212 °F |
+|---|---|
+| Thermal conductivity | 42,7 W/m·K / 296 BTU·in/(h·ft²·°F) |
+| Specific heat | 477 J/(kg·K) / 0,114 BTU/(lb·°F) |
 
-| Standard / Designation | Equivalent |
-| --- | --- |
-| UNS | G41300 |
-| DIN / EN | 1.7218 – 25CrMo4 |
-| JIS | SCM430 |
-| AFNOR | 25CD4 |
-| BS | 708A25 / 708M25 |
-| SS (Sweden) | 2225 |
-| GOST | 30KhMA |
+## Heat Treatment
 
-## Comparison with similar materials
+4130 steel responds effectively to conventional heat treatments to modify its microstructure and mechanical properties.
 
-| Characteristic | AISI 4130 | AISI 4140 | AISI 4340 |
-| --- | --- | --- | --- |
-| Carbon content | 0.28 – 0.33 % | 0.38 – 0.43 % | 0.38 – 0.43 % |
-| Key elements | Cr, Mo | Cr, Mo | Ni, Cr, Mo |
-| Tensile strength (annealed) | ≈ 560 MPa | ≈ 655 MPa | ≈ 745 MPa |
-| Weldability | Excellent | Good; requires preheating | Acceptable; preheating and strict control |
-| Hardenability | Medium | Medium-high | High |
-| Typical applications | Structural tubing, aviation, bicycles | Heavy gears, shafts, high‑strength bolts | Thick‑section aerospace components, forged crankshafts |
+**Austenitizing and Quenching Temperature**
 
-## Frequently Asked Questions (FAQ)
-1. **What is the maximum tensile strength achievable for 4130?** The maximum tensile strength can exceed 1000 MPa (145 ksi) after oil quenching followed by tempering below 400 °C, although ductility is significantly reduced.
-2. **At what temperature is forging of 4130 steel recommended?** Forging is optimally performed between 955 °C and 1205 °C (1750 – 2200 °F), avoiding work below 845 °C (1550 °F) to prevent cracking.
-3. **What Brinell hardness does it have in the annealed condition?** In the annealed condition it has a hardness of approximately 217 HB, which corresponds to 228 HV or 17 HRC by conversion.
-4. **What is the typical elongation after normalizing treatment?** In normalized and cold drawn condition, elongation over a 50 mm gauge length remains between 20 % and 30 %.
-5. **What preheating temperature is needed before welding?** For thicknesses above 6 mm, preheating of 150 – 260 °C (300 – 500 °F) is recommended to minimize the risk of cold cracking.
-6. **What is the average Young's modulus of 4130?** The Young's modulus of 4130 is in the range of 190 – 210 GPa (27 560 – 30 460 ksi), typical of chromium‑molybdenum steels.
+Austenitizing prior to quenching is typically performed between 830 °C and 870 °C / 1525 °F and 1600 °F. The quenching medium is usually oil, although thin sections can be quenched in water. The critical cooling rate is moderate, allowing uniform hardening in medium-thickness parts.
 
-## References
+**Tempering Curve**
+
+Tempering is performed immediately after quenching to reduce brittleness and adjust hardness. The typical tempering range is between 200 °C and 650 °C / 400 °F and 1200 °F. Tensile strength varies from 1300 MPa / 190 ksi with low tempering to 750 MPa / 109 ksi with high tempering, while ductility increases progressively.
+
+## Industrial Applications
+
+4130 steel is used in sectors demanding high strength, guaranteed weldability, and structural reliability. It is used in both normalized and quenched and tempered conditions.
+
+| Industry | Application |
+|---|---|
+| Aerospace | Fuselage structural tubes, landing gear, engine mounts, and welded components subjected to vibration. |
+| Automotive and racing | Roll cages, racing chassis, driveshafts, lightened crankshafts, and flywheels. |
+| Defense | Armament parts and rifle components requiring case hardening by carburizing. |
+| Oil and gas | Drilling tools, valve bodies, and forged flanges for wellhead service. |
+| Bicycles and motorcycles | High-performance frames and seatposts welded with specific techniques (TIG), leveraging its lightness and fatigue resistance. |
+
+## Comparison with Similar Materials
+
+4130 steel offers an optimal balance between strength and ductility, with lower carbon content than other 41xx series steels, improving its weldability and toughness.
+
+| Material | Carbon content (%) | Tensile strength (normalized) | Weldability | Typical application |
+|---|---|---|---|---|
+| Steel 4130 | 0,28 – 0,33 | 560 – 760 MPa / 81,2 – 110 ksi | Excellent, weldable with preheating and PWHT | Structural tubes, chassis |
+| Steel 4140 | 0,38 – 0,43 | 650 – 850 MPa / 94 – 123 ksi | Good, requires stricter thermal control | Shafts, heavy machinery gears |
+| Steel 4340 | 0,38 – 0,43 | 750 – 900 MPa / 109 – 131 ksi | Limited, difficult to weld due to high nickel content | High-stress aircraft components, forged crankshafts |
+| Steel 25CrMo4 (1.7218) | 0,22 – 0,29 | 550 – 750 MPa / 80 – 109 ksi | Excellent, behavior very similar to 4130 | European equivalent of SAE 4130 per EN 10083 |
+
+## Sources Consulted
 
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6742
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=11860
-

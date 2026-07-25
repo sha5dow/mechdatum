@@ -9,106 +9,131 @@ topic: "ferrous-metals"
 subcategory: "tool-steels"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
+El acero herramienta D2, designado UNS T30402 y DIN 1.2379, es un acero de trabajo en frío de alto carbono y alto cromo que pertenece al grupo D de la clasificación AISI. Se caracteriza por su elevada resistencia al desgaste, alta dureza tras temple y revenido, gran estabilidad dimensional y excelente tenacidad para aplicaciones en frío, siendo el más utilizado de los aceros del grupo D.
 
-El acero herramienta D2 es un acero de alto carbono y alto cromo para trabajo en frío, perteneciente al grupo D de la clasificación AISI. Su contenido de carbono oscila entre 1.40 y 1.60 %, con un cromo de 11.00 a 13.00 %, lo que le confiere una resistencia al desgaste excepcional. Presenta temple al aire y buena estabilidad dimensional, siendo el grado más utilizado de su grupo para aplicaciones que requieren largas series de producción.
+## Designaciones equivalentes
+
+Los materiales equivalentes al acero herramienta D2 según las principales normas internacionales son:
+
+| Norma / País | Designación |
+| --- | --- |
+| DIN (Alemania) | 1.2379 |
+| BS (Reino Unido) | BD 2 |
+| ASTM (EE. UU.) | A681 D2 |
+| UNS (EE. UU.) | T30402 |
+| FED (EE. UU.) | QQ-T-570 D2 |
+| SAE (EE. UU.) | J437 / J438 D2 |
 
 ## Composición química
+
+La composición química nominal del acero D2, expresada en porcentaje de masa, es la siguiente:
+
 | Elemento | Contenido (%) |
 | --- | --- |
-| C | 1.40 – 1.60 |
-| Mn | 0.60 |
-| Si | 0.60 |
-| Co | 1.00 |
-| Cr | 11.00 – 13.00 |
-| Mo | 0.70 – 1.20 |
-| V | 1.10 |
-| P | 0.03 máx. |
-| Ni | 0.30 |
-| Cu | 0.25 |
-| S | 0.03 máx. |
-
-## Propiedades físicas
-| Propiedad | Métrico | Imperial |
-| --- | --- | --- |
-| Densidad | 7.7 x 10³ kg/m³ | 0.278 lb/in³ |
-| Punto de fusión | 1421 °C | 2590 °F |
+| Carbono (C) | 1,40 – 1,60 |
+| Manganeso (Mn) | 0,60 máx. |
+| Silicio (Si) | 0,60 máx. |
+| Cromo (Cr) | 11,00 – 13,00 |
+| Molibdeno (Mo) | 0,70 – 1,20 |
+| Vanadio (V) | 1,10 máx. |
+| Cobalto (Co) | 1,00 máx. |
+| Níquel (Ni) | 0,30 máx. |
+| Cobre (Cu) | 0,25 máx. |
+| Fósforo (P) | 0,03 máx. |
+| Azufre (S) | 0,03 máx. |
 
 ## Propiedades mecánicas por estado de tratamiento
-Las propiedades mecánicas indicadas corresponden al material en estado templado y revenido.
 
-| Propiedad | Métrico | Imperial |
+Las propiedades mecánicas del acero D2 dependen del ciclo de tratamiento térmico. En la tabla siguiente se presentan los valores típicos tras temple al aire desde 1010 °C (1850 °F) y revenido a 204 °C (400 °F), condición que proporciona una dureza Rockwell C de 62.
+
+| Propiedad | Valor (métrico) | Valor (imperial) |
 | --- | --- | --- |
-| Dureza, Rockwell C | 62 | 62 |
-| Dureza, Knoop (convertida de Rockwell C) | 769 | 769 |
-| Dureza, Vickers | 748 | 748 |
-| Resistencia al impacto Izod sin entalla | 77.0 J | 56.8 ft-lb |
-| Módulo de elasticidad | 190 – 210 GPa | 27557 – 30457 ksi |
-| Coeficiente de Poisson | 0.27 – 0.30 | 0.27 – 0.30 |
+| Dureza Rockwell C | 62 HRC | 62 HRC |
+| Dureza Vickers | 748 HV | 748 HV |
+| Dureza Knoop (convertida) | 769 HK | 769 HK |
+| Resistencia al impacto Izod sin entalla | 77,0 J | 56,8 ft·lb |
+| Módulo de elasticidad | 190 – 210 GPa | 27 557 – 30 457 ksi |
+| Coeficiente de Poisson | 0,27 – 0,30 | 0,27 – 0,30 |
+
+## Propiedades físicas
+
+El acero herramienta D2 presenta una densidad de 7,7 × 10³ kg/m³ (0,278 lb/in³) y un punto de fusión de 1421 °C (2590 °F). Estas propiedades, junto con su baja maquinabilidad en estado recocido, definen su comportamiento en servicio y durante la fabricación.
+
+| Propiedad | Valor (métrico) | Valor (imperial) |
+| --- | --- | --- |
+| Densidad | 7,7 × 10³ kg/m³ | 0,278 lb/in³ |
+| Punto de fusión | 1421 °C | 2590 °F |
 
 ## Propiedades térmicas
-| Propiedad | Métrico | Condiciones |
-| --- | --- | --- |
-| Coeficiente de expansión térmica | 10.4 x 10⁻⁶ / °C | 20 – 100 °C |
 
-## Tratamiento térmico
-El proceso de temple del acero D2 se realiza con un precalentamiento lento hasta 815 °C (1500 °F), seguido de un aumento de temperatura hasta 1010 °C (1850 °F). El material se mantiene a esta temperatura de austenización entre 20 y 45 minutos para finalmente proceder al enfriamiento al aire (temple al aire).
+El coeficiente de expansión térmica lineal medio del acero D2 es de 10,4 × 10⁻⁶ /°C en el intervalo de 20 a 100 °C (5,78 × 10⁻⁶ /°F).
 
-## Forjado
-El forjado del acero D2 debe efectuarse en un rango de temperatura que comienza en 1065 °C (1950 °F) y desciende hasta un mínimo de 954 °C (1750 °F). No se recomienda forjar por debajo de 926 °C (1700 °F) para evitar la aparición de grietas.
+| Propiedad | Condiciones | Valor (métrico) | Valor (imperial) |
+| --- | --- | --- | --- |
+| Coeficiente de expansión térmica | 20 – 100 °C | 10,4 × 10⁻⁶ /°C | 5,78 × 10⁻⁶ /°F |
 
-## Recocido
-El recocido se lleva a cabo calentando el acero a una temperatura de entre 871 y 898 °C (1600 – 1650 °F). Posteriormente, se debe realizar un enfriamiento lento en el horno a una velocidad de 4.4 °C (40 °F) por hora o inferior para lograr un ablandamiento adecuado.
+## Tratamiento térmico y fabricación
 
-## Revenido
-La temperatura de revenido para el acero D2 se selecciona típicamente entre 150 °C y 540 °C, dependiendo del balance deseado entre dureza y tenacidad. Para mantener una alta dureza superficial (superior a 60 HRC), se suele aplicar revenidos en el rango bajo, mientras que el rango alto puede provocar un ligero ablandamiento pero mejora la tenacidad.
+El endurecimiento del acero D2 se consigue mediante temple al aire. Para obtener la máxima dureza y minimizar la distorsión se deben respetar los siguientes parámetros:
+
+**Forja**
+La forja se realiza en el intervalo de 1065 °C a 954 °C (1950 °F a 1750 °F). No se debe forjar por debajo de 926 °C (1700 °F) para evitar fisuras.
+
+**Recocido**
+El recocido se lleva a cabo calentando a 871 – 898 °C (1600 – 1650 °F) seguido de un enfriamiento lento en horno a razón máxima de 4,4 °C/h (40 °F/h).
+
+**Temple**
+Se precalienta lentamente hasta 815 °C (1500 °F), luego se eleva la temperatura a 1010 °C (1850 °F) y se mantiene entre 20 y 45 minutos antes de enfriar al aire en calma (temple al aire).
+
+**Revenido**
+El revenido se puede realizar a 204 °C (400 °F) para obtener una dureza Rockwell C de 61 – 62, o bien a 537 °C (1000 °F) para alcanzar aproximadamente 57 HRC, aprovechando el endurecimiento secundario.
 
 ## Aplicaciones por industria
-| Industria | Aplicaciones típicas |
+
+El acero D2 se emplea en componentes que requieren una resistencia excepcional al desgaste abrasivo y buena tenacidad en frío. Sus aplicaciones típicas, agrupadas por sector industrial, incluyen:
+
+| Industria | Aplicaciones representativas |
 | --- | --- |
-| Automotriz y estampado | Matrices de corte, punzones, dados de embutición profunda y herramientas de conformado en frío para la producción de carrocerías. |
-| Manufactura mecánica | Rodillos de laminación, roscadoras, herramientas de moleteado y cuchillas de corte para chapas metálicas de gran espesor. |
-| Moldes y matrices | Moldes de inyección de plásticos reforzados, insertos para moldes y matrices de compactación de polvos metálicos. |
-| Alimentaria y empaque | Cuchillas industriales para corte de papel, láminas plásticas y metales no ferrosos, así como troqueles de corte preciso en la industria del empaque. |
-| Metrología | Calibres, galgas de verificación y componentes de utillaje sujetos a desgaste abrasivo constante. |
+| Automotriz | Punzones, matrices de estampación, troqueles de corte, rodillos de laminación en frío. |
+| Aeroespacial | Calibres, utillajes de precisión, cuchillas de cizalla para chapas. |
+| Matricería y moldes | Matrices de extrusión en frío, moldes de inyección de plásticos, insertos para moldes. |
+| Cuchillería e instrumental | Cuchillas industriales, hojas de corte para papel y plástico, discos de corte. |
+| Herramientas manuales | Matrices para acuñación, dados de roscar, machos de roscar. |
+| Alimentación y packaging | Cuchillas de trituradoras, herramientas de corte de láminas finas. |
 
 ## Comparativa con materiales similares
-| Propiedad | D2 | D3 | D6 |
-| --- | --- | --- | --- |
-| Carbono (%) | 1.40 – 1.60 | 2.00 – 2.35 | 2.00 – 2.35 |
-| Cromo (%) | 11.00 – 13.00 | 11.00 – 13.50 | 11.00 – 13.00 |
-| Dureza de trabajo típica (HRC) | 58 – 62 | 58 – 63 | 58 – 63 |
-| Temple | Aire | Aceite (secciones pequeñas con gas) | Aceite |
-| Resistencia al desgaste | Muy alta | Extrema | Extrema |
-| Tenacidad relativa | Media | Baja | Baja |
+
+En la siguiente tabla se compara el acero D2 con otros aceros de trabajo en frío de uso común, destacando las diferencias en medio de temple, dureza máxima típica y resistencia al desgaste.
+
+| Acero | Medio de temple | Dureza máxima (HRC) | Resistencia al desgaste | Tenacidad |
+| --- | --- | --- | --- | --- |
+| **D2** | Aire / gas a presión | 62 | Muy alta (alta fracción de carburos de cromo) | Media |
+| **D3** | Aceite | 63 | Muy alta (similar a D2, pero más frágil) | Baja |
+| **A2** | Aire | 61 | Alta (carburos de cromo y molibdeno) | Media‑alta |
+| **O1** | Aceite | 62 | Media‑alta (tungsteno y cromo) | Media |
 
 ## Preguntas frecuentes (FAQ)
-<details>
-<summary>1. ¿Cuál es la dureza máxima que puede alcanzar el acero D2 después del tratamiento térmico?</summary>
-El acero D2 puede alcanzar una dureza máxima de 62 Rockwell C (748 Vickers) después de un temple y revenido estándar de baja temperatura.
-</details>
-<details>
-<summary>2. ¿Cuál es la temperatura de fusión del acero herramienta D2?</summary>
-La temperatura de fusión del acero D2 es de 1421 °C (2590 °F).
-</details>
-<details>
-<summary>3. ¿En qué rango de temperaturas se debe forjar el acero D2?</summary>
-El forjado debe realizarse iniciando a 1065 °C (1950 °F) y finalizando como mínimo a 954 °C (1750 °F), sin bajar de 926 °C (1700 °F).
-</details>
-<details>
-<summary>4. ¿Cuál es la designación europea equivalente para el acero D2?</summary>
-La designación europea equivalente según la norma DIN para el acero D2 es 1.2379.
-</details>
-<details>
-<summary>5. ¿Qué porcentaje de carbono distingue al acero D2?</summary>
-El porcentaje de carbono del acero D2 se distingue por estar en el rango de 1.40 a 1.60 % de su composición total.
-</details>
-<details>
-<summary>6. ¿Cuánto tiempo se debe mantener el acero D2 a la temperatura de austenización durante el temple?</summary>
-El material debe mantenerse a la temperatura de austenización de 1010 °C (1850 °F) durante un período de 20 a 45 minutos.
-</details>
+
+### ¿Cuál es la diferencia principal entre D2 y D3?
+El acero D2 contiene molibdeno y se endurece al aire, mientras que el D3 carece de molibdeno y requiere temple en aceite, lo que lo hace más propenso a deformaciones y fragilidad.
+
+### ¿Se puede templar el D2 en aceite en lugar de aire?
+No se recomienda. El D2 ha sido diseñado para temple al aire; el uso de aceite puede incrementar el riesgo de agrietamiento y distorsión sin mejorar significativamente la dureza.
+
+### ¿Qué dureza alcanza el D2 después del revenido a 200 °C?
+Tras revenido a 204 °C (400 °F) se obtiene una dureza Rockwell C de 61 a 62 HRC, condición óptima para aplicaciones de máximo desgaste.
+
+### ¿Es posible soldar el acero D2?
+La soldadura del D2 es delicada debido a su alto contenido de carbono y cromo. Se debe precalentar a 300‑400 °C y emplear electrodos de bajo hidrógeno, además de un tratamiento postsoldadura para evitar fisuras.
+
+### ¿El D2 es apto para trabajo en caliente?
+No está diseñado para trabajo en caliente. A temperaturas superiores a 200 °C (390 °F) su dureza comienza a decrecer rápidamente, por lo que para aplicaciones en caliente se recomiendan aceros del grupo H.
+
+### ¿Cómo se compara con el acero A2?
+El D2 ofrece una resistencia al desgaste netamente superior gracias a su mayor contenido de cromo y carbono, pero el A2 presenta mejor tenacidad y maquinabilidad, siendo preferido cuando los impactos son frecuentes.
 
 ## Fuentes consultadas
 

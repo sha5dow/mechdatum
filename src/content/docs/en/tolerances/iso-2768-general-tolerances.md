@@ -9,93 +9,147 @@ topic: "iso-system"
 subcategory: "general-tolerances"
 skill: "standards-guide"
 launch_phase: 3
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+The general tolerances according to the ISO 2768 standard allow controlling dimensional and geometric variations of mechanical parts without needing to dimension each value on the drawing. They are divided into two parts: ISO 2768-1 for linear and angular tolerances, and ISO 2768-2 for geometric tolerances. The standard defines four accuracy classes: **f** (fine), **m** (medium), **c** (coarse) and **v** (very coarse). This guide includes tables of permissible deviations, machining processes capable of achieving each class, real application examples, and a comparison with the American system ANSI B4.1.
 
-The general tolerance ISO 2768 defines the allowable variation in linear, angular and geometrical dimensions of machined parts when a specific tolerance is not indicated on the manufacturing drawing. The ISO 2768 standard consists of two parts: Part 1 establishes tolerances for linear and angular dimensions without individual indication, and Part 2 covers general geometrical tolerances such as straightness, flatness, perpendicularity, symmetry and circular runout. These general tolerances group the permissible values into four classes of precision — fine (f), medium (m), coarse (c) and very coarse (v) — covering nominal length ranges from 0,5 mm / 0.02 in to 2000 mm / 78.74 in. The most common application is the medium class (m), which suits standard machining processes such as milling or turning.
+## Linear tolerances (ISO 2768-1)
+Permissible deviations for linear dimensions range from ±0,05 mm (±0.002 in) in the finest class to ±8 mm (±0.315 in) in the coarsest, depending on the nominal range of the dimension.
 
-## Classification of general tolerances
+| Nominal range (mm) | Class f (fine) | Class m (medium) | Class c (coarse) | Class v (very coarse) |
+| --- | --- | --- | --- | --- |
+| 0,5 – 3 | ±0,05 mm / ±0.002 in | ±0,1 mm / ±0.004 in | ±0,2 mm / ±0.008 in | ±0,5 mm / ±0.02 in |
+| 3 – 6 | ±0,05 mm / ±0.002 in | ±0,1 mm / ±0.004 in | ±0,3 mm / ±0.012 in | ±0,5 mm / ±0.02 in |
+| 6 – 30 | ±0,1 mm / ±0.004 in | ±0,2 mm / ±0.008 in | ±0,5 mm / ±0.02 in | ±1,0 mm / ±0.039 in |
+| 30 – 120 | ±0,15 mm / ±0.006 in | ±0,3 mm / ±0.012 in | ±0,8 mm / ±0.031 in | ±1,5 mm / ±0.059 in |
+| 120 – 400 | ±0,2 mm / ±0.008 in | ±0,5 mm / ±0.02 in | ±1,2 mm / ±0.047 in | ±2,5 mm / ±0.098 in |
+| 400 – 1000 | ±0,3 mm / ±0.012 in | ±0,8 mm / ±0.031 in | ±2,0 mm / ±0.079 in | ±4,0 mm / ±0.157 in |
+| 1000 – 2000 | ±0,5 mm / ±0.02 in | ±1,2 mm / ±0.047 in | ±3,0 mm / ±0.118 in | ±6,0 mm / ±0.236 in |
+| 2000 – 4000 | — | ±2,0 mm / ±0.079 in | ±4,0 mm / ±0.157 in | ±8,0 mm / ±0.315 in |
 
-| Class | ISO designation | Typical application | Associated manufacturing process |
+## Angular tolerances (ISO 2768-1)
+For angles without tolerance indication, the permissible deviation ranges from ±1° to ±0°5’ in class f and from ±3° to ±0°30’ in class v, depending on the length of the shortest side of the angle.
+
+| Length of shortest side, L (mm) | Class f (fine) | Class m (medium) | Class c (coarse) | Class v (very coarse) |
+| --- | --- | --- | --- | --- |
+| L ≤ 10 | ±1° | ±1°30’ | ±3° | ±3° |
+| 10 < L ≤ 50 | ±0°30’ | ±1° | ±2° | ±4° |
+| 50 < L ≤ 120 | ±0°20’ | ±0°30’ | ±1° | ±2° |
+| 120 < L ≤ 400 | ±0°10’ | ±0°15’ | ±0°30’ | ±1° |
+| L > 400 | ±0°5’ | ±0°10’ | ±0°15’ | ±0°30’ |
+
+The equivalent linear deviation over 100 mm of length can be estimated using:
+
+> **ΔL ≈ 100 mm × tan(α)**
+
+where α is the angular tolerance in degrees. For example, ±1° is approximately equivalent to ±1,75 mm / ±0.069 in per 100 mm / 3.94 in.
+
+## Geometric tolerances (ISO 2768-2)
+Part 2 of the standard establishes general tolerances for form and position in three classes: **H** (high precision), **K** (medium precision) and **L** (low precision), with values starting from 0,02 mm (0.0008 in) for straightness of a short element in class H.
+
+### Straightness and flatness
+
+| Nominal range (mm) | Class H | Class K | Class L |
 | --- | --- | --- | --- |
-| Fine | f | Instrumentation, precision mechanics, gauges | Grinding, honing, lapping |
-| Medium | m | General mechanics, machine parts | Milling, turning, CNC drilling |
-| Coarse | c | Structural parts, supports, machined castings | Plasma cutting, castings with allowance |
-| Very coarse | v | Large welded structures, parts with no fit requirement | Oxyfuel cutting, welding, hot rolling |
+| ≤ 10 | 0,02 mm / 0.0008 in | 0,05 mm / 0.002 in | 0,1 mm / 0.004 in |
+| >10 – 30 | 0,05 mm / 0.002 in | 0,1 mm / 0.004 in | 0,2 mm / 0.008 in |
+| >30 – 100 | 0,1 mm / 0.004 in | 0,2 mm / 0.008 in | 0,4 mm / 0.016 in |
+| >100 – 300 | 0,2 mm / 0.008 in | 0,4 mm / 0.016 in | 0,8 mm / 0.031 in |
+| >300 – 1000 | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in | 1,2 mm / 0.047 in |
+| >1000 – 3000 | 0,4 mm / 0.016 in | 0,8 mm / 0.031 in | 1,6 mm / 0.063 in |
 
-## Tolerance tables by grade
+### Perpendicularity and symmetry
 
-### Tolerances for linear dimensions (ISO 2768-1)
+| Nominal range (mm) | Class H | Class K | Class L |
+| --- | --- | --- | --- |
+| ≤ 100 | 0,2 mm / 0.008 in | 0,4 mm / 0.016 in | 0,6 mm / 0.024 in |
+| >100 – 300 | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in | 1,0 mm / 0.039 in |
+| >300 – 1000 | 0,4 mm / 0.016 in | 0,8 mm / 0.031 in | 1,5 mm / 0.059 in |
+| >1000 – 3000 | 0,5 mm / 0.02 in | 1,0 mm / 0.039 in | 2,0 mm / 0.079 in |
 
-| Nominal range (mm) | Nominal range (in) | Tolerance f (mm/in) | Tolerance m (mm/in) | Tolerance c (mm/in) | Tolerance v (mm/in) |
-| --- | --- | --- | --- | --- | --- |
-| 0,5 – 3 | 0.02 – 0.12 | ±0,05 / ±0.0020 | ±0,1 / ±0.0039 | ±0,2 / ±0.0079 | – |
-| 3 – 6 | 0.12 – 0.24 | ±0,05 / ±0.0020 | ±0,1 / ±0.0039 | ±0,3 / ±0.0118 | – |
-| 6 – 30 | 0.24 – 1.18 | ±0,1 / ±0.0039 | ±0,2 / ±0.0079 | ±0,5 / ±0.0197 | ±0,5 / ±0.0197 |
-| 30 – 120 | 1.18 – 4.72 | ±0,15 / ±0.0059 | ±0,3 / ±0.0118 | ±0,8 / ±0.0315 | ±1,0 / ±0.0394 |
-| 120 – 400 | 4.72 – 15.75 | ±0,2 / ±0.0079 | ±0,5 / ±0.0197 | ±1,2 / ±0.0472 | ±1,5 / ±0.0591 |
-| 400 – 1000 | 15.75 – 39.37 | ±0,3 / ±0.0118 | ±0,8 / ±0.0315 | ±2,0 / ±0.0787 | ±2,5 / ±0.0984 |
-| 1000 – 2000 | 39.37 – 78.74 | ±0,5 / ±0.0197 | ±1,2 / ±0.0472 | ±3,0 / ±0.1181 | ±4,0 / ±0.1575 |
+### Circular runout
 
-### Tolerances for external radii and chamfers (ISO 2768-1)
+| Nominal range (mm) | Class H | Class K | Class L |
+| --- | --- | --- | --- |
+| ≤ 30 | 0,1 mm / 0.004 in | 0,2 mm / 0.008 in | 0,5 mm / 0.02 in |
+| >30 – 100 | 0,15 mm / 0.006 in | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in |
+| >100 – 300 | 0,2 mm / 0.008 in | 0,4 mm / 0.016 in | 0,8 mm / 0.031 in |
+| >300 – 1000 | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in | 1,2 mm / 0.047 in |
+| >1000 – 3000 | 0,4 mm / 0.016 in | 0,8 mm / 0.031 in | 1,6 mm / 0.063 in |
 
-| Nominal range (mm) | Nominal range (in) | Tolerance f (mm/in) | Tolerance m (mm/in) | Tolerance c (mm/in) | Tolerance v (mm/in) |
-| --- | --- | --- | --- | --- | --- |
-| 0,5 – 3 | 0.02 – 0.12 | ±0,2 / ±0.0079 | ±0,2 / ±0.0079 | ±0,4 / ±0.0157 | ±0,4 / ±0.0157 |
-| 3 – 6 | 0.12 – 0.24 | ±0,5 / ±0.0197 | ±0,5 / ±0.0197 | ±1,0 / ±0.0394 | ±1,0 / ±0.0394 |
-| 6 – 30 | 0.24 – 1.18 | ±1,0 / ±0.0394 | ±1,0 / ±0.0394 | ±2,0 / ±0.0787 | ±2,0 / ±0.0787 |
-| 30 – 120 | 1.18 – 4.72 | ±2,0 / ±0.0787 | ±2,0 / ±0.0787 | ±4,0 / ±0.1575 | ±4,0 / ±0.1575 |
+## Machining processes and tolerance classes
+Each machining process can typically achieve a range of IT tolerance grades, allowing selection of the most suitable ISO 2768 class according to the shop's capability. The following table relates processes with IT grades and the linear tolerance class they can normally guarantee.
 
-### Tolerances for angular dimensions (ISO 2768-1)
-
-| Short side range (mm) | Short side range (in) | Tolerance f (± degrees/min) | Tolerance m (± degrees/min) | Tolerance c (± degrees/min) | Tolerance v (± degrees/min) |
-| --- | --- | --- | --- | --- | --- |
-| ≤ 10 | ≤ 0.39 | ±1° / ±0.0175 rad | ±1° / ±0.0175 rad | ±1°30' / ±0.0262 rad | ±3° / ±0.0524 rad |
-| 10 – 50 | 0.39 – 1.97 | ±0°30' / ±0.0087 rad | ±0°30' / ±0.0087 rad | ±1° / ±0.0175 rad | ±2° / ±0.0349 rad |
-| 50 – 120 | 1.97 – 4.72 | ±0°20' / ±0.0058 rad | ±0°20' / ±0.0058 rad | ±0°30' / ±0.0087 rad | ±1° / ±0.0175 rad |
-| 120 – 400 | 4.72 – 15.75 | ±0°10' / ±0.0029 rad | ±0°10' / ±0.0029 rad | ±0°15' / ±0.0044 rad | ±0°30' / ±0.0087 rad |
-| 400 – 1000 | 15.75 – 39.37 | ±0°5' / ±0.0015 rad | ±0°5' / ±0.0015 rad | ±0°10' / ±0.0029 rad | ±0°20' / ±0.0058 rad |
-| 1000 – 2000 | 39.37 – 78.74 | ±0°3' / ±0.0009 rad | ±0°3' / ±0.0009 rad | ±0°5' / ±0.0015 rad | ±0°15' / ±0.0044 rad |
-
-## Real application examples
-
-A stainless steel flange with a nominal hole diameter of 25 mm / 0.98 in is machined under ISO 2768-m. The general tolerance for a length between 6 mm and 30 mm is ±0,2 mm / ±0.0079 in, sufficient to accommodate an M22 bolt with functional clearance without the need for individual dimensioning. On a 1,5 m / 4.92 ft long structural support, class c allows ±3,0 mm / ±0.1181 in over the entire length; field assembly accommodates that variation through slotted holes. For a linear guide of an optical system, class f is assigned: a deviation exceeding ±0,15 mm / ±0.0059 in over 80 mm / 3.15 in would cause laser beam misalignment. A 2 mm / 0.08 in chamfer in class m accepts measurements between 1,8 mm / 0.071 in and 2,2 mm / 0.087 in, removing burrs without compromising the angular seat.
-
-## Interpretation of symbols on drawings
-
-In the tolerance block or near the title block, the notation «ISO 2768-m» indicates that all dimensions without explicit tolerance inherit the values of the medium class. The «f», «m», «c» or «v» refer exclusively to part 1 (linear and angular). When geometric control is also required, part 2 is added with a letter H, K or L: for example, «ISO 2768-mK» sets medium class for linear dimensions and class K for geometrical tolerances (flatness, straightness, perpendicularity, symmetry and runout). Class H corresponds to the most restrictive, K to a medium level, and L to the most liberal. The geometrical values of part 2 depend on the length range, analogous to those of part 1, and are consulted in specific tables of the standard. The designation is never broken down by dimension; it applies globally to the entire drawing, unless local exceptions are specified with ISO 286 tolerances or GD&T controls.
-
-## Comparison ISO 2768 vs ANSI B4.1
-
-| Feature | ISO 2768 | ANSI B4.1 / ASME Y14.5 |
+| Machining process | Typical IT grades | Recommended ISO 2768-1 class |
 | --- | --- | --- |
-| Scope | Default general tolerances for linear, angular and geometrical dimensions | Fit tolerances (IT grades) for hole and shaft, with general tolerance guidance in ASME Y14.5 |
-| Classification by class | f, m, c, v (by function) + H, K, L (geometrical) | IT5 to IT16 (by precision grade), without a global default application hierarchy |
-| Indication method | Global notation on drawing (e.g. «ISO 2768-mK») | Individual tolerances with limit notation or GD&T symbols |
-| Typical linear tolerance for 80 mm / 3.15 in | m: ±0,3 mm / ±0.0118 in; c: ±0,8 mm / ±0.0315 in | Depends on chosen IT; IT10 ≈ ±0,06 mm / ±0.0024 in, IT14 ≈ ±0,37 mm / ±0.0146 in |
-| Integrated geometrical tolerances | Yes, via part 2 with classes H, K, L | Only through explicit GD&T per ASME Y14.5 |
-| Scope of use | Europe, ISO global | North America, but converging with ISO through ASME Y14.36 |
+| Lapping and honing | IT4 – IT6 | f |
+| Cylindrical grinding | IT5 – IT7 | f / m |
+| Surface grinding | IT6 – IT7 | f / m |
+| Diamond turning | IT5 – IT7 | f / m |
+| Diamond boring | IT5 – IT7 | f / m |
+| Broaching | IT6 – IT9 | m |
+| Reaming | IT7 – IT9 | m |
+| Turning | IT8 – IT12 | c |
+| Boring | IT9 – IT12 | c / v |
+| Milling | IT10 – IT13 | v |
+| Planing and shaping | IT11 – IT13 | v |
+| Drilling | IT10 – IT12 | v |
+
+For reference, an IT8 grade on a 30 mm diameter corresponds to a total tolerance of 0,033 mm (±0,0165 mm / ±0.0007 in), while at 120 mm the IT8 tolerance is 0,054 mm (±0,027 mm / ±0.0011 in). Processes capable of maintaining IT6-IT8 fit with classes f or m, while processes such as milling or drilling are more associated with class v.
+
+## Comparison with ANSI B4.1
+The American standard ANSI B4.1 defines general tolerances for dimensions without explicit tolerance, but does not use the same f/m/c/v classes. The closest equivalent to ISO 2768 class **m** (medium) is the "Normal" grade of ANSI, which for dimensions between 30 mm and 120 mm (1.2 in – 4.7 in) typically allows a variation of approximately ±0,4 mm (±0.015 in), compared to ±0,3 mm (±0.012 in) for class m.
+
+| Nominal range | ANSI B4.1 (grade "Normal") | ISO 2768 class m |
+| --- | --- | --- |
+| 30 – 120 mm (1.2 – 4.7 in) | ±0,4 mm / ±0.015 in (approx.) | ±0,3 mm / ±0.012 in |
+| 120 – 400 mm (4.7 – 15.7 in) | ±0,75 mm / ±0.030 in (approx.) | ±0,5 mm / ±0.02 in |
+
+The comparison is indicative because the ANSI-B4.1 system uses a different rounding approach and does not distinguish between angular and general geometric tolerances as ISO 2768 does. In projects that combine American and international standards, it is advisable to explicitly indicate the applicable standard to avoid interpretation conflicts.
+
+## Application example
+A bracket needs to be manufactured whose dimensions carry no individual tolerance. The total length is 200 mm and the title block indicates "ISO 2768-m". The linear tolerance table for the 120 – 400 mm range gives a permissible deviation of ±0,5 mm (±0.02 in). Therefore the 200 mm dimension must be within the interval 199,5 mm – 200,5 mm (7.85 in – 7.89 in).
+
+This margin is wide for processes such as milling, which at 200 mm can routinely achieve IT10 (total tolerance ≈ 0.185 mm, i.e., ±0,0925 mm / ±0.0036 in). Even a turning IT12 (total tolerance ≈ 0.46 mm, ±0,23 mm / ±0.009 in) easily meets it. Class m is appropriate because it does not raise manufacturing cost and ensures part interchangeability.
+
+## Interpretation on drawings
+The indication on a technical drawing is made in the title block, using the standardized nomenclature:
+
+```
+ISO 2768-m
+```
+
+If general geometric tolerances are also applied:
+
+```
+ISO 2768-mK
+```
+
+where the letter **K** indicates the geometric accuracy class according to ISO 2768-2. Lowercase letters (**f, m, c, v**) correspond to dimensional tolerances, and uppercase letters (**H, K, L**) to geometric tolerances. This designation exempts individually dimensioning the tolerances for all dimensions not expressly tolerated.
+
+Different classes should not be mixed on the same drawing within a single designation (for example "ISO 2768-f" together with "ISO 2768-c"); the standard assumes that all untoleranced dimensions inherit the same general class.
 
 ## Frequently Asked Questions (FAQ)
+### What do the letters f, m, c and v mean in ISO 2768?
+They represent the four accuracy classes for linear and angular dimensional tolerances: **f** = fine, **m** = medium, **c** = coarse, **v** = very coarse. More demanding measures (f) correspond to smaller deviations and vice versa.
 
-### How much does a length of 150 mm vary under ISO 2768-f?
-    The tolerance for a length of 150 mm / 5.91 in in fine class is ±0,2 mm / ±0.0079 in, meaning the part can measure between 149,8 mm / 5.90 in and 150,2 mm / 5.91 in without rejection.
+### When should I apply class f instead of m?
+Class f is used when manufacturing processes are capable of maintaining tighter tolerances (grinding, lapping) and the design requires it, for example in sliding fits or high-precision parts. Class m covers most general mechanical applications.
 
-### Which class is used for machining a through hole without tolerance indication?
-    The medium class (m) provides a tolerance of ±0,2 mm / ±0.0079 in for nominal diameters between 6 mm / 0.24 in and 30 mm / 1.18 in, accepting variations up to 0,4 mm / 0.0157 in on the actual diameter for assemblies with standard clearance.
+### Does ISO 2768 cover geometric tolerances such as parallelism or coaxiality?
+Yes, part ISO 2768-2 defines general tolerances for straightness, flatness, perpendicularity, symmetry, and circular runout. Parallelism is implicitly covered by the combination of form and position tolerances, although the standard does not give a specific value for isolated parallelism.
 
-### How does ISO 2768 affect a angular dimension of 60° with a short side of 20 mm?
-    In class m, the tolerance is ±0°30' / ±0.0087 rad, so the actual angle can lie between 59.5° and 60.5°, equivalent to an arc deviation of approximately 0,17 mm / 0.0067 in at the end of the 20 mm / 0.79 in side.
+### How is an ISO 2768 general tolerance indicated on a drawing?
+In the title block or in a note, write for example "ISO 2768-mK". This applies the linear/angular deviations of class m and the geometric deviations of class K to all dimensions without explicit tolerance indication.
 
-### Which class should I choose for a 3-meter welded structure?
-    The standard only reaches up to 2000 mm / 78.74 in; for a length of 3 m / 118.11 in an individual tolerance must be specified. Extrapolating class v for the highest range (1000–2000 mm / 39.37–78.74 in), the tolerance would be around ±4,0 mm / ±0.1575 in, insufficient to absorb thermal deformations in welding without design review.
+### What is the difference between ISO 2768 and ISO 286?
+ISO 286 (ISO fit system) defines tolerances for shaft-hole fits using IT grades and tolerance positions, while ISO 2768 specifies general tolerances for dimensions that carry no individual tolerance. ISO 2768 applies to complete parts and simplifies the drawing; ISO 286 is used when a specific fit is required (e.g., H7/g6).
 
-### Are ISO 2768-m and mK interchangeable on any part?
-    No. ISO 2768-m only covers linear and angular dimensions, while mK adds geometrical tolerances of class K for perpendicularity, straightness, flatness, symmetry and runout. A part with perpendicularity requirements under mK may be rejected without part 2 even if it meets the lengths of part 1.
+### Is it possible to convert an IT grade to the ISO 2768 class?
+Approximately, yes. Class f is associated with IT6–IT8 processes, class m with IT9–IT10, class c with IT11–IT12 and class v with IT12–IT13. However, the equivalence is not normative and must be verified with the specific tables of each standard.
 
-### What is the tolerance on a 4 mm chamfer in class c?
-    For a radius or chamfer between 3 mm / 0.12 in and 6 mm / 0.24 in, class c allows ±1,0 mm / ±0.0394 in, so the chamfer can vary between 3,0 mm / 0.118 in and 5,0 mm / 0.197 in without being considered defective.
+## Sources Consulted
 
-## References
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/machine-processes-tolerance-grades-d_1367.html
 - **roymech.org**: https://roymech.org/

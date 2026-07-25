@@ -97,22 +97,22 @@ Coeficiente de Poisson: 0.34 para todos los estados.
 
 ## Preguntas frecuentes (FAQ)
 
-- **¿Cuál es la resistencia máxima a la tracción del latón C260?**  
+### ¿Cuál es la resistencia máxima a la tracción del latón C260?
   El valor máximo alcanza 896 MPa (130 ksi) en temple elástico (spring), aunque en estado recocido es de solo 303 MPa.
 
-- **¿A qué temperatura se funde el latón C260?**  
+### ¿A qué temperatura se funde el latón C260?
   La fusión comienza a 916 °C (solidus) y se completa a 954 °C (liquidus), lo que equivale a un rango de fusión de 38 °C.
 
-- **¿Cuál es la densidad exacta de esta aleación?**  
+### ¿Cuál es la densidad exacta de esta aleación?
   A 20 °C la densidad es de 8.53 g/cm³, es decir, 8530 kg/m³ en unidades SI.
 
-- **¿Qué elongación presenta el C260 en estado recocido?**  
+### ¿Qué elongación presenta el C260 en estado recocido?
   Alcanza una elongación del 66 % en una probeta de 75 mm, lo que demuestra su excepcional capacidad de deformación plástica.
 
-- **¿Cuánto vale la conductividad térmica del latón C260?**  
+### ¿Cuánto vale la conductividad térmica del latón C260?
   Su conductividad térmica es de 120 W/m·K a 20 °C, lo que facilita la disipación de calor en componentes eléctricos y térmicos.
 
-- **¿Qué norma ASTM cubre la lámina de latón C260?**  
+### ¿Qué norma ASTM cubre la lámina de latón C260?
   La norma principal es ASTM B36/B36M, que especifica los requisitos de la lámina de latón de cartuchería.
 
 ## Normas técnicas

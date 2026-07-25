@@ -9,207 +9,144 @@ topic: "clutches-brakes"
 subcategory: "disc-clutches"
 skill: "machine-element-reference-table"
 launch_phase: 6
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+Un embrague de disco transmite hasta 500 N·m / 369 ft·lb de par mediante la fricción entre superficies planas, permitiendo acoplar y desacoplar el movimiento entre un eje motriz y uno conducido. Su principio se basa en la presión axial de uno o varios discos de fricción contra un volante de inercia o plato, modulando la transferencia de potencia en sistemas mecánicos y automotrices.
 
-Los embragues de disco son mecanismos de fricción diseñados para conectar y desconectar dos ejes en rotación, transfiriendo par torsor mediante el contacto axial de superficies planas. Su clasificación principal se basa en el número de discos de fricción: **monodisco** (un solo disco) y **multidisco** (múltiples discos intercalados), cada uno optimizado para rangos específicos de par, velocidad y condiciones de operación. La selección adecuada depende de la potencia a transmitir, el espacio disponible, la frecuencia de accionamiento y el entorno de trabajo.
+A 3000 rpm un disco macizo de acero de 200 mm de radio experimenta una tensión radial centrífuga cercana a 10,3 MPa / 1494 psi. La capacidad de transmisión depende de la fuerza de contacto, el coeficiente de fricción y el radio efectivo. La tensión en un disco rotatorio se determina con la siguiente expresión:
 
-## Principio de funcionamiento
+> **σ_z = (ρ · ω² · r²) / 3**
 
-El embrague de disco opera bajo el principio de fricción seca o húmeda entre superficies planas presionadas axialmente. Un disco de fricción, montado sobre estrías en el eje de salida, es comprimido contra un volante de inercia solidario al eje de entrada mediante un plato de presión accionado por resortes. La fuerza axial aplicada genera un par de fricción proporcional al coeficiente de rozamiento, la fuerza normal y el radio efectivo del disco. Cuando el conductor pisa el pedal, la horquilla desplaza el cojinete de empuje, venciendo la fuerza de los resortes y separando el disco de fricción del volante, interrumpiendo así la transmisión de potencia. En un sistema multidisco, varios discos metálicos y forrados se intercalan para multiplicar la superficie de fricción sin aumentar el diámetro.
-
-## Fórmulas de cálculo para embragues de disco
-
-### Capacidad de par torsor
-
-El par torsor máximo transmisible por un embrague de disco de fricción se calcula según la teoría de presión uniforme:
-
-```
-T = n · μ · Fa · rm · c
-```
-
-Donde:
-- **T** = Par torsor transmisible (N·m / lb·ft)
-- **n** = Número de superficies de fricción (2 caras para monodisco; 2n para n discos interiores en multidisco)
-- **μ** = Coeficiente de fricción del material de forro (adimensional)
-- **Fa** = Fuerza axial aplicada por los resortes (N / lbf)
-- **rm** = Radio medio del forro de fricción = (De + Di) / 2 (m / in)
-- **c** = Factor de servicio (1,0–3,0 según aplicación)
-
-| Parámetro | Monodisco típico | Multidisco típico |
+| Variable | Símbolo | Unidad SI |
 | --- | --- | --- |
-| Coeficiente de fricción (seco) | μ = 0,30 – 0,50 | μ = 0,30 – 0,45 |
-| Coeficiente de fricción (húmedo) | μ = 0,05 – 0,15 | μ = 0,05 – 0,15 |
-| Presión superficial admisible | 0,2 – 0,4 MPa / 29 – 58 psi | 0,15 – 0,35 MPa / 22 – 51 psi |
-| Número de superficies fricción | 2 | 4 – 20+ |
+| Tensión radial | σ_z | Pa (N/m²) |
+| Densidad del material | ρ | kg/m³ |
+| Velocidad angular | ω | rad/s |
+| Radio del disco | r | m |
 
-### Fórmula de desgaste y vida útil
+Para una geometría anular delgada, la ecuación simplificada es:
 
-La pérdida de espesor del forro por desgaste se estima con la fórmula de trabajo de rozamiento acumulado:
+> **σ_z = ρ · ω² · r_m²**
 
-```
-Δh = kw · p · v · t
-```
-
-- **Δh** = Desgaste lineal (m / in)
-- **kw** = Coeficiente de desgaste específico (m²/N / in²/lbf)
-- **p** = Presión de contacto (Pa / psi)
-- **v** = Velocidad de deslizamiento (m/s / ft/min)
-- **t** = Tiempo acumulado de patinaje (s)
-
-La vida útil del embrague (en ciclos) para embragues industriales de uso intermitente oscila entre 500 000 y 2 000 000 de ciclos en condiciones nominales, asumiendo mantenimiento y lubricación adecuados.
-
-### Fórmula de generación de calor durante el embrague
-
-La energía disipada como calor durante un acoplamiento se calcula como:
-
-```
-Q = ½ · J · ω² · (T_embrague / (T_embrague – T_resistente))
-```
-
-- **Q** = Energía térmica generada (J / BTU)
-- **J** = Momento de inercia reducido al eje del embrague (kg·m² / lb·ft²)
-- **ω** = Velocidad angular inicial del eje motor antes del acoplamiento (rad/s)
-- **T embrague** = Par transmitido por el embrague (N·m / lb·ft)
-- **T resistente** = Par resistente de la carga (N·m / lb·ft)
-
-### Fórmula de tensiones en el disco giratorio
-
-Un disco de embrague en rotación experimenta tensiones radiales y tangenciales proporcionales a la velocidad angular y la densidad del material. La tensión radial máxima en un disco macizo rotatorio se expresa como:
-
-```
-σz = (ω² · r² · ρ) / 3 = (v² · ρ) / 3
-```
-
-Donde:
-- **σz** = Tensión en el disco (Pa / psi)
-- **ω** = Velocidad angular (rad/s)
-- **r** = Radio del disco (m / in)
-- **ρ** = Densidad del material (kg/m³ / lb/in³)
-- **v** = Velocidad periférica = ω·r (m/s / ft/s)
-
-Para un anillo rotatorio, la tensión se calcula como:
-
-```
-σz = ω² · ρ · (r₁² + r₁·r₂ + r₂²) / 3
-```
-
-- **r₁** = Radio exterior del anillo (m / in)
-- **r₂** = Radio interior del anillo (m / in)
-
-| Material del disco | Densidad (kg/m³ / lb/in³) | Tensión de diseño típica (MPa / ksi) |
-| --- | --- | --- |
-| Aleación de aluminio | 2700 / 0,0975 | 150 – 280 / 21,8 – 40,6 |
-| Aleación de titanio | 4500 / 0,1626 | 650 / 94,3 |
-| Acero aleado templado | 7800 / 0,2818 | 400 – 900 / 58,0 – 130,5 |
-| Compuesto carbono-epoxi 40% | 1550 / 0,0560 | 750 / 108,8 |
-| Compuesto kevlar-epoxi 40% | 1400 / 0,0506 | 1000 / 145,0 |
-
-Las velocidades periféricas típicas de los discos de embrague varían entre 30 m/s / 5906 ft/min y 70 m/s / 13 779 ft/min para aplicaciones industriales estándar. La fuerza centrífuga a altas revoluciones puede provocar la auto-desintegración del disco si la tensión supera el límite de rotura del material.
+donde r_m representa el radio medio del anillo en metros.
 
 ## Tipos de embragues de disco
+Existen 4 configuraciones principales que cubren desde aplicaciones ligeras de 50 N·m / 37 ft·lb hasta sistemas industriales con más de 10 000 N·m / 7376 ft·lb.
 
-### Monodisco (de placa única)
+| Tipo | Superficies de fricción | Entorno | Rango usual de par (N·m / ft·lb) | Aplicación representativa |
+| --- | --- | --- | --- | --- |
+| Monodisco seco | 2 | Aire | 100 – 800 N·m / 74 – 590 ft·lb | Automóviles con transmisión manual |
+| Monodisco húmedo | 2 | Aceite | 80 – 600 N·m / 59 – 443 ft·lb | Motocicletas, maquinaria compacta |
+| Multidisco seco | 4 a 10 | Aire | 500 – 3000 N·m / 369 – 2213 ft·lb | Vehículos de competición, embragues industriales |
+| Multidisco húmedo | 6 a 20 | Aceite | 200 – 10 000+ N·m / 148 – 7376+ ft·lb | Cajas automáticas, maquinaria pesada, sistemas de alta frecuencia |
 
-El embrague monodisco incorpora un único disco de fricción forrado por ambas caras, comprimido entre el volante motor y el plato de presión. Es el tipo predominante en automóviles con transmisión manual, motocicletas de media y alta cilindrada, y maquinaria agrícola ligera. Su diámetro típico oscila entre 180 mm / 7,09 in y 350 mm / 13,78 in, con una capacidad de par de 200 a 800 N·m / 148 a 590 lb·ft en automoción. El accionamiento puede ser por muelles helicoidales periféricos o por diafragma (Belleville), ofreciendo este último una fuerza de pedal más constante a lo largo de la vida del forro y mejor compensación del desgaste.
+## Materiales y coeficientes de fricción
+El coeficiente de fricción dinámico de un forro orgánico estándar varía entre 0,25 y 0,40 sobre acero, con una temperatura límite de operación de 250 °C / 482 °F. La tabla siguiente recoge los materiales más frecuentes en discos y forros de embrague.
 
-### Multidisco (de placas múltiples)
+| Material del forro | Coeficiente de fricción μ (dinámico) | Temperatura máxima de servicio (°C / °F) | Densidad (kg/m³ / lb/ft³) | Observaciones |
+| --- | --- | --- | --- | --- |
+| Orgánico (base celulósica) | 0,25 – 0,40 | 250 °C / 482 °F | 1100 – 1300 kg/m³ / 69 – 81 lb/ft³ | Bajo ruido, embragues automotrices estándar |
+| Semimetálico | 0,30 – 0,45 | 400 °C / 752 °F | 1800 – 2100 kg/m³ / 112 – 131 lb/ft³ | Buena disipación térmica, uso severo |
+| Cerámico (base cobre) | 0,35 – 0,55 | 600 °C / 1112 °F | 2000 – 2500 kg/m³ / 125 – 156 lb/ft³ | Alto rendimiento, competición |
+| Sinterizado metálico | 0,30 – 0,50 | 700 °C / 1292 °F | 2500 – 3000 kg/m³ / 156 – 187 lb/ft³ | Maquinaria pesada, embragues húmedos |
+| Material compuesto de papel | 0,10 – 0,15 | 180 °C / 356 °F | 900 – 1100 kg/m³ / 56 – 69 lb/ft³ | Exclusivo para embragues húmedos con aceite circulante |
 
-El embrague multidisco emplea un paquete de discos alternados: discos metálicos (acero) que giran con el cubo estriado y discos forrados (bronce sinterizado, fibra de carbono o papel) que giran con la campana exterior. Esta configuración multiplica la superficie de fricción sin aumentar el diámetro, reduciendo la inercia rotacional y mejorando la disipación térmica en espacios confinados. El número de discos varía entre 3 y 15 en aplicaciones convencionales.
+La densidad y la tensión de diseño de los discos metálicos influyen en la velocidad máxima admisible. A continuación se indican valores orientativos para materiales empleados en soportes y volantes.
 
-| Característica | Embrague monodisco | Embrague multidisco |
+| Material del disco | Densidad (kg/m³ / lb/ft³) | Tensión típica de diseño (MPa / ksi) |
 | --- | --- | --- |
-| Nº de discos de fricción | 1 (2 caras) | 2 a 15+ |
-| Diámetro típico (mm / in) | 180 – 400 / 7,09 – 15,75 | 80 – 250 / 3,15 – 9,84 |
-| Capacidad de par (N·m / lb·ft) | 200 – 3000 / 148 – 2213 | 100 – 5000 / 74 – 3688 |
-| Peso aproximado (kg / lb) | 4 – 25 / 8,8 – 55,1 | 2 – 20 / 4,4 – 44,1 |
-| Refrigeración típica | Aire (seco) | Aceite (húmedo) o aire |
-| Aplicación principal | Automoción manual | Motocicletas, maquinaria CNC, prensas |
+| Aleación de aluminio | 2700 kg/m³ / 169 lb/ft³ | N/D |
+| Madera contrachapada de abedul | 700 kg/m³ / 44 lb/ft³ | 30 MPa / 4,4 ksi |
+| Compuesto carbono-epoxi 40% | 1550 kg/m³ / 97 lb/ft³ | 750 MPa / 109 ksi |
+| Fibra de vidrio E-epoxi 40% | 1900 kg/m³ / 119 lb/ft³ | 250 MPa / 36 ksi |
+| Fibra de Kevlar-epoxi 40% | 1400 kg/m³ / 87 lb/ft³ | 1000 MPa / 145 ksi |
+| Acero maraging | 8000 kg/m³ / 499 lb/ft³ | 900 MPa / 131 ksi |
+| Aleación de titanio | 4500 kg/m³ / 281 lb/ft³ | 650 MPa / 94 ksi |
+| Fibra de vidrio S-epoxi | 1900 kg/m³ / 119 lb/ft³ | 350 MPa / 51 ksi |
 
-Los embragues multidisco pueden ser **secos** o **húmedos**. En la versión húmeda, los discos operan sumergidos en aceite, que refrigera, lubrica y prolonga la vida útil de los forros, aunque con una ligera reducción del coeficiente de fricción efectiva (típicamente μ = 0,10 – 0,15 en baño de aceite). Para aplicaciones de competición (drag racing), se emplean multidisco secos con forros cerámicos de alto coeficiente de fricción y gran resistencia térmica.
+## Capacidad de transmisión de par
+Un embrague monodisco de 220 mm de diámetro y µ = 0,35 puede transmitir alrededor de 450 N·m / 332 ft·lb con una fuerza axial de 5 kN / 1124 lbf. La ecuación fundamental de diseño es:
 
-### Embrague centrífugo de disco
+> **T = n · μ · F · r_m**
 
-Una variante especial es el embrague centrífugo, donde los discos de fricción no son presionados por resortes axiales, sino por la propia fuerza centrífuga generada por masas o zapatas pivotantes al aumentar las revoluciones del motor. Cuando el eje motor alcanza una velocidad de acoplamiento predefinida (típicamente 1500 a 2500 rpm), las masas centrífugas vencen los resortes de retorno y presionan los discos entre sí, transmitiendo el par. Por debajo de esa velocidad, el embrague permanece desacoplado, permitiendo el ralentí sin carga. Se utiliza en minimotos, karts y algún vehículo industrial ligero.
+| Variable | Significado | Unidad SI |
+| --- | --- | --- |
+| T | Par transmitido | N·m |
+| n | Número de superficies de fricción (2 por disco) | — |
+| μ | Coeficiente de fricción dinámico | — |
+| F | Fuerza axial de contacto | N |
+| r_m | Radio medio del forro | m |
 
-## Aplicaciones
+La capacidad se escala linealmente con el número de discos en configuraciones multidisco, aunque la evacuación de calor y la rigidez del paquete imponen límites prácticos.
 
-| Aplicación | Tipo de embrague recomendado | Rango de par típico (N·m / lb·ft) | Observaciones |
+## Criterios de selección
+Se debe verificar que el par nominal del embrague supere al menos en un factor de 1,5 el par máximo del motor o carga impulsora, incluso a 6000 rpm en aplicaciones automotrices. Los criterios clave son:
+
+| Parámetro | Criterio recomendado | Método de verificación |
+| --- | --- | --- |
+| Par máximo del sistema | Factor de seguridad ≥ 1,5 | T_embrague ≥ 1,5 × T_motor |
+| Velocidad angular admisible | Por debajo de la velocidad crítica del disco | Cálculo de tensión centrífuga (σ_z ≤ σ_adm) |
+| Energía de deslizamiento | Disipación sin exceder T_máx del forro | Cálculo térmico de embragues repetitivos |
+| Ciclo de trabajo | Vida útil ≥ 10⁶ ciclos para aplicaciones industriales | Ensayo de desgaste acelerado |
+| Entorno | Seco o húmedo según presencia de aceite y refrigeración | Compatibilidad química del forro |
+| Espacio disponible | Multidisco para reducir diámetro exterior | Dimensionamiento radial |
+
+## Montaje y tolerancias
+La excentricidad admisible entre el cigüeñal y el eje primario de la caja de cambios no debe superar 0,15 mm / 0,006 in para evitar vibraciones y desgaste prematuro.
+
+| Parámetro de montaje | Tolerancia típica | Herramienta de verificación |
+| --- | --- | --- |
+| Juego axial del disco | 0,5 – 1,0 mm / 0,020 – 0,039 in | Galga de espesores |
+| Excentricidad radial admisible | ≤ 0,15 mm / 0,006 in | Comparador de carátula |
+| Paralelismo plato–volante | ≤ 0,10 mm / 0,004 in | Reloj palpador sobre plato |
+| Par de apriete de tornillos de fijación | 25 – 60 N·m / 18 – 44 ft·lb (según tamaño y grado) | Llave dinamométrica calibrada |
+| Alineación angular del conjunto | ≤ 0,5° | Alineador láser o comparador |
+
+El centrado debe realizarse con un mandril específico antes de apretar la carcasa definitivamente. En embragues multidisco húmedos se recomienda purgar el circuito de aceite para eliminar bolsas de aire.
+
+## Aplicaciones por sector
+Los embragues multidisco húmedos dominan en maquinaria pesada donde se requiere disipar más de 10 kW / 13,4 hp térmicos durante el patinaje.
+
+| Sector | Tipo de embrague recomendado | Justificación técnica |
+| --- | --- | --- |
+| Automóvil de pasajeros | Monodisco seco con amortiguador | Coste, suavidad de acople, mantenimiento sencillo |
+| Motocicleta | Monodisco húmedo / multidisco húmedo | Espacio reducido, refrigeración integrada en aceite motor |
+| Vehículo de competición | Multidisco seco de alto coeficiente cerámico | Transmisión rápida, alta resistencia térmica |
+| Maquinaria agrícola | Multidisco húmedo | Ciclos severos, larga vida útil, control de patinaje |
+| Transmisión automotriz automática | Multidisco húmedo con control electrohidráulico | Cambios suaves, alta densidad de par |
+| Equipos de construcción | Multidisco húmedo de alta capacidad | Resistencia a sobrecargas y vibraciones extremas |
+| Herramienta portátil (motosierra) | Centrífugo monodisco | Acoplamiento automático progresivo con las rpm |
+
+## Ventajas y limitaciones
+Un embrague multidisco húmedo puede alargar la vida útil hasta 500 000 ciclos en condiciones controladas de lubricación y temperatura.
+
+| Tipo | Ventajas | Limitaciones |
+| --- | --- | --- |
+| Monodisco seco | Sencillez mecánica, bajo coste, alta eficiencia en estado acoplado | Menor disipación térmica, mayor diámetro para pares altos |
+| Monodisco húmedo | Enganche suave, refrigeración integrada | Pérdidas por arrastre en baño de aceite |
+| Multidisco seco | Alta capacidad de par en diámetro compacto, respuesta rápida | Refrigeración limitada, desgaste más agresivo |
+| Multidisco húmedo | Máxima capacidad de par, excelente refrigeración, vida útil prolongada | Complejidad, mayor coste, mantenimiento especializado |
+
+## Mantenimiento y vida útil
+La inspección del espesor de forro debe realizarse cada 30 000 km / 18 641 mi en automóviles de uso mixto; una reducción del 50 % respecto al espesor original obliga a sustituir el disco.
+
+| Componente | Indicador de desgaste | Periodicidad de revisión | Acción correctiva |
 | --- | --- | --- | --- |
-| Automóvil de pasajeros (manual) | Monodisco seco | 150 – 400 / 111 – 295 | Accionamiento por diafragma |
-| Motocicleta de calle | Multidisco húmedo | 40 – 150 / 30 – 111 | Bañado en aceite motor |
-| Motocicleta de competición | Multidisco seco | 80 – 200 / 59 – 148 | Forros cerámicos, refrigeración por aire |
-| Vehículo pesado / camión | Monodisco seco (Ø > 350 mm / 13,78 in) | 800 – 2500 / 590 – 1844 | Reforzado, con servoasistencia |
-| Maquinaria textil / CNC | Multidisco húmedo | 10 – 100 / 7,4 – 74 | Alta cadencia de acoplamientos |
-| Prensa mecánica | Multidisco seco | 1000 – 5000 / 738 – 3688 | Accionamiento neumático |
-| Embrague centrífugo (kart/minimoto) | Centrífugo de disco | 5 – 30 / 3,7 – 22,1 | Acople automático por rpm |
-| Transmisión de cadena cinemática agrícola | Monodisco seco | 250 – 600 / 184 – 443 | Toma de fuerza (TDF) |
+| Forro de fricción | Espesor remanente < 50 % | 30 000 – 60 000 km / 18 641 – 37 282 mi | Sustitución del disco |
+| Muelles de diafragma | Pérdida de fuerza > 15 % | 100 000 km / 62 137 mi o a criterio | Cambio del plato de presión |
+| Disco de arrastre | Deformación > 0,3 mm / 0,012 in | Cada cambio de forro | Rectificado o reemplazo |
+| Sistema de accionamiento | Juego libre fuera de 0,6 – 1,5 mm / 0,024 – 0,059 in | Revisión anual | Ajuste según especificación |
 
-## Mantenimiento y solución de averías
-
-| Síntoma | Causa probable | Solución |
-| --- | --- | --- |
-| El embrague patina (aumentan rpm sin acelerar) | Forro desgastado (espesor < 2 mm / 0,079 in), muelles de presión débiles, contaminación de aceite en seco | Sustituir disco de embrague y comprobar retenes de cigüeñal |
-| Acoplamiento brusco (tirones al arrancar) | Forro cristalizado, plato de presión deformado, cable de accionamiento agarrotado | Rectificar volante, sustituir disco y plato |
-| El pedal no retorna o está esponjoso | Aire en el circuito hidráulico, bombín emisor/receptor defectuoso, horquilla desgastada | Purgar sistema hidráulico, sustituir componentes defectuosos |
-| El embrague no desembraga (imposible meter marcha) | Disco pegado al volante por óxido, cable partido, varillaje desajustado, cojinete de empuje gripado | Liberar disco (arrancar en marcha con pedal pisado), sustituir cable/cojinete |
-| Vibración durante el acoplamiento | Alabeo del disco (> 0,5 mm / 0,020 in), amortiguadores de torsión rotos, desalineación | Sustituir disco de embrague, verificar centrado con herramienta |
-| Ruido metálico o chirrido | Cojinete de empuje desgastado, piloto del cigüeñal seco, muelles de amortiguación rotos | Sustituir cojinete de empuje y engrasar piloto |
-| Calentamiento excesivo y olor a quemado | Patinaje severo, carga excesiva, tiempo de acoplamiento prolongado | Reducir carga, verificar fuerza de resortes, mejorar refrigeración |
-
-## Glosario de términos técnicos
-
-- **Cojinete de empuje (release bearing):** Rodamiento axial que transmite la fuerza del pedal a los diafragmas o muelles del plato de presión para desacoplar el embrague.
-- **Disco de fricción (friction disc):** Componente central del embrague, forrado con material de fricción en ambas caras y dotado de un cubo estriado que conecta con el eje de entrada de la transmisión.
-- **Factor de servicio (service factor):** Coeficiente multiplicador que sobredimensiona el embrague para absorber vibraciones, sobrecargas transitorias y garantizar una vida útil mínima; varía entre 1,0 y 3,0.
-- **Horquilla de embrague (release fork):** Palanca pivotante que transforma el movimiento del cable o bombín en desplazamiento axial del cojinete de empuje.
-- **Muelle de diafragma (diaphragm spring):** Resorte cónico de chapa de acero que ejerce la fuerza de presión; ofrece una curva de fuerza no lineal, más ligera en posición pisada que los muelles helicoidales.
-- **Plato de presión (pressure plate):** Disco metálico mecanizado que, bajo la acción de los resortes, aprisiona el disco de fricción contra el volante motor.
-- **Patinaje (slippage):** Deslizamiento relativo controlado entre las superficies de fricción durante el acoplamiento; necesario para arrancar suavemente pero perjudicial si es prolongado por desgaste acelerado y sobrecalentamiento.
-- **Volante bimasa (dual-mass flywheel):** Volante de inercia dividido en dos masas unidas por un sistema de muelles-amortiguador, que absorbe las vibraciones torsionales del motor diésel y reduce el esfuerzo sobre el disco de embrague.
+Los embragues húmedos requieren análisis periódicos del aceite para detectar partículas metálicas y controlar la degradación de los aditivos antidesgaste.
 
 ## Preguntas frecuentes (FAQ)
-
-1. **¿Cuál es el espesor mínimo admisible del forro de un disco de embrague monodisco?** El espesor mínimo antes de la sustitución suele ser de 2,0 mm / 0,079 in medido desde la superficie del forro hasta la cabeza de los remaches, aunque esta cota varía entre fabricantes entre 1,5 mm / 0,06 in y 3,0 mm / 0,12 in.
-
-2. **¿Cuántos discos puede incorporar un embrague multidisco húmedo?** Un embrague multidisco húmedo puede incorporar entre 2 y 15 discos de fricción en configuraciones estándar, proporcionando entre 4 y 30 superficies de contacto en un diámetro compatible con cárteres compactos de 120 mm / 4,72 in a 250 mm / 9,84 in.
-
-3. **¿Qué par máximo puede transmitir un embrague monodisco de automóvil antes de requerir multidisco?** Un embrague monodisco para turismo admite hasta 400 N·m / 295 lb·ft de par motor con diámetros de 240 mm / 9,45 in; por encima de 450 N·m / 332 lb·ft se recomienda pasar a configuraciones multidisco o discos de alto rendimiento.
-
-4. **¿Cuál es la temperatura máxima de operación segura para un forro orgánico en embrague seco?** Los forros orgánicos estándar soportan picos de temperatura de hasta 300 °C / 572 °F de forma intermitente; exposiciones prolongadas por encima de 250 °C / 482 °F aceleran la degradación y el desgaste a tasas de 5 μm/s / 0,0002 in/s.
-
-5. **¿Qué velocidad de acoplamiento centrífugo es habitual en embragues de karting?** La velocidad de acoplamiento en embragues centrífugos de karting se calibra típicamente entre 2000 rpm y 3500 rpm, dependiendo de la cilindrada del motor y el peso de las zapatas centrífugas, con un par de arranque de 5 N·m a 15 N·m / 3,7 lb·ft a 11,1 lb·ft.
-
-6. **¿Cada cuántos kilómetros debe revisarse el espesor del disco de embrague en un automóvil de pasajeros?** La vida útil media de un disco de embrague en uso mixto urbano-carretera oscila entre 80 000 km y 160 000 km (50 000 a 100 000 millas), aunque la primera inspección visual suele recomendarse a los 60 000 km / 37 500 millas.
-
-## Consideraciones de montaje
-
-El montaje de un embrague de disco exige una alineación precisa entre el eje del cigüeñal y el eje primario de la caja de cambios. Se recomienda el uso de un mandril centrador para posicionar el disco de fricción antes de apretar los tornillos del plato de presión. La desalineación máxima admisible en la punta del eje primario no debe superar 0,15 mm / 0,006 in de diámetro indicado. Durante la instalación, se debe aplicar una fina capa de grasa de alta temperatura en las estrías del cubo del disco y en la superficie de apoyo del cojinete de empuje, evitando cualquier contacto con las superficies de fricción. Los tornillos del plato de presión deben apretarse en cruz y en al menos dos etapas, respetando un par de apriete de 25 a 30 N·m / 18 a 22 lb·ft para vehículos ligeros, y comprobar el juego libre del pedal tras la instalación para asegurar un correcto recorrido del cojinete de empuje.
-
-## Dimensiones y especificaciones
-
-| Parámetro | Monodisco seco | Multidisco húmedo |
-| --- | --- | --- |
-| Diámetro exterior disco (mm / in) | 180 – 400 / 7,09 – 15,75 | 80 – 250 / 3,15 – 9,84 |
-| Diámetro interior forro (mm / in) | 125 – 280 / 4,92 – 11,02 | 50 – 180 / 1,97 – 7,09 |
-| Espesor disco nuevo (mm / in) | 7,5 – 10,0 / 0,295 – 0,394 | 1,5 – 4,0 / 0,059 – 0,157 (por disco) |
-| Número de estrías | 20 – 28 | 15 – 30 |
-| Diámetro cigüeñal / eje (mm / in) | 25 – 45 / 0,984 – 1,772 | 15 – 40 / 0,591 – 1,575 |
-| Fuerza de presión de plato (N / lbf) | 4000 – 9000 / 899 – 2023 | 800 – 5000 / 180 – 1124 |
-| Carrera de desembrague (mm / in) | 8 – 12 / 0,315 – 0,472 | 2 – 5 / 0,079 – 0,197 |
-
-## Selección según aplicación
-
-| Criterio | Aplicación ligera | Aplicación media | Aplicación pesada |
-| --- | --- | --- | --- |
-| Tipo de embrague | Monodisco seco Ø < 220 mm / 8,66 in | Monodisco seco Ø 220 – 310 mm / 8,66 – 12,20 in | Multidisco seco o húmedo |
-| Par máximo (N·m / lb·ft) | < 200 / 148 | 200 – 500 / 148 – 369 | > 500 / 369 |
-| Factor de servicio recomendado | 1,3 – 1,6 | 1,6 – 2,2 | 2,2 – 3,0 |
-| Material del forro | Orgánico NAO | Orgánico con cobre / semimetálico | Cerámico / sinterizado / carbono |
-| Refrigeración | Aire natural | Aire forzado | Aceite (húmedo) o aire con carcasas ventiladas |
-| Ciclos de acoplamiento diarios | < 100 | 100 – 500 | > 500 |
-| Ejemplo típico | Torno pequeño, cortacésped | Automóvil de pasajeros, furgoneta | Prensas, maquinaria de construcción |
+### ¿Cuál es la diferencia entre un embrague seco y uno húmedo?
+### ¿Cuándo conviene elegir un embrague multidisco en lugar de uno monodisco?
+### ¿Qué coeficiente de fricción debo considerar para cálculos de diseño?
+### ¿Cómo afecta la temperatura a la vida útil de un embrague de disco?
+### ¿Qué tolerancias de montaje son críticas en un embrague automotriz?
+### ¿Se puede instalar un embrague multidisco en una caja manual original?
 
 ## Fuentes consultadas
 

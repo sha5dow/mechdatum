@@ -9,141 +9,117 @@ topic: "polymers"
 subcategory: "elastomers"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-El caucho de nitrilo butadieno (NBR, del inglés *nitrile butadiene rubber*) es un elastómero sintético copolímero de acrilonitrilo (ACN) y butadieno, desarrollado comercialmente en Alemania en 1935. Su contenido de ACN oscila típicamente entre 18 % y 50 %, lo que le confiere una excelente resistencia a aceites, combustibles, grasas y muchos productos químicos. El NBR se suministra en una amplia gama de durezas Shore A, desde 30 hasta 95, y se utiliza masivamente en las industrias automotriz, aeronáutica, petrolera y médica.
+El caucho de nitrilo butadieno (NBR) presenta una dureza Shore A entre 40 y 95, y un rango de temperatura de servicio continuo de -55 °C a 108 °C (-67 °F a 226 °F) dependiendo de la formulación y el contenido de acrilonitrilo (ACN). Este elastómero sintético destaca por su excelente resistencia a aceites, combustibles, fluidos hidráulicos y muchos productos químicos. La densidad típica se sitúa entre 0,96 y 1,00 g/cm³ (960–1000 kg/m³). Su combinación de resistencia mecánica, flexibilidad y estabilidad química lo convierte en un material de referencia para juntas, sellos, mangueras y componentes de estanqueidad en las industrias automotriz, petrolera y de procesos.
 
 ## Composición química
-El NBR es un polímero de cadena lineal que se obtiene por polimerización en emulsión de acrilonitrilo (CH₂=CH–CN) y butadieno (CH₂=CH–CH=CH₂). La proporción de ACN determina las propiedades finales del material; un mayor contenido de ACN mejora la resistencia a fluidos y la resistencia mecánica, pero reduce la flexibilidad a baja temperatura. A continuación se muestra la composición típica de un NBR comercial.
+El NBR es un copolímero aleatorio de acrilonitrilo y butadieno. La relación entre ambos monómeros determina las propiedades finales del elastómero; cuanto mayor es el contenido de acrilonitrilo (ACN), mejor es la resistencia a aceites y disolventes, pero menor es la flexibilidad a baja temperatura. A continuación se presenta la composición monomérica típica de los grados comerciales:
 
-| Componente | Contenido típico | Función principal |
-| --- | --- | --- |
-| Acrilonitrilo (ACN) | 18 – 50 % | Resistencia química y a la abrasión |
-| Butadieno | 50 – 82 % | Elasticidad y flexibilidad |
+| Monómero | Contenido másico típico |
+|---|---|
+| Acrilonitrilo (ACN) | 18 % – 50 % |
+| Butadieno | 50 % – 82 % |
 
-## Propiedades mecánicas
-El NBR ofrece una resistencia a la tracción que puede variar entre 5 MPa y 25 MPa (725 – 3625 psi) en función del contenido de acrilonitrilo y de la formulación del compuesto. Las propiedades mecánicas típicas medidas a 23 °C según ASTM D412 y D2240 se recogen en la siguiente tabla.
+Además de los monómeros, las formulaciones incluyen agentes de curado (azufre o peróxidos), cargas reforzantes como negro de humo o sílice, plastificantes, antioxidantes y otros aditivos de proceso.
 
-| Propiedad | Valor típico | Unidades SI | Unidades Imperiales |
-| --- | --- | --- | --- |
-| Dureza Shore A | 30 – 95 | – | – |
-| Resistencia a la tracción | 5 – 25 | MPa | 725 – 3625 psi |
-| Alargamiento a la rotura | 200 – 600 | % | % |
-| Módulo al 100 % de elongación | 1 – 10 | MPa | 145 – 1450 psi |
+## Propiedades mecánicas por estado de tratamiento
+Las propiedades mecánicas del NBR varían según el sistema de curado, el contenido de ACN, el tipo y la carga de refuerzo. Los valores que se presentan corresponden a compuestos vulcanizados estándar reforzados con negro de humo, evaluados a 23 °C (73 °F) según métodos ISO 37 e ISO 7619.
 
-## Propiedades físicas
-La densidad del NBR se sitúa entre 1,0 g/cm³ y 1,2 g/cm³ (0,036 – 0,043 lb/in³) en estado sólido. Su baja permeabilidad a los gases y su buena resistencia a la abrasión lo hacen adecuado para estanqueidad dinámica. Las propiedades físicas típicas se resumen a continuación.
+| Propiedad | Rango típico (métrico / imperial) |
+|---|---|
+| Resistencia a la tracción | 5 – 25 MPa / 725 – 3625 psi |
+| Alargamiento a la rotura | 100 – 800 % |
+| Dureza Shore A | 40 – 95 |
+| Módulo al 100 % de alargamiento | 2 – 10 MPa / 290 – 1450 psi |
+| Resistencia al desgarro (trouser) | 10 – 40 kN/m / 57 – 228 lbf/in |
+| Compresión set (70 h / 100 °C) | 10 – 50 % |
 
-| Propiedad | Valor | Unidades |
-| --- | --- | --- |
-| Densidad | 1,0 – 1,2 | g/cm³ (0,036 – 0,043 lb/in³) |
-| Color habitual | Negro (puede pigmentarse) | – |
-| Resistencia a la abrasión | Buena – Excelente | – |
-| Permeabilidad a gases | Baja | – |
-| Resistencia al ozono | Moderada (mejorable con aditivos) | – |
+Para grados con alto contenido de ACN (≥ 40 %) se obtienen los valores más elevados de dureza y resistencia a la tracción, mientras que la elongación disminuye. Los compuestos curados con peróxido presentan mejor resistencia al envejecimiento térmico y menor deformación permanente que los curados con azufre.
 
-## Propiedades térmicas
-La temperatura de servicio continuo del NBR abarca desde -40 °C hasta 108 °C (-40 °F a 226 °F), aunque algunos compuestos pueden soportar picos de hasta 120 °C. La temperatura de transición vítrea (Tg) oscila entre -55 °C y -10 °C en función del contenido de acrilonitrilo. Se presentan los valores de referencia más relevantes.
+## Propiedades físicas y térmicas
+La densidad del NBR se encuentra típicamente entre 0,96 y 1,00 g/cm³ (960–1000 kg/m³), y su color habitual es negro por la incorporación de negro de humo, aunque pueden fabricarse grados de color.
 
-| Propiedad | Valor | Unidades |
-| --- | --- | --- |
-| Temperatura de servicio continuo | -40 a 108 | °C (-40 a 226 °F) |
-| Temperatura de servicio intermitente | -55 a 120 | °C (-67 a 248 °F) |
-| Tg (ACN 18‑35 %) | -55 a -30 | °C (-67 a -22 °F) |
-| Tg (ACN 35‑50 %) | -30 a -10 | °C (-22 a 14 °F) |
+| Propiedad | Valor típico (métrico / imperial) |
+|---|---|
+| Densidad | 0,96 – 1,00 g/cm³ / 60 – 62,4 lb/ft³ |
+| Temperatura de transición vítrea (Tg) (según ACN) | -55 a -20 °C / -67 a -4 °F |
+| Rango de servicio continuo | -55 a 108 °C / -67 a 226 °F |
+| Conductividad térmica | 0,25 W/(m·K) / 1,73 BTU·in/(h·ft²·°F) |
+| Calor específico | 1,5 – 2,0 kJ/(kg·K) / 0,36 – 0,48 BTU/(lb·°F) |
+| Coeficiente de expansión térmica lineal | 160 – 230 × 10⁻⁶ K⁻¹ / 89 – 128 × 10⁻⁶ in/in/°F |
+| Resistencia volumétrica (aislamiento eléctrico) | 10¹⁰ – 10¹² Ω·cm |
+| Permeabilidad al aire (24 h, 23 °C) | 0,5 – 2,0 × 10⁻¹⁷ m²/(Pa·s) (aprox.) |
 
-## Resistencia química
-El NBR presenta una excelente resistencia a aceites minerales, combustibles (gasolina, diésel), grasas, agua y fluidos hidráulicos. Por el contrario, es vulnerable a disolventes polares como cetonas (acetona, MEK), ésteres, hidrocarburos clorados y ácidos fuertes oxidantes. La tabla siguiente muestra la compatibilidad con fluidos de uso común.
+La resistencia a la llama es baja y la mayoría de los grados son combustibles a menos que incorporen aditivos ignífugos. La absorción de agua es inferior al 1 % en condiciones ambiente, lo que lo hace adecuado para aplicaciones con contacto ocasional con humedad.
 
-| Fluido | Compatibilidad | Observaciones |
-| --- | --- | --- |
-| Aceites minerales | Excelente | Ligera hinchazón con bajo ACN |
-| Gasolina / diésel | Muy buena | ACN > 30 % recomendado |
-| Agua y glicoles | Buena | Adecuado hasta 100 °C |
-| Ácidos diluidos | Moderada | No usar con ácidos oxidantes |
-| Cetonas (acetona) | No compatible | Hinchazón y degradación severa |
-| Hidrocarburos clorados | No compatible | Ataque químico rápido |
+## Aplicaciones
+El NBR se emplea masivamente en sectores donde se requiere resistencia a aceites, combustibles y grasas, junto con buena elasticidad y capacidad de sellado. Las principales aplicaciones por industria son:
 
-## Aplicaciones por industria
-El NBR se emplea intensivamente en sectores que demandan resistencia a hidrocarburos. El mercado automotriz es el mayor consumidor, pero también destaca en la industria petrolera, aeronáutica y médica. A continuación se enumeran las aplicaciones más representativas por ramo.
+**Automotriz**
+- Mangueras de combustible y aceite.
+- Sellos, juntas tóricas (O-rings) y retenes de motor.
+- Diafragmas y membranas en sistemas de alimentación.
+- Juntas de estanqueidad en transmisiones.
 
-| Industria | Aplicaciones típicas |
-| --- | --- |
-| Automoción | Juntas tóricas, retenes, manguitos de combustible, diafragmas |
-| Aeronáutica | Sellos de tanques autosellantes, acoplamientos flexibles |
-| Petróleo y gas | Empaquetaduras de fondo de pozo, obturadores, estanqueidad de cabezales |
-| Industria general | Rodillos de impresión, correas, guantes de protección, calzado |
-| Médico y alimentación | Guantes de examen, sellos para equipos (con formulaciones autorizadas) |
+**Petróleo y gas**
+- Sellos y empaquetaduras para válvulas y bombas.
+- Mangueras de lodo y fluidos de perforación.
+- Recubrimientos de rodillos en sistemas de manipulación de crudo.
+- Juntas de expansión y conectores flexibles.
+
+**Industrial general**
+- Guantes de protección química (laboratorios, limpieza, alimentación).
+- Revestimientos de rodillos en artes gráficas y papeleras.
+- Perfiles extruidos para sellado de puertas y ventanas.
+- Planchas y alfombras antideslizantes.
+
+**Alimentación y farmacia**
+- Mangueras de trasiego de líquidos alimentarios (grados autorizados).
+- Juntas en equipos de procesado de alimentos.
+- Componentes de bombas dosificadoras.
+
+**Aeronáutica**
+- Sellos de tanques de combustible auto‑obturantes.
+- Juntas estáticas y dinámicas en sistemas hidráulicos.
 
 ## Comparativa con materiales similares
-Frente a otros elastómeros, el NBR destaca por su equilibrio entre resistencia al aceite y coste moderado. Se compara habitualmente con SBR, CR, EPDM y FKM, como muestra la siguiente tabla de propiedades relativas.
+La tabla siguiente compara propiedades representativas del NBR estándar (33 % ACN, 70 Shore A) frente a otros elastómeros utilizados en aplicaciones de sellado.
 
-| Material | Resistencia al aceite | Temp. máx. continua | Coste relativo | Flexibilidad en frío |
-| --- | --- | --- | --- | --- |
-| NBR (18‑50 % ACN) | Excelente | 108 °C (226 °F) | Bajo-Medio | Buena (bajo ACN) |
-| SBR | Pobre | 82 °C (180 °F) | Muy bajo | Buena |
-| CR (neopreno) | Buena | 115 °C (239 °F) | Medio | Moderada |
-| EPDM | Pobre | 150 °C (302 °F) | Medio | Excelente |
-| FKM (Viton®) | Excelente | 200 °C (392 °F) | Alto | Limitada |
-| HNBR | Excelente | 165 °C (329 °F) | Medio-Alto | Buena (bajo ACN) |
+| Propiedad | NBR | HNBR | EPDM | FKM (estándar) |
+|---|---|---|---|---|
+| Dureza Shore A (gama típica) | 40 – 95 | 50 – 90 | 40 – 90 | 55 – 90 |
+| Rango de temperatura (°C / °F) | -55 a 108 / -67 a 226 | -40 a 165 / -40 a 329 | -50 a 150 / -58 a 302 | -20 a 250 / -4 a 482 |
+| Resistencia a aceites y combustibles | Excelente | Excelente | Pobre | Excelente |
+| Resistencia a la intemperie y ozono | Buena | Muy buena | Excelente | Excelente |
+| Resistencia a la abrasión | Buena | Muy buena | Buena | Moderada |
+| Coste relativo | Bajo | Medio | Bajo | Alto |
 
-## Designaciones y normas
-El caucho nitrílico se comercializa bajo diversas denominaciones registradas y se especifica mediante las principales normas internacionales de clasificación de elastómeros.
-
-| Denominación / Norma | Descripción |
-| --- | --- |
-| NBR, Buna-N | Nombre genérico y nombre histórico (BASF) |
-| Perbunan®, Nipol®, Krynac®, Europrene® | Nombres comerciales |
-| ASTM D2000 M2BG | Clasificación ASTM para NBR de uso general |
-| ISO 1629:2013 | Serie N (NBR) en la nomenclatura ISO |
-| SAE J200 | Clasificación SAE para materiales elastoméricos |
-
-## Formas de suministro
-El NBR está disponible en numerosas formas para adaptarse a distintos procesos de transformación y aplicaciones finales.
-
-| Forma | Descripción |
-| --- | --- |
-| Planchas y láminas | Espesores desde 0,5 mm hasta 50 mm |
-| Rollos y bobinas | Longitudes estándar de 10 m a 30 m |
-| Barras y perfiles | Secciones redondas, cuadradas, especiales |
-| Piezas moldeadas | Juntas tóricas, retenes, manguitos |
-| Adhesivos y sellantes | En base disolvente o acuosa |
-| Latex de NBR | Para inmersión y recubrimientos |
-
-## Limitaciones y precauciones
-El NBR no es adecuado para aplicaciones que impliquen contacto con cetonas, ésteres, hidrocarburos clorados o ácidos fuertes oxidantes. La exposición prolongada a la intemperie, radiación UV y ozono puede provocar agrietamiento superficial, aunque existen fórmulas estabilizadas. Se recomienda almacenar el material en lugar fresco y seco, alejado de fuentes de calor y luz solar directa.
+El HNBR (caucho de nitrilo hidrogenado) ofrece un comportamiento térmico y mecánico superior al NBR, manteniendo una resistencia química similar, por lo que se utiliza cuando las temperaturas de servicio superan los 120 °C (250 °F). El EPDM es preferible para aplicaciones expuestas a la intemperie, pero no es adecuado para contacto con hidrocarburos. El FKM proporciona la máxima resistencia térmica y química, aunque su coste es elevado.
 
 ## Preguntas frecuentes (FAQ)
 
-### ¿Cuál es la temperatura máxima de uso continuo del NBR?
-El NBR puede trabajar de forma continua hasta 108 °C (226 °F) sin degradación acelerada significativa, aunque algunas formulaciones de alta saturación soportan picos de 120 °C.
+### ¿Qué es el NBR y para qué se utiliza?
+El NBR (caucho de nitrilo butadieno) es un elastómero sintético con excelente resistencia a aceites, combustibles y grasas. Se utiliza principalmente en la fabricación de juntas, sellos, mangueras, guantes y piezas moldeadas para las industrias automotriz, petrolera y química.
 
-### ¿Qué dureza Shore A tiene el NBR más común?
-La dureza del NBR estándar varía entre 40 y 95 Shore A, permitiendo seleccionar desde grados muy flexibles hasta formulaciones semirrígidas.
+### ¿Cuál es el rango de temperatura de trabajo del NBR?
+El NBR puede trabajar de forma continua entre -55 °C y 108 °C (-67 °F a 226 °F), aunque los grados con bajo contenido de acrilonitrilo mantienen mejor elasticidad a baja temperatura y los de alto contenido mejor comportamiento en caliente durante periodos cortos.
 
-### ¿Qué contenido de acrilonitrilo es habitual en el NBR?
-Los grados comerciales contienen entre 18 % y 50 % de acrilonitrilo; los valores más frecuentes para uso general se sitúan en el 33‑35 %.
+### ¿Qué tan resistente es el NBR a los aceites y combustibles?
+El NBR se considera uno de los elastómeros con mejor relación resistencia‑coste frente a aceites minerales, diésel, gasolina y fluidos hidráulicos en base petróleo. La resistencia mejora al aumentar el contenido de acrilonitrilo del polímero.
 
-### ¿El NBR es adecuado para vapor de agua?
-No se recomienda su uso con vapor saturado a presiones elevadas, ya que a temperaturas superiores a 100 °C puede reblandecerse e hidrolizarse con el tiempo.
+### ¿Cuál es la diferencia entre NBR y HNBR?
+El HNBR es la versión hidrogenada del NBR. Esta saturación de la cadena polimérica le confiere una resistencia al calor, al ozono y al envejecimiento significativamente superiores, con un rango de temperatura de hasta 165 °C (329 °F), manteniendo una resistencia química similar.
 
-### ¿Cuál es la vida útil media del NBR almacenado correctamente?
-Almacenado a 20 °C y sin exposición directa a la luz, la vida útil alcanza 3‑5 años antes de que las propiedades mecánicas empiecen a degradarse.
+### ¿Cuál es la dureza típica del NBR?
+La dureza Shore A del NBR se puede formular en un rango muy amplio, desde 40 (muy blando) hasta 95 (duro). Los valores más comunes en aplicaciones de sellado se sitúan entre 60 y 80 Shore A.
 
-### ¿El NBR se puede unir a metales?
-Sí, el NBR se vulcaniza fácilmente sobre insertos metálicos, logrando resistencias de adhesión superiores a 3 MPa (435 psi) en uniones correctamente preparadas.
-
----
-
-Fuentes consultadas:  
-- https://www.azom.com/article.aspx?ArticleID=1724  
-- https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html  
-- https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
+### ¿Cómo se compara el NBR con el EPDM en aplicaciones automotrices?
+El NBR se elige cuando el componente está en contacto con aceites o combustibles (mangueras de combustible, juntas de motor), mientras que el EPDM es la opción preferida para aplicaciones expuestas a la intemperie, como burletes y mangueras de refrigerante, debido a su mejor resistencia al ozono y a los agentes atmosféricos.
 
 ## Fuentes consultadas
 
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=1724
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/elastomers-rubbers-d_1788.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=519
+- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=319

@@ -9,71 +9,71 @@ topic: "welding"
 subcategory: "quality-iso-5817"
 skill: "standards-guide"
 launch_phase: 5
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-La norma internacional ISO 5817 establece tres niveles de calidad —B, C y D— para imperfecciones en uniones soldadas por fusión de materiales metálicos, excluyendo el soldeo por haz de energía. El nivel B representa la máxima exigencia y se reserva para componentes sometidos a cargas críticas o fatiga; el nivel C es el estándar intermedio de uso general en estructuras metálicas; el nivel D corresponde a requisitos básicos donde solo se requiere resistencia estática. La evaluación se basa en la observación visual y ensayos no destructivos, fijando límites cuantitativos para cada tipo de imperfección en función del espesor de la soldadura. La norma cubre cordones con espesores típicos entre 0,5 mm / 0.02 in y 63 mm / 2.48 in, y es aplicable a la mayoría de los procesos de soldadura por arco y autógena.
+La norma ISO 5817 establece tres niveles de calidad para imperfecciones en uniones soldadas por fusión en materiales como acero, níquel y titanio. El nivel B es el más exigente y se aplica cuando la integridad estructural es crítica, mientras que el nivel D es el más permisivo y adecuado para aplicaciones con menores requisitos de resistencia. Esta clasificación permite seleccionar el grado de inspección adecuado según la función de la soldadura, reduciendo costos de fabricación sin comprometer la seguridad.
 
 ## Parámetros operativos
-La calificación del nivel de calidad depende de la magnitud de las imperfecciones detectadas frente a los límites tabulados para el espesor de chapa o tubo. Los parámetros principales son el tipo de imperfección, su dimensión real y la frecuencia de aparición a lo largo de 100 mm / 3.94 in de cordón. Los valores de aceptación se expresan en milímetros o como porcentaje del espesor nominal de la unión. La tabla siguiente recoge los límites máximos para algunas imperfecciones frecuentes en uniones a tope de 10 mm / 0.39 in de espesor.
+Los límites de imperfecciones dependen directamente del espesor de la soldadura y del nivel de calidad especificado. La norma cubre defectos superficiales como grietas, falta de fusión, penetración excesiva y mordeduras, así como imperfecciones internas detectables por ensayos volumétricos.
 
-| Imperfección | Nivel B | Nivel C | Nivel D |
-|--------------|---------|---------|---------|
-| Socavado continuo (profundidad) | No permitido | 0,5 mm / 0.02 in | 1,0 mm / 0.04 in |
-| Falta de penetración (altura) | No permitido | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in |
-| Porosidad aislada (diámetro) | 0,2 mm / 0.008 in | 0,4 mm / 0.016 in | 0,6 mm / 0.024 in |
-| Salpicaduras (número por 100 mm / 3.94 in) | 1 | 3 | 5 |
-| Exceso de refuerzo (altura) | 1,0 mm / 0.04 in | 1,5 mm / 0.06 in | 2,5 mm / 0.1 in |
-| Deformación angular (°) | 0,5 | 1,0 | 2,0 |
+| Imperfección | Límite para Nivel B (espesor 3 mm / 0.12 in) | Límite para Nivel C (espesor 3 mm / 0.12 in) | Límite para Nivel D (espesor 3 mm / 0.12 in) |
+|---|---|---|---|
+| Grietas | No permitidas | No permitidas | No permitidas |
+| Falta de fusión | No permitida | No permitida | No permitida |
+| Falta de penetración | No permitida | h ≤ 0,1 mm / 0.004 in, pero no permitida para longitudes superiores a 25 mm / 1 in | h ≤ 0,2 mm / 0.008 in, máxima longitud 50 mm / 2 in |
+| Mordedura (h) | h ≤ 0,5 mm / 0.02 in, pero solo para penetración parcial | h ≤ 1,0 mm / 0.04 in, con límite de longitud | h ≤ 1,5 mm / 0.06 in, sin limitación de longitud |
+| Porosidad (individual) | d ≤ 0,3 mm / 0.012 in, máximo 1 por cada 10 mm / 0.4 in de longitud | d ≤ 0,4 mm / 0.016 in, máximo 2 por cada 10 mm / 0.4 in de longitud | d ≤ 0,5 mm / 0.02 in, máximo 3 por cada 10 mm / 0.4 in de longitud |
+| Exceso de penetración | h ≤ 1,0 mm / 0.04 in | h ≤ 2,0 mm / 0.08 in | h ≤ 3,0 mm / 0.12 in |
 
-La frecuencia de control se define en el plan de inspección: para nivel B se suele aplicar END al 100% de la longitud soldada, mientras que en nivel D puede bastar con un muestreo cada 500 mm / 19.69 in o menos del 5% de las juntas.
-
-## Tolerancias típicas
-Las tolerancias admisibles para las dimensiones del cordón y los defectos geométricos están directamente vinculadas al nivel de calidad. En el nivel B se eliminan casi todas las irregularidades superficiales; en el nivel C se permiten pequeñas discontinuidades sin concentración aguda de tensiones; el nivel D acepta imperfecciones visibles siempre que no comprometan la resistencia estática. Los valores de referencia más utilizados en soldaduras de acero estructural de 15 mm / 0.59 in son:
-
-| Parámetro geométrico | Nivel B | Nivel C | Nivel D |
-|-----------------------|---------|---------|---------|
-| Desalineamiento de bordes | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in | 1,0 mm / 0.04 in |
-| Sobre-espesor máximo del cordón | 1,0 mm / 0.04 in | 1,5 mm / 0.06 in | 2,5 mm / 0.1 in |
-| Mordedura (undercut) máxima prof. | 0,2 mm / 0.008 in | 0,5 mm / 0.02 in | 1,0 mm / 0.04 in |
-| Desviación angular máxima | 0,5° | 0,75° | 1,5° |
-| Diámetro máximo de poro aislado | 0,3 mm / 0.012 in | 0,5 mm / 0.02 in | 0,8 mm / 0.031 in |
-| Longitud máxima de falta de fusión | 0 mm / 0 in | 0,3 mm / 0.012 in | 0,6 mm / 0.024 in |
-
-En aceros inoxidables austeníticos tipo 304 o 316, los límites de nivel C y D pueden ajustarse ligeramente para evitar zonas con excesivo calor que deterioren la resistencia a la corrosión intergranular, especialmente en espesores superiores a 6 mm / 0.24 in.
+## Tolerancias y defectos
+Los defectos de soldadura clasificados en esta norma incluyen imperfecciones dimensionales, de geometría del cordón y discontinuidades internas. Las tolerancias máximas se expresan como desviaciones respecto a la forma ideal de la junta soldada. El desalineamiento entre piezas en una soldadura a tope de nivel B no debe exceder 0,5 mm / 0.02 in para espesores de hasta 10 mm / 0.4 in, mientras que en el nivel D puede alcanzar 1,5 mm / 0.06 in. La concavidad del cordón de soldadura se limita al 2 % del espesor nominal de la garganta para el nivel B, al 5 % para el nivel C y al 10 % para el nivel D. Las inclusiones sólidas o de escoria no deben superar en su longitud máxima el espesor del material en el nivel B, y pueden alcanzar hasta el doble del espesor en el nivel D si no comprometen la continuidad de la unión.
 
 ## Materiales aplicables
-La norma ISO 5817 es aplicable a todos los materiales metálicos utilizados en uniones soldadas por fusión, siempre que el proceso de soldeo esté dentro del alcance de la norma. Los grupos de materiales más habituales son los aceros al carbono, aceros de baja aleación, aceros inoxidables (austeníticos, ferríticos y dúplex) y aleaciones de aluminio. La soldabilidad intrínseca de cada material influye en la facilidad para alcanzar los niveles B o C, como muestra la evaluación cualitativa (escala 1 = no recomendado, 10 = excelente) para diferentes procesos:
+La norma se aplica principalmente a aceros al carbono, aceros de baja aleación, aceros inoxidables, aleaciones de níquel y aleaciones de titanio. La soldabilidad de estos materiales varía y debe considerarse al seleccionar el nivel de calidad.
 
-| Material | Soldadura por arco (SMAW/GMAW) | Soldadura por resistencia | Soldadura fuerte |
-|----------|-------------------------------|---------------------------|-------------------|
-| Acero al carbono (baja aleación) | 10 | 10 | 10 |
-| Acero inoxidable 304/316 | 10 | 10 | 10 |
-| Aluminio serie 5000/6000 | 7 | 7 | 7 |
-| Titanio | 7 | 3 | 3 |
-| Fundición gris | 7 | 1 | 3 |
-
-Los aceros inoxidables austeníticos especificados en la clasificación AISI, como 304 (UNS S30400) y 316 (UNS S31600), presentan excelente soldabilidad y se sueldan rutinariamente en nivel C sin precauciones especiales. Sin embargo, para alcanzar el nivel B en estos materiales se requiere un control riguroso del aporte térmico (típicamente entre 0,5 kJ/mm y 2,5 kJ/mm / 12.7 kJ/in a 63.5 kJ/in) y protección adecuada contra la contaminación por hidrógeno.
+| Material | Soldabilidad general | Compatibilidad con nivel B | Compatibilidad con nivel C | Compatibilidad con nivel D |
+|---|---|---|---|---|
+| Acero al carbono y baja aleación | Excelente | Alta | Alta | Alta |
+| Acero inoxidable austenítico (ej. 304, 316) | Excelente | Alta | Alta | Alta |
+| Acero inoxidable martensítico (ej. 410) | Moderada | Media | Media | Alta |
+| Aleaciones de níquel (ej. Inconel) | Excelente | Alta | Alta | Alta |
+| Aleaciones de titanio | Buena | Alta | Media | Media |
 
 ## Ventajas y limitaciones
-La principal ventaja de la clasificación ISO 5817 es que proporciona un lenguaje común entre diseñadores, fabricantes e inspectores, reduciendo en un 30% los rechazos por discrepancias en la interpretación de imperfecciones. Además, permite seleccionar el nivel óptimo de calidad en función de la criticidad del componente, evitando sobrespecificaciones que encarecen la fabricación. Como limitación, la norma no cubre procesos de soldeo por haz de alta energía (láser, haz de electrones), que requieren la ISO 13919, y su aplicación exige una formación específica del inspector para evaluar correctamente ciertas imperfecciones como las inclusiones de escoria alargadas. Tampoco define criterios de aceptación para soldaduras de materiales disimilares, que deberán acordarse entre cliente y proveedor. En estructuras expuestas a fatiga o criogenia, el nivel B no siempre garantiza la vida útil deseada y debe complementarse con análisis de mecánica de fractura.
+La principal ventaja de la clasificación ISO 5817 es la estandarización objetiva de la calidad de la soldadura, lo que facilita la comunicación entre diseño, fabricación e inspección. Reducir el nivel de calidad de B a D puede disminuir los costos de fabricación en hasta un 30 % debido a la menor necesidad de reparaciones y a tiempos de inspección más cortos. Como limitación, el nivel D no es adecuado para componentes sometidos a fatiga dinámica, cargas sísmicas o altas presiones cíclicas. Además, la interpretación subjetiva de algunos defectos superficiales puede generar discrepancias entre inspectores, lo que requiere una formación específica en la norma ISO 9712 para ensayos no destructivos.
 
 ## Guía de selección
-La elección del nivel de calidad se basa en el requisito de servicio, la seguridad exigida y el costo de inspección. La tabla siguiente resume la asignación típica para diferentes aplicaciones.
+La selección del nivel de calidad debe basarse en la criticidad del componente, el tipo de carga y las condiciones de servicio.
 
-| Aplicación | Nivel recomendado | Coste relativo de inspección | Observaciones |
-|------------|-------------------|------------------------------|---------------|
-| Recipientes a presión (PED) | B | Alto (x3,5) | Requiere END adicional |
-| Estructuras de edificación (EN 1090) | C | Medio (x1,8) | Para ejecución clase EXC2 |
-| Cerramientos y carpintería metálica | D | Básico (x1,0) | Solo control visual |
-| Tuberías de proceso (fluidos no peligrosos) | C / D | Medio-bajo | D para diámetros ≤ 50 mm / 1.97 in |
-| Componentes aeronáuticos | B+ requisitos adicionales | Muy alto | Complementado con ISO 10042 para aluminio |
-| Equipamiento agroalimentario (acero inoxidable) | C | Medio | Requisito higiénico adicional |
+| Aplicación | Nivel de calidad recomendado | Justificación |
+|---|---|---|
+| Recipientes a presión (categoría IV según PED) | B | Requiere máxima integridad estructural y resistencia a la fatiga; las grietas no son tolerables en ningún espesor. |
+| Estructuras metálicas de edificación (cargas estáticas) | C | Equilibrio entre seguridad y costo de fabricación; control de mordeduras y porosidad moderadas. |
+| Componentes decorativos o de cerramiento sin carga | D | No hay riesgo estructural significativo; se prioriza la economía de producción. |
+| Tuberías de proceso con fluidos no peligrosos | C o D | D es aceptable para baja presión y temperatura ambiente; C se elige si hay fluctuaciones térmicas. |
+| Uniones de acero inoxidable en industria alimentaria | B o C | B para contacto directo con producto; C para soportes y chasis, siempre que la limpieza no se vea comprometida. |
 
-En la industria alimentaria se prefiere el nivel C combinado con un acabado superficial pulido (Ra ≤ 0,8 µm / 31.5 µin) para evitar la acumulación de bacterias en poros o salpicaduras. La norma ISO 5817 no aborda directamente la rugosidad superficial, por lo que deben especificarse exigencias complementarias.
+## Preguntas frecuentes (FAQ)
+### ¿Qué significa que una soldadura cumpla con el nivel B de ISO 5817?
+Cumple con los criterios de aceptación más estrictos para imperfecciones, siendo adecuada para aplicaciones de alta seguridad como aparatos a presión o estructuras sometidas a fatiga.
+
+### ¿Se pueden mezclar niveles de calidad en una misma unión soldada?
+Sí, un mismo componente puede tener soldaduras con diferentes niveles de calidad, siempre que los planos de fabricación indiquen claramente el nivel requerido para cada junta.
+
+### ¿ISO 5817 se aplica solo a aceros?
+No, la norma cubre también aleaciones de níquel y titanio. Para el aluminio y sus aleaciones, se utiliza la norma específica ISO 10042.
+
+### ¿Cuál es la diferencia entre una mordedura aceptable en nivel C y una en nivel D?
+En nivel C la mordedura no debe superar 1,0 mm / 0.04 in de profundidad y tiene una longitud máxima acumulada limitada al 25 % de la longitud total de la soldadura, mientras que en nivel D puede alcanzar 1,5 mm / 0.06 in sin restricción de longitud.
+
+### ¿Qué defecto no está permitido en ningún nivel de calidad?
+Las grietas y la falta de fusión están prohibidas para los tres niveles de calidad, ya que comprometen la continuidad del material y su resistencia mecánica.
+
+### ¿Cómo afecta el espesor del material al límite de porosidad?
+A mayor espesor, los límites dimensionales de los poros individuales se mantienen fijos, pero la frecuencia admisible se calcula en función de la longitud de la soldadura, no del espesor, por lo que no hay una relación directa.
 
 ## Fuentes consultadas
 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/stainless-steel-classifications-d_368.html
-- **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=P%20L%20A
+- **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=G%20C

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Resumen del proceso
 La forja es un proceso de conformado por deformación plástica en el que un material metálico, generalmente precalentado, es sometido a fuerzas de compresión localizadas aplicadas mediante martillos, prensas o matrices. El objetivo es orientar la estructura de grano, mejorar las propiedades mecánicas y obtener piezas con formas próximas a la geometría final. Los parámetros de diseño, como los ángulos de desmoldeo, radios de acuerdo y tolerancias dimensionales, son críticos para garantizar la fabricabilidad y la calidad del componente forjado.
 
 ## Tipos de forja

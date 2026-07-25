@@ -9,139 +9,112 @@ topic: "polymers"
 subcategory: "high-performance"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-Ultra-high-molecular-weight polyethylene (UHMWPE) is a semicrystalline thermoplastic, whitish and opaque, chemically equivalent to HDPE but with an extremely high molecular weight, typically 2 to 6 million g/mol. This exceptional chain length gives it such a high melt viscosity that it can only be processed through powder sintering techniques. It possesses outstanding shear strength, wear resistance and toughness, along with excellent chemical resistance, in some respects superior to conventional HDPE. It is odorless, tasteless, non-toxic and has a very low coefficient of friction, comparable to PTFE, but with clearly better abrasion resistance.
+Ultra-high molecular weight polyethylene (UHMWPE) is a semicrystalline, opaque, whitish thermoplastic composed of polyethylene chains with an exceptionally high molecular weight, typically between 2 and 6 million daltons. This extreme chain length gives it the highest impact resistance among thermoplastics, along with exceptional toughness and wear resistance. It is self-lubricating, has a very low coefficient of friction — comparable to PTFE — and outstanding chemical resistance against acids, alkalis, and most solvents, except oxidizing acids. Unlike conventional polyethylenes, its very high melt viscosity prevents processing by common methods such as injection molding; powder sintering, ram extrusion, or gel spinning are used to obtain high-performance fibers.
 
 ## Chemical composition
-| Component | Formula / Value |
-| --- | --- |
-| Base polymer | Polyethylene, -(CH₂-CH₂)ₙ- |
-| Molecular weight | 2 000 000 to 6 000 000 g/mol |
-| Additives | None (pure material) |
-| Elements | Carbon (C) and hydrogen (H) exclusively |
+The base structure of UHMWPE corresponds to the repetition of the ethylene monomer, forming very long linear chains of -(CH₂-CH₂)- with an average molecular weight much higher than that of conventional HDPE.
 
-UHMWPE is a linear homopolymer of ethylene with no polar groups, amides or esters, which explains its excellent chemical resistance and hydrophobic nature.
+| Component            | Value                                                        |
+|----------------------|--------------------------------------------------------------|
+| Chemical formula     | (C₂H₄)n                                                      |
+| Typical molecular weight | 2 – 6 × 10⁶ g/mol / Dalton                                |
+| Carbon (wt%)         | 85.7 %                                                       |
+| Hydrogen (wt%)       | 14.3 %                                                       |
+| Crystallinity        | 39 – 75 % (depending on processing)                          |
+| Fiber orientation degree | > 95 % parallelism                                        |
 
-## Mechanical properties (as supplied, sintered sheet)
-| Property | SI Value | Imperial Value |
-| --- | --- | --- |
-| Tensile strength | 35 MPa | 5 076 psi |
-| Flexural modulus | 0.5 GPa | 72 519 psi |
-| Elongation at break | 500 % | 500 % |
-| Strain at yield point | 25 % | 25 % |
-| Izod impact strength (notched) | 1.06+ kJ/m (no break) | 19.86+ ft·lb/in |
-| Surface hardness | RR50 (Rockwell R) | – |
+## Mechanical properties
 
-Values correspond to unmodified material. The "+" designation after Izod impact indicates that the specimen does not break completely under standard test conditions.
+### Properties in base state (sintered sheet/rod)
+The following mechanical properties correspond to UHMWPE consolidated by sintering, without additional molecular orientation.
+
+| Property                              | Value (metric / imperial)                   |
+|---------------------------------------|---------------------------------------------|
+| Tensile strength                      | 35 MPa / 5,076 psi                          |
+| Flexural modulus                      | 0.5 GPa / 72.5 ksi                          |
+| Elongation at break                   | 500 %                                       |
+| Yield strain                          | 25 %                                        |
+| Izod impact strength (notched)        | 1.06+ kJ/m / 19.9+ ft·lb/in                |
+| Surface hardness                      | Rockwell R: RR50                            |
+
+### Properties in high-modulus fiber form (UHMPE / HPPE)
+Subjected to gel spinning and drawing, UHMWPE achieves orientations greater than 95 % and crystallinities up to 85 %, resulting in radically improved mechanical properties (indicative values for Dyneema / Spectra type fibers).
+
+| Property                  | Value (metric / imperial)                   |
+|---------------------------|---------------------------------------------|
+| Tensile strength          | 2.2 – 3.0 GPa / 319 – 435 ksi              |
+| Elastic modulus           | 80 – 170 GPa / 11.6 – 24.7 Msi             |
+| Linear density (tex)      | variable according to denier                |
+| Elongation at break       | 3 – 4 %                                     |
 
 ## Physical properties
-| Property | SI Value | Imperial Value |
-| --- | --- | --- |
-| Density | 0.945 g/cm³ | 59.0 lb/ft³ |
-| Water absorption (24 h) | 0.01 % | – |
-| Coefficient of linear thermal expansion | 13 × 10⁻⁵ /°C | 7.2 × 10⁻⁵ /°F |
-| Color | Opaque whitish | – |
-| Coefficient of friction (dynamic, steel) | < 0.1 | – |
-| Wettability | Hydrophobic, difficult to bond | – |
-
-UHMWPE floats in water, does not absorb moisture in service and is self-lubricating, allowing it to run dry in many sliding applications.
+| Property                                      | Value (metric / imperial)                      |
+|-----------------------------------------------|------------------------------------------------|
+| Density                                       | 0.945 g/cm³ / 0.0341 lb/in³                   |
+| Water absorption (24 h, 23 °C)                | 0.01 %                                         |
+| Dynamic friction coefficient (against steel)  | 0.05 – 0.11 (self-lubricating)                |
+| Volume resistivity                            | 10¹⁸ Ω·cm (log = 18)                          |
+| Dielectric strength                           | 28 MV/m / 711 V/mil                            |
+| Dissipation factor (1 kHz)                    | 0.0002                                         |
+| Dielectric constant (1 kHz)                   | 2.3                                            |
 
 ## Thermal properties
-| Property | SI Value | Imperial Value |
-| --- | --- | --- |
-| Melting point (onset) | 127.7 °C | 261.9 °F |
-| Maximum continuous service temperature | 55 °C | 131 °F |
-| Heat deflection temperature (HDT) at 0.45 MPa | 69 °C | 156 °F |
-| Heat deflection temperature (HDT) at 1.80 MPa | 42 °C | 108 °F |
-| Embrittlement temperature | < –150 °C | < –238 °F |
-| Flammability (UL94) | HB | – |
-| Limiting oxygen index | 17 % | – |
+| Property                                       | Value (metric / imperial)                                    |
+|------------------------------------------------|--------------------------------------------------------------|
+| Melting temperature (onset)                    | 127.7 °C / 261.9 °F                                          |
+| Maximum continuous operating temperature       | 55 °C / 131 °F                                               |
+| Brittle temperature                            | -150 °C / -238 °F                                            |
+| HDT (0.45 MPa)                                 | 69 °C / 156.2 °F                                             |
+| HDT (1.80 MPa)                                 | 42 °C / 107.6 °F                                             |
+| Linear expansion coefficient                   | 13 × 10⁻⁵ / °C (7.2 × 10⁻⁵ / °F)                            |
+| Limiting oxygen index (LOI)                    | 17 %                                                         |
+| UL94 flammability rating                       | HB                                                           |
 
-Above 90 °C, UHMWPE fibers lose mechanical strength rapidly. The material becomes brittle at cryogenic temperatures below –150 °C.
-
-## Chemical resistance
-| Chemical or group | Resistance |
-| --- | --- |
-| Acetic acid | Excellent |
-| Ammonium hydroxide (30 %) | Excellent |
-| Calcium hydroxide (30 %) | Excellent |
-| Diethylene glycol | Excellent |
-| Ethanol (100 %) | Excellent |
-| Glycerin | Excellent |
-| Hydrogen peroxide (30 %) | Excellent |
-| Methanol | Excellent |
-| Mineral and vegetable oils | Good |
-| Gasoline | Good |
-| Acetone | Good |
-| Formaldehyde (10–40 %) | Good |
-| Phenol | Good |
-| Dibutyl ether | Fair |
-| Ethyl acetate (100 %) | Fair |
-| Heptane | Fair |
-| Hydrogen peroxide (90 %) | Poor |
-| Ethylene dichloride | Poor |
-| Methylene chloride | Very poor |
-| Acetylene dichloride | No resistance |
-
-UHMWPE resists most acids, alkalis and organic solvents at room temperature, but is attacked by concentrated oxidizing acids and certain chlorinated hydrocarbons.
-
-## Electrical properties
-| Property | SI Value | Imperial Value |
-| --- | --- | --- |
-| Volume resistivity (log Ω·cm) | 18 (10¹⁸ Ω·cm) | – |
-| Dielectric strength | 28 MV/m | 711 V/mil |
-| Dielectric constant at 1 kHz | 2.3 | 2.3 |
-| Dissipation factor at 1 kHz | 0.0002 | 0.0002 |
-
-Excellent electrical insulator, with very high resistivity and minimal dielectric losses. Suitable for high-frequency applications.
-
-## Processing
-UHMWPE cannot be processed by conventional melt processes (injection molding, screw extrusion) due to its extremely high melt viscosity. Typical forming methods include:
-
-- Powder sintering in molds (compression molding).
-- Ram extrusion.
-- Machining from sintered sheets or rods.
-
-For the production of high-modulus fibers, gel spinning is used followed by extreme stretching that can achieve a crystallinity degree above 85 % and a parallel orientation greater than 95 %. No pre-drying is required because moisture absorption is practically zero.
-
-## Applications
-- **Food industry and packaging:** cutting boards, bottle and can handling parts, guides and chutes for bulk solid transport.
-- **Textile machinery:** moving components in looms, bearings, gears.
-- **Mechanical engineering:** sprockets, rollers, general wear parts.
-- **Medicine:** joint prostheses (hip, knee, spine) since the 1960s.
-- **Marine:** dock fenders, keels, submerged parts resistant to abrasion.
-- **Protection and defense:** Dyneema® or Spectra® fibers for bulletproof vests, helmets, lightweight armor.
-- **Sports and leisure:** climbing equipment, sailing, motorcycle protection, high-performance ropes.
+## Applications by industry
+- **Medical and orthopedic industry:** joint replacement components (hip, knee, spine) due to its biocompatibility and wear resistance.
+- **Material handling and bottling:** guides, hoppers, slide plates, wear parts for filling machines and bulk solid transport.
+- **Food industry:** professional cutting boards, work surfaces that prevent contamination and blade wear.
+- **Sports and recreational equipment:** edge protectors for ice rinks, skate components, sports shoe reinforcements.
+- **Defense and ballistic protection:** bulletproof vests, helmets, lightweight armor from high-modulus fibers (Dyneema / Spectra).
+- **Marine sector:** quay fenders, high-strength ropes and lines.
+- **Textile engineering and machinery:** bushings, bearings, self-lubricating plain bearings, moving parts of looms.
 
 ## Comparison with similar materials
-| Material | Density (g/cm³) | Tensile strength (MPa) | Coefficient of friction (dynamic, steel) | Impact resistance | Abrasion resistance |
-| --- | --- | --- | --- | --- | --- |
-| UHMWPE | 0.945 | 35 | < 0.1 | Excellent | Excellent |
-| HDPE | 0.95 | 25–30 | ~0.2 | Good | Good |
-| PTFE | 2.2 | 20–25 | 0.04–0.05 | Fair | Moderate |
-| Nylon 6 | 1.15 | 70–80 | 0.25 | Very good | Good |
-| Acetal (POM) | 1.41 | 60–70 | 0.15 | Good | Very good |
+Qualitative comparison of UHMWPE against other high-engineering thermoplastics in their most distinctive properties (indicative scale).
 
-UHMWPE surpasses all common thermoplastics in impact resistance and offers the best wear resistance/low coefficient of friction ratio. Compared to PTFE, its abrasion resistance is much higher, although its use at elevated temperatures is more limited. Compared to Nylon and Acetal, UHMWPE has lower tensile strength but much better toughness and slip, especially in abrasive or dusty environments.
+| Property                              | UHMWPE               | PTFE               | Nylon (PA6)        | Acetal (POM)       | HDPE               |
+|---------------------------------------|----------------------|--------------------|--------------------|--------------------|--------------------|
+| Friction coefficient                  | Very low (≈0.05‑0.11)| Very low (≈0.04)   | Low (≈0.15‑0.25)   | Low (≈0.2)         | Low (≈0.2)         |
+| Abrasion resistance                   | Excellent            | Low                | Good               | Very good          | Moderate           |
+| Impact resistance (toughness)         | Exceptional (highest among thermoplastics) | Low | High               | Moderate           | High               |
+| Maximum continuous service temperature| 55 °C / 131 °F       | 260 °C / 500 °F    | 85‑100 °C / 185‑212 °F | 85‑100 °C / 185‑212 °F | 55‑65 °C / 131‑149 °F |
+| Moisture absorption                   | Practically zero (0.01 %) | Zero            | High (up to 3 %)   | Low (0.2 %)        | Very low           |
+| Processability                        | Only sintering/ram  | Easy sinter/mold   | Injection/extrusion| Injection/extrusion| Injection/extrusion|
 
 ## Frequently Asked Questions (FAQ)
+### What is the fundamental difference between UHMWPE and HDPE?
+UHMWPE has a molecular weight between 2 and 6 million daltons, while conventional HDPE ranges from 200,000 to 500,000. This extreme chain length gives it much higher impact and abrasion resistance, as well as slightly higher chemical resistance, but at the cost of being unable to be processed by conventional melt methods.
 
-**What is the maximum continuous service temperature of UHMWPE?** 55 °C is the recommended value for permanent service; however, it can withstand brief peaks up to 90 °C without immediate failure, but with progressive loss of mechanical properties.
+### Can UHMWPE be joined or glued?
+Adhesive bonding of UHMWPE is extremely difficult due to its very low surface energy (approx. 30 mN/m) and non-polar nature. For acceptable adhesion, surface treatments such as plasma, corona, or chemical etching with chromic acid are required. Mechanical fastening or heat sealing are preferable alternatives.
 
-**What is the molecular weight of UHMWPE?** 2 to 6 million daltons, which means chains of more than 100 000 repeat units, between 10 and 100 times longer than those of standard HDPE.
+### What is the maximum continuous service temperature of UHMWPE?
+The recommended continuous operating temperature for solid components is 55 °C / 131 °F. Prolonged exposure above 80‑90 °C causes softening and loss of mechanical properties, although the crystalline melting temperature begins around 127.7 °C.
 
-**What is the typical elongation at break of unoriented UHMWPE?** 500 %, reflecting its extraordinary ductility at room temperature and its ability to absorb energy before fracture.
+### Why can't UHMWPE be injection molded?
+Its melt viscosity is on the order of 10⁷‑10⁹ Pa·s, millions of times higher than that of injection-moldable polyethylenes. This practically non-existent flow prevents mold filling by injection. Feasible industrial techniques are powder sintering (compression) and ram extrusion, or gel spinning for fibers.
 
-**What value of notched Izod impact strength does it have?** 1.06 kJ/m without complete break of the specimen, equivalent to more than 19 ft·lb/in, the highest among all commercial thermoplastics.
+### At what temperature does UHMWPE become brittle?
+The material retains high toughness down to very low temperatures; embrittlement is observed below -150 °C / -238 °F. This makes it an excellent choice for cryogenic or arctic applications.
 
-**How does its coefficient of friction compare to PTFE?** Both are below 0.1 against dry steel, but UHMWPE offers 5 to 10 times greater wear resistance than PTFE under abrasive conditions.
+### What makes UHMWPE self-lubricating?
+Its exceptionally low coefficient of friction, from 0.05 to 0.11 against steel, is comparable to PTFE and is due to the absence of polar groups in the polyethylene chains. This non-adhesive structure prevents the formation of strong surface bonds, reducing both friction and wear without the need for external lubrication.
 
-**Can UHMWPE be injection molded or extruded?** No, its melt viscosity exceeds 10⁸ Pa·s, which forces exclusive use of powder sintering or ram extrusion, preventing conventional melt processing methods.
+## Sources Consulted
 
-## References
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=854
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/peh-chemical-resistance-d_329.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=714
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/ASTM-D3035-PE-pipes-d_2138.html
+- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=602

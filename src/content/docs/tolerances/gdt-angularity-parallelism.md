@@ -58,17 +58,23 @@ La tolerancia de perpendicularidad se emplea típicamente en caras de apoyo de b
 ASME Y14.5 e ISO 1101 comparten la simbología fundamental para orientación, pero presentan divergencias prácticas. En ISO el símbolo de perpendicularidad puede ser ⊤, mientras ASME usa ⊥. ASME permite zona de tolerancia proyectada solo con modificador Ⓟ, ISO recurre a anotaciones adicionales de plano. La angularidad en ISO admite directamente referencias múltiples de datums (plano y eje simultáneos) sin requisitos adicionales, mientras ASME exige una construcción de datum compuesto. El modificador de máxima condición de material (Ⓜ) actúa exclusivamente sobre elementos de tamaño (agujeros, ejes) en ambas normas, pero ISO extiende su uso a superficies derivadas en la revisión 2017. La interpretación del datum primario invariable (superficie plana) y secundario (eje) es equivalente en ambos sistemas.
 
 ## Preguntas frecuentes (FAQ)
-1. ¿Cuál es la tolerancia de perpendicularidad recomendada para un eje de 20 mm de diámetro? — Para un eje de 20 mm / 0.79 in de diámetro, se recomienda una tolerancia de perpendicularidad de 0,03 mm / 0.0012 in respecto a su cara de apoyo si se requiere precisión elevada (clase H), o 0,1 mm / 0.004 in para aplicaciones de clase media (K).
+### ¿Cuál es la tolerancia de perpendicularidad recomendada para un eje de 20 mm de diámetro?
+— Para un eje de 20 mm / 0.79 in de diámetro, se recomienda una tolerancia de perpendicularidad de 0,03 mm / 0.0012 in respecto a su cara de apoyo si se requiere precisión elevada (clase H), o 0,1 mm / 0.004 in para aplicaciones de clase media (K).
 
-2. ¿Puede una superficie cumplir paralelismo de 0,1 mm sin cumplir planitud? — Sí, una superficie con paralelismo de 0,1 mm / 0.004 in puede tener una planitud peor que 0,1 mm / 0.004 in, porque la zona de tolerancia de paralelismo es de dos planos paralelos al datum, dentro de los cuales la superficie real puede ondularse libremente.
+### ¿Puede una superficie cumplir paralelismo de 0,1 mm sin cumplir planitud?
+— Sí, una superficie con paralelismo de 0,1 mm / 0.004 in puede tener una planitud peor que 0,1 mm / 0.004 in, porque la zona de tolerancia de paralelismo es de dos planos paralelos al datum, dentro de los cuales la superficie real puede ondularse libremente.
 
-3. ¿Cómo se convierte una tolerancia de angularidad de 0,2 mm en grados? — Con una longitud de lado medida de 100 mm / 3.94 in, una tolerancia de angularidad de 0,2 mm / 0.008 in equivale a una variación angular de aproximadamente 0,11° o 6,9 minutos de arco (tan(θ) ≈ 0,2/100).
+### ¿Cómo se convierte una tolerancia de angularidad de 0,2 mm en grados?
+— Con una longitud de lado medida de 100 mm / 3.94 in, una tolerancia de angularidad de 0,2 mm / 0.008 in equivale a una variación angular de aproximadamente 0,11° o 6,9 minutos de arco (tan(θ) ≈ 0,2/100).
 
-4. ¿Qué tolerancia de paralelismo necesita un par de caras de brida separadas 200 mm? — Para una separación de 200 mm / 7.87 in y precisión media (clase K), la tolerancia de paralelismo es de 0,2 mm / 0.008 in, suficiente para evitar fugas en juntas no metálicas.
+### ¿Qué tolerancia de paralelismo necesita un par de caras de brida separadas 200 mm?
+— Para una separación de 200 mm / 7.87 in y precisión media (clase K), la tolerancia de paralelismo es de 0,2 mm / 0.008 in, suficiente para evitar fugas en juntas no metálicas.
 
-5. ¿Se puede sustituir la perpendicularidad por una tolerancia de angularidad de 90°? — Técnicamente sí, una angularidad de 0,05 mm / 0.002 in con cota básica de 90° produce la misma zona de tolerancia que una perpendicularidad de 0,05 mm / 0.002 in, pero los estándares reservan el símbolo ⊥ para 90° implícito y ∠ para ángulos distintos de 90°.
+### ¿Se puede sustituir la perpendicularidad por una tolerancia de angularidad de 90°?
+— Técnicamente sí, una angularidad de 0,05 mm / 0.002 in con cota básica de 90° produce la misma zona de tolerancia que una perpendicularidad de 0,05 mm / 0.002 in, pero los estándares reservan el símbolo ⊥ para 90° implícito y ∠ para ángulos distintos de 90°.
 
-6. ¿Cómo afecta el modificador de máxima condición material a una perpendicularidad de 0,04 mm? — Con Ⓜ aplicado a un eje de 15 mm / 0.59 in y tolerancia dimensional ±0,1 mm, la perpendicularidad de 0,04 mm / 0.0016 in puede ampliarse a 0,14 mm / 0.0055 in si el eje se fabrica en su diámetro mínimo de 14,9 mm / 0.587 in, gracias a la holgura adicional.
+### ¿Cómo afecta el modificador de máxima condición material a una perpendicularidad de 0,04 mm?
+— Con Ⓜ aplicado a un eje de 15 mm / 0.59 in y tolerancia dimensional ±0,1 mm, la perpendicularidad de 0,04 mm / 0.0016 in puede ampliarse a 0,14 mm / 0.0055 in si el eje se fabrica en su diámetro mínimo de 14,9 mm / 0.587 in, gracias a la holgura adicional.
 
 ## Fuentes consultadas
 

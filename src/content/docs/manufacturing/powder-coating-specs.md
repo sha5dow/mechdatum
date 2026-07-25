@@ -17,7 +17,6 @@ La pintura en polvo es un proceso de recubrimiento seco en el que una mezcla de 
 
 El tamaño típico de partícula oscila entre 2 y 50 µm (0,08 y 2,0 mils), con una temperatura de fusión alrededor de 150 °C (302 °F) y curado estándar a 200 °C (392 °F) durante 10 a 15 minutos. Con formulaciones especiales pueden lograrse películas desde 30 µm (1,2 mils) hasta más de 150 µm (5,9 mils), siendo 60-80 µm (2,4-3,1 mils) el rango más habitual para uso industrial.
 
-## Principio de funcionamiento
 La aplicación se basa en la atracción electrostática entre la pieza a recubrir y las partículas de polvo. La pieza, previamente limpiada y, a menudo, tratada con un recubrimiento de conversión (fosfatado o cromatizado) para mejorar la adherencia, actúa como tierra o se carga negativamente. El polvo se fluidifica en una tolva y es transportado por aire comprimido hasta la pistola de aplicación, donde recibe una carga electrostática (normalmente negativa por efecto corona o tribocarga). Las partículas cargadas son proyectadas hacia la pieza y se adhieren de forma uniforme gracias a las fuerzas electrostáticas, incluso envolviendo parcialmente las caras posteriores debido a las corrientes de aire. Una vez depositada la capa deseada, la pieza se introduce en un horno de curado, donde el polvo funde, fluye y reticula químicamente (en el caso de termoestables) o simplemente funde y solidifica (termoplásticos), formando una película continua.
 
 ## Materiales aplicables

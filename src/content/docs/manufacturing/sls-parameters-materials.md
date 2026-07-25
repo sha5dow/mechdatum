@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
 La sinterización selectiva por láser (SLS) es un método de fabricación aditiva que utiliza un láser pulsado, habitualmente de CO₂, para fusionar selectivamente partículas de polvo termoplástico capa por capa. El proceso se desarrolló a finales de los años 80 y fue patentado en 1989 por Carl Deckard. El polvo se extiende en una capa uniforme sobre una plataforma de construcción mediante un rodillo nivelador; a continuación, el láser traza la sección transversal de la pieza, sinterizando las partículas. La plataforma desciende entonces un espesor de capa — típicamente inferior a 0,1 mm — y se repite el ciclo hasta completar la pieza. Todo el lecho de polvo se mantiene a una temperatura ligeramente inferior al punto de fusión del material, lo que facilita la fusión parcial por el láser y evita tensiones térmicas. El polvo no sinterizado actúa como soporte natural, eliminando la necesidad de estructuras auxiliares y permitiendo el anidamiento de múltiples piezas en la misma cámara.
 
 ## Parámetros de operación típicos

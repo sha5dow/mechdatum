@@ -9,100 +9,107 @@ topic: "bearings"
 subcategory: "thrust-bearings"
 skill: "machine-element-reference-table"
 launch_phase: 6
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-Thrust bearings are rotating elements designed to support predominantly axial loads, with capacities ranging from a few newtons to over 500 kN (56.2 tons-force) in heavy industrial applications.
-
-The thrust bearing is a particular type of bearing that, unlike radial bearings, is optimized to transfer forces parallel to the axis of rotation. Its operating principle is based on rolling elements (balls, cylindrical rollers, tapered or spherical rollers) interposed between two washers or discs, or on pressurized fluid films that eliminate metallic contact. The selection of the appropriate type depends on the magnitude of the axial load, rotational speed, presence of combined radial loads, and required alignment precision.
+Thrust bearings are rotating elements designed to support predominantly axial loads, i.e., forces acting along the axis of rotation. Unlike radial bearings, which mainly resist loads perpendicular to the shaft, thrust bearings manage forces of up to several thousand kN in applications such as gearboxes, turbines, or marine propellers.
 
 ## Types of thrust bearings
-The fundamental classification of thrust bearings is summarized in the following table.
 
-| Type | Description | Characteristics | Typical applications |
-| --- | --- | --- | --- |
-| Ball thrust | Washers with raceways and ball cage. Suitable for pure axial loads in one direction. | Low friction, quiet, suitable for high speeds (up to 10 000 rpm in small sizes). Moderate load capacity. | Steering shafts, lead screws, couplings, small pumps. |
-| Cylindrical roller thrust | Short rollers arranged radially with their axes pointing to the center. | Very good load capacity, low cost, but generate differential friction and wear. Medium speeds. | Winches, turntables, lifting equipment, gear reducers. |
-| Tapered roller thrust | Truncated conical rollers whose vertices coincide on the bearing axis. Support combined loads. | Superior axial load capacity compared to balls; paired mounting to absorb thrust in both directions. Higher manufacturing cost. | Automotive transmissions, differentials, machine tool spindles, vehicle wheels. |
-| Spherical roller thrust | Asymmetric spherical rollers rolling on a spherical raceway in the housing washer. | Self-aligning, tolerate angular misalignment and combined radial loads. Highest load density of all thrust bearings. | Hydraulic turbine shafts, rotary kiln supports, marine propellers. |
-| Hydrodynamic / hydrostatic (fluid) | Axial load is supported on a pressurized oil film between tilting pads (Kingsbury/Michell type). | Practically no wear, negligible friction, enormous load capacities (>10 000 kN / 1124 tons-force). Very high speeds. | Turbogenerators, main cooling pumps, centrifugal compressors, high-power marine propellers. |
-| Magnetic | Axial force is counteracted by active electromagnetic fields. | No mechanical contact, extreme speeds (up to 200 000 rpm), zero friction, require control systems and electrical power supply. | Ultra-high-speed centrifuges, flywheels, high-speed blowers. |
+There are more than six standardized construction types, each with a unique trade-off between load capacity, speed, and cost. The correct choice depends on the magnitude of the axial force, the rotational speed, and the presence of combined radial loads.
 
-## Load capacities and speeds
-Typical indicative values of dynamic axial load and speed limits for standardized thrust bearings vary according to type and size. The following table shows typical ranges for bearings with bore diameters between 20 mm / 0.79 in and 200 mm / 7.87 in.
+| Type | Rolling element | Maximum axial load capacity (indicative) | Limiting speed | Allowable radial load | Typical applications |
+| --- | --- | --- | --- | --- | --- |
+| Ball thrust | Steel balls | Low to medium (~50 kN / 11,240 lbf) | High | No | Household appliances, flywheels |
+| Cylindrical roller thrust | Cylindrical rollers | Medium (~500 kN / 112,400 lbf) | Medium | No | Gear pumps, extruders |
+| Tapered roller thrust | Tapered rollers | High (~2000 kN / 449,600 lbf) | Medium | Yes (combined) | Automotive transmissions, differentials |
+| Spherical roller thrust | Asymmetric spherical rollers | Very high (~5000 kN / 1,124,000 lbf) | Low to medium | Yes (self-aligning) | Hydroelectric turbines, rolling mills |
+| Fluid film bearings (Michell/Kingsbury) | Pressurized oil film | Extremely high (>10,000 kN / 2,248,000 lbf) | High | No (axial only) | Large turbogenerators, marine propellers |
+| Magnetic | Magnetic field | Variable (per design) | Very high | Limited | Ultracentrifuges, vacuum systems |
 
-| Type | Max. dynamic axial load approx. (kN) | Max. static axial load approx. (kN) | Speed limit with lubrication (rpm) |
-| --- | --- | --- | --- |
-| Ball thrust | 10 – 450 kN / 1.1 – 50.6 tf | 20 – 800 kN / 2.2 – 90 tf | 800 – 10 000 rpm |
-| Cylindrical roller thrust | 30 – 1 200 kN / 3.4 – 135 tf | 50 – 2 500 kN / 5.6 – 281 tf | 400 – 4 500 rpm |
-| Tapered roller thrust | 50 – 2 000 kN / 5.6 – 225 tf | 80 – 4 000 kN / 9.0 – 450 tf | 600 – 6 000 rpm |
-| Spherical roller thrust | 80 – 3 500 kN / 9.0 – 394 tf | 150 – 7 000 kN / 16.9 – 787 tf | 300 – 3 000 rpm |
-| Hydrodynamic (fluid) | > 500 kN / 56.2 tf (typical 1 000 – 10 000 kN / 112 – 1124 tf) | > 800 kN / 90 tf (depends on pad area) | No defined thermal limit, typical 100 – 15 000 rpm |
+## Load capacity
 
-Note: tf = tons-force (1 tf ≈ 9.81 kN). Speeds refer to lubrication with standard grease or mineral oil.
+The static load rating \(C_0\) of a standard ball thrust bearing with a bore diameter of 30 mm / 1.18 in can reach 18 kN / 4,046 lbf. For spherical roller thrust bearings, the dynamic rating \(C\) for a 100 mm / 3.94 in diameter exceeds 600 kN / 134,885 lbf. The equivalent dynamic load when only pure axial force acts is calculated by:
+
+> **\(P = F_a\)** (for bearings with \(F_r \approx 0\))
+
+Where:
+
+| Variable | Meaning | Unit |
+| --- | --- | --- |
+| \(P\) | Equivalent dynamic load | kN |
+| \(F_a\) | Applied axial load | kN |
+
+For thrust bearings that can also absorb some radial load, the calculation factor is adjusted per the manufacturer, but in general the axial load remains the dominant term.
 
 ## Standard dimensions
-The bore and outside diameters of ball and roller thrust bearings mainly conform to the dimensional series of ISO 104 and DIN 711. The following table shows typical dimensions of single-direction ball thrust bearings, light series, widely used as a reference.
 
-| Bore diameter (mm / in) | Outside diameter (mm / in) | Height (mm / in) |
-| --- | --- | --- |
-| 10 mm / 0.394 in | 24 mm / 0.945 in | 9 mm / 0.354 in |
-| 15 mm / 0.591 in | 28 mm / 1.102 in | 9 mm / 0.354 in |
-| 20 mm / 0.787 in | 35 mm / 1.378 in | 10 mm / 0.394 in |
-| 30 mm / 1.181 in | 52 mm / 2.047 in | 16 mm / 0.630 in |
-| 40 mm / 1.575 in | 60 mm / 2.362 in | 13 mm / 0.512 in |
-| 50 mm / 1.969 in | 78 mm / 3.071 in | 22 mm / 0.866 in |
-| 70 mm / 2.756 in | 95 mm / 3.740 in | 18 mm / 0.709 in |
-| 100 mm / 3.937 in | 140 mm / 5.512 in | 31 mm / 1.220 in |
-| 150 mm / 5.906 in | 215 mm / 8.465 in | 50 mm / 1.969 in |
-| 200 mm / 7.874 in | 280 mm / 11.024 in | 60 mm / 2.362 in |
+Thrust bearings follow international dimensional series (ISO 104, DIN 711/715). Below are typical dimensions for the one-direction ball thrust and cylindrical roller series, with bore diameter \(d\) and outside diameter \(D\) in mm and in, and height \(H\) in mm and in.
 
-Medium and heavy series also exist, increasing load capacity and height. For roller bearings, dimensions follow the same standardization logic, with larger outside diameters for the same bore.
+| Series | \(d\) (mm / in) | \(D\) (mm / in) | \(H\) (mm / in) |
+| --- | --- | --- | --- |
+| Ball 51100 | 10 / 0.394 | 24 / 0.945 | 9 / 0.354 |
+| Ball 51200 | 15 / 0.591 | 32 / 1.260 | 12 / 0.472 |
+| Ball 51300 | 25 / 0.984 | 52 / 2.047 | 18 / 0.709 |
+| Cylindrical roller 81100 | 30 / 1.181 | 47 / 1.850 | 11 / 0.433 |
+| Cylindrical roller 81200 | 40 / 1.575 | 68 / 2.677 | 19 / 0.748 |
+| Spherical roller 29200 | 60 / 2.362 | 85 / 3.346 | 17 / 0.669 |
+
+Metric values are rounded per ISO designation; imperial conversion is given to three decimals as a reference.
 
 ## Selection criteria
-The correct choice of thrust bearing is based on the following parameters:
 
-1. **Magnitude of the axial load**: Determine the equivalent dynamic load P and compare it with the bearing capacity C. For purely axial loads with low demand, ball thrust bearings suffice. For high loads, rollers are preferred.
-2. **Combined loads**: If 10% or more additional radial load exists alongside the axial load, tapered or spherical roller bearings that support both types of stress should be used.
-3. **Rotational speed**: Ball thrust bearings allow the highest rpm. At very high speeds (> 5 000 rpm) in continuous applications, fluid bearings are superior.
-4. **Alignment and shaft deflections**: If angular misalignments greater than 0.5° are anticipated, the spherical roller thrust bearing is the only option among rolling contact types. Hydrodynamic bearings also tolerate some misalignment.
-5. **Direction of load**: For axial loads in both directions, double-direction thrust bearings, pairs of tapered bearings mounted in opposition, or systems with two single-direction ball bearings facing each other are required.
-6. **Lubrication and environmental conditions**: High temperatures (> 150 °C / 302 °F) or aggressive environments point toward special materials or fluid bearings with external cooling systems.
+The selection of a thrust bearing is based on five main criteria:
+
+1. **Load magnitude and nature**: Small pure axial loads allow ball types; high or impact loads require spherical roller bearings or fluid film bearings.
+2. **Rotational speed**: Ball and magnetic bearings support very high speeds; spherical roller bearings are limited to low rpm.
+3. **Presence of radial load**: If combined radial load exists, tapered roller or spherical roller thrust bearings must be used.
+4. **Lubrication and environmental conditions**: Temperatures above 120 °C / 248 °F or contaminated environments require special seals and high-temperature lubricants.
+5. **Precision and rigidity requirements**: Ultra-precision applications (machine tools) choose high-precision ball bearings, while marine applications favor the Michell bearing for its reliability and low friction.
+
+## Selection table by application
+
+| Application | Recommended thrust bearing type | Typical axial load | Typical rotational speed | Remarks |
+| --- | --- | --- | --- | --- |
+| Automotive transmission | Tapered roller | 5–20 kN / 1,124–4,496 lbf per pair | 2,000–5,000 rpm | Mounted in symmetric pairs (O or X) |
+| Marine propeller | Fluid film (Michell) | 500–10,000 kN / 112,404–2,248,080 lbf | <1,000 rpm | Continuous oil film, long life |
+| Vertical centrifugal pump | Spherical roller thrust | 50–500 kN / 11,240–112,404 lbf | 1,500–3,600 rpm | Handles shaft misalignment |
+| Household appliance (washing machine) | One-direction ball thrust | 2–8 kN / 450–1,800 lbf | 800–1,500 rpm | Low cost, no radial load |
+| Steam/gas turbine | Fluid film (Kingsbury) | 1,000–20,000 kN / 224,808–4,496,160 lbf | 3,000–6,000 rpm | Very high capacity, oil temperature controlled |
+| Screw compressor | Cylindrical roller thrust | 20–200 kN / 4,496–44,962 lbf | 3,000–10,000 rpm | Pure axial load, simple mounting |
+| Machine tool spindle | Precision ball thrust | 5–50 kN / 1,124–11,240 lbf | 6,000–15,000 rpm | Micrometric precision, adjustable preload |
 
 ## Mounting considerations
-- Single-direction thrust bearings must be mounted with the shaft washer fitted to the shaft and the other to the housing, paying attention to the mark indicating the seating face. They must never be inverted, as they would then no longer support the load.
-- It is essential to maintain an axial operating clearance according to the manufacturer's specifications; too tight a fit causes overheating, while excessive clearance generates vibrations.
-- In assemblies with tapered bearings, clamping is adjusted using nuts, controlling the turning torque with a torque wrench to achieve the correct preload.
-- The tilting pads of hydrodynamic bearings require an initial seating at low load to distribute the oil film evenly; the working clearance is measured with micrometer dial indicators.
-- Lubrication must be appropriate to the type: grease for ball bearings in low and medium speed applications; oil bath or circulation for heavy rollers; pressure systems for fluid bearings.
-- The seating surfaces on the shaft and housing must be ground to IT5-IT6 tolerances and a maximum roughness of 0.8 µm / 31.5 µin to ensure uniform load distribution.
 
-## Selection by application
+Proper mounting of a thrust bearing directly affects its service life. For a one-direction ball bearing with a rated load of 30 kN / 6,744 lbf, an angular misalignment of only 0.1° can reduce life by 40%.
 
-| Application | Recommended thrust bearing type | Justification |
-| --- | --- | --- |
-| Manual automotive transmission | Tapered roller thrust (pairs) | Supports thrust generated by helical gears in both directions and radial loads on the secondary shaft. |
-| Tugboat propeller shaft | Spherical roller thrust or hydrodynamic tilting pads | High continuous axial load, possible misalignments due to hull deflection, and very high required reliability. |
-| Vertical centrifugal pump | Ball thrust (double‑direction) or hydrodynamic | Moderate/high axial load depending on size; balls offer low friction and hydrodynamic pads handle larger loads with minimal wear. |
-| Steam turbine in power plant | Hydrodynamic (Kingsbury) | Very high axial load (> 10 000 kN / 1124 tf) and speeds of 3000‑3600 rpm; the fluid bearing supports these conditions without mechanical wear. |
-| Ultracentrifuge laboratory centrifuge | Magnetic | Speeds above 100 000 rpm, clean environment, and need for zero friction for analytical precision. |
-| Cement rotary kiln | Spherical roller thrust | Large combined axial and radial loads, misalignments due to thermal expansion, and low speed (5‑20 rpm). |
+- **Support surfaces**: The housing and shaft must have H7 (housing) and js6 (shaft) tolerances to ensure a precise fit. Recommended surface roughness is Ra ≤ 0.8 µm / 31.5 µin.
+- **Preload and axial adjustment**: Ball thrust bearings require a slight axial preload to eliminate internal clearance; achieved by a wave spring or lock nut with controlled tightening torque.
+- **Initial lubrication**: Apply good quality lithium grease filling 30% of the free space; for fluid film bearings, ensure pressurized oil supply before start-up.
+- **Load direction**: Respect the force direction (one-direction or two-direction); never reverse the orientation of the fixed race in ball bearings without consulting the design.
+- **Protection**: Install lip seals or deflectors if there is risk of particle ingress. In marine environments, consider AISI 440C stainless steel with hardness 58–60 HRC to prevent corrosion.
 
 ## Frequently Asked Questions (FAQ)
-### What is the load capacity of a typical 50 mm bore ball thrust bearing?
-  A 50 mm / 1.969 in bore ball thrust bearing has a dynamic axial load capacity around 35 kN / 3.9 tf according to the light dimensional series, sufficient for applications such as machine tool spindles.
-### What speed can a cylindrical roller thrust bearing reach?
-  In medium sizes (60‑100 mm / 2.36‑3.94 in bore) the speed limit with oil lubrication is between 2 500 and 4 500 rpm, depending on the cage and cooling system.
-### Which type of thrust bearing best handles angular misalignment?
-  Spherical roller thrust bearings can compensate for misalignments of up to 2° or 3°, equivalent to an angular displacement of 35 mm / 1.38 in per meter of shaft, while ball thrust bearings tolerate barely 0.5°.
-### How is a single-direction thrust bearing correctly mounted?
-  The shaft washer (fitted to the shaft) and the housing washer must be identified and mounted without inversion; the recommended initial axial clearance is usually 0.08 mm to 0.15 mm / 0.003 in to 0.006 in to accommodate thermal expansion.
-### Why do hydrodynamic bearings have no practical speed limit?
-  The oil film self-regulates with speed; rather than an absolute limit, its maximum rpm is conditioned by the oil temperature, which typically must not exceed 100 °C / 212 °F in the return flow.
-### Which standard governs the standard dimensions of thrust bearings?
-  The dimensional series are defined in ISO 104 and DIN 711, which for a 30 mm / 1.181 in bore, for example, set an outside diameter of 52 mm / 2.047 in and a height of 16 mm / 0.630 in for the light series.
 
-## References
+### What is the difference between a radial bearing and a thrust bearing?
+A radial bearing supports loads perpendicular to the shaft (radial), while a thrust bearing is designed for loads parallel to the shaft (axial). Many tapered bearings combine both functions.
+
+### What type of thrust bearing supports combined radial and axial loads?
+Tapered roller thrust bearings and spherical roller thrust bearings can handle simultaneous radial and axial loads. Their design allows a contact angle that balances both stresses.
+
+### When should a fluid film bearing be chosen over a rolling element bearing?
+When the axial load exceeds approximately 5,000 kN / 1,124,000 lbf or the speed is extremely high (>40 m/s / 7,874 fpm at the mean diameter), fluid film bearings offer lower friction, higher capacity, and no metallic wear.
+
+### How is the minimum required load capacity determined for a thrust bearing?
+From the shaft force analysis, the static and dynamic axial loads are obtained. The selected dynamic rating \(C\) must satisfy \(C \ge P \cdot (L_{10} / 10^6)^{1/p}\), where \(L_{10}\) is the desired life in revolutions and \(p\) is the exponent (3 for balls, 10/3 for rollers).
+
+### Does a ball thrust bearing require maintenance?
+Yes, it requires periodic relubrication every 500–2,000 operating hours depending on speed and temperature. Visual inspection of the raceways every 4,000 hours is also advisable to detect pitting or discoloration.
+
+### What is the maximum operating temperature of a standard thrust bearing?
+Chromium steel (AISI 52100) bearings with thermal stabilization can operate continuously up to 150 °C / 302 °F. For higher temperatures (up to 300 °C / 572 °F), special steels such as M50 or ceramic coatings are used.
+
+## Sources Consulted
+
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/forces-pipe-bends-d_968.html
 - **mcmaster.com**: https://www.mcmaster.com/products/axial-bearings/

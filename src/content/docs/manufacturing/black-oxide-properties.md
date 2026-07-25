@@ -9,132 +9,83 @@ topic: "surface-finishing"
 subcategory: "black-oxide"
 skill: "process-parameters"
 launch_phase: 2
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+El oxidado negro, también conocido como pavonado o ennegrecido, es un recubrimiento de conversión que genera una capa fina de óxido de hierro (magnetita, Fe₃O₄) sobre la superficie de metales ferrosos y otros sustratos. Se emplea principalmente para proporcionar una resistencia moderada a la corrosión, reducir los reflejos luminosos y conseguir un acabado decorativo oscuro. El espesor típico de la capa es de aproximadamente 1 micrómetro en procesos por inmersión en caliente, lo que implica un impacto dimensional mínimo y lo hace idóneo para piezas de precisión. Para alcanzar la máxima protección anticorrosiva, el recubrimiento debe sellarse posteriormente con aceite, cera o laca.
 
-## Propiedades generales
+## Parámetros operativos
 
-El óxido negro es un recubrimiento de conversión química que transforma la superficie del metal en magnetita (Fe₃O₄), generando una capa de espesor típico de 1 µm / 0.00004 in. Este proceso se aplica a temperaturas entre 20 °C y 141 °C / 68 °F y 286 °F según la variante utilizada, y no produce acumulación dimensional significativa en las piezas tratadas.
+Existen tres variantes industriales del proceso de oxidado negro, diferenciadas por la temperatura de trabajo y el mecanismo de formación del recubrimiento. La tabla siguiente resume los parámetros característicos de cada una.
 
-La capa de magnetita formada es mecánicamente más estable y proporciona mejor protección contra la corrosión que el óxido rojo (herrumbre, Fe₂O₃). Sin embargo, el óxido negro recién formado es poroso, por lo que requiere un sellado posterior con aceite, cera o laca para alcanzar su máxima resistencia a la corrosión.
-
-| Propiedad | Valor típico | Observaciones |
-|---|---|---|
-| Espesor de capa | 1 µm / 0.00004 in | Mínima acumulación dimensional |
-| Composición química | Magnetita (Fe₃O₄) | Procesos caliente y media temperatura |
-| Composición (frío) | Seleniuro de cobre (Cu₂Se) | No es recubrimiento de conversión |
-| Temperatura proceso caliente | 141 °C / 286 °F | Baño de hidróxido de sodio con nitratos/nitritos |
-| Temperatura media | 90–120 °C / 194–248 °F | Por debajo del punto de ebullición |
-| Temperatura frío | 20–30 °C / 68–86 °F | Proceso a temperatura ambiente |
-| Resistencia a corrosión | Leve a moderada | Requiere impregnación con aceite o cera |
-| Acabado superficial | Negro mate a semibrillante | Minimiza reflexión de luz |
-| Dureza superficial | No incrementa significativamente | Recubrimiento de conversión, no deposición |
-| Adherencia | Excelente | Se forma de la superficie del metal base |
-
-## Parámetros por material
-
-Los parámetros del proceso varían según el material base y el tipo de óxido negro aplicado. La especificación MIL-DTL-13924 cubre cuatro clases de procesos para diferentes sustratos, mientras que AMS 2485 y ASTM D769 proporcionan estándares alternativos para aplicaciones aeroespaciales e industriales.
-
-| Material base | Proceso recomendado | Temperatura baño químico | Tiempo inmersión (min) | Agentes químicos principales | Post-tratamiento requerido |
+| Proceso | Temperatura de baño | Composición del baño | Mecanismo de formación | Espesor típico | Materiales aplicables |
 |---|---|---|---|---|---|
-| Acero al carbono | Caliente | 140–141 °C / 284–286 °F | 5–30 | NaOH + NaNO₃ + NaNO₂ | Aceite o cera |
-| Acero aleado | Caliente | 140–141 °C / 284–286 °F | 10–45 | NaOH + NaNO₃ + NaNO₂ | Aceite o cera |
-| Acero inoxidable | Caliente | 140–141 °C / 284–286 °F | 10–60 | NaOH + NaNO₃ + NaNO₂ (formulación especial) | Aceite o cera |
-| Acero al carbono | Media temperatura | 90–120 °C / 194–248 °F | 5–30 | Sales alcalinas | Aceite o cera |
-| Acero al carbono | Frío | 20–30 °C / 68–86 °F | 3–10 | Compuestos de selenio-cobre | Aceite, cera o laca |
-| Cobre y aleaciones | Caliente | 140–141 °C / 284–286 °F | 5–20 | Formulación específica para cobre | Aceite o cera |
-| Zinc y aleaciones | Caliente | 140–141 °C / 284–286 °F | 3–15 | Formulación específica para zinc | Aceite o cera |
-| Metales pulvimetalúrgicos | Caliente o media | 90–141 °C / 194–286 °F | 10–40 | Según material base | Impregnación con aceite |
+| Caliente | 141 °C / 286 °F | Hidróxido de sodio (NaOH), nitratos (NaNO₃) y nitritos (NaNO₂) en solución alcalina | Conversión química a magnetita (Fe₃O₄) | 1 µm / 0.00004 in | Aceros al carbono y de baja aleación, acero inoxidable, cobre y sus aleaciones, zinc, metales pulvimetalúrgicos, soldadura de plata |
+| Media temperatura | 90 – 120 °C / 194 – 248 °F | Sales alcalinas propietarias (menor concentración de NaOH) | Conversión química a magnetita (Fe₃O₄) | 1 – 2,5 µm / 0.00004 – 0.0001 in | Aceros al carbono, acero inoxidable, cobre y aleaciones de cobre |
+| Frío (temperatura ambiente) | 20 – 30 °C / 68 – 86 °F | Compuestos de cobre y selenio (deposición de Cu₂Se) | Deposición de seleniuro de cobre; no es un recubrimiento de conversión | ≤ 2,5 µm / ≤ 0.0001 in | Acero, acero inoxidable, cobre, zinc |
 
-### Preparación superficial previa
+En todos los casos se requiere una etapa de sellado posterior con aceite, cera o laca para cerrar la porosidad del recubrimiento y lograr una resistencia a la corrosión satisfactoria. Los procesos de caliente y media temperatura cumplen habitualmente con la especificación militar MIL-DTL-13924 y las normas AMS 2485, ASTM D769 e ISO 11408.
 
-La preparación superficial es crítica para la uniformidad del acabado. Las piezas deben limpiarse en un baño de detergente alcalino para eliminar aceites, grasas y contaminantes, seguido de enjuague con agua. Cualquier residuo de óxido o cascarilla de laminación debe eliminarse mediante decapado ácido o granallado antes del tratamiento.
+## Tolerancias dimensionales
 
-### Control del baño químico
+El crecimiento dimensional neto es de 1 µm a 2,5 µm / 0.00004 a 0.0001 in, dependiendo de la variante del proceso. Esta acumulación extremadamente baja permite tratar componentes ajustados con tolerancias estrechas, como elementos roscados, ejes y piezas de troquel, sin necesidad de posteriores mecanizados de corrección. La variación de espesor es intrínsecamente uniforme al tratarse de una reacción superficial que consume el metal base.
 
-En el proceso caliente, el baño de hidróxido de sodio (NaOH) con nitratos y nitritos opera a 141 °C / 286 °F. Debe agregarse agua periódicamente para reponer las pérdidas por evaporación, con controles estrictos para prevenir explosiones por vapor. La concentración de NaOH se mantiene típicamente en el rango de 40–50% en peso.
+## Materiales aplicables
 
-## Ventajas
+El oxidado negro es compatible con una amplia gama de sustratos metálicos:
 
-- Producción en grandes lotes, ideal para piezas pequeñas como tornillos, pernos y componentes estampados
-- Sin impacto dimensional significativo: el espesor de capa de 1 µm / 0.00004 in no afecta tolerancias ajustadas
-- Costo inferior comparado con sistemas de protección equivalentes como pintura o galvanoplastia
-- No produce fragilización por hidrógeno, a diferencia de los procesos de electrodeposición
-- Mantiene las propiedades mecánicas del material base sin alterar su estructura metalúrgica
-- Excelente adherencia al formarse por conversión química de la superficie, no por deposición
-- Acabado decorativo negro uniforme que reduce el deslumbramiento y la fatiga visual
-- Compatible con aceros al carbono, aceros aleados, acero inoxidable, cobre, zinc y metales pulvimetalúrgicos
-- Proceso aplicable en instalaciones con equipamiento convencional de tanques de inmersión
-- El post-tratamiento con aceite o cera permite ajustar el nivel final de protección anticorrosiva
+- **Aceros al carbono y de baja aleación**: tratamiento principal, tanto en caliente como en media temperatura y frío.
+- **Aceros inoxidables** (series austeníticas, ferríticas y martensíticas): aplicable en caliente y media temperatura; el acabado puede requerir formulaciones especiales.
+- **Cobre y aleaciones de cobre** (latón, bronce): apto en todos los procesos, a menudo con tonos que van del negro al marrón oscuro.
+- **Zinc y aleaciones de zinc**: admite oxidado negro en caliente y frío.
+- **Metales pulvimetalúrgicos**: se benefician del sellado posterior que penetra en la porosidad del material base.
+- **Soldadura de plata**: el proceso en caliente también ennegrece las uniones soldadas.
 
-## Limitaciones
+No se recomienda para aluminio, magnesio ni titanio, ya que requieren anodizado u otros recubrimientos específicos.
 
-- Resistencia a la corrosión limitada sin sellado posterior con aceite, cera o laca
-- El proceso en caliente opera a 140–141 °C / 284–286 °F, requiriendo controles rigurosos de seguridad por el riesgo de explosión por vapor
-- La variante en frío produce un recubrimiento de seleniuro de cobre que tiende a desprenderse fácilmente y ofrece menor resistencia a la abrasión
-- El proceso caliente genera vapores cáusticos que exigen sistemas de extracción y ventilación adecuados
-- No apto para aplicaciones de alta resistencia a la corrosión sin recubrimientos complementarios
-- Limitaciones de color: solo produce acabado negro; no disponible en otros colores
-- La calidad del acabado depende críticamente de la preparación superficial y de las condiciones del baño
-- El tratamiento de efluentes es necesario debido a la toxicidad de los compuestos de nitrato, nitrito y selenio utilizados
-- Las piezas con geometrías complejas o cavidades profundas pueden presentar irregularidades en el recubrimiento
+## Ventajas y limitaciones
+
+### Ventajas
+
+- **Impacto dimensional insignificante** (1 – 2,5 µm / 0.00004 – 0.0001 in), ideal para piezas de alta precisión.
+- **Proceso económico** en comparación con pintura, galvanizado o niquelado, especialmente en grandes lotes de piezas pequeñas.
+- **No genera fragilización por hidrógeno**, a diferencia de muchos recubrimientos electrolíticos.
+- **Acabado decorativo oscuro y uniforme** que reduce los reflejos superficiales.
+- **Buena resistencia a la corrosión atmosférica** tras el sellado con aceite o cera.
+- **Aplicable a múltiples metales** con un mismo equipo de proceso.
+
+### Limitaciones
+
+- **Protección anticorrosiva insuficiente sin sellado**; la capa de óxido es porosa y debe impregnarse con un inhibidor.
+- **Baja resistencia a la abrasión y al desgaste**, sobre todo en la variante en frío.
+- La tecnología en caliente opera a temperaturas elevadas (141 °C / 286 °F) con baños altamente alcalinos, lo que exige estrictos controles de seguridad frente a salpicaduras y explosiones de vapor al reponer agua.
+- **Coloración susceptible a variaciones** según la composición exacta del baño y la preparación superficial previa.
+- No es apto para aplicaciones de contacto alimentario sin un sellante certificado, ya que puede transferir residuos químicos.
 
 ## Guía de selección
 
-| Criterio | Proceso caliente (141 °C / 286 °F) | Proceso media temperatura (90–120 °C / 194–248 °F) | Proceso frío (20–30 °C / 68–86 °F) |
-|---|---|---|---|
-| Aplicación industrial | Producción de alto volumen | Producción general | Bajo volumen, mantenimiento |
-| Requisitos normativos | Cumple MIL-DTL-13924, AMS 2485 | Cumple MIL-DTL-13924, AMS 2485 | No cumple especificaciones militares |
-| Resistencia a corrosión | Alta (con sellado) | Alta (con sellado) | Moderada (con sellado) |
-| Resistencia a abrasión | Buena | Buena | Baja (tiende a desprenderse) |
-| Uniformidad de color | Excelente | Muy buena | Buena |
-| Seguridad operativa | Requiere controles estrictos, riesgo de explosión por vapor | Menor riesgo, sin ebullición | Bajo riesgo, temperatura ambiente |
-| Inversión en equipamiento | Alta | Media | Baja |
-| Costo operativo | Medio-alto | Medio | Bajo |
-| Uso en herramientas | No típico | Posible | Recomendado |
-| Acabado arquitectónico | Sí | Sí | Sí |
-| Plazos de entrega | Lotes programados | Lotes programados | Inmediato (in-house) |
+La elección del tipo de oxidado negro y su comparación con otros recubrimientos de conversión dependen de los requisitos funcionales y económicos de la pieza.
 
-### Criterios de selección de material base
+| Revestimiento | Espesor típico | Resistencia a la corrosión (con sellado) | Aspecto | Coste relativo | Aplicaciones típicas |
+|---|---|---|---|---|---|
+| **Oxidado negro (caliente/media)** | 1 – 2,5 µm / 0.00004 – 0.0001 in | Media (atmosférica interior/exterior con aceite) | Negro mate o satinado | Bajo | Tornillería, armas de fuego, componentes de maquinaria, engranajes de acero |
+| **Oxidado negro (frío)** | ≤ 2,5 µm / ≤ 0.0001 in | Baja-media (requiere sellado) | Negro mate, facilidad de retoque in situ | Muy bajo | Herramientas, herrajes arquitectónicos, restauración rápida |
+| **Anodizado sobre aluminio** (Ácido sulfúrico) | 2,5 – 25 µm / 0.0001 – 0.001 in | Alta (Clase 9 tras sellado) | Transparente o coloreado | Medio | Perfiles arquitectónicos, componentes aeroespaciales, electrónica de consumo |
+| **Conversión de cromato (Alodine) sobre aluminio** | ~ 0,025 µm / ~ 0.000001 in | Media (Clase 6, buena base para pintura) | Amarillo-dorado iridiscente | Muy bajo | Uniones atornilladas, chasis electrónicos, pretratamiento antes de pintura |
+| **Fosfatado (manganeso o zinc)** sobre acero | 2 – 25 µm / 0.00008 – 0.001 in | Baja sin aceite, media con aceite o cera | Gris oscuro a negro (manganeso) | Bajo | Cojinetes, casquillos, piezas con retención de lubricante |
 
-| Material | ¿Recomendado? | Proceso sugerido | Consideraciones |
-|---|---|---|---|
-| Acero bajo carbono (ej. 1018) | Sí | Caliente o media temperatura | Mejor respuesta al proceso caliente |
-| Acero medio/alto carbono (ej. 1045, 1095) | Sí | Caliente | Excelente formación de magnetita |
-| Acero aleado (ej. 4140, 4340) | Sí | Caliente | Puede requerir tiempos más largos |
-| Acero inoxidable serie 300 | Sí | Caliente | Requiere formulación específica de baño |
-| Acero inoxidable serie 400 | Sí | Caliente | Buena respuesta al tratamiento |
-| Fundición gris | Limitado | Caliente | La porosidad puede absorber químicos |
-| Cobre y latón | Sí | Caliente | Baño químico específico para cobre |
-| Zinc galvanizado | Sí | Caliente | Baño químico específico para zinc |
-| Aluminio | No | No aplica | El óxido negro no funciona en aluminio |
-| Titanio | No | No aplica | Requiere anodizado u otros procesos |
+*Seleccione oxidado negro en caliente cuando se requiera un acabado oscuro y uniforme con protección moderada en piezas de acero o cobre de geometría compleja y tolerancias estrechas. Opte por el proceso en frío para retoques puntuales o cuando las instalaciones no permitan baños calientes, asumiendo menor adherencia. Si la resistencia a la corrosión o a la abrasión es prioritaria, considere alternativas como el fosfatado con aceite o el anodizado.*
 
 ## Preguntas frecuentes (FAQ)
 
-### ¿Qué espesor tiene la capa de óxido negro?
-
-La capa de óxido negro formada por conversión química tiene un espesor típico de 1 µm / 0.00004 in, lo que representa una acumulación dimensional mínima que no afecta tolerancias ajustadas en piezas mecanizadas.
-
-### ¿A qué temperatura se aplica el óxido negro?
-
-El proceso caliente de óxido negro se aplica a 141 °C / 286 °F, mientras que la variante de media temperatura opera entre 90 y 120 °C / 194 y 248 °F y el proceso en frío se realiza a temperatura ambiente entre 20 y 30 °C / 68 y 86 °F.
-
-### ¿Cuánto dura la protección anticorrosiva del óxido negro?
-
-Sin sellado posterior, el óxido negro proporciona una resistencia a la corrosión de apenas 24 a 48 horas en ambiente interior; con impregnación de aceite o cera, la protección se extiende a cientos de horas en pruebas de niebla salina según especificación ASTM B117.
-
-### ¿Qué metales pueden tratarse con óxido negro?
-
-El óxido negro es aplicable a más de 5 familias de materiales: aceros al carbono, aceros aleados, acero inoxidable, cobre y sus aleaciones, zinc y metales pulvimetalúrgicos; no es adecuado para aluminio ni titanio.
-
-### ¿Qué normas militares cubren el óxido negro?
-
-La especificación MIL-DTL-13924 es la norma militar más antigua y ampliamente utilizada, cubriendo 4 clases de procesos para diferentes sustratos; AMS 2485 y ASTM D769 son especificaciones complementarias para aplicaciones aeroespaciales e industriales.
-
-### ¿Cuál es la diferencia entre óxido negro caliente y frío?
-
-El proceso caliente convierte la superficie en magnetita (Fe₃O₄) a 141 °C / 286 °F y ofrece mayor resistencia a la abrasión, mientras que el proceso frío deposita seleniuro de cobre (Cu₂Se) a 20–30 °C / 68–86 °F y tiende a desprenderse con facilidad, requiriendo obligatoriamente sellado con aceite, cera o laca.
+### ¿Cuál es la temperatura de proceso del oxidado negro en caliente?
+### ¿Es obligatorio sellar la pieza después del tratamiento?
+### ¿Qué espesor alcanza la capa de oxidado negro?
+### ¿Sobre qué metales se puede aplicar el oxidado negro?
+### ¿Ofrece protección contra la corrosión sin aceite?
+### ¿Se puede retocar una pieza dañada con oxidado negro en frío?
 
 ## Fuentes consultadas
+
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
+- **efunda.com**: https://www.efunda.com/processes/surface/conversion_coatings.cfm

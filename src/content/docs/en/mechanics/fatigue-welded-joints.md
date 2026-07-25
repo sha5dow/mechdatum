@@ -9,114 +9,118 @@ topic: "fatigue"
 subcategory: "fatigue-welded"
 skill: "mechanics-reference-table"
 launch_phase: 8
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+The fatigue strength of welded joints does not have a direct relationship with the tensile strength of the base material. Even under moderate cyclic loads, geometric imperfections and residual stresses introduced by the welding process can initiate and propagate cracks leading to failure. Stress-life (S‑N) curves based on the IIW FAT classification system allow evaluating the service life of these components and are the basis for fatigue design of welded joints.
 
-## Summary
-Fatigue in welded joints occurs when joints with defects, residual stresses, or inadequate design are subjected to cyclic loads. The fatigue strength of the joint does not correlate with that of the base material and is evaluated using S‑N (Wöhler) curves and FAT detail classes according to the IIW. Residual stresses, material thickness, weld geometry, and environment reduce fatigue life. Pre-normative design criteria, weld stress formulas, IIW classification, and a practical application example are presented.
+## Factors Affecting Fatigue Strength
 
-## Fundamental concepts
-Weld fatigue is studied using the stress-life method (S‑N curves) where the alternating stress range Δσ is related to the number of cycles to failure N. Unlike homogeneous parts, the fatigue strength of a welded joint is dominated by the detail geometry, imperfections, and welding residual stresses, not by the ultimate strength of the base material. Higher-strength steel (e.g., S700) does not significantly improve the fatigue strength of the joint compared to mild steel if the detail is the same. The evaluation is based on the nominal stress range (or structural stresses) and the FAT class of the detail, defined as the stress range in MPa that produces failure at 2 × 10⁶ cycles with a survival probability of 95 % (mean curve minus two standard deviations).
+### Welding Residual Stresses
+Residual stresses generated during weld bead solidification add algebraically to the applied stresses, modifying the effective mean stress of the cycle and, consequently, the fatigue life. An increase in part thickness raises residual stress concentrations at the weld toe, reducing fatigue strength.
 
-## Factors affecting fatigue in welded joints
-* **Welding residual stresses:** the thermal process generates tensile stresses in the weld zone that superimpose on cyclic loads, raising the mean stress and drastically reducing fatigue life. Relief treatments (thermal, peening) only partially mitigate this effect.
-* **Thickness effect:** in joints with a crack initiating at the weld toe, increasing thickness decreases fatigue strength. The IIW proposes a thickness correction factor (t_ref / t)^n, where n ≈ 0.1–0.25 for thicknesses greater than 25 mm.
-* **Defects and imperfections:** inclusions, lack of penetration, undercuts, and porosity act as stress concentrators and crack initiation sites, reducing the effective FAT class.
-* **Corrosive environment:** the presence of seawater or aggressive atmospheres accelerates fatigue crack growth and reduces strength by up to 50 % compared to dry conditions.
+### Joint Geometry and Defects
+Any irregularity —undercut, lack of penetration, slag inclusions, or porosity— acts as a stress concentrator and crack initiation point. The bead shape (toe entrance angle, reinforcement) significantly influences the effective stress concentration factor.
 
-## Detail classification according to the IIW
-The International Institute of Welding (IIW) has established detail classes (FAT) that cover most steel weld configurations. Each class represents the nominal stress range (MPa) that causes failure at 2 × 10⁶ cycles. The family of S‑N curves shares the same slope m = 3 up to the knee point at 5 × 10⁶ cycles, where a constant amplitude fatigue strength Δσ_D = 0.737 × FAT is adopted. For variable amplitudes, a secondary slope m = 5 is used. The classification is presented in the section «FAT class table (IIW)».
+### Influence of Base Material
+Unlike smooth components, in welded joints an increase in the static strength of the base material (yield or ultimate strength) does not necessarily translate into a proportional increase in fatigue strength, precisely because local discontinuities dominate fatigue behavior.
 
-## S‑N curves (Wöhler)
-S‑N curves for welded steel joints follow the empirical Basquin relationship:
+### Environment
+Corrosive environments, especially seawater, accelerate crack growth rates and reduce the fatigue limit. Extreme temperatures and the presence of humidity can also adversely affect joint durability.
 
-N = C · (Δσ)^( − m)
+## S‑N Curves and FAT Classification System (IIW)
 
-with
-* Δσ  = applied nominal stress range
-* N   = number of cycles
-* C   = characteristic constant of each FAT class (C = FAT^m · 2 × 10⁶)
-* m   = 3 (usual slope for welded steel)
+S‑N curves (also known as Wöhler curves) represent the nominal stress range Δσ as a function of the number of cycles to failure N. The IIW (International Institute of Welding) defines FAT classes as the characteristic stress range (in MPa) that produces a life of 2 × 10⁶ cycles with a 95 % survival probability.
 
-For design, the nominal stress range Δσ ≤ FAT / γ_M is used, where γ_M is the partial safety factor (usually 1.25–1.35). The resulting S‑N curve is plotted on a log‑log scale as a straight line with slope −1/m.
+The design curve takes the form of a straight line on a double logarithmic scale with slope m = 3 for high cycles and a slope change to m = 5 for very high cycles (above 10⁷ – 10⁸ cycles). The fundamental equation is:
 
-## Design criteria against fatigue
-1. **Select details with high FAT class:** whenever possible, use butt welds with full penetration and grinding of the reinforcement (FAT 112) instead of fillet welds (FAT 80 or lower).
-2. **Locate welds in low nominal stress zones:** keep them away from geometric stress raisers.
-3. **Apply improvement techniques:** grinding of the weld toe, shot peening, or ultrasonic impact treatment (UIT) to introduce compressive residual stresses and raise the effective FAT class (gain of 2–4 classes).
-4. **Control thickness:** if t > 25 mm, apply a correction factor to the allowable stress.
-5. **Protect against corrosion:** painting, galvanizing, or cathodic protection in marine environments.
+> **Δσ_R = FAT · (2 × 10⁶ / N)^(1/m)**
 
-## Stress calculation formulas for welds
-The following show the basic equations for estimating the nominal stress in the weld under different load states, useful for verification against the FAT class. The formulas assume equivalent static load and consistent units.
+Where:
+| Variable | Description | Unit (SI / Imperial) |
+|---|---|---|
+| Δσ_R | Resistant stress range of the detail at N cycles | MPa / ksi |
+| FAT | Fatigue class of the detail (characteristic strength at 2 × 10⁶ cycles) | MPa / ksi |
+| N | Number of cycles to failure | – |
+| m | Slope of the S‑N curve (usually m = 3) | – |
 
-| Configuration | Load type | Stress formula | Notes |
+Some typical FAT classes for different welded joint geometries in structural steel are shown below:
+
+| Construction Detail | FAT (MPa / ksi) |
+|---|---|
+| Rolled base plate (without welding) | 160 / 23.2 |
+| Full penetration butt weld, ground flush, inspected | 112 / 16.2 |
+| Full penetration butt weld, reinforcement retained | 90 / 13.1 |
+| Fillet weld with transverse load, defect-free toe | 80 / 11.6 |
+| Fillet weld with longitudinal load | 71 / 10.3 |
+| T-joint with fillet weld, load on flange | 63 / 9.1 |
+| Joints with stress concentrations (e.g., transverse stiffeners) | 50 / 7.3 |
+
+## Calculation of Stress Range in the Welded Joint
+
+Fatigue evaluation begins by determining the applied nominal stress range Δσ, which is compared with the resistant stress range Δσ_R of the corresponding FAT class. The basic formulas depend on the load type and weld geometry.
+
+| Load Type | Diagram | Formula for Nominal Stress | Variables |
 |---|---|---|---|
-| Butt weld, full penetration | Axial tension/compression | σ = P / (t · l) | t = thickness of thinner plate, l = effective length |
-| Butt weld, partial penetration | Axial tension/compression | σ = P / (a · l) | a = effective throat depth |
-| Butt weld, full penetration | Bending moment in plane | σ = M_b / Z, Z = l · t² / 6 | M_b in the joint plane |
-| T-joint with fillet weld, load perpendicular to weld axis | Shear in throat | τ_⊥ = P / (0.707 · h_n · l) | h_n = fillet weld leg size |
-| Fillet weld, load parallel to weld axis | Longitudinal shear | τ_∥ = P / (0.707 · h_n · l) | Load is distributed between two welds if symmetrical |
-| Solid shaft butt welded, torsion | Torsional shear | τ = M_t · r / J | r = shaft radius, J = polar moment of inertia of welded section |
-| Lap joint with longitudinal fillet welds, axial load | Shear in throat | τ = P / (2 · 0.707 · h_n · l) | Assumes two parallel welds |
+| Axial tension / compression in full penetration butt weld | Flat joint | σ = P / (l · t_p) | P = axial load, l = weld length, t_p = plate thickness |
+| Tension in partial penetration butt weld | Reduced section | σ = P / (l · h_n) | h_n = penetration depth |
+| Pure shear in fillet weld | Longitudinal fillet | τ = P / (2 · l · a) | a = throat thickness (usually 0.7 · leg) |
+| Pure bending in butt weld | Bending moment M_b | σ = M_b / W = 6 M_b / (l · t_p²) | W = section modulus of welded section |
+| Torsion on solid welded shaft | Torque M_t | τ = M_t / W_p, with W_p = π d³ /16 | d = shaft diameter |
 
-> **Unit note:** P [kN / lbf]; t, a, h_n, l [mm / in]; M_b [N·m / lbf·in]; M_t [N·m / lbf·in]; σ, τ [MPa / psi]. When using the formula, consistent units must be employed, making the necessary conversions.
+Stress values must be expressed in consistent units: force in N or lbf, length in mm or in, resulting stress in MPa or psi.
 
-## Load diagrams and typical failure modes
-- **Axial load in butt weld:** failure occurs by crack propagation from the weld toe or an internal defect; the uniform nominal stress is evaluated with σ = P / (t·l).
-- **Pure bending in butt joint:** the crack starts at the outer tension fiber. The stress diagram is linear, with maximum σ = 6M_b / (l·t²).
-- **Fillet welded T-joints with tensile load on the flange:** the weld transmits shear stress; fracture progresses through the throat. τ_⊥ is analyzed in the minimum throat section.
-- **Fillet weld under torsion (flange-to-web beam connection):** the shear flow generates τ_∥ stresses in the welds, combined with global bending normal stresses.
-- **Combined effects:** in real structural parts, axial, bending, and torsional loads coexist, requiring evaluation of the largest principal stress at the weld toe via vector superposition.
+## Practical Calculation Example
 
-## Practical application example
-**Butt joint between S355 steel plates of thickness t = 12 mm / 0.472 in, width l = 100 mm / 3.937 in, full penetration weld without post-treatment (FAT 90).** The applied load generates a cyclic force range of 0 – 120 kN / 0 – 26977 lbf. Determine the fatigue life.
+A bracket welded with two longitudinal fillet welds (leg z = 8 mm / 0.315 in) must transmit a cyclic tensile load varying between 0 and +80 kN (0 – 18 kip). The length of each weld is l = 120 mm / 4.72 in. The material is S355 steel and the detail corresponds to FAT 71 (fillet weld with longitudinal load, m = 3).
 
-1. Nominal stress range:
-   ΔF = 120 kN / 26977 lbf.
-   Resisting section A = t·l = 12 mm × 100 mm = 1200 mm² / (0.472 in × 3.937 in = 1.858 in²).
-   Δσ = ΔF / A = 120 000 N / 1200 mm² = 100 MPa / (26977 lbf / 1.858 in² ≈ 14518 psi = 14.5 ksi).
+**Calculation of effective throat:**
+a ≈ 0.7 · z = 0.7 × 8 mm = 5.6 mm / 0.22 in
 
-2. Comparison with FAT class:
-   FAT 90 (as-welded butt weld) → characteristic strength Δσ_c = 90 MPa / 13.05 ksi at 2 × 10⁶ cycles.
-   Δσ = 100 MPa > 90 MPa → the joint does not meet the infinite life criterion even at 2 × 10⁶ cycles. Redesign or apply improvement.
+**Total resistant area (two fillets):**
+A_w = 2 · l · a = 2 × 120 mm × 5.6 mm = 1344 mm² / 2.08 in²
 
-3. Alternative: grinding the reinforcement to achieve FAT 112. Then Δσ = 100 MPa < 112 MPa → theoretical life is calculated with:
-   N = 2×10⁶ × (112 / 100)^3 ≈ 2×10⁶ × 1.4049 = 2.81×10⁶ cycles.
-   With a safety factor γ_M = 1.25, Δσ_perm = 112/1.25 = 89.6 MPa → 100 MPa still exceeds. It is necessary to reduce the load or increase the width.
+**Applied nominal stress range:**
+Δσ_nom = ΔP / A_w = 80 000 N / 1344 mm² = 59.5 MPa / 8.6 ksi
 
-This example illustrates how the detail and surface quality define robustness against fatigue.
+**Calculation of expected life:**
+Using Δσ_R = FAT · (2×10⁶ / N)^(1/3) and solving for N:
+N = 2×10⁶ · (FAT / Δσ_nom)^m = 2×10⁶ · (71 / 59.5)^3 ≈ 3.5 × 10⁶ cycles
 
-## FAT class table (IIW)
-Detail classes for welded steel joints, according to IIW recommendation (FAT 36 to FAT 112). For each class, the characteristic nominal stress range at 2 × 10⁶ cycles and detail examples are given.
+The detail would withstand approximately 3.5 million cycles before reaching the failure criterion. If an infinite life requirement (N ≥ 10⁷ cycles) were needed, the load would have to be reduced or the geometry modified (for example, increasing the weld size or improving the detail to a higher FAT class).
 
-| FAT class | Range Δσ_c (MPa) | Range Δσ_c (ksi) | Detail description |
-|---|---|---|---|
-| FAT 36 | 36 | 5.22 | Fillet weld on cut edge, intermittent welds |
-| FAT 40 | 40 | 5.80 | Fillet joint without penetration, visual quality |
-| FAT 45 | 45 | 6.53 | Fillet joint with permissible imperfections per ISO 5817‑C |
-| FAT 50 | 50 | 7.25 | Fillet weld, transverse loading, root not controlled |
-| FAT 56 | 56 | 8.12 | Butt weld with misalignment defects |
-| FAT 63 | 63 | 9.14 | As-welded butt weld, partial penetration |
-| FAT 71 | 71 | 10.3 | Fillet weld in simple tubular joints |
-| FAT 80 | 80 | 11.6 | Fillet weld, standard quality (ISO 5817‑B) |
-| FAT 90 | 90 | 13.05 | As-welded butt weld, full penetration |
-| FAT 100 | 100 | 14.5 | Butt weld with controlled reinforcement and undercut-free weld toe |
-| FAT 112 | 112 | 16.2 | Butt weld with full penetration, reinforcement removed by grinding, and surface inspection |
+## Design Criteria and Best Practices
 
-> For marine corrosion conditions, multiply FAT classes by 0.7 – 0.8. The thickness factor k_s = (25 / t)^0.1 applies when plate thickness t > 25 mm.
+- **Avoid weld defects:** inclusions, lack of penetration, and undercut act as stress concentrators that drastically reduce fatigue life.
+- **Reduce residual stresses through post-weld treatments:** ultrasonic impact treatment (UIT), shot peening, or stress relief heat treatment can increase fatigue strength by up to 30 %.
+- **Select high FAT class details:** whenever functionality permits, choose configurations with high FAT (ground butt welds, smooth weld toe transitions).
+- **Design for stress range, not maximum stress:** in fatigue, the determining variable is the stress variation (Δσ), not the absolute value.
+- **Avoid transverse stiffeners and abrupt section changes:** these elements generate local stress peaks and belong to low FAT classes.
+- **Verify both finite and infinite life:** if the expected number of cycles exceeds 5‑10 million, adopt a design with an endurance limit if the material and detail allow it.
+- **Consider the thickness effect:** for thicknesses greater than 25 mm / 1 in, apply correction factors that reduce fatigue strength (the IIW proposes a factor (25/t)^n).
 
 ## Frequently Asked Questions (FAQ)
-1. **Which FAT class should be used for a full penetration butt weld with smoothed reinforcement?** FAT 112 is assigned if grinding removes all irregularity and the absence of undercuts is guaranteed; this class provides a characteristic strength of 112 MPa / 16.2 ksi at 2 × 10⁶ cycles.
-2. **How does plate thickness affect fatigue strength?** Increasing thickness from 10 mm to 25 mm can reduce fatigue strength by about 12‑18 %, correctable by the factor (25/t)^0.1 in the allowable range calculation.
-3. **Is it preferable to increase the yield strength of the base steel to improve joint fatigue?** No; raising the steel from S355 (355 MPa / 51.5 ksi) to S700 (700 MPa / 101.5 ksi) does not significantly improve the fatigue strength of the welded detail, since life is governed by geometry and residual stresses.
-4. **What effect does a marine environment have on the fatigue life of a welded joint?** In free seawater, the crack growth rate can double, reducing fatigue strength by up to 40 % compared to air, so corrosion protection and the use of reduced FAT curves are recommended.
-5. **How much does ultrasonic impact treatment (UIT) of the weld toe improve fatigue?** UIT introduces compressive residual stresses that can raise the effective FAT class by 2‑4 categories, for example, from FAT 90 to FAT 125, depending on thickness and steel.
-6. **What slope m and from how many cycles is the slope change in the S‑N curve according to IIW considered?** The S‑N curve for welded steel has slope m = 3 up to 5 × 10⁶ cycles, then changes to m = 5 if the analysis considers variable amplitudes; for constant amplitude, a fatigue limit Δσ_D = 0.737 × FAT is adopted from that point.
 
-## References
+### What are IIW FAT classes and how are they used in the design of welded joints?
+FAT classes represent the characteristic stress range value (in MPa) that a welded detail can withstand for 2 million cycles with a 95 % survival probability. The designer selects the FAT class corresponding to the construction detail and compares the applied stress range with the strength provided by the associated S‑N curve, ensuring that the allowable number of cycles exceeds the required life.
 
+### Why does a higher-strength steel not guarantee better fatigue strength in welded joints?
+Because the fatigue strength of a welded joint is governed by the presence of defects, weld geometry, and residual stresses, rather than by the mechanical strength of the base metal. Local discontinuities act as notches that initiate the crack regardless of the material's tensile strength.
+
+### How does plate thickness affect the fatigue of a weld bead?
+With greater thickness, the probability of finding imperfections and the residual stress gradient increase, which reduces fatigue strength. Therefore, standards, including the IIW, apply a reduction factor when thicknesses exceed a reference value (generally 25 mm / 1 in).
+
+### What benefits do post-weld treatments such as ultrasonic impact treatment offer?
+These treatments improve fatigue strength by introducing compressive residual stresses on the weld toe surface, smoothing the geometric transition, and eliminating surface microdefects. They can increase the effective FAT class by up to one step, resulting in a service life several times longer for the same load range.
+
+### Is it possible to evaluate the fatigue of a welded joint using only analytical formulas?
+For simple geometries and nominal load states, nominal stress formulas and FAT curves can be used. However, when the joint has complex geometries or multiaxial load states, it is recommended to resort to finite element analysis together with local stress methods (hot‑spot structural stress) or fracture mechanics.
+
+### What differences exist between high-cycle fatigue and low-cycle fatigue in welded joints?
+High-cycle fatigue (HCF) involves millions of cycles with stresses within the elastic range and is the most common in welded structures. Low-cycle fatigue (LCF) involves cyclic plastic deformations in localized areas and occurs in situations with occasional overloads or detonations. The FAT classification is mainly intended for HCF evaluation, typically using a slope m = 3.
+
+## Sources Consulted
+
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/asme-carbon-stainless-steel-flanges-d_301.html
 - **engineersedge.com**: https://www.engineersedge.com/weld_design_menu.shtml
 - **efunda.com**: https://www.efunda.com/formulae/solid_mechanics/failure_criteria/failure_criteria.cfm
-

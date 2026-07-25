@@ -9,124 +9,119 @@ topic: "polymers"
 subcategory: "thermoplastics"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
+El Nylon PA66 (poliamida 6,6) es un termoplástico semicristalino de la familia de las poliamidas, sintetizado por policondensación de hexametilendiamina y ácido adípico, ambos monómeros con seis átomos de carbono. Su densidad típica es de 1,15 g/cm³, combina alta resistencia mecánica, buena estabilidad térmica y excelente resistencia al desgaste, características que lo consolidan como uno de los materiales de ingeniería más utilizados en los sectores automotriz, eléctrico y de bienes de consumo.
 
-## Composición química
-El Nylon PA66 se sintetiza a partir de dos monómeros de 6 átomos de carbono cada uno, en una relación estequiométrica 1:1 de hexametilendiamina y ácido adípico. A continuación, su fórmula repetitiva y composición elemental típica.
+## Composición química y estructura molecular
 
-| Componente | Fórmula | Concentración másica (%) |
+La fórmula molecular de la unidad repetitiva es (C₁₂H₂₂N₂O₂)ₙ. El polímero se forma mediante enlaces amida alternados con segmentos de hexametileno, lo que da lugar a una cadena lineal con alta capacidad de cristalización y fuertes puentes de hidrógeno intermoleculares.
+
+| Componente | Fórmula | Proporción molar |
 | --- | --- | --- |
-| Polímero base | (C₁₂H₂₂N₂O₂)ₙ | 100 |
-| Carbono (C) | — | 63.7 |
-| Oxígeno (O) | — | 14.2 |
-| Nitrógeno (N) | — | 12.4 |
-| Hidrógeno (H) | — | 9.7 |
+| Ácido adípico | C₆H₁₀O₄ | 1 |
+| Hexametilendiamina | C₆H₁₆N₂ | 1 |
+| Agua (subproducto) | H₂O | 2n-1 |
 
 ## Propiedades mecánicas
-La resistencia a la tracción típica del Nylon PA66 en estado seco es de 82 MPa (11.9 ksi). Los valores de la tabla corresponden a material en equilibrio con 50 % de humedad relativa, salvo que se indique otra condición.
 
-| Propiedad | Valor (SI) | Valor (Imperial) | Estado / Comentario |
-| --- | --- | --- | --- |
-| Resistencia a la tracción | 82 MPa | 11.9 ksi | Seco; ensayo ASTM D638 |
-| Módulo de tracción | 2.0 – 3.6 GPa | 290 – 522 ksi | Seco |
-| Alargamiento a la rotura | 60 % | 60 % | Seco |
-| Resistencia al impacto Izod (con entalla) | 53 J/m | 1.0 ft·lb/in | 23 °C, seco |
-| Dureza Rockwell R | 120 | 120 | Seco |
-| Resistencia a la compresión | 85 MPa | 12.3 ksi | Valor de referencia para grado estándar |
+El Nylon PA66 en estado seco recién moldeado presenta una resistencia a la tracción de 82 MPa / 11,9 ksi y un módulo de elasticidad entre 2,0 y 3,6 GPa / 290 y 522 ksi. La exposición a la humedad reduce la resistencia y rigidez mecánicas, pero incrementa significativamente la tenacidad y la elongación a la rotura.
+
+| Propiedad | Estado seco (0,2 % humedad) | Estado acondicionado (2,5 % humedad) |
+| --- | --- | --- |
+| Resistencia a la tracción | 82 MPa / 11,9 ksi | 60 MPa / 8,7 ksi |
+| Módulo de tracción (Young) | 2,0 – 3,6 GPa / 290 – 522 ksi | 1,2 – 1,8 GPa / 174 – 261 ksi |
+| Elongación a la rotura | 40 % / 40 % | 150 – 300 % / 150 – 300 % |
+| Resistencia a la flexión | 105 MPa / 15,2 ksi | 45 MPa / 6,5 ksi |
+| Resistencia al impacto Izod (23 °C) | 45 J/m / 0,84 ft·lb/in | 110 J/m / 2,06 ft·lb/in |
+| Dureza Rockwell | R120 / R120 | R100 / R100 |
 
 ## Propiedades físicas
-La densidad del Nylon PA66 es de 1.14 g/cm³ (71.2 lb/ft³). Las propiedades mostradas son representativas de grados de propósito general sin refuerzo.
 
-| Propiedad | Valor (SI) | Valor (Imperial) | Comentario |
-| --- | --- | --- | --- |
-| Densidad | 1.14 g/cm³ | 71.2 lb/ft³ | 23 °C |
-| Absorción de agua (24 h, inmersión) | 1.2 % (en peso) | 1.2 % | ASTM D570 |
-| Absorción de agua (saturación) | 8.5 % (en peso) | 8.5 % | A 23 °C en agua |
-| Contracción por moldeo | 1.5 % | 0.015 in/in | Flujo típico en inyección |
+La densidad del PA66 sin reforzar es de 1,14 g/cm³ / 71,2 lb/ft³, valor que lo sitúa entre los termoplásticos de ingeniería de peso medio. Su capacidad de absorción de agua en equilibrio a 23 °C y 50 % de humedad relativa es del 2,5 % en peso, propiedad que debe considerarse en el diseño dimensional de componentes de precisión.
+
+| Propiedad | Valor |
+| --- | --- |
+| Densidad | 1,14 g/cm³ / 71,2 lb/ft³ |
+| Absorción de agua (24 h, 23 °C) | 1,2 % / 1,2 % |
+| Absorción de agua en saturación (23 °C) | 8,5 % / 8,5 % |
+| Coeficiente de fricción dinámico (contra acero) | 0,30 – 0,40 / 0,30 – 0,40 |
+| Índice de fluidez volumétrica (275 °C, 5 kg) | 12 cm³/10 min / 0,73 in³/10 min |
 
 ## Propiedades térmicas
-El punto de fusión del Nylon PA66 es de 264 °C (507 °F). Las demás propiedades se listan en el cuadro siguiente.
 
-| Propiedad | Valor (SI) | Valor (Imperial) | Comentario |
-| --- | --- | --- | --- |
-| Punto de fusión | 264 °C | 507 °F | DSC, pico endotérmico |
-| Temperatura máxima de servicio (continua) | 75 – 100 °C | 167 – 212 °F | Sin carga mecánica |
-| Temperatura de transición vítrea (Tg) | 50 – 70 °C | 122 – 158 °F | Seco |
-| Conductividad térmica | 0.25 W/m·K | 0.14 BTU·ft/h·ft²·°F | 23 °C |
-| Coeficiente de expansión térmica lineal | 8.5 × 10⁻⁵ /°C | 4.7 × 10⁻⁵ /°F | -30 a +30 °C |
-| Calor específico | 1.67 J/g·K | 0.40 BTU/lb·°F | 23 °C |
+La temperatura de fusión cristalina del Nylon PA66 es de 264 °C / 507 °F y la temperatura de transición vítrea en seco se sitúa en 70 °C / 158 °F. La temperatura máxima de servicio continuo en aire es de 100 °C / 212 °F, pudiendo alcanzar picos de hasta 180 °C / 356 °F durante periodos cortos sin carga.
+
+| Propiedad | Valor |
+| --- | --- |
+| Temperatura de fusión (Tm) | 264 °C / 507 °F |
+| Temperatura de transición vítrea (Tg) | 70 °C / 158 °F |
+| Temperatura máxima de servicio continuo | 75 – 100 °C / 167 – 212 °F |
+| Temperatura de deflexión térmica (HDT, 1,8 MPa) | 75 °C / 167 °F |
+| Temperatura de deflexión térmica (HDT, 0,45 MPa) | 200 °C / 392 °F |
+| Coeficiente de expansión térmica lineal | 80 x 10⁻⁶ /K / 44 x 10⁻⁶ /°F |
+| Conductividad térmica | 0,25 W/m·K / 0,14 BTU·ft/h·ft²·°F |
+| Calor específico | 1,67 kJ/kg·K / 0,40 BTU/lb·°F |
 
 ## Propiedades eléctricas
-La rigidez dieléctrica del Nylon PA66 en seco es de 14 kV/mm (355 V/mil). Todos los valores corresponden a 23 °C y 50 % HR, salvo indicación contraria.
 
-| Propiedad | Valor (SI) | Valor (Imperial) | Condición |
-| --- | --- | --- | --- |
-| Rigidez dieléctrica | 14 kV/mm | 355 V/mil | Seco, 3.2 mm espesor |
-| Constante dieléctrica (εr) a 1 MHz | 4.5 | 4.5 | Seco |
-| Factor de disipación a 1 MHz | 0.02 | 0.02 | Seco |
-| Resistividad volumétrica | 1 × 10¹³ Ω·cm | 3.9 × 10¹¹ Ω·in | Seco |
+El PA66 es un excelente aislante eléctrico, con una resistividad volumétrica de 10¹⁵ ohm·cm y una rigidez dieléctrica de 14 kV/mm / 356 V/mil. Su constante dieléctrica a 60 Hz es de 4,5, valor que se mantiene estable en condiciones secas pero que aumenta con la absorción de humedad.
 
-## Resistencia química
-El PA66 presenta buena resistencia a hidrocarburos, grasas y disolventes comunes a temperaturas moderadas, pero es atacado por ácidos minerales fuertes, soluciones alcalinas concentradas y agentes oxidantes en caliente. La siguiente tabla recoge la compatibilidad general a 23 °C.
-
-| Agente químico | Resistencia a 23 °C |
+| Propiedad | Valor |
 | --- | --- |
-| Aceites minerales | Excelente |
-| Gasolina / diésel | Buena (ligera hinchazón) |
-| Alcoholes (etanol, isopropanol) | Aceptable |
-| Cetonas (acetona) | Buena |
-| Ácidos débiles (acético diluido) | Limitada |
-| Ácidos fuertes (HCl, H₂SO₄) | No recomendado |
-| Bases fuertes (NaOH 10 %) | No recomendado |
-| Agua caliente (>60 °C) | Limitada (hidrólisis) |
+| Resistividad volumétrica | 10¹⁵ ohm·cm / 10¹⁵ ohm·cm |
+| Rigidez dieléctrica | 14 kV/mm / 356 V/mil |
+| Constante dieléctrica (60 Hz) | 4,5 / 4,5 |
+| Factor de disipación (60 Hz) | 0,014 / 0,014 |
+| Resistencia al arco | 120 s / 120 s |
 
 ## Aplicaciones por industria
-El Nylon PA66 se emplea en más de 15 sectores industriales, siendo los más representativos los que se describen a continuación.
+
+La versatilidad del PA66 lo convierte en material de referencia en aplicaciones que exigen rigidez, resistencia térmica y tenacidad. La facilidad de procesamiento por inyección y extrusión y la posibilidad de reforzarlo con fibra de vidrio amplían aún más su campo de uso.
 
 | Industria | Aplicaciones típicas |
 | --- | --- |
-| Automoción | Colectores de admisión, tapas de balancines, soportes de motor, conectores eléctricos, engranajes de limpiaparabrisas |
-| Electricidad / electrónica | Conectores, carcasas de interruptores, bridas para cables, aisladores |
-| Textil | Fibras de alta tenacidad para tejidos técnicos, alfombras, airbags (Cordura®, Ultron®) |
-| Bienes de consumo | Cremalleras, piezas de mobiliario, mangos de herramientas, ruedas de patines |
-| Envase y embalaje | Películas multicapa para alimentos (barrera) – uso limitado por no ser biorientable |
+| Automotriz | Colectores de admisión, tapas de válvulas, depósitos de radiador, carcasas de espejos, engranajes de sistemas eléctricos, sujetadores y clips. |
+| Eléctrica y electrónica | Conectores, interruptores, carcasas de herramientas eléctricas, bridas de sujeción, canales para cables, bornes y regletas de conexión. |
+| Bienes de consumo | Cremalleras, cerdas de cepillos, componentes de electrodomésticos, carcasas de aspiradoras, mangos de utensilios de cocina. |
+| Textil e industrial | Tejidos de alta tenacidad (Cordura), cintas transportadoras, cuerdas, hilos de coser industriales, alfombras y moquetas de alto tránsito. |
+| Deportes y ocio | Fijaciones de esquí, componentes de bicicletas, ruedas de patines, raquetas, cascos y protecciones. |
 
 ## Comparativa con materiales similares
-La siguiente tabla numérica enfrenta al PA66 con otros termoplásticos de ingeniería en estado seco, para facilitar la selección de material.
 
-| Propiedad | PA66 | PA6 | POM (acetal) | PET |
+Frente a otras poliamidas, el PA66 destaca por mayor rigidez y mejor comportamiento térmico que el PA6, aunque con menor resiliencia en condiciones húmedas. Respecto a termoplásticos de uso general como el polipropileno, ofrece un rendimiento mecánico y térmico muy superior a cambio de mayor densidad y costo.
+
+| Material | Densidad (g/cm³ / lb/ft³) | Resistencia a la tracción (MPa / ksi) | Módulo de tracción (GPa / ksi) | Temperatura de fusión (°C / °F) |
 | --- | --- | --- | --- | --- |
-| Densidad (g/cm³) | 1.14 | 1.13 | 1.41 | 1.37 |
-| Resistencia a la tracción (MPa) | 82 | 76 | 70 | 80 |
-| Módulo de tracción (GPa) | 3.0 | 2.8 | 2.9 | 3.1 |
-| Punto de fusión (°C) | 264 | 220 | 175 | 255 |
-| Temperatura máxima de servicio (°C) | 100 | 85 | 90 | 100 |
-| Absorción de agua en 24 h (%) | 1.2 | 1.8 | 0.01 | 0.1 |
-| Rigidez dieléctrica (kV/mm) | 14 | 18 | 13 | 16 |
+| Nylon PA66 | 1,14 / 71,2 | 82 / 11,9 | 2,0 – 3,6 / 290 – 522 | 264 / 507 |
+| Nylon PA6 | 1,13 / 70,5 | 78 / 11,3 | 2,0 – 3,0 / 290 – 435 | 220 / 428 |
+| Polipropileno (PP) | 0,90 / 56,2 | 33 / 4,8 | 1,4 / 203 | 165 / 329 |
+| Polioximetileno (POM) | 1,41 / 88,0 | 70 / 10,2 | 2,8 / 406 | 175 / 347 |
+| PET (semicristalino) | 1,33 / 83,0 | 80 / 11,6 | 2,8 / 406 | 255 / 491 |
 
-## Procesamiento
-La temperatura de procesamiento del Nylon PA66 en moldeo por inyección suele oscilar entre 260 °C y 290 °C. Antes de transformar, el material debe secarse hasta una humedad residual inferior al 0.20 % para evitar degradación hidrolítica.
+## Preguntas frecuentes (FAQ)
 
-| Parámetro de proceso | Valor recomendado |
-| --- | --- |
-| Secado | 80 °C durante 4 h (aire deshumidificado) |
-| Temperatura de moldeo (boquilla) | 270 – 290 °C |
-| Temperatura del molde | 60 – 90 °C |
-| Velocidad de inyección | Media |
-| Presión de mantenimiento | 50 – 80 MPa |
-| Contracción por moldeo | 1.5 % (longitudinal) |
-| Temperatura de extrusión | 260 – 280 °C |
+### ¿Qué diferencia al Nylon PA66 del Nylon PA6?
+La principal diferencia radica en la estructura química y el punto de fusión. El PA66 tiene una temperatura de fusión de 264 °C frente a 220 °C del PA6, lo que le confiere mejor estabilidad dimensional a alta temperatura y mayor rigidez. El PA6, por su parte, ofrece mejor resistencia al impacto en estado acondicionado y un rango de procesamiento ligeramente más amplio.
 
-## Consideraciones de diseño
-La absorción de humedad del PA66 puede alcanzar el 8.5 % en saturación, lo que provoca un aumento de volumen de aproximadamente 0.2 % por cada 1 % de humedad absorbida. Este fenómeno debe compensarse en el diseño de piezas de precisión mediante holguras dimensionales adecuadas, refuerzos con fibra de vidrio (que reducen la expansión al 0.1 % por cada 1 % de humedad) o preacondicionamiento de los componentes. La contracción por moldeo (1.5 %) también requiere ángulos de desmoldeo mínimos de 1° y espesores de pared uniformes para minimizar alabeos.
+### ¿El Nylon PA66 es resistente a productos químicos?
+Presenta una resistencia excelente a aceites, grasas, gasolina, hidrocarburos alifáticos, álcalis diluidos y la mayoría de disolventes orgánicos. Los ácidos minerales fuertes, fenoles, ácido fórmico y alcoholes bencílicos lo atacan y deben evitarse.
 
-## Sostenibilidad y reciclaje
-El Nylon PA66 está identificado con el código de reciclaje 66 y puede ser reprocesado de 3 a 4 veces sin pérdida significativa de propiedades mecánicas, siempre que se mezcle con material virgen en proporciones controladas (hasta 30 % de reciclado). No es biodegradable, pero existen rutas de recuperación mecánica (trituración y reextrusión) y reciclaje químico (despolimerización para recuperar caprolactama y ácido adípico) que están en fase de escalado industrial. El contenido de fuentes renovables en grado bio‑based puede alcanzar el 60 % cuando se emplea ácido adípico de origen vegetal.
+### ¿Se puede reciclar el Nylon PA66?
+Sí, el PA66 es termoplástico y, por tanto, reciclable mediante procesos de trituración y re-extrusión. Los grados de inyección y extrusión admiten altos porcentajes de material reprocesado, aunque se recomienda secar adecuadamente el material antes de cada transformación para evitar degradación hidrolítica.
+
+### ¿Cuál es la temperatura de deflexión térmica del Nylon PA66?
+La temperatura de deflexión térmica (HDT) bajo carga de 1,8 MPa es de aproximadamente 75 °C / 167 °F para el material sin reforzar. Con refuerzo de fibra de vidrio al 30 %, el HDT puede superar los 250 °C / 482 °F.
+
+### ¿Por qué el Nylon PA66 absorbe humedad y cómo afecta a sus propiedades?
+La absorción de humedad, que puede alcanzar entre el 2,5 % y el 8,5 % según las condiciones, se debe a los grupos amida polares de la cadena polimérica. El agua absorbida actúa como plastificante interno: reduce la resistencia a la tracción y la rigidez, pero mejora notablemente la resistencia al impacto y la elongación a la rotura.
+
+### ¿Qué técnicas de procesamiento se utilizan con el Nylon PA66?
+Las técnicas principales son el moldeo por inyección, la extrusión de perfiles, monofilamentos y láminas, y el moldeo por soplado. En todos los casos es indispensable el secado previo del granulado hasta alcanzar un contenido de humedad inferior al 0,2 %, normalmente a 80 °C durante cuatro a ocho horas.
 
 ## Fuentes consultadas
 
 - **azom.com**: https://www.azom.com/properties.aspx?ArticleID=488
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
-- **steelnumber.com**: https://www.steelnumber.com/en/steel_composition_eu.php?name_id=196
+- **steelnumber.com**: https://www.steelnumber.com/en/compare_steel_eu.php?name_id_3=3&name_id_11=1&count_mat=19

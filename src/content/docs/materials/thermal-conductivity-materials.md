@@ -9,58 +9,97 @@ topic: "cross-reference"
 subcategory: "thermal-conductivity"
 skill: "material-data-comparison"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
+La conductividad térmica de los materiales es la propiedad que determina su capacidad para transferir calor por conducción. En estado estacionario, los metales puros como el cobre alcanzan valores de **401 W/(m·K) / 231,8 BTU/(h·ft·°F)** a 0 °C / 32 °F, mientras que los polímeros sin relleno raramente superan los **0,2 W/(m·K) / 0,116 BTU/(h·ft·°F)**. Esta diferencia de hasta tres órdenes de magnitud ha impulsado el desarrollo de materiales compuestos de matriz polimérica con aditivos de alta conductividad, capaces de alcanzar entre **1 y 20 W/(m·K) / 0,58 y 11,6 BTU/(h·ft·°F)**.
 
 ## Composición química
-Las aleaciones de aluminio para aplicaciones térmicas contienen entre 3% y 5% de cobre, como el duraluminio (94‑96% Al, 3‑5% Cu) y el siluminio (87% Al, 13% Si). Los latones presentan un 70‑85% de cobre con adiciones de zinc (30‑15%) y estaño hasta 9%. El acero inoxidable tipo 304 posee una composición base de hierro con 18‑20% de cromo y 8‑10.5% de níquel. En el extremo opuesto, los polímeros sin carga están constituidos por cadenas orgánicas largas de monómeros como etileno, propileno o tetrafluoroetileno, cuya estructura macromolecular intrínseca limita la transferencia fonónica.
 
-## Propiedades mecánicas
-Los metales con conductividad superior a 200 W/(m·K), como el cobre electrolítico, mantienen una resistencia a la tracción en estado recocido de al menos 210 MPa, mientras que el aluminio aleado 2014 alcanza 190 W/(m·K) con resistencia a la cedencia superior a 240 MPa en tratamiento T6. La adición de partículas conductoras en compuestos poliméricos permite elevar el módulo elástico desde menos de 2 GPa para polietileno puro hasta cerca de 5 GPa con cargas del 30% en volumen, a costa de una reducción en la elongación a rotura.
+La composición de los materiales conductores térmicos varía drásticamente según la familia. Los metales conductores suelen ser elementos puros o aleaciones con una estructura cristalina que favorece la movilidad de los electrones. Los compuestos poliméricos conductores están formados por una matriz termoplástica o termoestable y una fase dispersa de partículas altamente conductoras.
 
-## Propiedades físicas y térmicas
-Los valores de conductividad térmica varían desde 0.1‑0.5 W/(m·K) para polímeros sin relleno hasta 428 W/(m·K) para plata pura a 0 °C. A continuación se presentan las conductividades de metales y aleaciones de ingeniería según la temperatura, así como el comportamiento de compuestos poliméricos con partículas de alta conductividad.
+| Material | Componente mayoritario | Aditivo / alcante | Contenido típico de aditivo |
+| --- | --- | --- | --- |
+| Cobre electrolítico (ETP) | Cu ≥ 99.9% | Oxígeno ≤ 0.05% | <0.05% en masa |
+| Aluminio 3003 | Al 96.8–99% | Mn 1.0–1.5%, Cu 0.05–0.2% | 1–2% en masa |
+| Acero inoxidable 304 | Fe 66–74% (balance) | Cr 18–20%, Ni 8–10.5% | 26–30% en masa |
+| Polímero con partículas HC (Al₂O₃) | Polietileno (PE) / Nylon | Alúmina (Al₂O₃) | 30–60% vol. / 30–60% vol. |
+| Polímero con partículas HC (Grafito) | Polipropileno (PP) | Grafito | 40–70% vol. / 40–70% vol. |
+| Polímero con nanotubos de carbono | Epoxi | CNTs | 1–10% vol. / 1–10% vol. |
 
-| Material | Temperatura (°C) | Conductividad térmica k (W/m·K) |
-|---|---|---|
-| Plata (pura) | 0 | 428 |
-| Cobre (puro) | 0 | 401 |
-| Aluminio (puro) | 0 | 236 |
-| Duraluminio (94‑96% Al) | 20 | 164 |
-| Latón cartuchería (UNS C26000) | 20 | 120 |
-| Aluminio 3003, laminado | 0‑25 | 190 |
-| Bronce fosforoso (10% Sn) | 20 | 50 |
-| Constantán (60% Cu, 40% Ni) | 20 | 22.7 |
-| Acero inoxidable 304 | 20 | 14.4 |
-| Hierro fundido | 20 | 52 |
-| Níquel (puro) | 0 | 94 |
-| Titanio (puro) | 0 | 22.4 |
-| Tungsteno (puro) | 0 | 182 |
-| Compuesto polimérico con partículas HC* | 20 | 1‑20 |
+## Propiedades mecánicas por estado de tratamiento
 
-*Aumento significativo respecto al polímero base (<0.5 W/m·K) por adición de rellenos cerámicos, metálicos o de carbono; el valor final depende del contenido volumétrico, la forma de partícula y la calidad de la interfase matriz‑relleno.
+Las propiedades mecánicas dependen del estado metalúrgico o del curado en el caso de los polímeros. La tabla siguiente recoge valores representativos para materiales seleccionados en las condiciones más comunes de suministro.
+
+| Material | Estado / Tratamiento | Límite elástico (MPa / ksi) | Resistencia a la tracción (MPa / ksi) | Módulo elástico (GPa / Msi) | Alargamiento (%) |
+| --- | --- | --- | --- | --- | --- |
+| Cobre ETP | Recocido | 69 / 10.0 | 220 / 31.9 | 115 / 16.7 | 45 |
+| Cobre ETP | Laminado en frío (H04) | 310 / 45.0 | 345 / 50.0 | 117 / 17.0 | 12 |
+| Aluminio 3003 | Recocido (O) | 41 / 5.95 | 110 / 15.9 | 69 / 10.0 | 30 |
+| Aluminio 3003 | Laminado (H14) | 145 / 21.0 | 150 / 21.8 | 69 / 10.0 | 16 |
+| Acero inoxidable 304 | Recocido | 215 / 31.2 | 505 / 73.2 | 193 / 28.0 | 70 |
+| Compuesto PP + 40% grafito | Moldeo por inyección | 35 / 5.08 | 45 / 6.53 | 8.5 / 1.23 | 3 |
+| Compuesto Epoxi + 5% CNT | Curado | – | 65 / 9.43 | 12 / 1.74 | 1.5 |
+
+## Propiedades físicas
+
+La densidad y el coeficiente de expansión térmica (CTE) son parámetros críticos en aplicaciones donde se requiere disipación de calor y bajo peso simultáneamente.
+
+| Material | Densidad a 20 °C (kg/m³ / lb/ft³) | CTE 20-100 °C (10⁻⁶/°C / 10⁻⁶/°F) | Calor específico (J/(kg·K) / BTU/(lb·°F)) |
+| --- | --- | --- | --- |
+| Cobre ETP | 8960 / 559.3 | 17.0 / 9.44 | 385 / 0.0920 |
+| Aluminio 3003 | 2730 / 170.4 | 23.6 / 13.1 | 893 / 0.213 |
+| Acero inoxidable 304 | 8000 / 499.4 | 17.3 / 9.61 | 500 / 0.119 |
+| Polipropileno sin relleno | 905 / 56.5 | 100 / 55.6 | 1925 / 0.460 |
+| Compuesto PP + 40% grafito | 1350 / 84.3 | 35 / 19.4 | 1250 / 0.299 |
+| Compuesto Epoxi + 5% CNT | 1180 / 73.7 | 25 / 13.9 | 1050 / 0.251 |
+
+## Propiedades térmicas
+
+La conductividad térmica (k) se define a través de la ley de Fourier para conducción unidimensional en estado estacionario:
+
+> **q = –k · (dT/dx)**
+
+Donde **q** es el flujo de calor por unidad de área (W/m²), **k** la conductividad térmica (W/(m·K)) y **dT/dx** el gradiente de temperatura (K/m). Los valores de **k** para materiales seleccionados se presentan en la tabla siguiente.
+
+| Material | Temperatura (°C / °F) | Conductividad térmica k (W/(m·K) / BTU/(h·ft·°F)) |
+| --- | --- | --- |
+| Cobre (ETP) | 0–25 / 32–77 | 391 / 225.9 |
+| Aluminio (puro) | 0–25 / 32–77 | 236 / 136.3 |
+| Aluminio 3003 | 0–25 / 32–77 | 190 / 109.8 |
+| Hierro forjado | 0–25 / 32–77 | 59 / 34.1 |
+| Acero inoxidable 304 | 20 / 68 | 14.4 / 8.32 |
+| Acero carbono 0.5% C | 20 / 68 | 54 / 31.2 |
+| Polietileno (PE) sin relleno | 20 / 68 | 0.35 / 0.202 |
+| Poliamida (Nylon 6) sin relleno | 20 / 68 | 0.25 / 0.144 |
+| Compuesto PE + 50% Al₂O₃ | 20 / 68 | 2.1 / 1.21 |
+| Compuesto PP + 60% grafito | 20 / 68 | 12 / 6.93 |
+| Compuesto Epoxi + 5% CNT | 20 / 68 | 8 / 4.62 |
 
 ## Aplicaciones por industria
-La conductividad térmica determina el uso de cada material en sectores donde se requieren 150‑400 W/(m·K) para disipación y 0.1‑15 W/(m·K) para aislamiento. En la industria electrónica se emplea cobre y aluminio para disipadores y encapsulados; el sector aeroespacial utiliza compuestos poliméricos de alta conductividad para carcasas ligeras que evacuan calor; automoción aplica aluminio 3003 en radiadores y polímeros con carga en carcasas de baterías; construcción recurre a aceros inoxidables y polímeros aislantes en ventanas térmicas; y el sector energético emplea aleaciones de níquel y constantán en intercambiadores y termopares.
+
+Los materiales con alta conductividad térmica se seleccionan en función del equilibrio entre prestaciones térmicas, peso y costo.
+
+| Industria | Componentes típicos | Materiales preferentes |
+| --- | --- | --- |
+| Electrónica y semiconductores | Disipadores de calor, encapsulados de chips, IGBTs, LED | Cobre, aluminio, compuestos poliméricos con grafito |
+| Automoción | Bandejas de baterías, carcasas de motor, sensores | Aluminio, compuestos de poliamida con carga cerámica |
+| Aeroespacial | Radiadores de satélite, estructuras de paneles solares | Aleaciones de aluminio-litio, compuestos epoxi-CNT |
+| Electrodomésticos | Intercambiadores de calor, moldes de inyección | Cobre, aceros al carbono |
+| Energía | Tubos de caldera, colectores solares | Acero inoxidable, aluminio revestido |
+| Equipos de protección | Cascos, escudos térmicos portátiles | Compuestos de polipropileno con grafito |
 
 ## Comparativa con materiales similares
-Un material con 400 W/(m·K) transfiere aproximadamente 20 veces más calor que un acero inoxidable 304 y hasta 800 veces más que un polímero virgen. Frente a los metales, los compuestos poliméricos cargados con partículas ofrecen una densidad 4‑5 veces menor y resistencia química superior, aunque su conductividad máxima en aplicaciones comerciales raramente supera los 20 W/(m·K). Las aleaciones de cobre y aluminio dominan cuando se exige conductividad >100 W/(m·K) combinada con resistencia mecánica moderada, mientras que los aceros aleados se reservan para ambientes corrosivos o de alta temperatura donde la conductividad no es prioritaria.
 
-| Propiedad | Metales (Cu, Al) | Compuestos poliméricos HC | Ventaja |
-|---|---|---|---|
-| Conductividad típica (W/m·K) | 120‑401 | 1‑20 | Metales |
-| Densidad (g/cm³) | 2.7‑8.9 | 1.0‑1.8 | Polímeros |
-| Resistencia química | Media | Alta | Polímeros |
-| Costo relativo de procesamiento | Medio | Bajo | Polímeros |
+Frente a los metales clásicos, los compuestos poliméricos conductores ofrecen menor densidad, mejor resistencia química y mayor flexibilidad de diseño, aunque con una conductividad térmica aún inferior. La tabla siguiente resume los atributos clave.
 
-## Preguntas frecuentes (FAQ)
-*   ¿Cuál es el metal con mayor conductividad térmica? La plata posee la conductividad más alta entre los metales, con 428 W/(m·K) a 0 °C, aunque el cobre es el más utilizado industrialmente con 401 W/(m·K) a 0 °C por su menor costo.
-*   ¿Cómo afecta la temperatura a la conductividad del aluminio? El aluminio puro mantiene 237 W/(m·K) a -73 °C y 220 W/(m·K) a 527 °C; la disminución es gradual hasta los 327 °C y se acelera ligeramente por encima de esta temperatura.
-*   ¿Qué valor de conductividad presenta el acero inoxidable 304? El acero inoxidable 304 tiene una conductividad de 14.4 W/(m·K) a 20 °C, casi 30 veces menor que el cobre puro.
-*   ¿Puede un polímero alcanzar conductividades metálicas? Los compuestos poliméricos con partículas de alta conductividad pueden llegar hasta 20 W/(m·K), un valor comparable al del acero inoxidable, pero aún muy por debajo del cobre o el aluminio.
-*   ¿Cuál es la conductividad típica del bronce fosforoso? El bronce con 10% de estaño (UNS C52400) presenta 50 W/(m·K) a 20 °C, lo que lo sitúa en un rango intermedio entre aceros y latones.
-*   ¿Qué material se recomienda para un intercambiador de calor ligero? Las aleaciones de aluminio como el 3003 laminado ofrecen 190 W/(m·K) con una densidad de solo 2.7 g/cm³, siendo preferibles a los aceros o al cobre cuando el peso es crítico.
+| Material | Conductividad típica (W/(m·K) / BTU/(h·ft·°F)) | Densidad (kg/m³ / lb/ft³) | Resistencia a la corrosión | Costo relativo |
+| --- | --- | --- | --- | --- |
+| Cobre | 391 / 225.9 | 8960 / 559.3 | Media (se oxida) | Alto |
+| Aluminio | 236 / 136.3 | 2730 / 170.4 | Buena (capa de alúmina) | Medio |
+| Acero inoxidable 304 | 14.4 / 8.32 | 8000 / 499.4 | Excelente | Medio |
+| Polímero sin relleno | 0.2–0.4 / 0.12–0.23 | 900–1200 / 56–75 | Excelente | Bajo |
+| Compuesto polímero con carga conductora | 2–20 / 1.2–11.6 | 1100–1500 / 69–94 | Buena | Medio-Bajo |
 
 ## Fuentes consultadas
 

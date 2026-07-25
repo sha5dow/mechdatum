@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## ¿Qué es el escariado?
 El escariado es un proceso de mecanizado de precisión que agranda ligeramente un agujero previamente taladrado o perforado, mejorando su diámetro, redondez y acabado superficial hasta tolerancias estrechas (IT8‑IT9). Un escariador, herramienta de corte rotativa con múltiples filos, retira una pequeña sobremedida de material (típicamente 0.1–0.2 mm / 0.004–0.008 in) para dejar un agujero dimensionalmente exacto y con rugosidad controlada. Se ejecuta en taladros, tornos, centros de mecanizado e incluso manualmente.
 
 ## Principio de funcionamiento

@@ -9,83 +9,140 @@ topic: "pneumatic-system"
 subcategory: "symbols-pneumatic"
 skill: "standards-guide"
 launch_phase: 7
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+ISO 1219-1 establishes a standardized system of graphic symbols to represent components and functions in pneumatic and hydraulic circuits, with the aim of ensuring unambiguous interpretation of technical diagrams internationally. This reference guide provides a comprehensive overview of pneumatic symbols under this standard, including basic structures, detailed symbols for valves, actuators, accessories, calculation formulas, and design recommendations. Diagrams typically operate at a standard working pressure of 6 bar / 87 psi in general industrial applications, and can reach up to 10 bar / 145 psi in more demanding systems.
 
-The ISO 1219-1:2012 standard defines standard graphic symbols for pneumatic and hydraulic fluid power systems, establishing 4 basic representation rules: each symbol shows the function, not the construction; components are drawn in the rest position; connections are represented by lines; and valve positions are indicated by adjacent squares. Part 2 of the standard (ISO 1219-2:2012) complements this documentation with rules for drawing complete circuit diagrams.
+## Basic structure of ISO 1219 symbols
+ISO 1219-1 defines over 200 graphic symbols for pneumatic components, organized according to a functional logic composed of basic elements. Each symbol is constructed by combining squares representing working positions, connection lines indicating flow paths, and piloting or actuation symbols that define the type of control.
 
-## Pneumatic actuator symbols
+| Graphic element | Meaning |
+| --- | --- |
+| Square with number of positions (two or three adjacent squares) | Each square represents a different switching position of a directional valve; the complete symbol shows as many squares as the valve has positions. |
+| Arrow inside a square | Indicates the direction of fluid flow in that position; can be bidirectional or unidirectional. |
+| T-line inside a square | Marks a blocked port or closed path in that working position. |
+| Solid triangle over a port | Represents an exhaust or discharge to atmosphere, typical in pneumatic circuits. |
+| Spring (zigzag broken line) | Symbolizes a spring return that returns the valve to its rest position. |
+| Rectangle with diagonal line and label | Indicates a restriction or throttling of air flow. |
 
-| Symbol | Description | Technical notes |
-| --- | --- | --- |
-| Single-acting cylinder, spring return | The rod advances by air pressure and retracts by internal spring force. Typical strokes from 25 mm to 2000 mm / 0.98 in to 78.74 in. | Maximum pressure usually 10 bar / 145 psi. |
-| Double-acting cylinder, single rod | Compressed air acts on both faces of the piston to control advance and retract. Standard diameters from 32 mm / 1.26 in to 320 mm / 12.6 in. | Symbol with two air connections and piston without spring. |
-| Double-acting cylinder, double rod | Has a rod at both ends of the piston. Allows work in both directions with the same force. Typical symmetric strokes from 50 mm to 800 mm / 1.97 in to 31.5 in. | Available force is equal in both directions due to identical effective areas. |
-| Double-acting cylinder with adjustable cushioning | Incorporates throttle valves at the ends to decelerate the piston before final impact. Adjustment screws allow modifying cushioning speed in a range of 0.1 m/s to 1.5 m/s / 0.33 ft/s to 4.92 ft/s. | Pneumatic cushioning reduces noise and extends cylinder service life. |
-| Limited rotation pneumatic motor (rotary actuator) | Converts pneumatic pressure into angular motion. Typical rotation angles 90°, 180° and 270°. Useful torques from 0.5 N·m to 500 N·m / 0.37 lbf·ft to 369 lbf·ft. | Represented by a circular sector and the compressed air symbol. |
-| Angular opening pneumatic gripper | Holding device with fingers that open/close via a pneumatic piston. Closing forces from 50 N to 2000 N / 11.24 lbf to 449.6 lbf at 6 bar / 87 psi. | Symbol similar to double-acting cylinder but with indication of the gripper mechanism. |
+## Actuator symbols
+Standard ISO 6432 pneumatic cylinders have standardized piston diameters from 8 mm / 0.31 in to 25 mm / 0.98 in for single and double acting cylinders. ISO 1219 symbology clearly distinguishes between both construction types and their cushioning or stroke variants.
+
+| Symbol | Description |
+| --- | --- |
+| Simple rectangle with a single port and a spring drawn on the opposite end | Single acting cylinder, spring return. A single compressed air inlet port moves the rod; the spring retracts it. |
+| Rectangle with two ports, no spring symbol, with two connection lines on each side of the piston | Double acting cylinder. Both movements (extension and retraction) are performed by compressed air through alternate ports. |
+| Rectangle with fixed cushioning at one or both ends, indicated by a small segment on the port side | Cylinder with adjustable or fixed pneumatic cushioning; deceleration at end of stroke is symbolized by a trapezoid or restriction. |
+| Double superimposed rectangle with through rod | Double rod cylinder, with the piston accessible from both sides; useful in applications requiring coupling at both ends. |
+| Rectangle with a single port and no spring, usually accompanied by a pneumatic motor symbol | Rotary pneumatic motor or limited rotation actuator (rack and pinion). It is represented by a circle or semicircle indicating angular motion. |
 
 ## Directional valve symbols
+Directional valves control the path of compressed air to the actuators and are classified according to the number of ways (ports) and positions. A 5/2 configuration (five ports, two positions) is the most common in industrial pneumatic circuits for controlling double acting cylinders, typically operating at flow rates up to 1200 l/min / 42.4 cfm.
 
-| Symbol | Description | Technical notes |
+| Designation | Basic ISO symbol | Function |
 | --- | --- | --- |
-| 2/2 valve, normally closed (N.C.) | Two connections and two positions; at rest blocks the passage. Actuated by pushbutton, return by spring. Nominal flow rates from 50 Nl/min to 5000 Nl/min / 1.77 scfm to 176.6 scfm. | The right square indicates the rest position with no flow. |
-| 3/2 valve, normally open (N.O.) | Three connections and two positions; at rest allows passage from 1 to 2. Pneumatic actuation with spring return. Minimum pilot pressure 1.5 bar / 21.8 psi. | Port 3 is blocked at rest and connected to exhaust in active position. |
-| 4/2 monostable valve | Four connections and two positions. Controls a double-acting cylinder with a single solenoid or pilot. Flow rates up to 1200 Nl/min / 42.4 scfm. | At rest connects pressure to one chamber and the other to exhaust; when activated, connections are reversed. |
-| 5/2 bistable valve | Five connections and two positions. Has two independent pilots; maintains the last position when the signal disappears. Typical switching time 10 ms to 25 ms. | The two exhausts allow regulating the speed of each cylinder chamber separately. |
-| 5/3, closed center | Five connections and three positions. The center position blocks all ports (1, 2, 4, 3 and 5 isolated). Allows stopping a cylinder at any intermediate point of its stroke. Maximum switching frequency 400 cycles/min. | Requires good sealing gaskets to maintain the blocked position under load. |
-| 5/3, open center to exhaust | Similar to above but in center position connects ports 2 and 4 to exhaust (3 and 5) while pressure (1) remains blocked. The cylinder is free of pneumatic forces in the center position. Maximum working pressure 16 bar / 232 psi. | Common in applications where manual movement of the cylinder is required with the system stopped. |
+| 2/2 way NC (normally closed) | Two squares; the rest square shows a blocked path (internal T), the working square shows a straight-through arrow. | Simple on/off control for air. Closed at rest; when activated, allows flow. |
+| 3/2 way NC | Two squares; rest with block (T) and exhaust, work with arrow from inlet to outlet and blocked exhaust. | Supplies a single acting cylinder: inlet, outlet to cylinder, and exhaust. Closed at rest; when activated, connects P→A and blocks exhaust. |
+| 5/2 way monostable (spring return) | Two squares; rest with connection P to B and A to exhaust; work with connection P to A and B to exhaust. Both exhausts with triangles. | Controls double acting cylinder. At rest extends or retracts depending on connection; when activated, reverses direction. |
+| 5/2 way bistable (double pilot) | Similar to monostable, but without spring; both squares show flow and exhaust positions. | Maintains the last activated position even if the pilot signal ceases; used with pneumatic controls over short distances. |
+| 5/3 way closed center | Three squares; the center shows all ports blocked (T). The ends show flow and exhaust configurations. | Allows intermediate stopping of the cylinder at any point, blocking supply and exhaust. Used in pressing and positioning. |
 
-## Control and locking valve symbols
+## Blocking and flow valve symbols
+Blocking and flow control elements allow controlling actuator speed and flow direction. A typical check valve opens with a spring pressure of 0.5 bar / 7.3 psi, while a shuttle valve (OR) switches flows on the order of 500 l/min / 17.7 cfm in G 1/8 size.
 
-| Symbol | Description | Technical notes |
+| Symbol | Component |
+| --- | --- |
+| Circle with an arrow crossing it and a spherical seat blocking the path (ball resting on a spring) | Check valve: allows flow in one direction only; the preloaded spring overcomes low pressure. |
+| Circle with two inlets and one outlet, with a free shuttle inside | Shuttle valve (OR / shuttle): allows the higher pressure between the two inlets to pass to the common outlet. |
+| Quick exhaust valve: combination of a T with exhaust triangle and check valve | When supply pressure drops, it opens a large exhaust port directly from the cylinder, discharging quickly. |
+| One-way flow control: symbol of adjustable throttle (rectangle with diagonal and arrow) with check valve in parallel | One-way flow control valve: restricts flow in one direction (adjustable) and allows free flow in the opposite. |
+| Two-way flow control: only the adjustable throttle symbol, without check valve | Symmetric restriction to air flow; used in pilot ports or as exhaust silencer. |
+
+## Pressure valve symbols
+Pressure valves protect the pneumatic system and regulate actuator force. A typical pressure relief valve is factory set to 10 bar / 145 psi, but can be adjusted between 1 bar / 14.5 psi and 16 bar / 232 psi via the adjustment knob.
+
+| Symbol | Name |
+| --- | --- |
+| Box with an inlet port, an exhaust port, and an internal pressure pilot. The adjustable spring is represented with an arrow crossing the spring. | Pressure relief valve (safety): opens the exhaust when line pressure exceeds the spring set value. |
+| Similar box but with external pilot connection (dashed line) and outlet to another working line instead of exhaust. | Sequence valve: allows flow to a secondary circuit once a set pressure is reached in the primary. |
+| Symbol composed of a throttle in series with a two-port valve and an external pilot, all in one box. | Pressure regulator (reducer): maintains a constant output pressure regardless of variations in the inlet line. |
+| Similar to the reducer, but with an integrated exhaust port to relieve overpressure at the outlet. | Pressure regulator with relief, typical of FRL units (filter-regulator-lubricator). |
+
+## Accessories and line symbols
+Accessories and lines complete the pneumatic diagram, from compressed air generation to conditioning. A typical compact FRL unit handles a flow rate up to 1500 l/min / 53 cfm with a maximum inlet pressure of 16 bar / 232 psi and offers particle filtration down to 5 µm / 0.0002 in.
+
+| Symbol | Function |
+| --- | --- |
+| Circle with a diagonal line and a small purge collector at the bottom | Compressed air filter, usually with manual or automatic drain; retains particles and condensate. |
+| Circle with an arrow to the right and a bowl half-full of oil | Lubricator: meters oil as a mist into the working line; installed after the regulator. |
+| Triangle with an outlet line and a pressure inlet; the interior shows a spring and a poppet | Pressure regulator (independent symbol); adjusts working pressure via a manual knob. |
+| Solid lines for main flow, dashed lines for pilot and control circuits. | Working, command, and pilot lines: solid line represents main conduits; dashed line represents pneumatic pilot lines. |
+| Silencer symbol: a triangle with outlet to atmosphere and interior filled with dots | Silencer: reduces valve exhaust noise, placed on threaded discharge ports. |
+
+## Pneumatic calculation formulas
+The theoretical force developed by a pneumatic cylinder depends on the working pressure and the effective piston area. For a cylinder with 32 mm / 1.26 in diameter operating at 6 bar / 87 psi, the extension force is approximately 482 N / 108 lbf, while retraction force decreases to 415 N / 93 lbf due to the annular area of the rod. The general formula and rod speeds are calculated with the following expressions, typically for a speed range between 0.1 m/s / 0.33 ft/s and 1.5 m/s / 4.9 ft/s.
+
+> **F_extension = p × (π × D² / 4) — F_spring**  
+> **F_retraction = p × (π × (D² – d²) / 4)**
+
+| Variable | Name | Typical units |
 | --- | --- | --- |
-| Check valve without spring | Allows free flow in one direction and blocks in the opposite. Opening is produced by the fluid pressure itself. Opening pressure less than 0.1 bar / 1.45 psi. | Symbol: seat and ball without spring; the triangle indicates the direction of free flow. |
-| Check valve with spring | Same as above but requires a minimum opening pressure, typically 0.5 bar to 1.0 bar / 7.25 psi to 14.5 psi, to overcome the spring. | The spring ensures closure even in the absence of differential pressure. |
-| Quick exhaust valve | Accelerates air evacuation from a cylinder by directly connecting the chamber to the atmosphere. Reduces return times by 40% to 60% compared to a direct connection. | Symbol: three connections with floating seat that diverts flow to exhaust. |
-| One-way flow control valve (flow regulator) | Allows free passage in one direction and restricts flow in the opposite direction via an adjustment screw. Regulation is normally done on the cylinder advance or retract speed. Connection diameters from M5 to G1/2. | The symbol shows a variable restrictor with a check by-pass. |
-| Pressure regulator valve with relief | Maintains a constant secondary pressure regardless of variations in primary pressure. Typical regulation range 0.5 bar to 10 bar / 7.25 psi to 145 psi. | Incorporates a relief to release excess pressure in the secondary; symbol with adjustable spring and exhaust connection. |
-| Shuttle valve (OR valve) | Has two inlets and one outlet; the pressure signal at either inlet passes to the outlet. The inlet pressure must be at least 0.3 bar / 4.35 psi higher than the outlet for switching. | Symbol with two inlets converging to a point and an internal floating seat. |
+| F | Cylinder force | N / lbf |
+| p | Working gauge pressure | bar / psi (1 bar = 14.5038 psi) |
+| D | Piston inner diameter | mm / in |
+| d | Rod diameter | mm / in |
+| F_spring | Spring return force (if any) | N / lbf |
 
-## Accessories and air treatment symbols
+Average rod speed:
 
-| Symbol | Description | Technical notes |
+> **v = Q / A**
+
+| Variable | Name | Typical units |
 | --- | --- | --- |
-| Compressed air filter with drain | Removes solid particles and condensate from compressed air. Pore sizes from 5 µm / 0.0002 in to 40 µm / 0.0016 in. Drain can be manual or automatic. | The symbol shows a container with inlet/outlet line and a bottom drain. |
-| Compressed air lubricator | Doses oil in fine mist form to lubricate downstream pneumatic components. Maximum lubrication flow rate 3000 Nl/min / 105.9 scfm. Reservoir capacity 30 cm³ to 500 cm³ / 1.83 in³ to 30.5 in³. | The oil drop in the symbol indicates the lubrication function; installed after the filter and regulator. |
-| Compact refrigerant dryer | Cools compressed air to condense moisture and then reheats it before outlet. Achievable pressure dew point +3 °C / 37.4 °F. Treated air flow from 15 m³/h / 8.83 cfm to 180 m³/h / 105.94 cfm. | Generic symbol with heat exchanger and condensate separator. |
-| Compact maintenance unit (FRL) | Combines filter, pressure regulator and lubricator in one block. Semi-automatic drain activated by pressure loss. Standard connections G1/4, G3/8 and G1/2. Total weight 0.6 kg to 3.5 kg / 1.32 lb to 7.72 lb. | The symbol shows three blocks in line crossed by the supply line. |
-| Pneumatic pressure switch | Switches an electrical contact when pneumatic pressure reaches a preset value. Adjustment range 0.2 bar to 12 bar / 2.9 psi to 174 psi. Repeatability ±1% of full scale. | Symbol with pressure line and normally open or normally closed electrical contact. |
-| Pneumatic silencer | Reduces noise from compressed air exhaust at valve and cylinder ports. Sound attenuation from 15 dB(A) to 35 dB(A) depending on internal porous material. Connections from M5 to G1. | The symbol shows an element at the valve exhaust with acoustic attenuation indication. |
+| v | Rod speed | m/s / ft/s |
+| Q | Supplied volumetric flow rate | l/min / cfm (1 l/min = 0.035315 cfm) |
+| A | Effective area (π × D² / 4 for extension) | mm² / in² |
+
+## Component selection tables
+The selection of standard pneumatic cylinders is based on piston diameter and required stroke. The standard diameters according to ISO 6431 for maximum pressures of 10 bar / 145 psi allow the following theoretical forces at 6 bar / 87 psi in extension:
+
+| Piston diameter (mm / in) | Extension force at 6 bar (N / lbf) | Retraction force at 6 bar (N / lbf) | Recommended flow rate (l/min / cfm) for 0.5 m/s |
+| --- | --- | --- | --- |
+| 20 / 0.79 | 188 / 42.3 | 158 / 35.5 | 9.4 / 0.33 |
+| 25 / 0.98 | 294 / 66.1 | 247 / 55.5 | 14.7 / 0.52 |
+| 32 / 1.26 | 482 / 108.4 | 415 / 93.3 | 24.1 / 0.85 |
+| 40 / 1.57 | 754 / 169.5 | 665 / 149.5 | 37.7 / 1.33 |
+| 50 / 1.97 | 1178 / 264.8 | 1039 / 233.6 | 58.9 / 2.08 |
+| 63 / 2.48 | 1870 / 420.4 | 1662 / 373.6 | 93.5 / 3.30 |
+| 80 / 3.15 | 3016 / 678.0 | 2707 / 608.6 | 150.8 / 5.32 |
+
+Standard working pressures for industrial pneumatic components range from 4 bar / 58 psi to 8 bar / 116 psi, with a nominal design pressure of 6 bar / 87 psi. Most pneumatic directional valves are tested at 6 bar with a declared nominal flow rate under standard conditions according to ISO 6358.
+
+## Design notes
+The interpretation of ISO 1219 symbols in a pneumatic diagram must consider that valves are drawn in their rest position (normally the position they adopt without pilot energy). The number of squares indicates the positions, and external connections are drawn aligned with the rest position. Piloting is represented to the left or right of the symbols, distinguishing between pneumatic piloting (triangle on dashed line) and electrical piloting (solenoid with slanted line and terminal). Reading a diagram follows the energy flow from the maintenance unit (FRL) to the actuators, which facilitates diagnosis of faults such as leaks or insufficient pressure. For sequential circuits, the step-by-step method with bistable memory valves is used, ensuring each movement is completed before starting the next.
 
 ## Frequently Asked Questions (FAQ)
+### What is the difference between ISO 1219 symbols and CETOP symbols?
+CETOP symbols are practically identical to ISO 1219, since the European committee CETOP adopted ISO standards as a basis. Differences may be found in obsolete representations or in piloting details of some old national standards.
 
-### Which international standard regulates pneumatic symbols for circuits?
+### How is a single acting cylinder with spring return represented?
+A rectangle with a single port (represented as a small circle or connection line) and a zigzag spring drawn on the opposite side of the port indicates return by elastic force.
 
-The ISO 1219-1:2012 standard, last reviewed in 2012, regulates graphic symbols for fluid power systems, including more than 200 pneumatic and hydraulic symbols. Part 1 establishes basic rules and component representation, while ISO 1219-2:2012 defines rules for circuit diagrams. The Spanish nomenclature is collected in UNE-EN ISO 1219-1:2012, identical to the international version.
+### Why do some 5/3 valves have center exhaust?
+The center position with open exhausts and blocked pressure (floating center) is used to allow free movement of the cylinder when stopped, such as in manual positioning systems, while the closed center locks the actuator in place.
 
-### How many positions and ports does a 5/3 closed center valve define?
+### What does a solid triangle on a valve symbolize?
+A solid triangle adjacent to the last square of the symbol indicates an exhaust to atmosphere without piping, typical in pneumatic valves after performing work on the actuator.
 
-A 5/3 closed center valve has 5 connections (ports) and 3 switching positions, with the center position blocking all ports. The maximum working pressure for this type of valve is 16 bar / 232 psi and the nominal flow rate reaches 1200 Nl/min / 42.4 scfm in G1/4 sizes. The maximum switching frequency is 400 cycles/minute in versions with pneumatic pilot and spring return.
+### Can ISO 1219 symbols be combined with electrical symbols in the same diagram?
+Yes, ISO 1219 allows interconnection with electrical control symbols according to IEC 60617. Solenoid coils are drawn as slanted rectangles connected to the valve box, and electrical contacts are governed by their own standards.
 
-### How is a double-acting cylinder with cushioning represented in ISO 1219?
+### How is a valve symbol with three squares interpreted?
+It represents a three-position valve; the center square shows the rest position (deactivated) and the two side squares show the working positions. Each square has its corresponding internal flow and exhaust connections.
 
-The ISO 1219 symbol for a double-acting cylinder with adjustable cushioning shows a piston without spring with two air connections and an additional rectangle at each end indicating the adjustable throttle valves. Typical strokes range from 25 mm / 0.98 in to 2000 mm / 78.74 in, with standardized diameters from 32 mm / 1.26 in to 320 mm / 12.6 in per ISO 6432 and ISO 15552.
+## Sources Consulted
 
-### What minimum pilot pressure does a 3/2 pneumatic valve need?
-
-The minimum pilot pressure for a 3/2 valve with pneumatic actuation is 1.5 bar / 21.8 psi, below which the pilot does not guarantee switching of the main spool. Normally closed 3/2 valves operate in a pressure range from 2 bar to 10 bar / 29 psi to 145 psi and accept flow rates from 50 Nl/min / 1.77 scfm to 5000 Nl/min / 176.6 scfm depending on connection size.
-
-### How much does a pneumatic silencer reduce exhaust noise?
-
-A standard pneumatic silencer reduces exhaust noise between 15 dB(A) and 35 dB(A), depending on the internal porous material (sintered bronze or polyethylene) and working pressure conditions, which can reach up to 12 bar / 174 psi. Standard threaded connections range from M5 to G1, and the additional pressure drop introduced is less than 0.3 bar / 4.35 psi under nominal conditions.
-
-### Which ISO standard defines compressed air treatment units?
-
-The maintenance unit composed of filter, regulator and lubricator (FRL) is described in ISO 1219-1:2012 within the family of symbols for compressed air treatment. The filter retains particles from 5 µm / 0.0002 in to 40 µm / 0.0016 in, the regulator maintains a stable secondary pressure in a range of 0.5 bar to 10 bar / 7.25 psi to 145 psi, and the lubricator doses oil for flow rates up to 3000 Nl/min / 105.9 scfm.
-
-## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/iso-valve-standards-d_375.html
 - **engineersedge.com**: https://www.engineersedge.com/hydraulic/symbols/hydraulic_iso_schematic_symbols.htm
-- **efunda.com**: https://www.efunda.com/designstandards/oring/oring_intro.cfm
+- **efunda.com**: https://www.efunda.com/math/hyperbolic/display.cfm?name=arccoth

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definición
 Los rodamientos de rodillos cilíndricos son un tipo de rodamiento de elementos rodantes que utiliza cilindros como cuerpos de rodadura, guiados entre un aro interior y un aro exterior. Están diseñados para soportar cargas radiales elevadas gracias a la geometría lineal del contacto entre los rodillos y las pistas, y pueden operar a velocidades medias y altas. La capacidad de carga radial es típicamente superior a la de un rodamiento rígido de bolas de dimensiones equivalentes.
 
 ## Principio de funcionamiento

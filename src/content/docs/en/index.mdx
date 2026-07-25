@@ -1,0 +1,40 @@
+﻿---
+title: MechDatum
+description: Technical reference database for mechanical engineers. Material properties, tolerances, threads, welding, and more — verified data in Spanish.
+template: splash
+hero:
+  title: Verified technical reference for engineers
+  tagline: Material properties, process parameters, tolerances, and technical tables. Data verified across multiple sources, in Spanish.
+  actions:
+    - text: Explore Materials
+      link: /en/materials/
+      icon: right-arrow
+      variant: primary
+    - text: View all categories
+      link: /en/materials/
+      icon: open-book
+      variant: minimal
+---
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Main categories
+
+<CardGrid stagger>
+  <Card title="Materials" icon="seti:config">
+    Mechanical properties, chemical composition, and applications of steels, aluminums, polymers, and composites.
+  </Card>
+  <Card title="Manufacturing" icon="setting">
+    Cutting, bending, welding, casting, and additive manufacturing parameters by material.
+  </Card>
+  <Card title="Tolerances & Fits" icon="approve-check">
+    ISO tolerance system, shaft-hole fits, and GD&T symbology.
+  </Card>
+  <Card title="Fasteners" icon="puzzle">
+    Metric and imperial threads, tightening torques, and standard equivalences.
+  </Card>
+</CardGrid>
+
+## Why MechDatum?
+
+Each technical page is built by cross-referencing multiple reference sources to ensure reliable data. Direct tables, SI and imperial units, and precise technical terminology, the information an engineer needs.
+

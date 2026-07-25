@@ -15,8 +15,6 @@ verified: true
 
 Los engranajes cónicos transmiten potencia entre ejes que se intersectan, típicamente a 90 grados, modificando la dirección del movimiento rotatorio. La forma de sus dientes, tallados sobre una superficie cónica, determina la suavidad de operación, la capacidad de carga y el nivel de ruido. Los tipos fundamentales son el engranaje cónico de dientes rectos y el engranaje cónico espiral, cada uno con características de rendimiento y aplicaciones distintas.
 
-## Principio de funcionamiento
-
 El principio de funcionamiento se basa en la rodadura de dos conos de paso que giran sincronizadamente sin deslizamiento en la línea de contacto. La fuerza de esfuerzo se aplica al piñón conductor, y la carga se transfiere al engranaje seguidor. La relación de transmisión o movimiento, que vincula las velocidades de rotación con el número de dientes, se expresa como i_M = t_F / t_D, donde t_F son los dientes del seguidor y t_D los del conductor. Un engranaje cónico espiral utiliza dientes helicoidales curvos, lo que produce un contacto gradual y solapado entre los flancos, reduciendo la vibración y el ruido en comparación con el perfil recto. La variante hipoide, un tipo de engranaje cónico espiral donde los ejes no se intersectan, introduce una acción de deslizamiento adicional que exige lubricantes de extrema presión.
 
 ## Tipos y clasificación

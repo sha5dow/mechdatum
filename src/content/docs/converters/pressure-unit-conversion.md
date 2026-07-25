@@ -9,109 +9,83 @@ topic: "units"
 subcategory: "pressure-units"
 skill: "converter-reference-table"
 launch_phase: 10
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+La presión se define como la fuerza ejercida perpendicularmente por unidad de área. En el Sistema Internacional (SI), la unidad fundamental es el pascal (Pa), equivalente a un newton por metro cuadrado (N/m²). Sin embargo, en la práctica industrial coexisten múltiples unidades métricas e imperiales —bar, atmósfera, psi, milímetro de mercurio, entre otras—, lo que obliga a disponer de conversiones precisas y validadas.
 
-La conversión de unidades de presión es fundamental en ingeniería, meteorología y procesos industriales. La unidad base del Sistema Internacional (SI) es el **pascal (Pa)**, equivalente a 1 newton por metro cuadrado. Desde esta referencia se derivan múltiplos como el kilopascal (kPa = 10³ Pa) y el megapascal (MPa = 10⁶ Pa), así como otras unidades de uso común como el **bar** (1 bar = 100 000 Pa), la **atmósfera estándar** (atm), los **milímetros de mercurio** (mmHg) y las unidades anglosajonas **psi** (libras-fuerza por pulgada cuadrada) o **inHg** (pulgadas de mercurio). En esta página se presentan las equivalencias más precisas y las fórmulas para pasar fácilmente de una unidad a otra, junto con notas sobre exactitud y casos especiales.
+## Tabla de conversión de unidades de presión
 
-## Unidades y símbolos
+| Unidad | Símbolo | Equivalencia (Pa y psi) |
+| --- | --- | --- |
+| Pascal | Pa | 1 Pa / 0,000145038 psi |
+| Kilopascal | kPa | 1 000 Pa / 0,145038 psi |
+| Bar | bar | 100 000 Pa / 14,5038 psi |
+| Atmósfera estándar | atm | 101 325 Pa / 14,6959 psi |
+| Atmósfera técnica | at | 98 066,5 Pa / 14,223 psi |
+| Milímetro de mercurio (0 °C) | mmHg | 133,322 Pa / 0,0193368 psi |
+| Pulgada de mercurio (32 °F) | inHg | 3 386,38 Pa / 0,491154 psi |
+| Kilogramo-fuerza por cm² | kgf/cm² | 98 066,5 Pa / 14,223 psi |
+| Psi (libra por pulgada cuadrada) | psi | 6 894,76 Pa / 1 psi |
+| Libra por pie cuadrado | psf | 47,8803 Pa / 0,00694444 psi |
+| Pulgada de columna de agua (4 °C) | inH₂O | 249,082 Pa / 0,036126 psi |
+| Pie de columna de agua (4 °C) | ftH₂O | 2 988,98 Pa / 0,433527 psi |
+| Metro de columna de agua (4 °C) | mH₂O | 9 806,38 Pa / 1,42233 psi |
+| Torr | Torr | 133,322 Pa / 0,0193368 psi* |
 
-| Unidad | Símbolo | Sistema / Tipo |
-|--------|---------|----------------|
-| pascal | Pa | SI (derivado) |
-| kilopascal | kPa | SI (múltiplo) |
-| megapascal | MPa | SI (múltiplo) |
-| bar | bar | métrico (no SI, aceptado) |
-| milibar | mbar | métrico (submúltiplo del bar) |
-| atmósfera estándar | atm | unidad convencional |
-| atmósfera técnica | at | unidad técnica (kgf/cm²) |
-| milímetro de mercurio | mmHg | unidad manométrica (métrica) |
-| pulgada de mercurio | inHg | imperial |
-| milímetro de columna de agua | mmH₂O | unidad de baja presión |
-| metro de columna de agua | mH₂O | unidad de carga hidráulica |
-| pulgada de columna de agua | inH₂O | imperial |
-| libra-fuerza por pulgada cuadrada | psi | imperial |
-| libra-fuerza por pie cuadrado | psf | imperial |
-| torr | Torr | próxima al mmHg (1 Torr ≈ 1 mmHg) |
-| kilogramo-fuerza por cm² | kgf/cm² | unidad técnica (métrica) |
+*1 Torr equivale a 1 mmHg.
 
-## Tabla de conversión
-Cada valor se expresa simultáneamente en unidades métricas e imperiales para facilitar la lectura directa.
-*Condiciones de referencia: columna de agua a 4 °C; mercurio a 0 °C, salvo indicación en contrario.*
+## Fórmula de conversión
 
-| Unidad de referencia | Equivalencias (métrico / imperial) |
-|----------------------|--------------------------------------|
-| 1 pascal (Pa) | 1 N/m² / 0,01 mbar / 1×10⁻⁵ bar / 9,869×10⁻⁶ atm / 0,0075006 mmHg / 0,00014504 psi / 0,0040147 inH₂O |
-| 1 kilopascal (kPa) | 1000 Pa / 10 mbar / 0,01 bar / 0,009869 atm / 7,5006 mmHg / 0,145038 psi / 0,33456 ftH₂O |
-| 1 bar | 100 000 Pa (100 kPa) / 0,1 MPa / 0,986923 atm / 750,06 mmHg / 14,5038 psi / 29,53 inHg / 33,46 ftH₂O / 1,01972 kgf/cm² |
-| 1 atmósfera estándar (atm) | 101 325 Pa / 1,01325 bar / 760 mmHg / 29,9213 inHg / 14,6959 psi / 407,19 inH₂O / 1,03323 kgf/cm² |
-| 1 atmósfera técnica (at = 1 kgf/cm²) | 98 066,5 Pa / 0,980665 bar / 735,56 mmHg / 28,96 inHg / 14,223 psi / 10 mH₂O |
-| 1 psi (lbf/in²) | 6894,76 Pa / 6,8948 kPa / 0,0689476 bar / 0,068046 atm / 51,7149 mmHg / 2,0360 inHg / 27,68 inH₂O |
-| 1 mmHg (0 °C) | 133,322 Pa / 1,33322 mbar / 0,0013158 atm / 0,03937 inHg / 0,0193368 psi / 13,5951 mmH₂O |
-| 1 inHg (0 °C) | 3386,39 Pa / 33,8639 mbar / 0,033421 atm / 25,4 mmHg / 0,491154 psi / 13,57 inH₂O |
-| 1 mmH₂O (4 °C) | 9,80638 Pa / 0,0980638 mbar / 9,6784×10⁻⁵ atm / 0,073555 mmHg / 0,0014223 psi / 0,03937 inH₂O |
-| 1 inH₂O (4 °C) | 249,082 Pa / 2,49082 mbar / 0,002458 atm / 1,868 mmHg / 0,036127 psi |
-| 1 torr | 133,322 Pa / 1,33322 mbar / 1 mmHg (aprox.) / 0,0013158 atm / 0,01934 psi |
+> **p (Pa) = p (unidad) × k**
 
-## Fórmulas de conversión
-Todas las fórmulas se basan en la equivalencia exacta 1 bar = 100 000 Pa y en los valores definidos para la atmósfera estándar (1 atm = 101 325 Pa) y la pulgada (1 in = 25,4 mm).
+| Variable | Descripción |
+| --- | --- |
+| p (Pa) | valor de presión en pascales |
+| p (unidad) | valor numérico en la unidad de origen |
+| k | factor de conversión de la unidad de origen a Pa |
 
-**Conversiones directas (multiplicación por factor)**
-- Pa → bar: \( P_{bar} = P_{Pa} \times 1\times10^{-5} \)
-- Pa → atm: \( P_{atm} = P_{Pa} \times 9,86923\times10^{-6} \)
-- Pa → mmHg: \( P_{mmHg} = P_{Pa} \times 0,00750062 \)
-- Pa → psi: \( P_{psi} = P_{Pa} \times 1,45038\times10^{-4} \)
-- bar → Pa: \( P_{Pa} = P_{bar} \times 100\,000 \)
-- bar → psi: \( P_{psi} = P_{bar} \times 14,5038 \)
-- atm → Pa: \( P_{Pa} = P_{atm} \times 101\,325 \)
-- atm → psi: \( P_{psi} = P_{atm} \times 14,6959 \)
-- psi → Pa: \( P_{Pa} = P_{psi} \times 6894,76 \)
-- psi → bar: \( P_{bar} = P_{psi} \times 0,0689476 \)
-- mmHg → Pa: \( P_{Pa} = P_{mmHg} \times 133,322 \)
-- inHg → Pa: \( P_{Pa} = P_{inHg} \times 3386,39 \)
-- mmH₂O (4 °C) → Pa: \( P_{Pa} = P_{mmH2O} \times 9,80638 \)
-- inH₂O (4 °C) → Pa: \( P_{Pa} = P_{inH2O} \times 249,082 \)
+## Factores de conversión directa
 
-**Conversiones inversas (división por el mismo factor)**
-- Pa → bar: para convertir 500 000 Pa a bar, \( 500\,000 / 100\,000 = 5\ \text{bar} \)
-- psi → atm: \( P_{atm} = P_{psi} / 14,6959 \)
-- inHg → mmHg: \( P_{mmHg} = P_{inHg} \times 25,4 \)
+Conversión de las unidades más comunes a pascales.
 
-**Ejemplo numérico (métrico + imperial)**
-Convertir 2,5 bar a psi y a kPa:
-\( 2,5\ \text{bar} \times 14,5038 = 36,26\ \text{psi} \)
-\( 2,5\ \text{bar} \times 100\ \text{kPa/bar} = 250\ \text{kPa} \)
+| Unidad de origen | Factor de conversión a Pa y equivalencia |
+| --- | --- |
+| bar | ×100 000 (1 bar = 100 kPa / 14,5 psi) |
+| atm | ×101 325 (1 atm = 101,325 kPa / 14,696 psi) |
+| psi | ×6 894,76 (1 psi ≈ 6,895 kPa / 1 psi) |
+| mmHg | ×133,322 (1 mmHg = 0,133 kPa / 0,0193 psi) |
+| inHg (32 °F) | ×3 386,38 (1 inHg = 3,386 kPa / 0,491 psi) |
+| kgf/cm² | ×98 066,5 (1 kgf/cm² = 98,07 kPa / 14,22 psi) |
+| inH₂O (4 °C) | ×249,082 (1 inH₂O = 0,249 kPa / 0,0361 psi) |
+
+## Factores de conversión inversa
+
+Conversión de pascales a las unidades más comunes (k inverso = 1 / k directo).
+
+| Unidad deseada | Factor de conversión desde Pa y equivalencia |
+| --- | --- |
+| bar | ×0,00001 (1 Pa = 1×10⁻⁵ bar / 1,45×10⁻⁷ psi) |
+| atm | ×9,86923×10⁻⁶ (1 Pa = 9,87×10⁻⁶ atm / 1,43×10⁻⁹ psi) |
+| psi | ×0,000145038 (1 Pa ≈ 1,45×10⁻⁴ psi) |
+| mmHg | ×0,00750062 (1 Pa = 0,0075 mmHg / 1,09×10⁻⁶ psi) |
+| inHg (32 °F) | ×0,0002953 (1 Pa = 2,953×10⁻⁴ inHg / 4,28×10⁻⁵ psi) |
+| kgf/cm² | ×1,01972×10⁻⁵ (1 Pa = 1,02×10⁻⁵ kgf/cm² / 1,48×10⁻⁶ psi) |
+| inH₂O (4 °C) | ×0,0040147 (1 Pa = 4,01×10⁻³ inH₂O / 5,82×10⁻⁴ psi) |
 
 ## Notas sobre precisión y casos especiales
-- La equivalencia **1 bar = 100 000 Pa** es exacta por definición, por lo que no introduce error de redondeo en conversiones que involucren pascales o bares.
-- **1 atm = 101 325 Pa** es un valor exacto adoptado por convenio internacional, por lo que las conversiones entre atm y Pa son exactas siempre que se utilice esa cifra completa.
-- La relación **1 inHg ≈ 25,4 mmHg** es geométricamente exacta porque la pulgada se define como 25,4 mm. Sin embargo, la equivalencia en pascales depende de la densidad del mercurio a una temperatura dada; se asume 0 °C (13595,1 kg/m³) para mmHg y para inHg en la mayoría de normas.
-- El factor **1 psi = 6894,7572931783 Pa** es muy preciso. En ingeniería suele redondearse a **6894,76 Pa**; el error relativo es inferior a 0,00004 %. Para aplicaciones de alta precisión se recomienda usar el valor completo.
-- Las conversiones que involucran **kgf/cm²** dependen de la aceleración de la gravedad estándar (9,80665 m/s²). Cualquier variación local de *g* requeriría corrección, aunque a efectos prácticos se usa el valor estándar.
-- Para **presiones manométricas** (relativas) se debe tener cuidado al usar conversiones que mezclan unidades absolutas. La atmósfera estándar y el bar suelen referirse a presión absoluta. Si se trabaja con presión relativa (ej. 2 bar manométricos), la conversión a psi manométricos mantiene el mismo factor de conversión (2 bar relativo = 29,0 psi relativo).
 
-## Preguntas frecuentes (FAQ)
-### ¿Cuántos pascales exactamente tiene 1 bar?
-   Un bar equivale exactamente a 100 000 Pa (100 kPa). Es una equivalencia definida por consenso internacional, por lo que no hay incertidumbre en la conversión entre bar y pascal.
+Los factores de conversión presentados asumen condiciones estándar de gravedad (gₙ = 9,80665 m/s²) y temperatura de referencia cuando corresponda. En el caso de columnas de líquido (Hg, H₂O), la densidad del fluido y la temperatura afectan el resultado:
 
-### ¿A cuántos psi corresponden 2,5 bar?
-   2,5 bar son 36,26 psi (2,5 × 14,5038). Expresado en unidades métricas sería 250 kPa o 0,25 MPa; en unidades imperiales, 36,26 lbf/in².
-
-### ¿Cuántos mmHg hay en una atmósfera estándar?
-   La atmósfera estándar se define como 760 mmHg exactamente a 0 °C. En unidades imperiales equivale a 29,9213 inHg.
-
-### ¿Qué presión en psi representa 50 MPa?
-   50 MPa son 50 000 kPa, es decir, 7251,9 psi (50 000 × 0,145038). Esta conversión muestra que 50 MPa equivalen a aproximadamente 7252 psi, valor típico en sistemas hidráulicos de alta presión.
-
-### ¿Cuántos metros de columna de agua produce una presión de 0,5 psi?
-   0,5 psi equivalen a 0,352 mH₂O (0,5 psi × 0,70307 mH₂O/psi, ya que 1 psi ≈ 0,703 mH₂O). En unidades imperiales serían 13,84 inH₂O.
-
-### ¿Es correcto usar kg/cm² como unidad de presión?
-   Técnicamente 1 kgf/cm² es una unidad de presión (fuerza por área) si se sobreentiende que la masa de 1 kg se multiplica por la gravedad estándar (9,80665 m/s²). Su valor numérico es 98 066,5 Pa; equivale a 0,980665 bar y a 14,223 psi. Aunque no es una unidad SI, aún se emplea en contextos industriales.
+- **Mercurio**: la conversión estándar utiliza 0 °C para mmHg (densidad 13 595,1 kg/m³) y 32 °F para inHg. Algunos sectores emplean inHg a 60 °F (1 inHg⁶⁰°F = 3 376,85 Pa), lo que introduce una diferencia de ≈0,3 % respecto al valor a 32 °F.
+- **Agua**: se referencia normalmente a 4 °C (máxima densidad). Para aplicaciones HVAC a 60 °F, 1 inH₂O ≈ 248,84 Pa.
+- **Atmósfera estándar frente a atmósfera técnica**: la atmósfera estándar (atm) equivale a 101 325 Pa, mientras que la atmósfera técnica (at) se define como 1 kgf/cm² = 98 066,5 Pa, por lo que 1 atm ≈ 1,0332 at.
+- **Torr y mmHg**: en la práctica, 1 Torr = 1 mmHg = 133,322 368 Pa, aunque históricamente existieron pequeñas diferencias.
+- Las conversiones que implican kilogramo-fuerza (kgf) o libra-fuerza (lbf) presuponen la aceleración gravitatoria estándar, por lo que deben usarse con cautela en condiciones de gravedad local diferente.
+- Para cálculos de ingeniería de gran exactitud, se recomienda no redondear factores intermedios; los valores aquí listados mantienen al menos cinco cifras significativas para minimizar errores acumulativos.
 
 ## Fuentes consultadas
 
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/pressure-units-converter-d_569.html
 - **unitconverters.net**: https://www.unitconverters.net/pressure-converter.html
-- **convertworld.com**: https://www.convertworld.com/en/pressure/bar.html
+- **convertworld.com**: https://www.convertworld.com/en/pressure/

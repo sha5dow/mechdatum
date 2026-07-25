@@ -9,104 +9,175 @@ topic: "springs"
 subcategory: "extension-springs"
 skill: "machine-element-reference-table"
 launch_phase: 6
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+Extension springs are mechanical elements designed to absorb and store energy when stretched, exerting a return force proportional to their elongation. Their behavior follows Hooke's law, with the particularity that they incorporate an initial tension that must be overcome before the spring begins to extend. This characteristic makes them ideal for applications such as doors, return systems, load balancing, and clamping mechanisms where a controlled and reliable tensile force is required. The spring stiffness constant, its maximum travel, and the initial tension are the fundamental parameters that determine its selection and sizing in any mechanical design.
 
-A tension spring (or extension spring) is an elastic element designed to absorb and store mechanical energy when subjected to an axial tensile force. Unlike compression springs, tension springs incorporate an initial preload—called coil tension—that keeps the coils in firm contact and must be overcome before the spring begins to elongate. The spring stiffness is described by the spring constant k (N/mm or lb/in) and the force–deformation relationship obeys the generalized form of Hooke's law: F = Fᵢ + k·δ, where Fᵢ is the initial tension and δ the extension from free length.
+The force required to extend an extension spring consists of two terms: the force needed to overcome the initial tension between coils and the additional force proportional to the subsequent elongation. The fundamental relationship between force and deformation is expressed by a modified version of Hooke's law for springs with internal preload.
 
-The behavior of a tension spring results from the elastic torsional deformation of helically wound wire. When an external force is applied, the initial tension Fᵢ that holds the coils together must first be overcome; only then do the coils begin to separate and the elongation becomes linearly proportional to the additional load. Mathematically this is expressed with the modified Hooke's law:
+> **F = Fᵢ + k · x**
 
-**F = Fᵢ + k · δ**
+where:
 
-where F is the applied force, Fᵢ the initial tension (N or lb), k the spring constant (N/mm or lb/in) and δ the elongation from free length (mm or in). As long as the load does not exceed the elastic limit of the material, recovery is complete and the spring returns to its original state. This principle is used in return mechanisms, doors, trampolines, spring balances and clamping devices.
+| Variable | Description | Unit |
+|---|---|---|
+| F | Applied force | N / lb |
+| Fᵢ | Initial tension (minimum force to start extension) | N / lb |
+| k | Spring stiffness constant | N/mm / lb/in |
+| x | Elongation from free position | mm / in |
 
-## Standard dimensions
+The initial tension, Fᵢ, is an intrinsic property of the spring manufacturing process. During winding, the coils are compressed against each other, generating a preload that must be greater than zero for the spring to function correctly. If there is no initial tension, the spring behaves like a compression spring working in tension, with F directly proportional to x from the origin. The force-extension graph is a straight line with slope k that intersects the force axis at positive Fᵢ, shifting the start of actual extension.
 
-Typical dimensions for industrial tension springs manufactured from spring steel wire (per DIN 17223 or ASTM A228) are given in the following table. The values correspond to common commercial sizes; tolerances and surface finishes are governed by manufacturer standards.
+Generalized Hooke's law states that the deformation of an elastic material is proportional to the applied stress, as long as the elastic limits are not exceeded. In extension springs, the wire works predominantly in torsion when the coil is stretched, and the constant k depends on the geometry (wire diameter, mean coil diameter, number of active coils) and the shear modulus of the material.
 
-| Wire diameter (d) | Outer diameter (De) | Free length (L₀) | Typical hook diameter (Dg) |
-|-------------------|---------------------|------------------|----------------------------|
-| 0.5 mm / 0.020 in | 3.2 mm / 0.126 in | 12.7 mm / 0.50 in | 2.5 mm / 0.098 in |
-| 1.0 mm / 0.039 in | 6.5 mm / 0.256 in | 25.4 mm / 1.00 in | 5.0 mm / 0.197 in |
-| 1.6 mm / 0.063 in | 10.0 mm / 0.394 in | 50.8 mm / 2.00 in | 8.0 mm / 0.315 in |
-| 2.5 mm / 0.098 in | 16.0 mm / 0.630 in | 76.2 mm / 3.00 in | 12.7 mm / 0.500 in |
-| 3.5 mm / 0.138 in | 22.5 mm / 0.886 in | 102.0 mm / 4.02 in | 18.0 mm / 0.709 in |
-| 5.0 mm / 0.197 in | 32.0 mm / 1.260 in | 152.4 mm / 6.00 in | 25.4 mm / 1.000 in |
+## Calculation Formulas
 
-*Note: Traction hooks can be half-loop, full-loop or threaded inserts, and increase the total installed length. The free length indicated does not include the hooks.*
+The stiffness constant for a helical extension spring is obtained from the torsion theory of curved wires. The most used expression for round wire springs is:
 
-## Load capacities
+> **k = (G · d⁴) / (8 · D³ · Nₐ)**
 
-The load capacity of a tension spring is determined by the allowable shear stress of the material, the spring index C = D/d and the Wahl factor. The following table gives indicative values for the standard dimensions above, considering a high-carbon steel with shear modulus G = 79.3 GPa / 11.5×10⁶ psi and number of active coils Na = 20.
+where each term is defined in the following table.
 
-| Wire diameter (d) | Spring constant (k) | Maximum force (Fmax) | Maximum extension (δmax) | Typical initial tension (Fᵢ) |
-|-------------------|---------------------|----------------------|--------------------------|------------------------------|
-| 0.5 mm / 0.020 in | 0.12 N/mm / 0.69 lb/in | 3.8 N / 0.85 lb | 31.8 mm / 1.25 in | 0.4 N / 0.09 lb |
-| 1.0 mm / 0.039 in | 0.35 N/mm / 2.0 lb/in | 22 N / 4.9 lb | 62.7 mm / 2.47 in | 2.2 N / 0.49 lb |
-| 1.6 mm / 0.063 in | 1.15 N/mm / 6.6 lb/in | 85 N / 19.1 lb | 73.9 mm / 2.91 in | 8.5 N / 1.9 lb |
-| 2.5 mm / 0.098 in | 2.8 N/mm / 16.0 lb/in | 310 N / 69.7 lb | 110.7 mm / 4.36 in | 31 N / 7.0 lb |
-| 3.5 mm / 0.138 in | 5.5 N/mm / 31.4 lb/in | 750 N / 168.6 lb | 136.4 mm / 5.37 in | 75 N / 16.9 lb |
-| 5.0 mm / 0.197 in | 11.0 N/mm / 62.8 lb/in | 1800 N / 404.7 lb | 163.6 mm / 6.44 in | 180 N / 40.5 lb |
+| Variable | Description | Unit |
+|---|---|---|
+| k | Stiffness constant | N/mm / lb/in |
+| G | Shear modulus (modulus of rigidity) of material | GPa / psi |
+| d | Wire diameter | mm / in |
+| D | Mean coil diameter | mm / in |
+| Nₐ | Number of active coils | dimensionless |
 
-*The Fmax values correspond to an allowable shear stress of approximately 40 % of the material's tensile strength (≈ 1100 MPa / 160 ksi). The initial tension Fᵢ represents between 5 % and 10 % of the maximum force.*
+The shear modulus G depends on the material: for music wire steel, typical values are 80 GPa (11.6 × 10⁶ psi); for AISI 302 stainless steel, approximately 70 GPa (10.2 × 10⁶ psi). The number of active coils in extension springs is the total number of coils minus those intended exclusively for hook formation.
 
-## Calculation and selection
+The initial tension Fᵢ can be estimated from the geometry and the elastic limit of the material using the relationship:
 
-1. **Determine the service conditions**: desired force at extended length F₁ and free length L₀, or the travel δ = L₁ – L₀ and force F₁.
-2. **Choose an initial tension Fᵢ** according to the design (generally 5‑15 % of Fmax for standard hooks; higher for firm return applications). Initial tension is difficult to calculate accurately and is usually verified by testing.
-3. **Calculate the required spring constant**:
-   \[ k = \frac{F₁ - Fᵢ}{δ} \]
-4. **Size the spring** using the stiffness formula for helical springs:
-   \[ k = \frac{G \, d^4}{8 \, D_m^3 \, N_a} \]
-   where G is the shear modulus of the material, d the wire diameter, Dm = De – d the mean diameter, and Na the number of active coils.
-5. **Verify the shear stress** in the wire using the Wahl factor (Kw):
-   \[ τ_{max} = K_w \, \frac{8 \, F_{max} \, D_m}{π \, d^3} \]
-   Ensure that τmax is less than the allowable stress of the material, considering fatigue effects if cyclic loading is present.
-6. **Select the material**: spring steel per ASTM A228 (music wire), AISI 302/304 stainless for corrosive environments, or nickel alloys for high temperatures.
-7. **Round to commercial standard dimensions** and recalculate the actual force obtained. During hook selection, consider the reduction in effective free length and the possible stress concentration effect.
+> **Fᵢ = (π · τ_ini · d³) / (8 · D)**
 
-## Mounting considerations
+where τ_ini is the residual torsion stress induced during winding, which is usually a percentage of the material's shear yield strength (typically 10‑20 %). However, in practice, manufacturers provide the initial tension directly as part of the spring specification.
 
-- **Hooks and terminals**: the loop or hook ends are the weakest areas of the spring. Avoid sharp bend radii that increase local stress. The hook must be formed without damaging the wire; cold bending raises the risk of fatigue failure.
-- **Anchor points**: the pins or supports where the spring hooks should be smooth and free of sharp edges that could scratch the wire. Use pins, bolts or clips with a diameter slightly smaller than the hook inside diameter to avoid excessive play.
-- **Preloading**: when a high initial tension is specified, the spring may require a preloading that takes it slightly above the elastic limit during manufacturing (setting) to stabilize the initial tension.
-- **Protection and safety**: in applications with high stored energy, provide a guide or containment system to prevent ejection of the spring in case of unexpected failure. In the presence of corrosion, select stainless materials or consider protective coatings.
-- **Detachable mounting**: if maintenance requires frequent detachment of the spring, choose easily coupled hooks (German-type or clip) and verify that the insertion force does not exceed the working load.
+Alternatively, if the force F₁ for an extension x₁ and the force F₂ for an extension x₂ are known, the constant k can be calculated as:
 
-## Selection tables by application
+> **k = (F₂ – F₁) / (x₂ – x₁)**
 
-For a quick selection, dimensions and indicative performances for common applications are provided. All tables include values in metric and imperial units.
+and the initial tension is solved:
 
-| Application | Wire diameter (d) | Free length (L₀) | Constant k (N/mm / lb/in) | Maximum force (N / lb) |
-|-------------|-------------------|------------------|---------------------------|------------------------|
-| Recreational trampoline | 3.5 mm / 0.138 in | 140 mm / 5.51 in | 3.0 N/mm / 17.1 lb/in | 800 N / 180 lb |
-| Pedal return mechanism | 1.6 mm / 0.063 in | 80 mm / 3.15 in | 0.7 N/mm / 4.0 lb/in | 50 N / 11.2 lb |
-| Fire door (closer) | 4.5 mm / 0.177 in | 300 mm / 11.81 in | 1.2 N/mm / 6.9 lb/in | 600 N / 135 lb |
-| Blinds tape tensioner | 1.0 mm / 0.039 in | 40 mm / 1.57 in | 0.2 N/mm / 1.1 lb/in | 12 N / 2.7 lb |
-| Light trailer hitch | 5.5 mm / 0.217 in | 180 mm / 7.09 in | 4.8 N/mm / 27.4 lb/in | 1500 N / 337 lb |
-| Analog spring balance | 0.7 mm / 0.028 in | 60 mm / 2.36 in | 0.08 N/mm / 0.46 lb/in | 8 N / 1.8 lb |
+> **Fᵢ = F₁ – k · x₁**
+
+This is useful for experimentally verifying the parameters of an already manufactured spring.
+
+## Materials
+
+Extension springs are predominantly manufactured from high-strength wires, capable of withstanding cyclic loads and maintaining initial tension throughout their service life. The selection of material depends on environmental conditions, fatigue requirements, and operating temperature.
+
+| Material | Reference standard | Shear modulus G (GPa / psi) | Max. working temperature (°C / °F) | Corrosion resistance |
+|---|---|---|---|---|
+| Music wire | ASTM A228 | 80 / 11.6 × 10⁶ | 120 / 248 | Low |
+| Stainless steel AISI 302/304 | ASTM A313 | 70 / 10.2 × 10⁶ | 290 / 554 | High |
+| Chromium-silicon steel (CrSi) | ASTM A401 | 79 / 11.5 × 10⁶ | 250 / 482 | Medium |
+| Copper-beryllium alloy (CuBe) | ASTM B197 | 40–50 / 5.8–7.3 × 10⁶ | 200 / 392 | Excellent |
+| Inconel X-750 (nickel alloy) | AMS 5699 | 77 / 11.2 × 10⁶ | 400 / 752 | Excellent |
+
+For most industrial applications at room temperature and dry environments, music wire is the most economical option with the best fatigue properties. For outdoor, humid, or sanitary environments, stainless steel is preferred. Copper-beryllium alloys and nickel superalloys are reserved for extreme corrosion or high temperature conditions.
+
+## Standard Dimensions
+
+Extension springs are identified by a set of dimensions that define their geometry and mechanical performance. Although standards such as DIN 2097 (helical tension springs) exist, parameter specification predominates in the commercial sphere. The fundamental dimensions found in manufacturer catalogs are summarized in the following table.
+
+| Parameter | Symbol | Typical unit | Common range (reference values) |
+|---|---|---|---|
+| Outer coil diameter | De | mm / in | 3–150 / 0.12–5.91 |
+| Wire diameter | d | mm / in | 0.2–15 / 0.008–0.591 |
+| Free length (between hook centers) | L₀ | mm / in | 15–500 / 0.59–19.69 |
+| Maximum extension length | Lₘₐₓ | mm / in | L₀ + 80% of L₀ (approximate) |
+| Minimum inside hook diameter | Dᵢ | mm / in | 0.5–20 / 0.02–0.79 |
+| Stiffness constant | k | N/mm / lb/in | 0.01–500 / 0.06–2855 |
+| Initial tension | Fᵢ | N / lb | 0.1–1000 / 0.02–224.8 |
+
+These ranges are indicative and depend on the manufacturer. Specialized catalogs offer standardized combinations of wire diameter, outer diameter, and free length to facilitate direct selection without the need for custom design. Dimensional tolerances are typically governed by standards such as DIN 2097 or manufacturer internal specifications.
+
+## Load Capacities
+
+The load capacity of an extension spring is determined by the torsional strength of the wire and the elastic limit of the material. The fundamental criterion is that the working stress in the wire does not exceed a percentage of the shear yield strength (typically 40‑50 % for static service and 30‑35 % for cyclic service). The maximum allowable force Fₘₐₓ is calculated with the formula:
+
+> **Fₘₐₓ = (π · τₐ · d³) / (8 · D · kₛ)**
+
+where τₐ is the allowable torsion stress and kₛ is the curvature correction factor (Wahl factor).
+
+| Material | Wire diameter d (mm / in) | Mean diameter D (mm / in) | Maximum recommended load (N / lb) | Maximum recommended extension (mm / in) |
+|---|---|---|---|---|
+| Music (ASTM A228) | 1.0 / 0.039 | 8 / 0.315 | 25 / 5.62 | 50 / 1.97 |
+| Music (ASTM A228) | 2.0 / 0.079 | 16 / 0.630 | 120 / 26.98 | 100 / 3.94 |
+| Stainless 302 | 1.5 / 0.059 | 12 / 0.472 | 45 / 10.12 | 60 / 2.36 |
+| CrSi (ASTM A401) | 3.0 / 0.118 | 24 / 0.945 | 500 / 112.4 | 150 / 5.91 |
+
+These values are representative for a typical configuration of 10 active coils and with a static safety factor of approximately 2. For applications with thousands of cycles, the load must be significantly reduced. Always consult the material's fatigue curve and strain hardening diagrams.
+
+## Selection Criteria
+
+To select the appropriate extension spring, the assembly and operating conditions must be defined beforehand. Below are the usual steps and determining factors.
+
+1. **Load and required extension:** determine the force F₁ needed for the first extension x₁ (minimum working point) and the force F₂ for the maximum extension x₂ (maximum working point). With these values, calculate the constant k = (F₂−F₁)/(x₂−x₁) and the initial tension Fᵢ = F₁ − k·x₁.
+2. **Available space:** the outer diameter De and free length L₀ must fit the mechanical housing. Check that the length at maximum extension Lₘₐₓ = L₀ + x₂ does not cause interference.
+3. **Hook type:** commercial extension springs offer side hooks, center hooks, bent hooks, threaded hooks, or eyes. The choice depends on the attachment method and the space for anchoring.
+4. **Working environment:** if there is moisture, chemicals, or elevated temperatures, select the appropriate material (stainless steel, nickel alloys, etc.).
+5. **Life cycles:** for dynamic service (more than 10³ cycles), the working torsion stress must be limited to a safe fatigue value. For static or low-cycle applications, a value closer to the yield strength is acceptable.
+6. **Tolerance and reliability:** music wire springs offer low scatter in k and Fᵢ; more exotic materials may require calibration batches.
+
+Once these parameters are defined, manufacturer selection tables that cross-reference wire diameter, mean diameter, constant, and initial tension can be consulted to choose a standard reference or request a custom design.
+
+## Mounting Considerations
+
+The mounting of an extension spring must ensure that the load is applied axially through the anchor points, avoiding bending moments that reduce service life. The hooks are the most critical areas, as they concentrate stresses and are common failure points. Main recommendations:
+
+- Use pins or shafts that allow free rotation of the hooks during extension.
+- Avoid the spring working in accidental compression; many extension springs are not designed for this.
+- Install mechanical stops that limit the maximum travel and prevent over-extension.
+- Ensure the spring is laterally guided if there is risk of buckling or friction with nearby surfaces.
+- In applications with vibrations, provide damping elements or secondary fastenings to reduce hammering.
+
+Selection tables often include recommendations for pin diameter based on the hook inside diameter; a typical clearance of 0.1–0.5 mm (0.004–0.020 in) is sufficient to allow movement without sacrificing centering.
+
+## Selection Tables by Application
+
+As a guide, typical configurations of extension springs for some common applications are presented. These values are extracts from commercial catalogs and assume standard working conditions.
+
+| Application | Material | d (mm / in) | De (mm / in) | L₀ (mm / in) | k (N/mm / lb/in) | Fᵢ (N / lb) | Max. load (N / lb) |
+|---|---|---|---|---|---|---|---|
+| Residential garage doors | Stainless steel 302 | 2.5 / 0.098 | 20 / 0.787 | 200 / 7.87 | 1.8 / 10.3 | 60 / 13.5 | 250 / 56.2 |
+| Pedal return mechanisms | Music (ASTM A228) | 1.2 / 0.047 | 9 / 0.354 | 60 / 2.36 | 2.5 / 14.3 | 20 / 4.5 | 90 / 20.2 |
+| Aircraft hatch latches | Copper-beryllium (CuBe) | 1.0 / 0.039 | 7 / 0.276 | 50 / 1.97 | 1.2 / 6.9 | 10 / 2.25 | 45 / 10.1 |
+| Cable tensioner for power lines | CrSi (ASTM A401) | 5.0 / 0.197 | 40 / 1.575 | 300 / 11.81 | 4.0 / 22.8 | 200 / 44.9 | 800 / 179.8 |
+| Quick disconnect of hydraulic couplings | Inconel X-750 | 0.8 / 0.031 | 6 / 0.236 | 40 / 1.57 | 0.9 / 5.1 | 8 / 1.8 | 35 / 7.9 |
+
+These selections are starting points; each design must be validated with the corresponding stress and fatigue verification.
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the typical initial tension for a tension spring of 2 mm diameter steel wire?
-The initial tension is usually between 12 N / 2.7 lb and 25 N / 5.6 lb, depending on the spring index and winding process, representing approximately 8% of the maximum allowable force.
+### What is initial tension in an extension spring and why is it important?
 
-### How is the spring constant k of an extension spring calculated?
-The constant is obtained with the formula k = (F – Fᵢ) / δ, where F is the total applied force, Fᵢ the initial tension, and δ the measured elongation. For a helical spring of round wire, k can also be calculated as k = G·d⁴ / (8·Dm³·Na), with G ≈ 79.3 GPa / 11.5×10⁶ psi for steel.
+Initial tension is the internal force that holds the spring coils together before external load is applied. It is important because it defines the point at which the spring begins to extend and contributes to the total force throughout the travel, directly influencing the mechanism design.
 
-### What maximum extension can a tension spring reach without losing its elastic properties?
-It is recommended not to exceed a deformation that induces a shear stress above 45% of the material's tensile strength, which for an ASTM A228 steel of 2.5 mm / 0.098 in corresponds, for example, to a maximum elongation of about 110 mm / 4.3 in.
+### How is the constant of an extension spring calculated?
 
-### How much does the force of a tension spring vary when temperature increases from 20 °C to 100 °C?
-In carbon steels, the shear modulus G decreases approximately 1% every 38 °C, so when going from 20 °C to 100 °C the spring constant reduces by about 2.5%, proportionally reducing the force generated for the same extension. The force at 100 °C would be 2.5% lower than at 20 °C.
+The constant k is calculated as k = (F₂ – F₁) / (x₂ – x₁) for two known force-extension points, or using the geometric formula k = (G · d⁴) / (8 · D³ · Nₐ). Manufacturers usually provide the value of k in their data sheets.
 
-### What force is needed to open 15 mm a closing door equipped with a tension spring of k = 0.8 N/mm?
-Assuming an initial tension of 3 N, the required force would be F = 3 N + 0.8 N/mm × 15 mm = 15 N / 3.4 lb. In imperial units: k ≈ 4.6 lb/in, Fᵢ = 0.67 lb, δ = 0.59 in, so F = 0.67 + 4.6 × 0.59 ≈ 3.4 lb.
+### What is the difference between a compression spring and an extension spring?
 
-### How does the number of active coils influence the stiffness of a tension spring?
-Stiffness is inversely proportional to Na. If a constant of 2.8 N/mm with 20 coils is needed, a spring with 10 active coils would double the stiffness to 5.6 N/mm, provided the wire diameter and mean coil diameter are unchanged.
+A compression spring compresses, reducing its length, and pushes outward; an extension spring stretches and pulls inward. Extension springs require hooks or attachment elements and have initial tension; compression springs generally do not.
 
-## References
+### What materials are used in extension springs?
+
+The most common are music wire steel (ASTM A228), AISI 302/304 stainless steel, chromium-silicon steel (ASTM A401), and copper-beryllium or nickel alloys for corrosive or high temperature conditions.
+
+### How to select an extension spring for a garage door?
+
+The force required to lift the door in the closed and open positions must be measured, as well as the travel of the cable or lifting arm, and choose a spring with a constant and initial tension that balance the door weight throughout the travel, preferably stainless steel if installed outdoors.
+
+### What is the expected service life of an extension spring?
+
+It depends on the material, working stress, and number of cycles. For music wire working below 30% of the torsional yield strength, more than 100,000 cycles can be expected. With loads near the yield strength, life is reduced to a few thousand cycles.
+
+## Sources Consulted
+
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/hookes-law-force-spring-constant-d_1853.html
-- **mcmaster.com**: https://www.mcmaster.com/products/tension-springs/
+- **mcmaster.com**: https://www.mcmaster.com/products/extension-springs/

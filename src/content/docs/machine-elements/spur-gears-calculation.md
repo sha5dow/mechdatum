@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Generalidades
 Los engranajes rectos son el tipo más simple de engranaje; transmiten movimiento entre ejes paralelos mediante dientes rectos orientados radialmente. El contacto entre los perfiles de evolvente asegura una relación de transmisión constante. La ausencia de empuje axial los hace adecuados para aplicaciones de velocidad moderada. Los ángulos de presión normalizados modernos son 20° y 25°, mientras que 14,5° se encuentra en equipos antiguos.
 
 La relación entre el módulo *m* y el número de dientes *z* define todas las dimensiones principales. Para engranajes con 17 o más dientes, el diámetro primitivo es diámetro primitivo = *m* × *z*. En engranajes con menos de 17 dientes se requiere un desplazamiento de perfil, resultando en un diámetro primitivo corregido = *m* × *z* + *m*. La interferencia y el socavado se evitan mediante este desplazamiento.

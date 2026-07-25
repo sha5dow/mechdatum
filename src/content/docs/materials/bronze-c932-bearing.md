@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Nombre y designación
 El bronce C932, designado como UNS C93200 y también conocido como SAE 660, es una aleación de cobre-estaño-plomo-zinc perteneciente a la familia de los bronces para cojinetes. Se suministra habitualmente en estado de colada y destaca por su excelente maquinabilidad, buena resistencia al desgaste y capacidad de soportar cargas moderadas. Es uno de los bronces al plomo más utilizados en la fabricación de bujes, cojinetes y componentes sometidos a fricción.
 
 ## Composición química

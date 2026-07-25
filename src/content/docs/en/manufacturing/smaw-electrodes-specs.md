@@ -9,124 +9,109 @@ topic: "welding"
 subcategory: "filler-metals-smaw-electrodes"
 skill: "process-data-comparison"
 launch_phase: 5
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+SMAW electrodes (Shielded Metal Arc Welding) are consumable flux-coated rods that, when melted, generate an electric arc to join metals. Their AWS classification (e.g., E6010, E7018) defines mechanical properties, current type, welding position, and coating composition. They are the basis of manual welding and are selected based on base material, position, and strength requirements.
 
-Shielded metal arc welding (SMAW) electrodes consist of a solid metallic core coated with a mixture of minerals, organic compounds, and binders that form the flux coating. During operation, the arc simultaneously melts the electrode and the base material, generating a weld pool protected by gases and a slag that prevent atmospheric contamination. The AWS (American Welding Society) classification identifies the mechanical characteristics, chemical composition, and operating conditions of each electrode. This guide analyzes four representative types: E6010, E6013 (carbon steels), E7018 (low‑hydrogen), and E308L (austenitic stainless steel). Their properties make them widely used options in fabrication, maintenance, and pipe construction.
+## Technical specifications of common electrodes
 
-## Operating parameters
-Each electrode has a recommended current range based on its diameter and coating type. The following table summarizes typical operating parameters for flat, horizontal, vertical, and overhead welding positions, using direct current (DC) or alternating current (AC) as applicable.
+E6010, E6013, E7018, and E308L electrodes show significant differences in tensile strength, flux type, and applicability. Table 1 summarizes their main properties according to AWS A5.1/A5.4 standard.
 
-| AWS Classification | Diameter (mm / in) | Recommended Current (A) | Current Type and Polarity | Positions |
-| :--- | :--- | :--- | :--- | :--- |
-| E6010 | 2,4 / 3/32" | 55 – 100 | DC+ (electrode positive) | All |
-| E6010 | 3,2 / 1/8" | 80 – 140 | DC+ (electrode positive) | All |
-| E6010 | 4,0 / 5/32" | 100 – 180 | DC+ (electrode positive) | All |
-| E6010 | 4,8 / 3/16" | 140 – 220 | DC+ (electrode positive) | All |
-| E6013 | 2,4 / 3/32" | 50 – 100 | AC or DC± | All |
-| E6013 | 3,2 / 1/8" | 80 – 130 | AC or DC± | All |
-| E6013 | 4,0 / 5/32" | 110 – 180 | AC or DC± | All |
-| E6013 | 4,8 / 3/16" | 150 – 230 | AC or DC± | All |
-| E7018 | 2,4 / 3/32" | 65 – 110 | AC or DC+ | All |
-| E7018 | 3,2 / 1/8" | 90 – 150 | AC or DC+ | All |
-| E7018 | 4,0 / 5/32" | 120 – 190 | AC or DC+ | All |
-| E7018 | 4,8 / 3/16" | 160 – 250 | AC or DC+ | All |
-| E308L | 2,4 / 3/32" | 55 – 100 | DC+ | All |
-| E308L | 3,2 / 1/8" | 80 – 140 | DC+ | All |
-| E308L | 4,0 / 5/32" | 110 – 180 | DC+ | All |
-| E308L | 4,8 / 3/16" | 150 – 220 | DC+ | All |
+| Electrode | Tensile strength (MPa / ksi) | Yield strength (MPa / ksi) | Elongation (%) | Coating type | Current and polarity |
+|-----------|------------------------------|----------------------------|----------------|------------------------|------------------------|
+| E6010 | 414 MPa / 60 ksi | 331 MPa / 48 ksi | 22% min. | Sodium cellulosic | DC+ (electrode positive) |
+| E6013 | 414 MPa / 60 ksi | 345 MPa / 50 ksi | 17% min. | Potassium rutile | AC or DC± |
+| E7018 | 482 MPa / 70 ksi | 393 MPa / 57 ksi | 22% min. | Low hydrogen, iron powder | AC or DC+ |
+| E308L | 517 MPa / 75 ksi | 414 MPa / 60 ksi | 35% min. | Low carbon, limestone-rutile | DC+ (preferred) |
 
-Arc voltage varies between 18 V and 26 V for 2,4 mm electrodes and between 22 V and 32 V for larger diameters. Low‑hydrogen electrodes (E7018) require oven storage at 150–200 °C / 300–400 °F to prevent moisture absorption, while cellulosic electrodes (E6010) are used without re‑drying and are preferably consumed during the work shift after opening the hermetic package.
+## Operating parameters by material and diameter
 
-## Tolerances and specifications
-SMAW electrodes are manufactured under AWS A5.1 (carbon steels) and AWS A5.4 (stainless steels) standards. Dimensional tolerances control both core diameter and coating eccentricity. The core diameter is maintained within ±0,05 mm / ±0.002 in of the nominal value, the total electrode length has a tolerance of ±3 mm / ±0.12 in, and the maximum permissible coating eccentricity is 0,08 mm / 0.003 in for diameters up to 3,2 mm / 1/8" and 0,15 mm / 0.006 in for larger diameters.
+Each electrode operates in amperage ranges defined by its diameter and composition. Table 2 shows the recommended parameters for carbon and stainless steels in flat position.
 
-### Minimum mechanical properties (according to AWS)
+| Electrode | Diameter (mm / in) | Amperage (A) | Arc voltage (V) | Deposition rate (kg/h / lb/h) | Slag thickness (mm / in) |
+|-----------|---------------------|--------------|-------------------|-------------------------------|---------------------------|
+| E6010 | 2,5 mm / 3/32 in | 50–80 A | 22–28 V | 0,9 kg/h / 2,0 lb/h | 0,8 mm / 0.03 in |
+| E6010 | 3,2 mm / 1/8 in | 70–130 A | 24–30 V | 1,2 kg/h / 2,6 lb/h | 0,8 mm / 0.03 in |
+| E6013 | 2,5 mm / 3/32 in | 60–100 A | 20–26 V | 1,1 kg/h / 2,4 lb/h | 1,2 mm / 0.05 in |
+| E6013 | 3,2 mm / 1/8 in | 90–150 A | 22–28 V | 1,4 kg/h / 3,1 lb/h | 1,2 mm / 0.05 in |
+| E7018 | 2,5 mm / 3/32 in | 70–110 A | 22–28 V | 1,0 kg/h / 2,2 lb/h | 2,0 mm / 0.08 in |
+| E7018 | 3,2 mm / 1/8 in | 100–160 A | 24–30 V | 1,5 kg/h / 3,3 lb/h | 2,0 mm / 0.08 in |
+| E308L | 2,5 mm / 3/32 in | 55–85 A | 22–28 V | 0,8 kg/h / 1,8 lb/h | 1,5 mm / 0.06 in |
+| E308L | 3,2 mm / 1/8 in | 80–140 A | 24–30 V | 1,1 kg/h / 2,4 lb/h | 1,5 mm / 0.06 in |
 
-| Classification | Tensile Strength min. (MPa / ksi) | Yield Strength min. (MPa / ksi) | Elongation min. (%) | Charpy V-notch Impact (J / ft·lbf) |
-| :--- | :--- | :--- | :--- | :--- |
-| E6010 | 414 / 60 | 331 / 48 | 22 | 27 / 20 at -30 °C / -20 °F |
-| E6013 | 414 / 60 | 331 / 48 | 17 | Not specified |
-| E7018 | 483 / 70 | 400 / 58 | 22 | 27 / 20 at -30 °C / -20 °F |
-| E308L | 520 / 75 | 205 / 30 | 30 | Not specified |
+## Dimensional and operational tolerances
 
-### Typical chemical composition of deposited metal
-
-| Classification | C (%) | Mn (%) | Si (%) | Cr (%) | Ni (%) | P (%) max. | S (%) max. |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E6010 | 0,08 – 0,12 | 0,40 – 0,60 | 0,15 – 0,25 | – | – | 0,03 | 0,03 |
-| E6013 | 0,05 – 0,10 | 0,35 – 0,50 | 0,20 – 0,35 | – | – | 0,03 | 0,03 |
-| E7018 | 0,05 – 0,10 | 0,60 – 1,25 | 0,25 – 0,75 | – | – | 0,03 | 0,03 |
-| E308L | ≤ 0,04 | 0,5 – 2,5 | ≤ 1,0 | 18,0 – 21,0 | 9,0 – 11,0 | 0,03 | 0,02 |
+Standard electrode diameters range from 1,6 mm to 5,0 mm / 1/16 in to 3/16 in with a tolerance of ±0,05 mm / ±0.002 in on the metal core. Typical length is 350 mm / 13.8 in with a tolerance of ±5 mm / ±0.2 in. Coating concentricity must maintain a maximum thickness difference of 0,1 mm / 0.004 in. Diffusible hydrogen content in E7018 must not exceed 8 ml/100g in newly opened electrodes and 4 ml/100g in critical applications. Coating moisture for E7018 is kept below 0,4% by weight before use.
 
 ## Applicable materials
-SMAW electrodes are selected based on the composition and mechanical properties of the base metal. The following table relates the most common materials with their melting points and the suitable electrodes for each.
 
-| Base Material | Melting point (°C / °F) | Recommended Electrodes |
-| :--- | :--- | :--- |
-| Structural carbon steel (A36, A572 Gr. 50) | ≈ 1538 / ≈ 2800 | E6010, E6013, E7018 |
-| Pipe steel (API 5L X42‑X70) | ≈ 1538 / ≈ 2800 | E6010 (root pass), E7018 (fill and fillet) |
-| Low‑alloy steel (AISI 4130, 4140) | 1520 – 1540 / 2770 – 2805 | E7018 (with preheating) |
-| Austenitic stainless steel (304L, 316L) | 1400 – 1450 / 2550 – 2640 | E308L |
-| Stabilized stainless steel (321, 347) | 1400 – 1450 / 2550 – 2640 | E308L (with carbide precautions) |
-| Cast iron (gray, nodular) | 1140 – 1260 / 2080 – 2300 | E6010 (only low‑demand repairs) |
+SMAW electrodes are used on carbon steels, low-alloy steels, austenitic stainless steels, iron castings, and nickel alloys. Specific materials and compatible electrodes include ASTM A36 (E6010, E7018), AISI 1045 steels (E6013, E7018), 304L stainless steels (E308L), API 5L X42–X70 pipe steels (E6010 for root pass, E7018 for fill), and AISI 316 steels (E316L). Not recommended for aluminum or titanium with standard electrode; copper requires special electrode with preheating.
 
-The melting data for steel and iron come from measurements compiled by Engineering Toolbox for pure iron (1811 K, equivalent to 1538 °C / 2800 °F). For stainless steels, the typical melting ranges of the AISI 3xx family are used.
+## Advantages and limitations of the SMAW process by electrode
 
-## Advantages and limitations
+The choice of electrode conditions the operational advantages and limitations of the process. Table 3 summarizes this comparison.
 
-**E6010**  
-- Advantages: Deep penetration, fast‑freezing slag, suitable for difficult positions and surfaces with rust or light paint, excellent for root pass in pipes.  
-- Limitations: Operates only with direct current (DC+), deposit with surface roughness higher than other types, moderate spatter, requires welder skill.
+| Electrode | Key advantages | Main limitations |
+|-----------|----------------|-----------------|
+| E6010 | Deep penetration, fast solidification | Only DC, heavy spatter |
+| E6013 | Smooth arc, easy striking, low spatter | Heavy slag, low penetration |
+| E7018 | Low H₂ content, high toughness | Requires holding oven |
+| E308L | Corrosion resistance, low carbon | Only for 18Cr-8Ni stainless steels |
 
-**E6013**  
-- Advantages: Smooth arc, easily detachable slag, aesthetic bead, compatible with AC and DC, good for thin sheets and low‑penetration work.  
-- Limitations: Limited penetration, lower crack resistance in thick sections, not suitable for high‑strength steels.
+## Selection guide by application
 
-**E7018**  
-- Advantages: Low diffusible hydrogen content, high toughness at low temperature, high mechanical strength (483 MPa / 70 ksi), ideal for structures and pressure vessels, weldable in all positions.  
-- Limitations: Need for controlled storage (oven at 150–200 °C / 300–400 °F), less aggressive arc than E6010, higher price.
+For root pass in pipes with complete penetration, E6010 1/8 in (3,2 mm) at 70–130 A is recommended, followed by E7018 for fill at 100–160 A. For structural shop welding on A36 steel, E7018 3/32 in (2,5 mm) at 70–110 A is selected. For thin sheet repairs, E6013 2,5 mm / 3/32 in at 60–100 A is preferred. For welding 304L stainless steel exposed to corrosive media, E308L with DC+ current between 55 and 140 A depending on diameter is used. For joining galvanized steel, E6013 with low voltage of 20–22 V is recommended to minimize zinc porosity.
 
-**E308L**  
-- Advantages: Resistance to intergranular corrosion thanks to its very low carbon (<0,04 %), good ductility (elongation ≥ 30 %), suitable for welding 304L and 316L stainless steels, quality deposit.  
-- Limitations: Higher acquisition cost, requires rigorous cleaning of base metal to avoid iron contamination, porosity appears easily if the coating absorbs moisture.
+## Storage and handling recommendations
 
-## Selection guide
-The choice of electrode depends on five main factors: required strength, nature of the base metal, welding position, available power source, and service conditions. The following table summarizes the most common applications.
+Cellulosic electrodes (E6010) are kept in sealed packaging at room temperature between 10 °C and 30 °C / 50 °F and 86 °F and relative humidity below 60%. Low hydrogen E7018 electrodes are stored in an oven at 120 °C / 250 °F and used within 4 hours after removal. E308L and other stainless steel electrodes are kept in a dry place at 20–25 °C / 68–77 °F and dried at 150 °C / 300 °F for 1 hour before use if they have absorbed moisture. Inadequate storage conditions cause hydrogen cracking, porosity, and excessive spatter.
 
-| Application | Suggested Electrode | Reason |
-| :--- | :--- | :--- |
-| Root pass in high‑pressure pipes | E6010 | Deep penetration, fast freezing, good tie‑in |
-| Fill and finish in steel structures | E7018 | Low hydrogen, high toughness, 70 ksi strength |
-| Thin sheets or cosmetic work | E6013 | Smooth finish, easy control on AC |
-| Welding of 304L/316L stainless steel | E308L | Chemical compatibility, corrosion resistance |
-| Field repairs with dirty surfaces | E6010 or E6013 | Tolerance to rust and paint |
-| Pressure vessels and bridges | E7018 | Guaranteed mechanical properties, low‑temperature toughness |
+## Formula for heat input (Heat Input)
 
-When a combination of penetration and toughness is required, a sequence of different electrodes is used (e.g., E6010 for root and E7018 for fill). The operating parameters table should be consulted to adjust the current to the chosen diameter.
+> **Q = (V × I × 60) / (S × 1000)**
+
+| Symbol | Variable | Unit |
+|--------|----------|------|
+| Q | Heat input | kJ/mm |
+| V | Welding voltage | V |
+| I | Welding current | A |
+| S | Travel speed | mm/min |
+
+The factor 1000 converts J/mm to kJ/mm. For E6010 with V=26, I=110, S=200 mm/min, Q=0.86 kJ/mm. For E7018 with V=28, I=140, S=250 mm/min, Q=0.94 kJ/mm. An excessive Q (>2.0 kJ/mm) in carbon steels weakens the heat-affected zone; an insufficient Q (<0.5 kJ/mm) produces lack of fusion.
+
+## Physical process details of the coating
+
+The flux coating the electrode decomposes during the arc forming three essential components in approximate volumetric proportions of 10%–15% liquid slag, 25%–35% shielding gases, and 40%–55% metallic allotropes incorporated into the weld pool. The slag solidifies at temperatures between 1100 °C and 1200 °C / 2012 °F and 2192 °F, insulating the bead from the atmosphere. The gases generated by cellulose in E6010 produce a reducing atmosphere with predominance of H₂ and CO, while the basic coating of E7018 mainly releases CO₂ and CO, reducing diffusible hydrogen. The slag of E6013 contains TiO₂ around 12% by weight, which gives it fluidity and easy removal at low temperature (<400 °C / 752 °F).
 
 ## Frequently Asked Questions (FAQ)
 
-**1.** What is the recommended current for a 3,2 mm (1/8") E6010 electrode?  
-The optimal current is between 80 and 140 A with direct current electrode positive (DC+).
+### What is the fundamental difference between E6010 and E6013?
 
-**2.** What minimum tensile strength does an E7018 electrode offer?  
-The weld deposit of an E7018 electrode guarantees at least 483 MPa (70 ksi) tensile strength.
+The difference lies in 2 aspects: E6010 has a cellulosic coating that generates up to 30% deeper penetration than E6013, but only operates with DC+ current, while E6013 uses a rutile coating compatible with AC/DC± and produces a smoother arc with lower penetration.
 
-**3.** At what temperature should a low‑hydrogen E7018 electrode be stored?  
-E7018 electrodes require a holding oven at 150–200 °C / 300–400 °F to prevent moisture reabsorption.
+### Why do E7018 electrodes require a storage oven?
 
-**4.** What is the minimum elongation of a deposit made with E308L?  
-The AWS A5.4 standard requires a minimum elongation of 30% for metal deposited by E308L electrodes.
+Because their diffusible hydrogen content must remain below 8 ml/100g. At room temperature without protection, absorbed moisture can generate more than 15 ml/100g of hydrogen in just 2 hours, causing cold cracking.
 
-**5.** What maximum sheet thickness can be welded with a 2,4 mm (3/32") E6013 electrode in a single pass?  
-In horizontal fillet, the typical thickness reaches 6 mm / 1/4 in, although it depends on the joint design and the welder's technique.
+### Can E308L be used on carbon steel?
 
-**6.** At what temperature does the flux coating of an SMAW electrode melt?  
-The flux melts at around 1400 °C / 2550 °F, a temperature close to the melting point of the base steel, estimated at 1538 °C / 2800 °F according to the Engineering Toolbox database.
+Not recommended because the dilution of carbon from the base steel into the stainless steel weld bead forms chromium carbides, reducing corrosion resistance by more than 50% and may cause hot cracking.
 
-## References
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-boiling-temperatures-d_390.html
-- **efunda.com**: https://www.efunda.com/DesignStandards/screws/unified.cfm
+### How does electrode diameter affect deposition rate?
+
+In E7018, when increasing diameter from 2,5 mm / 3/32 in to 3,2 mm / 1/8 in, the deposition rate increases from 1,0 kg/h / 2,2 lb/h to 1,5 kg/h / 3,3 lb/h, an increase close to 50%.
+
+### What is the maximum amperage for E6010 on pipe?
+
+On pipe with thickness 6 mm / 0.24 in, the maximum amperage for root pass with E6010 3,2 mm / 1/8 in is 130 A, because exceeding that value produces burn-through and burning of the joint with a failure probability above 25%.
+
+### Which electrode to use for welding gray cast iron without cracking?
+
+A pure nickel-based electrode (AWS ENi-CI) is used with preheating to 300 °C / 572 °F and slow cooling; E6010, E6013, or E7018 electrodes are not suitable because they form brittle martensite.
+
+## Sources Consulted
+
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/corrosion-protection-pipes-d_564.html
+- **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=n%20t%20c
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/metal-powder-welding

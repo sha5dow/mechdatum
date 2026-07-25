@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## ¿Qué es la microfusión a la cera perdida?
 La microfusión a la cera perdida es un proceso de fundición de precisión en el que un modelo de cera, plástico o material similar se recubre con un molde cerámico refractario. El molde se calienta para eliminar la cera (pérdida de cera) y se precalienta a aproximadamente **1000 °C / 1832 °F** para eliminar residuos y endurecer el aglutinante cerámico. Posteriormente se vierte metal fundido en la cavidad del molde, que replica fielmente la forma original. El proceso permite obtener geometrías complejas, tolerancias estrechas y buenos acabados superficiales sin necesidad de ángulos de desmoldeo. La colada puede realizarse por gravedad, presión o vacío, dependiendo de la configuración del molde y del material.
 
 ## Parámetros operativos

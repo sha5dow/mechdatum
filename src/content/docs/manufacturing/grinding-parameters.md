@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
 El rectificado es un proceso de abrasión que utiliza una muela giratoria y consigue tolerancias de planitud inferiores a ±0,0025 mm sobre superficies de 127 x 127 mm (5 x 5 in). La acción de corte se produce por la interacción de los granos abrasivos con el material, generando virutas microscópicas y un calor intenso que obliga a emplear abundante refrigerante. Se aplica principalmente para mejorar el acabado superficial, corregir deformaciones tras temple y mecanizar piezas de elevada dureza que no pueden trabajarse por arranque convencional.
 
 ## Parámetros operativos

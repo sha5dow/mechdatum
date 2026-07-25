@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
-
 La fabricación por filamento fundido (FFF), denominada comercialmente modelado por deposición fundida (FDM), es un proceso de manufactura aditiva que construye piezas capa por capa mediante la extrusión de un filamento termoplástico continuo. El material en forma de hilo es arrastrado por un mecanismo de rodillos hacia un cabezal extrusor calefactado; allí se funde y se deposita a través de una boquilla sobre una plataforma de construcción móvil. Cada capa horizontal reproduce una sección del modelo CAD. Una vez completada, la plataforma desciende (o el cabezal asciende) la distancia correspondiente al espesor de capa y se aplica la siguiente lámina de material. Cuando el diseño presenta voladizos o geometrías complejas se extruye una estructura de soporte que se retira mecánicamente en la etapa de postprocesado. Si se requiere un acabado superficial superior, pueden realizarse operaciones adicionales como lijado, pulido o alisado químico con vapor.
 
 ## Parámetros del proceso

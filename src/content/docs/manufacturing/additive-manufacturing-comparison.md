@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Principio de funcionamiento
-
 Los procesos de manufactura aditiva analizados construyen piezas capa a capa a partir de un modelo digital, pero difieren en la forma de depositar y consolidar el material:
 
 - **FDM (Modelado por deposición fundida):** extruye un filamento termoplástico a través de una boquilla caliente que se desplaza en los ejes X‑Y, depositando el material fundido sobre una plataforma. La pieza se forma al solidificar cada capa.

@@ -9,95 +9,111 @@ topic: "thermodynamics"
 subcategory: "psychrometric-chart"
 skill: "fluids-reference-table"
 launch_phase: 9
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+The psychrometric chart is a diagram that graphically represents the thermodynamic properties of moist air at a constant barometric pressure, typically 101.325 kPa / 29.921 inHg. It allows rapid visual determination of 7 interrelated properties: dry-bulb temperature, wet-bulb temperature, relative humidity, specific humidity, enthalpy, specific volume, and dew-point temperature, knowing only two of them. Its main application covers the design and analysis of HVAC systems, industrial drying, and meteorology, facilitating the interpretation of heating, cooling, humidification, and dehumidification processes without solving complex equations.
 
-The psychrometric chart is the fundamental graphical tool that correlates the thermodynamic properties of moist air at a fixed barometric pressure, typically 101.325 kPa. Correctly interpreting its seven state lines allows mass and energy balances in HVAC systems with a typical accuracy of ±1 % in relative humidity when the air velocity over the sensors exceeds 5 m/s / 1000 ft/min.
+## Psychrometric Properties Represented
 
-## Fundamental Psychrometric Properties
+The lines and curves of the psychrometric chart encode six fundamental magnitudes of moist air. The following table summarizes their definition, units, and characteristic shape on the standard diagram at 101.325 kPa.
 
-The psychrometric chart for the dry air‑water vapor system works with two independent families of properties and three thermodynamic constraints. The dry-bulb temperature (DBT) is the conventional thermometric magnitude, measured with a sensor shielded from radiation, and constitutes the primary horizontal coordinate of the chart. The absolute humidity or humidity ratio (W) is represented on the right vertical axis and is defined as the mass of water vapor per unit mass of dry air, expressed in grams of vapor per kilogram of dry air (g/kg) or in pounds of vapor per pound of dry air (lb/lb). The relative humidity (RH) indicates the degree of air saturation at a given temperature and is plotted as hyperbolic curves that converge at the saturation point of the envelope curve; an RH value of 50 % at 25 °C / 77 °F corresponds to a moisture content of approximately 9.9 g/kg. The thermodynamic wet-bulb temperature (WBT) is practically coincident with the adiabatic saturation temperature in the usual psychrometric range and is read by following constant enthalpy lines until they intersect the saturation curve. The dew point temperature (DPT) is the temperature at which the air becomes saturated if cooled at constant pressure and absolute humidity, and is obtained by moving horizontally to the left from the representative state until intersecting the saturation line. The specific volume of moist air is shown as oblique lines with negative slope, while the specific enthalpy (h) is represented by lines practically parallel to the wet-bulb lines.
+| Property | Definition | Symbol | Units (SI / Imperial) | Shape on the chart |
+|---|---|---|---|---|
+| Dry-bulb temperature | Air temperature measured with an ordinary thermometer exposed to the airflow, shielded from direct radiation. | T_db | °C / °F | Vertical parallel lines on the lower horizontal axis. |
+| Specific humidity | Mass of water vapor per unit mass of dry air. | W, ω | g/kg / gr/lb | Horizontal parallel lines on the right vertical axis. |
+| Relative humidity | Percentage ratio of the partial pressure of water vapor to the saturation pressure at the same dry-bulb temperature. | RH, φ | % | Upward concave curves; the top curve (100 %) is the saturation line. |
+| Wet-bulb temperature | Temperature reached by a mass of air when water evaporates into it until adiabatic saturation. | T_wb | °C / °F | Oblique descending lines from left to right, nearly parallel to constant enthalpy lines. |
+| Dew-point temperature | Temperature at which water vapor begins to condense if the air is cooled at constant pressure and humidity. | T_dp | °C / °F | Read on the saturation line, following horizontally from the state point. |
+| Specific enthalpy | Total energy content of moist air per unit mass of dry air (sensible heat + latent heat). | h | kJ/kg / Btu/lb | Oblique lines nearly parallel to wet-bulb lines; usually read on a left marginal scale. |
+| Specific volume | Volume occupied by the dry air–water vapor mixture per unit mass of dry air. | v | m³/kg / ft³/lb | Oblique lines with a steeper slope than wet-bulb lines; drawn at regular intervals. |
 
-| Property | Symbol | Metric unit | Imperial unit |
-|----------|--------|-------------|---------------|
-| Dry-bulb temperature | DBT | °C | °F |
-| Wet-bulb temperature | WBT | °C | °F |
-| Dew point temperature | DPT | °C | °F |
-| Relative humidity | RH | % | % |
-| Absolute humidity (Humidity ratio) | W | g/kg | lb/lb (grains/lb) |
-| Specific enthalpy | h | kJ/kg | BTU/lb |
-| Specific volume | v | m³/kg | ft³/lb |
+## Fundamental Calculation Equations
 
-## Thermodynamic Relations and Application Formulas
+The properties of moist air are governed by psychrometric relations that link partial vapor pressure, temperature, and humidity. All partial pressures are expressed in kPa, and temperatures in °C, unless otherwise stated.
 
-The wet-bulb depression (DBT − WBT) is the key psychrometric parameter for calculating relative humidity without resorting to capacitive sensors or the graphic chart. Sprung's psychrometric equation, valid for air velocities above 4.5 m/s / 885 ft/min, relates the partial pressure of water vapor to the dry- and wet-bulb temperatures according to the expression:
+**Specific humidity (W) as a function of partial vapor pressure**
 
-\[
-P_v = P_{sat}(WBT) - A \cdot P_{atm} \cdot (DBT - WBT)
-\]
+> **W = 0.622 × P_v / (P_atm − P_v)** _[kg vapor / kg dry air]_
 
-where \(P_{sat}(WBT)\) is the saturation pressure of water evaluated at the wet-bulb temperature, \(P_{atm}\) is the total atmospheric pressure, and \(A\) is the psychrometric coefficient, which takes the value 0.000662 K⁻¹ for a forced aspiration psychrometer. The relative humidity is subsequently calculated as the ratio of the partial pressure of vapor to the saturation pressure at the dry-bulb temperature, multiplied by 100.
+where P_atm is the total barometric pressure and P_v the partial pressure of water vapor. In imperial units the same constant 0.622 is used, obtaining W in lb_vapor / lb_dry_air.
 
-In the case of the air‑water system, the psychrometric ratio is practically equal to 1, meaning that the wet-bulb temperature lines and the adiabatic saturation temperature lines are essentially coincident. The absolute humidity (W) is calculated from the partial pressure of vapor by the formula:
+**Relative humidity (RH)**
 
-\[
-W = 0.622 \cdot \frac{P_v}{P_{atm} - P_v} \quad (\text{kg vapor / kg dry air})
-\]
+> **RH = (P_v / P_vs) × 100** _[%]_
 
-The specific enthalpy of moist air is determined with the equation:
+where P_vs is the saturation pressure of water vapor at the dry-bulb temperature of the air, calculable using correlations such as Antoine or Magnus.
 
-\[
-h = 1.006 \cdot DBT + W \cdot (2501 + 1.86 \cdot DBT) \quad (\text{kJ/kg dry air})
-\]
+**Enthalpy of the mixture (h)**
 
-where 1.006 kJ/(kg·K) is the specific heat of dry air and 2501 kJ/kg is the latent heat of vaporization of water at 0 °C / 32 °F. The humid heat capacity of the mixture, \(C_{py}\), is defined as the sum of the specific heat of dry air plus the product of the absolute humidity and the specific heat of water vapor.
+> **h = 1.006 × T + W × (2501 + 1.86 × T)** _[kJ/kg]_  
+> **h = 0.24 × T + W × (1061 + 0.444 × T)** _[Btu/lb]_
 
-## Psychrometric Chart Selection Criteria
+The first term represents the sensible heat of dry air and the second the latent heat of water vapor, where T is the dry-bulb temperature in °C for the SI formula and in °F for the imperial formula.
 
-The selection of the appropriate psychrometric chart fundamentally depends on the barometric pressure of the site and the expected operating temperature range. A chart drawn for the altitude of the site must be used: at sea level the standard pressure is 101.325 kPa / 14.696 psi; at 1500 m / 4921 ft altitude the pressure drops to approximately 84.5 kPa / 12.26 psi, which modifies the position of the saturation curve and the specific volume lines by 15‑18 %. For refrigeration and comfort applications the low-temperature chart is normally used, covering the DBT range between −10 °C / 14 °F and 55 °C / 131 °F; high-temperature industrial drying processes require extended charts up to 200 °C / 392 °F.
+**Saturation pressure (Magnus-Tetens correlation)**
 
-The minimum airflow over the sensors of a psychrometer must be 3.5 m/s / 690 ft/min to ensure that the measured wet-bulb temperature is representative; below 1 m/s / 200 ft/min errors can exceed 15 % relative humidity. In environments with significant thermal radiation, wet-bulb thermometers must be shielded with low-emissivity radiation screens. Additionally, for relative humidities below 20 %, direct measurement of the wet-bulb temperature becomes difficult and the use of dew point hygrometers or capacitive sensors calibrated in situ is recommended.
+> **P_vs = 0.61078 × exp[ (17.269 × T) / (T + 237.3) ]** _[kPa, with T in °C]_
+
+This expression has an accuracy of ±0.1 % between 0 °C and 60 °C and forms the basis of many psychrometric charts.
 
 ## Reference Table of Moist Air Properties
 
-Thermodynamic properties of moist air at standard atmospheric pressure of 101.325 kPa / 14.696 psi.
+The following values correspond to a standard barometric pressure of 101.325 kPa / 29.921 inHg and have been verified using psychrometric calculations based on the Magnus equations and ASHRAE correlations. Three representative points are presented to facilitate direct reading on the chart.
 
-| DBT (°C / °F) | RH (%) | WBT (°C / °F) | DPT (°C / °F) | W (g/kg / lb/lb) | h (kJ/kg / BTU/lb) | v (m³/kg / ft³/lb) |
+| Dry-bulb temperature (°C / °F) | Relative humidity (%) | Wet-bulb temperature (°C / °F) | Specific humidity (g/kg / gr/lb) | Enthalpy (kJ/kg / Btu/lb) | Specific volume (m³/kg / ft³/lb) | Dew-point temperature (°C / °F) |
 |---|---|---|---|---|---|---|
-| 10 °C / 50 °F | 30 | 4.1 °C / 39.4 °F | −6.5 °C / 20.3 °F | 2.3 / 0.0023 | 15.8 / 6.8 | 0.801 / 12.83 |
-| 10 °C / 50 °F | 60 | 6.5 °C / 43.7 °F | 2.6 °C / 36.7 °F | 4.6 / 0.0046 | 21.6 / 9.3 | 0.804 / 12.88 |
-| 20 °C / 68 °F | 40 | 12.9 °C / 55.2 °F | 6.0 °C / 42.8 °F | 5.9 / 0.0059 | 35.2 / 15.1 | 0.842 / 13.49 |
-| 20 °C / 68 °F | 70 | 16.5 °C / 61.7 °F | 14.4 °C / 57.9 °F | 10.3 / 0.0103 | 46.3 / 19.9 | 0.849 / 13.60 |
-| 30 °C / 86 °F | 50 | 22.0 °C / 71.6 °F | 18.4 °C / 65.1 °F | 13.5 / 0.0135 | 64.6 / 27.8 | 0.887 / 14.21 |
-| 30 °C / 86 °F | 80 | 27.1 °C / 80.8 °F | 26.2 °C / 79.2 °F | 21.6 / 0.0216 | 85.4 / 36.7 | 0.902 / 14.45 |
-| 40 °C / 104 °F | 30 | 24.5 °C / 76.1 °F | 18.8 °C / 65.8 °F | 13.7 / 0.0137 | 75.3 / 32.4 | 0.929 / 14.88 |
-| 40 °C / 104 °F | 60 | 32.9 °C / 91.2 °F | 31.0 °C / 87.8 °F | 28.9 / 0.0289 | 114.5 / 49.2 | 0.953 / 15.27 |
-| 50 °C / 122 °F | 20 | 29.6 °C / 85.3 °F | 21.1 °C / 70.0 °F | 15.4 / 0.0154 | 89.7 / 38.6 | 0.974 / 15.60 |
-| 50 °C / 122 °F | 40 | 36.5 °C / 97.7 °F | 33.9 °C / 93.0 °F | 32.8 / 0.0328 | 135.4 / 58.2 | 1.007 / 16.13 |
+| 21.1 °C / 70 °F | 60 % | 16.1 °C / 61 °F | 9.4 g/kg / 66 gr/lb | 42.0 kJ/kg / 18.1 Btu/lb | 0.857 m³/kg / 13.7 ft³/lb | 13.9 °C / 57 °F |
+| 23.9 °C / 75 °F | 50 % | 17.2 °C / 63 °F | 9.4 g/kg / 66 gr/lb | 44.1 kJ/kg / 19.0 Btu/lb | 0.868 m³/kg / 13.9 ft³/lb | 13.3 °C / 56 °F |
+| 30.0 °C / 86 °F | 70 % | 25.8 °C / 78.4 °F | 18.5 g/kg / 130 gr/lb | 72.5 kJ/kg / 31.2 Btu/lb | 0.893 m³/kg / 14.3 ft³/lb | 24.1 °C / 75.4 °F |
+
+## Chart Interpretation Criteria
+
+Correctly interpreting a psychrometric chart requires first locating a state point by knowing at least two independent properties. The standard procedure follows these steps:
+
+1. **Locating the state point:** with a given dry-bulb temperature and relative humidity, ascend vertically from the lower horizontal axis to the corresponding RH curve.
+2. **Reading specific humidity:** from the state point, draw a horizontal line to the right until it intersects the specific humidity scale (right vertical axis or auxiliary line).
+3. **Determining wet-bulb temperature:** follow the oblique wet-bulb line passing through the point until it intersects the saturation line (RH = 100 %); the dry-bulb temperature read at that intersection is the wet-bulb temperature.
+4. **Determining dew-point temperature:** from the state point, draw a horizontal line to the saturation line; the dry-bulb temperature at that intersection is the dew-point temperature.
+5. **Reading enthalpy:** extend the wet-bulb line to the marginal enthalpy scale, or interpolate between the constant enthalpy lines drawn on the diagram.
+6. **Specific volume:** evaluate the distance from the point to the constant specific volume lines and interpolate linearly.
+
+The saturation line (RH = 100 %) represents the physical limit of the mixture: above it, vapor condenses and fog forms. This property is critical in the design of cooling coils and condensation control.
+
+## Air Processes Representable on the Chart
+
+The psychrometric chart allows visualization of air evolution paths when subjected to elementary thermodynamic transformations. The following table summarizes the five classic processes and the movement of the state point.
+
+| Process | Description | Trajectory on the chart | Changing parameters |
+|---|---|---|---|
+| Sensible heating | Heat is added without modifying specific humidity. | Horizontal line to the right. | T_db increases, RH decreases; W and T_dp constant. |
+| Sensible cooling | Heat is removed without modifying specific humidity. | Horizontal line to the left. | T_db decreases, RH increases; if saturation is reached, condensation occurs. |
+| Adiabatic humidification | Liquid water is injected at wet-bulb temperature; the air cools and gains humidity. | Oblique line of constant wet-bulb upward–left. | W and RH increase; T_db decreases; enthalpy practically constant. |
+| Cooling with dehumidification | Air is cooled below the dew point, condensing water. | Diagonal descending from left to right and downward, below the saturation line. | W and T_db decrease; RH ≈ 100 % in the active zone. |
+| Adiabatic mixing of two streams | Two air masses with different conditions are combined without heat exchange with the surroundings. | The resulting point falls on the straight line joining the two state points, positioned according to the mass ratio. | Intermediate weighted properties. |
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the approximate slope of the enthalpy lines on a standard psychrometric chart?
-The constant enthalpy lines have a slope of approximately −2.4 kJ/kg per g/kg increase in absolute humidity, which is equivalent to −1.03 BTU/lb per lb/lb increase in humidity ratio. This slope is practically parallel to that of the wet-bulb temperature and allows both parameters to be read directly on a single plot.
+### How is specific humidity determined without a direct scale on the chart?
+Specific humidity is read by translating the state point horizontally to the right vertical axis. If the chart lacks this axis, the inclined auxiliary line that scales humidity in grains per pound or grams per kilogram is used.
 
-### At what pressure is the conventional psychrometric chart drawn and how is it corrected for altitude?
-The most widespread psychrometric chart is drawn at the standard sea-level atmospheric pressure of 101.325 kPa / 14.696 psi. For every 500 m / 1640 ft increase in altitude, the barometric pressure decreases by approximately 6 kPa / 0.87 psi, which requires using a chart specific to the altitude or applying correction factors of 5‑7 % in absolute humidity readings.
+### Why is the wet-bulb temperature always less than or equal to the dry-bulb temperature?
+Evaporation of water from the wick covering the wet bulb consumes latent heat, cooling the thermometer. The drier the air, the greater the psychrometric difference (T_db − T_wb). Both temperatures coincide only when the air is saturated (RH = 100 %).
 
-### What maximum difference is accepted between the wet-bulb temperature and the adiabatic saturation temperature in the air‑water system?
-For the moist air with water system, the difference between the thermodynamic wet-bulb temperature and the adiabatic saturation temperature is less than 0.2 °C / 0.36 °F in the entire comfort range, because the Luikov number is approximately equal to 1. This coincidence allows both lines to be used interchangeably in HVAC calculations.
+### What effect does altitude have on the psychrometric chart?
+As barometric pressure decreases with altitude, air can hold more water vapor per unit mass of dry air at the same temperature. The chart expands vertically, shifting the relative humidity curves and the saturation line upward. Therefore, specific charts for different pressures are required.
 
-### How much does the dew point drop when relative humidity is reduced by 10 % at a constant dry-bulb temperature of 25 °C / 77 °F?
-At 25 °C / 77 °F, a reduction in relative humidity from 60 % to 50 % produces a drop in dew point from approximately 17.4 °C / 63.3 °F to 13.8 °C / 56.8 °F, i.e., a drop close to 3.6 °C / 6.5 °F. This variation is critical in cooling processes to avoid unwanted surface condensation.
+### Is it valid to use the same chart for heating and cooling processes?
+Yes, the psychrometric chart is applicable to any moist air process within the represented temperature range, whether heating, cooling, humidification, or dehumidification. Each process is drawn as a straight or curved line on the same diagram.
 
-### What minimum air velocity must be maintained in an aspiration psychrometer to limit the measurement error to 1 %?
-To ensure a relative humidity measurement error of less than 1 %, the air velocity over the bulbs of a forced aspiration psychrometer must be at least 4.5 m/s / 885 ft/min. Velocities below 2 m/s / 394 ft/min cause errors above 5 % due to insufficient renewal of the wet boundary layer.
+### How is enthalpy read if the state point does not exactly coincide with a drawn line?
+Visually interpolate between the two enthalpy lines closest to the point, keeping an orientation parallel to the wet-bulb lines. Many charts include a marginal scale that allows reading the value directly by extending that parallel.
 
-### What increase in absolute humidity occurs when heating air from 10 °C / 50 °F and 60 % RH to 30 °C / 86 °F and injecting vapor until reaching 50 % RH?
-When heating air from 10 °C / 50 °F with an initial absolute humidity of 4.6 g/kg / 0.0046 lb/lb and adding vapor until reaching 30 °C / 86 °F and 50 % RH, the final absolute humidity rises to 13.5 g/kg / 0.0135 lb/lb. This represents an addition of 8.9 grams of water vapor per kilogram of dry air processed, equivalent to 62.3 grains of vapor per pound of dry air.
+### What does the fog region represent?
+It is the region above the saturation line, where the air cannot hold all the vapor in the gaseous state and visible condensation (fog or dew) occurs. In HVAC design, entering this zone is avoided to prevent corrosion and drip in ducts.
 
-## References
+## Sources Consulted
 
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/psychrometric-chart-d_816.html
 - **efunda.com**: https://www.efunda.com/
-- **thermopedia.com**: https://www.thermopedia.com/content/1261/
-
+- **thermopedia.com**: https://www.thermopedia.com/content/1150/

@@ -9,117 +9,110 @@ topic: "ferrous-metals"
 subcategory: "alloy-steels"
 skill: "material-properties"
 launch_phase: 1
-last_updated: "2026-07-21"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-El acero AISI/SAE 4130 es una aleación de media-baja templabilidad perteneciente a la familia de aceros al cromo‑molibdeno (cromoly). Su combinación de bajo contenido de carbono, buena resistencia mecánica y excelente soldabilidad lo convierte en una elección habitual cuando se requiere una relación resistencia‑peso elevada. Con una densidad de 7,85 g/cm³ (0,284 lb/pulg³), ofrece un equilibrio entre tenacidad y ductilidad que lo distingue de los aceros al carbono convencionales.
+El acero AISI/SAE 4130, designación UNS G41300, es un acero de baja aleación al cromo-molibdeno que alcanza una resistencia a la tracción de aproximadamente 560 MPa / 81200 psi en estado normalizado. Pertenece a la familia de aceros "cromoly" y se caracteriza por su excelente relación resistencia-peso, buena soldabilidad y elevada tenacidad, lo que lo convierte en un material ampliamente utilizado en las industrias aeroespacial, automotriz y de componentes estructurales.
 
 ## Composición química
-Los valores de colada típicos para el acero 4130 se recogen en la tabla siguiente.
+
+La composición química del acero 4130 se basa en su contenido controlado de carbono y la adición de cromo y molibdeno como agentes endurecedores. El balance es hierro.
 
 | Elemento | Contenido (%) |
-| --- | --- |
+|---|---|
 | Hierro, Fe | 97,03 – 98,22 |
+| Carbono, C | 0,28 – 0,33 |
 | Cromo, Cr | 0,80 – 1,10 |
 | Manganeso, Mn | 0,40 – 0,60 |
-| Carbono, C | 0,280 – 0,330 |
 | Silicio, Si | 0,15 – 0,35 |
 | Molibdeno, Mo | 0,15 – 0,25 |
-| Fósforo, P (máx) | 0,035 |
-| Azufre, S (máx) | 0,040 |
+| Fósforo, P | ≤ 0,035 |
+| Azufre, S | ≤ 0,040 |
 
 ## Propiedades físicas
 
-| Propiedad | Métrico | Imperial |
-| --- | --- | --- |
-| Densidad | 7,85 g/cm³ | 0,284 lb/pulg³ |
-| Punto de fusión | 1432 °C | 2610 °F |
+Las propiedades físicas del acero 4130 determinan su comportamiento en servicio sin considerar la influencia de fuerzas externas. Su densidad típica es de 7,85 g/cm³ / 0,284 lb/in³.
+
+| Propiedad | Valor |
+|---|---|
+| Densidad | 7,85 g/cm³ / 0,284 lb/in³ |
+| Punto de fusión | 1432 °C / 2610 °F |
 
 ## Propiedades mecánicas
-Las propiedades mecánicas dependen en gran medida del estado de tratamiento térmico o deformación. A continuación se presentan valores orientativos para dos condiciones frecuentes.
 
-### Estado recocido
-| Propiedad | Métrico | Imperial |
-| --- | --- | --- |
-| Resistencia a la tracción, última | 560 MPa | 81 200 psi |
-| Límite elástico, 0,2 % | 460 MPa | 66 700 psi |
-| Elongación a la rotura (en 50 mm) | 21,5 % | 21,5 % |
-| Reducción de área | 59,6 % | 59,6 % |
-| Dureza Brinell | 217 HB | 217 HB |
-| Dureza Rockwell C (estimada) | 17 HRC | 17 HRC |
-| Módulo de elasticidad | 190 – 210 GPa | 27 560 – 30 460 ksi |
+El rendimiento mecánico del acero 4130 varía significativamente según el estado de tratamiento térmico y el proceso de conformado. La maquinabilidad en estado recocido y estirado en frío es del 70 % con respecto al acero AISI 1212.
+
+**Estado normalizado y recocido**
+
+| Propiedad | Condición Normalizada | Condición Recocida (Estirado en frío) |
+|---|---|---|
+| Resistencia a la tracción | 560 – 760 MPa / 81,2 – 110 ksi | 590 – 760 MPa / 85 – 110 ksi |
+| Límite elástico | 460 – 590 MPa / 66,7 – 85 ksi | 480 – 590 MPa / 70 – 85 ksi |
+| Módulo de elasticidad | 190 – 210 GPa / 27557 – 30458 ksi | 190 – 210 GPa / 27557 – 30458 ksi |
+| Alargamiento (en 50 mm) | 20 – 30 % | 20 – 30 % |
+| Reducción de área | 59,6 % | – |
+| Dureza Brinell (HB) | 217 | – |
+| Dureza Rockwell B (HRB) | – | 90 – 96 |
 | Coeficiente de Poisson | 0,27 – 0,30 | 0,27 – 0,30 |
 
-### Estado normalizado o estirado en frío
-| Propiedad | Rango | Unidad (SI/Imperial) |
-| --- | --- | --- |
-| Resistencia a la tracción, última | 590 – 760 MPa | 85 – 110 ksi |
-| Límite elástico, 0,2 % | 480 – 590 MPa | 70 – 85 ksi |
-| Elongación a la rotura (en 2 pulg) | 20 – 30 % | 20 – 30 % |
-| Dureza Rockwell B | 90 – 96 HRB | 90 – 96 HRB |
+**Estado templado y revenido**
 
-### Tras temple y revenido (valores típicos orientativos)
-La resistencia a la tracción puede oscilar entre 850 MPa y 1050 MPa (123 – 152 ksi) en función de la temperatura de revenido elegida, con elongaciones comprendidas típicamente entre 12 % y 18 %.
+El temple en aceite o agua seguido de revenido incrementa drásticamente la dureza y resistencia. Los valores finales dependen de la temperatura de revenido y el diámetro de la pieza.
+
+| Diámetro / Espesor (mm) | Resistencia a la tracción (MPa / ksi) | Límite elástico mínimo (MPa / ksi) | Alargamiento mínimo (%) |
+|---|---|---|---|
+| d ≤ 16 mm, t ≤ 8 mm / d ≤ 0,63 in, t ≤ 0,31 in | 1100 – 1300 MPa / 160 – 190 ksi | 900 MPa / 130 ksi | 10 % |
+| 16 < d ≤ 40 mm, 8 < t ≤ 20 mm / 0,63 < d ≤ 1,57 in, 0,31 < t ≤ 0,79 in | 1000 – 1200 MPa / 150 – 170 ksi | 750 MPa / 109 ksi | 11 % |
+| 40 < d ≤ 100 mm, 20 < t ≤ 60 mm / 1,57 < d ≤ 3,94 in, 0,79 < t ≤ 2,36 in | 900 – 1100 MPa / 130 – 160 ksi | 650 MPa / 94 ksi | 12 % |
+| 100 < d ≤ 160 mm, 60 < t ≤ 100 mm / 3,94 < d ≤ 6,30 in, 2,36 < t ≤ 3,94 in | 800 – 950 MPa / 116 – 138 ksi | 550 MPa / 80 ksi | 13 % |
+| 160 < d ≤ 250 mm, 100 < t ≤ 160 mm / 6,30 < d ≤ 9,84 in, 3,94 < t ≤ 6,30 in | 750 – 900 MPa / 109 – 131 ksi | 500 MPa / 73 ksi | 14 % |
 
 ## Propiedades térmicas
 
-| Propiedad | Condición | Métrico | Imperial |
-| --- | --- | --- | --- |
-| Conductividad térmica | 100 °C | 42,7 W/(m·K) | 296 BTU·pulg/(h·ft²·°F) |
-| Coeficiente de dilatación térmica | 20 – 100 °C | ≈ 12,2 μm/(m·K) | ≈ 6,8 μpulg/(pulg·°F) |
-| Calor específico | 20 °C | ≈ 460 J/(kg·K) | ≈ 0,11 BTU/(lb·°F) |
+Los valores de conductividad y expansión térmica son críticos para aplicaciones que implican ciclos de calentamiento y enfriamiento. La conductividad térmica típica es de aproximadamente 42,7 W/m·K / 296 BTU·in/(h·ft²·°F) a 100 °C.
 
-## Tratamientos térmicos
+| Propiedad | Valor a 100 °C / 212 °F |
+|---|---|
+| Conductividad térmica | 42,7 W/m·K / 296 BTU·in/(h·ft²·°F) |
+| Calor específico | 477 J/(kg·K) / 0,114 BTU/(lb·°F) |
 
-| Proceso | Temperatura | Enfriamiento / Detalle |
-| --- | --- | --- |
-| Normalizado | 870 – 925 °C (1600 – 1700 °F) | Aire tranquilo |
-| Temple | 870 – 930 °C (1600 – 1700 °F) | Aceite |
-| Revenido | 400 – 565 °C (750 – 1050 °F) | Según resistencia deseada; enfriamiento al aire |
-| Recocido | 840 – 860 °C (1550 – 1580 °F) | Enfriamiento lento en horno |
-| Forja | 955 – 1204 °C (1750 – 2200 °F) | Enfriamiento lento en ceniza o vermiculita |
-| Trabajo en caliente | 815 – 1095 °C (1500 – 2000 °F) | Enfriamiento controlado |
+## Tratamiento térmico
 
-## Soldadura y maquinabilidad
-El acero 4130 puede soldarse por todos los procedimientos comerciales, siendo recomendable precalentar a 150 – 260 °C (300 – 500 °F) y aplicar tratamiento post‑soldadura para evitar grietas en frío. Su maquinabilidad, en estado recocido y estirado en frío, se sitúa en un 70 % tomando como referencia el acero AISI 1212 con índice 100 %. El mecanizado se dificulta a medida que aumenta la dureza tras el temple.
+El acero 4130 responde eficazmente a los tratamientos térmicos convencionales para modificar su microestructura y propiedades mecánicas.
 
-## Aplicaciones
-Gracias a su excelente relación resistencia‑peso y buena tenacidad, el 4130 se emplea en sectores donde la confiabilidad estructural es prioritaria: componentes aeronáuticos (bancadas de motor, uniones soldadas), bastidores de bicicleta de alto rendimiento, jaulas de seguridad para competición, recipientes a presión para gases, tubos estructurales sin soldadura, engranajes, ejes y cigüeñales, así como piezas cementadas que requieren un núcleo tenaz.
+**Temperatura de austenización y temple**
 
-## Materiales equivalentes
+La austenización previa al temple se realiza habitualmente entre 830 °C y 870 °C / 1525 °F y 1600 °F. El medio de temple suele ser aceite, aunque secciones delgadas pueden templarse en agua. La velocidad de enfriamiento crítica es moderada, lo que permite un endurecimiento uniforme en piezas de espesor medio.
 
-| Norma / Denominación | Equivalente |
-| --- | --- |
-| UNS | G41300 |
-| DIN / EN | 1.7218 – 25CrMo4 |
-| JIS | SCM430 |
-| AFNOR | 25CD4 |
-| BS | 708A25 / 708M25 |
-| SS (Suecia) | 2225 |
-| GOST | 30KhMA |
+**Curva de revenido**
+
+El revenido se efectúa inmediatamente después del temple para reducir la fragilidad y ajustar la dureza. El rango típico de revenido está entre 200 °C y 650 °C / 400 °F y 1200 °F. La resistencia a la tracción varía desde los 1300 MPa / 190 ksi con revenidos bajos hasta los 750 MPa / 109 ksi con revenidos altos, mientras que la ductilidad se incrementa progresivamente.
+
+## Aplicaciones industriales
+
+El acero 4130 se utiliza en sectores que demandan alta resistencia, soldabilidad garantizada y fiabilidad estructural. Se emplea tanto en estado normalizado como templado y revenido.
+
+| Industria | Aplicación |
+|---|---|
+| Aeroespacial | Tubos estructurales de fuselaje, trenes de aterrizaje, soportes de motor y componentes soldados sometidos a vibración. |
+| Automotriz y competición | Jaulas antivuelco, chasis de competición, ejes de transmisión, cigüeñales ligeros y volantes de inercia. |
+| Defensa | Piezas de armamento y componentes de fusilería que requieren temple superficial por carburización. |
+| Petróleo y gas | Herramientas de perforación, cuerpos de válvulas y bridas forjadas para servicio en boca de pozo. |
+| Bicicletas y motocicletas | Cuadros y tijas de alto rendimiento soldados con técnicas específicas (TIG), aprovechando su ligereza y resistencia a fatiga. |
 
 ## Comparativa con materiales similares
 
-| Característica | AISI 4130 | AISI 4140 | AISI 4340 |
-| --- | --- | --- | --- |
-| Contenido de carbono | 0,28 – 0,33 % | 0,38 – 0,43 % | 0,38 – 0,43 % |
-| Elementos clave | Cr, Mo | Cr, Mo | Ni, Cr, Mo |
-| Resistencia a la tracción (recocido) | ≈ 560 MPa | ≈ 655 MPa | ≈ 745 MPa |
-| Soldabilidad | Excelente | Buena; requiere precalentamiento | Aceptable; precalentamiento y control estricto |
-| Templabilidad | Media | Media-alta | Alta |
-| Aplicaciones típicas | Tubos estructurales, aviación, bicicletas | Engranajes pesados, ejes, pernos de alta resistencia | Componentes aeronáuticos de sección gruesa, cigüeñales forjados |
+El acero 4130 ofrece un balance óptimo entre resistencia y ductilidad, con menor contenido de carbono que otros aceros de la serie 41xx, lo que mejora su soldabilidad y tenacidad.
 
-## Preguntas frecuentes (FAQ)
-1. **¿Cuál es la resistencia a la tracción máxima que puede alcanzar el 4130?** La resistencia a la tracción máxima puede superar los 1000 MPa (145 ksi) después de un temple en aceite seguido de un revenido por debajo de 400 °C, aunque la ductilidad se reduce significativamente.
-2. **¿A qué temperatura se recomienda forjar el acero 4130?** La forja se realiza de forma óptima entre 955 °C y 1205 °C (1750 – 2200 °F), evitando trabajar por debajo de 845 °C (1550 °F) para prevenir agrietamiento.
-3. **¿Qué dureza Brinell presenta en estado recocido?** En estado recocido presenta una dureza de aproximadamente 217 HB, lo que corresponde a 228 HV o 17 HRC según conversión.
-4. **¿Cuál es el alargamiento típico después de un tratamiento de normalizado?** En condición normalizada y estirada en frío, el alargamiento sobre base de 50 mm se mantiene entre un 20 % y un 30 %.
-5. **¿Qué temperatura de precalentamiento necesita antes de soldar?** Para espesores superiores a 6 mm se aconseja un precalentamiento de 150 – 260 °C (300 – 500 °F) con el fin de minimizar el riesgo de fisuración en frío.
-6. **¿Cuál es el módulo de elasticidad promedio del 4130?** El módulo de elasticidad del 4130 se encuentra en el rango de 190 – 210 GPa (27 560 – 30 460 ksi), valor típico de los aceros al cromo‑molibdeno.
+| Material | Contenido de C (%) | Resistencia a la tracción (normalizado) | Soldabilidad | Aplicación típica |
+|---|---|---|---|---|
+| Acero 4130 | 0,28 – 0,33 | 560 – 760 MPa / 81,2 – 110 ksi | Excelente, soldable con precalentamiento y PWHT | Tubos estructurales, chasis |
+| Acero 4140 | 0,38 – 0,43 | 650 – 850 MPa / 94 – 123 ksi | Buena, requiere control térmico más estricto | Ejes, engranajes de maquinaria pesada |
+| Acero 4340 | 0,38 – 0,43 | 750 – 900 MPa / 109 – 131 ksi | Limitada, difícil de soldar por su alto contenido de níquel | Componentes aeronáuticos de alto esfuerzo, cigüeñales forjados |
+| Acero 25CrMo4 (1.7218) | 0,22 – 0,29 | 550 – 750 MPa / 80 – 109 ksi | Excelente, comportamiento muy similar al 4130 | Equivalente europeo del SAE 4130 según EN 10083 |
 
 ## Fuentes consultadas
 
 - **azom.com**: https://www.azom.com/article.aspx?ArticleID=6742
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/engineering-materials-properties-d_1225.html
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/
 - **steelnumber.com**: https://www.steelnumber.com/en/equivalent_steel_iron_eu.php?zname_id=11860

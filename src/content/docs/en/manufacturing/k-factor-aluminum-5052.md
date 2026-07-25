@@ -9,102 +9,124 @@ topic: "forming"
 subcategory: "sheet-metal-kfactor"
 skill: "process-parameters"
 launch_phase: 2
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+The K-factor, or thermal conductivity, of aluminum 5052 is a critical parameter in manufacturing applications such as heat exchangers, electronic components, and cooling systems. With a typical value of 138 W/m·K (79.7 BTU/(h·ft·°F)) at 25 °C, this aluminum-magnesium alloy combines moderate heat dissipation capability with excellent corrosion resistance and formability, making it suitable for sheet metal stamping, bending, and welding processes.
 
-## Definition and formula of the k-factor
+## Chemical Composition
 
-The k-factor in the bending of aluminum 5052 sheet metal represents the ratio between the location of the neutral axis and the material thickness. The neutral axis is the line within the cross-section of the sheet where no tension or compression occurs during bending. For this alloy, the k-factor is usually between 0.33 and 0.45 for thicknesses up to 3 mm / 0.118 in.
+The nominal composition of alloy 5052 defines its thermal and mechanical properties. The controlled magnesium and chromium content is responsible for its conductivity and corrosion resistance.
 
-The general formula of the k-factor is:
+| Element | Weight percentage |
+| --- | --- |
+| Aluminum (Al) | 97.2 % |
+| Magnesium (Mg) | 2.5 % |
+| Chromium (Cr) | 0.25 % |
+| Max. impurities (Cu, Fe, Mn, Si, Zn) | ≤ 0.85 % total |
 
-***k** = **tₙ** / **T** *
+## Thermal Properties
 
-where *tₙ* is the distance from the inner face of the bend to the neutral axis and *T* is the total material thickness. This value is essential for calculating bend allowance (*BA*) and bend deduction (*BD*) in flat pattern development.
+The thermal parameters of aluminum 5052 determine its performance in heat transfer environments and its behavior during hot manufacturing.
 
-## Properties of aluminum 5052 relevant to the k-factor
+| Property | Metric value | Imperial value |
+| --- | --- | --- |
+| Thermal conductivity (K), 25 °C | 138 W/m·K | 79.7 BTU/(h·ft·°F) |
+| Linear thermal expansion coefficient (20–100 °C) | 23.8 × 10⁻⁶ /°C | 13.2 × 10⁻⁶ /°F |
+| Specific heat | 880 J/kg·K | 0.21 BTU/lb·°F |
+| Melting temperature (solidus) | 607 °C / 1125 °F | 607 °C / 1125 °F |
 
-Aluminum 5052 alloy is a non-heat-treatable aluminum-magnesium alloy, hardenable only by cold working. The chemical composition includes 2.2% to 2.8% magnesium and 0.15% to 0.35% chromium. The k-factor is directly influenced by mechanical properties, particularly ductility and tensile strength depending on temper.
+## Thermal Conductivity (K-factor)
 
-| Property | Typical value (H32) |
-|---|---|
-| Density | 2.68 g/cm³ / 0.0968 lb/in³ |
-| Elastic modulus | 70 GPa / 10 150 ksi |
-| Tensile strength | 228 MPa / 33 000 psi |
-| Yield strength | 193 MPa / 28 000 psi |
-| Elongation | 12% |
-| Hardness (HB500) | 60 |
-| Coefficient of thermal expansion (20–100 °C) | 23.8 × 10⁻⁶ /°C / 13.2 × 10⁻⁶ /°F |
-| Thermal conductivity | 138 W/m·K / 79.7 BTU/(h·ft·°F) |
-| Melting temperature | 607 °C / 1 125 °F |
+Thermal conductivity _k_ quantifies how quickly heat flows through a material under a temperature gradient. It is defined by Fourier's law for one-dimensional steady-state conduction.
 
-## K-factor table for aluminum 5052
+> **_q = -k · A · (ΔT / L)_**
 
-The k-factor values presented correspond to aluminum 5052 in temper H32, which is the most used in sheet metal bending operations. The bend allowances are based on a 90° angle.
+| Variable | Description | Metric units | Imperial units |
+| --- | --- | --- | --- |
+| _q_ | Heat flow | W | BTU/h |
+| _k_ | K-factor (thermal conductivity) | W/m·K | BTU/(h·ft·°F) |
+| _A_ | Transfer area | m² | ft² |
+| ΔT / L | Temperature gradient | K/m | °F/ft |
 
-| Thickness (T) | Inner bend radius (R) | k-factor |
-|---|---|---|
-| 0.5 mm / 0.020 in | 1.0 mm / 0.039 in (2T) | 0.42 |
-| 1.0 mm / 0.039 in | 1.5 mm / 0.059 in (1.5T) | 0.40 |
-| 1.5 mm / 0.059 in | 2.3 mm / 0.091 in (1.5T) | 0.38 |
-| 2.0 mm / 0.079 in | 3.0 mm / 0.118 in (1.5T) | 0.37 |
-| 3.0 mm / 0.118 in | 4.5 mm / 0.177 in (1.5T) | 0.35 |
+### K Values for Aluminum 5052
 
-For temper O (annealed), the k-factor values can be up to 15% higher due to the greater ductility of the material.
+| Condition / Temper | Temperature | K (W/m·K) | K (BTU/(h·ft·°F)) |
+| --- | --- | --- | --- |
+| H38 (hardened) | 25 °C | 137 | 79.2 |
+| O (annealed) | 25 °C | 138 | 79.7 |
+| Estimated at 100 °C | 100 °C | 135 | 78.0 |
+| Estimated at 200 °C | 200 °C | 130 | 75.1 |
 
-## Factors that influence the k-factor
+Values above 25 °C are based on typical Al‑Mg alloy behavior, where conductivity decreases by approximately 0.05 W/m·K for each °C increase.
 
-The k-factor in aluminum 5052 depends on multiple process and material variables. The ratio between the inner bend radius and the thickness (R/T) is the dominant factor: the higher the R/T ratio, the greater the k-factor and the closer the neutral axis will be to the inner face of the sheet.
+## Operating Parameters
 
-The temper of the material significantly modifies the k-factor. Tempers with greater cold work (H34, H36, H38) present higher yield strengths —262 MPa / 38 000 psi for H34 and up to 290 MPa / 42 000 psi for H38— and lower elongation, which shifts the neutral axis towards the inner side of the bend and reduces the k-factor by 0.02 to 0.05 compared to temper H32.
+In continuous thermal applications, aluminum 5052 can operate from cryogenic temperatures up to approximately 150 °C (302 °F) without significant degradation of its conductivity. Prolonged exposure above 200 °C (392 °F) may induce softening due to overaging, reducing mechanical strength without drastically affecting conductivity. Typical sheet thicknesses used in heat exchangers or heat sinks range from 0.5 mm to 3.0 mm (0.020 in to 0.118 in).
 
-The rolling direction with respect to the bend line also affects the k-factor. Bending perpendicular to the rolling direction provides more consistent k-factor values and reduces the risk of cracking.
+## Typical Tolerances
 
-## Applications and common uses
+Sheet dimensional tolerances influence the effective conduction thickness and the uniformity of heat flow in assembled components. Tolerances according to ASTM B209 for alloy 5052 are indicated.
 
-Aluminum 5052 is extensively used in the manufacturing of marine components, electronic enclosures, fuel tanks, heat exchangers, and architectural parts. The precision of the k-factor is critical in the production of floor panels, electrical cabinets, and tanks for liquefied natural gas, where resistance to marine corrosion and tight dimensional tolerances are indispensable requirements.
+| Nominal thickness (mm) | Standard tolerance (mm) | Nominal thickness (in) | Tolerance (in) |
+| --- | --- | --- | --- |
+| 0.5 – 0.8 | ±0.05 | 0.020 – 0.031 | ±0.002 |
+| 0.8 – 1.5 | ±0.08 | 0.031 – 0.059 | ±0.003 |
+| 1.5 – 3.0 | ±0.10 | 0.059 – 0.118 | ±0.004 |
 
-In the naval industry, the correct calculation of flat pattern development using the k-factor avoids material waste in large-format sheets. For aerospace and automotive applications, control of the k-factor ensures precise fit between assembled parts manufactured with thicknesses from 0.5 mm / 0.020 in to 3.0 mm / 0.118 in.
+Local thickness variations can alter the calculated heat flow by less than 2 % for thicknesses above 1.0 mm (0.039 in), assuming uniform contact.
 
-## Advantages and limitations of the k-factor in aluminum 5052
+## Advantages
 
-**Advantages:**
-- The k-factor of aluminum 5052 in temper H32 is highly repeatable for serial production as long as the inner bend radius is controlled.
-- The excellent corrosion resistance reduces dimensional variations due to surface degradation, keeping the k-factor stable during the service life of the part.
-- The moderate elongation of 12% allows tight bend radii (up to 1.5T) without cracking.
+- **Stable conductivity**: the K-factor remains between 135 and 138 W/m·K (78.0–79.7 BTU/(h·ft·°F)) over the common operating range.
+- **Excellent marine and saline corrosion resistance**, ideal for heat exchangers exposed to seawater.
+- **Good weldability** (TIG, MIG) and cold formability, facilitating the fabrication of complex geometries.
+- **No post-weld heat treatment** required to recover conductivity.
+- **High surface reflectivity** when polished, reducing radiant heat absorption.
 
-**Limitations:**
-- In hard tempers (H36, H38) the limited ductility increases the risk of cracks and reduces the parameter window for a reliable k-factor.
-- The variability of the k-factor between material lots can reach ±0.03, so experimental validation is recommended for critical tolerances less than 0.25 mm / 0.010 in.
-- Bending parallel to the rolling direction can cause inconsistent k-factors and cracking in radii smaller than 2T.
+## Limitations
+
+- **Not precipitation hardenable**; the only hardening method is cold working, which can slightly reduce ductility.
+- **Lower conductivity than 1xxx series alloys** (pure aluminum, k ≈ 220 W/m·K), so it is not optimal for applications requiring maximum dissipation.
+- **High-temperature service limit** around 200 °C (392 °F), ruling it out for exhaust or turbine components.
+- **The presence of magnesium** can cause stress corrosion sensitivity in aggressive environments if design is not controlled.
+
+## Selection Guide
+
+To choose the thickness and temper of aluminum 5052 based on thermal and mechanical requirements, the following flow is recommended:
+
+1. **Determine the required heat flow (Q)** through thermal analysis.
+2. **Calculate the area and thickness** using Fourier's law, with k = 138 W/m·K (79.7 BTU/(h·ft·°F)) as a starting point.
+3. **Select the temper**:
+   - H32 or H34 for components with some mechanical responsibility and gentle bends.
+   - H38 for rigid plates with maximum tensile strength (290 MPa / 42 ksi).
+   - O (annealed) when deep drawing or severe forming is required and structural strength is not critical.
+4. **Verify compatibility** with fluids or corrosive environments; 5052 is suitable for most industrial and marine atmospheres.
+5. **Adjust thickness for tolerances** using the tolerance table to ensure variation does not compromise the thermal gradient.
+
+A rule of thumb for thin sheet (≤ 1 mm) in heat exchangers: prioritize H32; for structural heat sinks with stamped fins, H38 offers better thermal fatigue behavior.
 
 ## Frequently Asked Questions (FAQ)
 
-### What is the typical k-factor for aluminum 5052 H32 of 1.5 mm thickness?
+### What is the difference between the bending K-factor and the thermal K-factor in aluminum 5052?
+The bending K-factor (sheet metal) is the ratio between the neutral axis position and thickness during forming, typically between 0.33 and 0.45 for 5052. The thermal K-factor treated here is the thermal conductivity (138 W/m·K), a physical property of the material.
 
-The typical k-factor for aluminum 5052 H32 of 1.5 mm / 0.059 in thickness with a bend radius of 2.3 mm / 0.091 in (1.5T) is 0.38, a value validated for 90° bends with standard V-die tooling.
+### How does work hardening affect the thermal conductivity of 5052?
+The effect is minimal. The conductivity of 5052-H38 (137 W/m·K) is only 1 % lower than that of annealed O (138 W/m·K). The crystal lattice is hardly distorted to a level that significantly modifies the mean free path of electrons.
 
-### How does temper H34 affect the k-factor compared to H32?
+### Can 5052 be used in contact with food or drinking water?
+Yes, alloy 5052 meets specifications for incidental food contact according to various international standards, although for prolonged applications evaluating the coating is recommended. Its corrosion resistance in fresh water is very good.
 
-Temper H34 increases the yield strength to 214 MPa / 31 000 psi compared to 193 MPa / 28 000 psi for H32, which reduces the k-factor by approximately 0.02 units and requires a minimum bend radius of 1.5T to avoid cracks.
+### What is the conductivity difference between 5052 and pure aluminum 1100?
+Aluminum 1100 has a conductivity of approximately 220 W/m·K (127 BTU/(h·ft·°F)), 59 % higher than the 138 W/m·K of 5052. The advantage of 5052 is its superior mechanical strength and better weldability.
 
-### What is the minimum recommended bend radius for aluminum 5052-O?
+### Does anodizing affect the surface thermal conductivity of 5052?
+The anodic layer (Al₂O₃) is a thermal insulator. A thickness of 10 µm can reduce surface transfer by less than 5 % for sheet thicknesses above 1 mm. In heat sinks, it is recommended to mask contact areas or use very thin anodizing.
 
-The minimum recommended bend radius for aluminum 5052-O (annealed) is 1T, i.e., equal to the material thickness, and a k-factor of up to 0.45 can be achieved under these conditions.
+### What minimum thickness is recommended for heat exchangers with 5052?
+The practical minimum thickness is 0.25 mm (0.010 in) in H32 temper. Below this value, stiffness is insufficient for handling and punching may cause excessive deformation. Industrially, 0.4–0.6 mm (0.016–0.024 in) is the most common range.
 
-### What elongation does aluminum 5052 H32 have and how does it affect the k-factor?
+## Sources Consulted
 
-The elongation of aluminum 5052 H32 is 12%, a moderate value that allows stable k-factors between 0.35 and 0.42 for R/T ratios between 1.5 and 2.0 in 90° bending.
-
-### What is the melting temperature of aluminum 5052?
-
-The melting temperature of aluminum 5052 is 607 °C / 1 125 °F, so at room temperature all mechanical properties that determine the k-factor in cold forming operations are maintained intact.
-
-### What thicknesses of aluminum 5052 are recommended for a reliable k-factor calculation?
-
-Thicknesses between 0.5 mm / 0.020 in and 3.0 mm / 0.118 in are recommended for a reliable k-factor calculation; outside this range, the variability of the neutral axis can exceed ±0.05 and experimental compensations are required.
-
-## References
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/thermal-conductivity-metals-d_858.html
 - **efunda.com**: https://www.efunda.com/materials/alloys/aluminum/show_aluminum.cfm?ID=AA_5052&show_prop=all&Page_Title=AA%205052

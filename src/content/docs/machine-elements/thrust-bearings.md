@@ -9,99 +9,105 @@ topic: "bearings"
 subcategory: "thrust-bearings"
 skill: "machine-element-reference-table"
 launch_phase: 6
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
-
-Los rodamientos de empuje son elementos rotativos diseñados para soportar cargas predominantemente axiales, con capacidades que abarcan desde unos pocos newtons hasta más de 500 kN (56,2 toneladas-fuerza) en aplicaciones industriales pesadas.
-
-El rodamiento de empuje es un tipo particular de rodamiento que, a diferencia de los radiales, está optimizado para transferir fuerzas paralelas al eje de rotación. Su principio de funcionamiento se basa en elementos rodantes (bolas, rodillos cilíndricos, cónicos o esféricos) interpuestos entre dos arandelas o discos, o bien en películas de fluido a presión que eliminan el contacto metálico. La selección del tipo adecuado depende de la magnitud de la carga axial, la velocidad de giro, la presencia de cargas radiales combinadas y la precisión de alineación requerida.
+Los rodamientos de empuje son elementos rotativos diseñados para soportar cargas predominantemente axiales, es decir, fuerzas que actúan a lo largo del eje de rotación. A diferencia de los rodamientos radiales, que resisten principalmente cargas perpendiculares al eje, los de empuje gestionan fuerzas de hasta varios miles de kN en aplicaciones como cajas de cambios, turbinas o hélices marinas.
 
 ## Tipos de rodamientos de empuje
-La clasificación fundamental de los rodamientos de empuje se resume en la siguiente tabla.
 
-| Tipo | Descripción | Características | Aplicaciones típicas |
-| --- | --- | --- | --- |
-| Bolas de empuje | Arandelas con caminos de rodadura y jaula de bolas. Aptos para cargas axiales puras en un solo sentido. | Bajo rozamiento, silenciosos, aptos para altas velocidades (hasta 10 000 rpm en tamaños pequeños). Capacidad de carga moderada. | Ejes de dirección, husillos de avance, acoplamientos, bombas pequeñas. |
-| Rodillos cilíndricos de empuje | Rodillos cortos dispuestos radialmente con sus ejes apuntando al centro. | Muy buena capacidad de carga, bajo costo, pero generan fricción diferencial y desgaste. Velocidades medias. | Cabrestantes, platos giratorios, equipos de elevación, reductores. |
-| Rodillos cónicos de empuje | Rodillos troncocónicos cuyos vértices coinciden en el eje del rodamiento. Soportan cargas combinadas. | Capacidad de carga axial superior a las bolas; montaje por pares para absorber empuje en ambos sentidos. Mayor costo de fabricación. | Cajas de cambios automotrices, diferenciales, husillos de máquinas herramienta, ruedas de vehículos. |
-| Rodillos esféricos de empuje | Rodillos asimétricos de forma esférica que ruedan sobre un camino de rodadura esférico en la arandela de alojamiento. | Autoalineables, admiten desalineaciones angulares y cargas radiales combinadas. Máxima densidad de carga de todos los rodamientos de empuje. | Ejes de turbinas hidráulicas, soportes de hornos rotativos, propulsores marinos. |
-| Hidrodinámicos / hidrostáticos (fluido) | La carga axial se soporta sobre una película presurizada de aceite entre patines basculantes (tipo Kingsbury/Michell). | Prácticamente nulo desgaste, fricción despreciable, capacidades de carga enormes (>10 000 kN / 1124 toneladas-fuerza). Velocidades muy altas. | Turbogeneradores, bombas principales de refrigeración, compresores centrífugos, hélices marinas de gran potencia. |
-| Magnéticos | La fuerza axial se contrarresta mediante campos electromagnéticos activos. | Sin contacto mecánico, velocidades extremas (hasta 200 000 rpm), fricción cero, requieren sistemas de control y alimentación eléctrica. | Centrifugadoras ultrarrápidas, volantes de inercia, soplantes de alta velocidad. |
+Existen más de seis tipos constructivos normalizados, cada uno con un compromiso único entre capacidad de carga, velocidad y costo. La elección correcta depende de la magnitud de la fuerza axial, la velocidad de giro y la presencia de cargas radiales combinadas.
 
-## Capacidades de carga y velocidades
-Los valores orientativos de carga axial dinámica y velocidades límite para rodamientos de empuje normalizados varían según el tipo y tamaño. La tabla siguiente muestra rangos típicos para rodamientos de diámetro interior entre 20 mm / 0,79 in y 200 mm / 7,87 in.
+| Tipo | Elemento rodante | Capacidad de carga axial máxima (indicativa) | Velocidad límite | Carga radial admisible | Aplicaciones típicas |
+| --- | --- | --- | --- | --- | --- |
+| Bolas de empuje | Bolas de acero | Baja a media (~50 kN / 11 240 lbf) | Alta | No | Electrodomésticos, volantes |
+| Rodillos cilíndricos de empuje | Rodillos cilíndricos | Media (~500 kN / 112 400 lbf) | Media | No | Bombas de engranajes, extrusoras |
+| Rodillos cónicos de empuje | Rodillos troncocónicos | Alta (~2000 kN / 449 600 lbf) | Media | Sí (combinada) | Transmisiones automotrices, diferenciales |
+| Rodillos esféricos de empuje | Rodillos asimétricos esféricos | Muy alta (~5000 kN / 1 124 000 lbf) | Baja a media | Sí (autocompensador) | Turbinas hidroeléctricas, laminadores |
+| Cojinetes de fluido (Michell/Kingsbury) | Película de aceite presurizada | Extremadamente alta (>10 000 kN / 2 248 000 lbf) | Alta | No (solo axial) | Grandes turbogeneradores, hélices marinas |
+| Magnéticos | Campo magnético | Variable (según diseño) | Muy alta | Limitada | Ultracentrifugadoras, sistemas de vacío |
 
-| Tipo | Carga axial dinámica máx. aprox. (kN) | Carga axial estática máx. aprox. (kN) | Velocidad límite con lubricación (rpm) |
-| --- | --- | --- | --- |
-| Bolas de empuje | 10 – 450 kN / 1,1 – 50,6 tf | 20 – 800 kN / 2,2 – 90 tf | 800 – 10 000 rpm |
-| Rodillos cilíndricos de empuje | 30 – 1 200 kN / 3,4 – 135 tf | 50 – 2 500 kN / 5,6 – 281 tf | 400 – 4 500 rpm |
-| Rodillos cónicos de empuje | 50 – 2 000 kN / 5,6 – 225 tf | 80 – 4 000 kN / 9,0 – 450 tf | 600 – 6 000 rpm |
-| Rodillos esféricos de empuje | 80 – 3 500 kN / 9,0 – 394 tf | 150 – 7 000 kN / 16,9 – 787 tf | 300 – 3 000 rpm |
-| Hidrodinámicos (fluido) | > 500 kN / 56,2 tf (típico 1 000 – 10 000 kN / 112 – 1124 tf) | > 800 kN / 90 tf (depende del área del patín) | Sin límite térmico definido, típico 100 – 15 000 rpm |
+## Capacidad de carga
 
-Nota: tf = tonelada-fuerza (1 tf ≈ 9,81 kN). Las velocidades están referidas a lubricación con grasa o aceite mineral estándar.
+La capacidad de carga estática \(C_0\) de un rodamiento de empuje estándar de bolas con diámetro interior de 30 mm / 1.18 in puede alcanzar 18 kN / 4 046 lbf. En el caso de los rodamientos de rodillos esféricos, la capacidad dinámica \(C\) para un diámetro de 100 mm / 3.94 in supera los 600 kN / 134 885 lbf. La carga equivalente dinámica cuando actúa únicamente fuerza axial pura se calcula con:
+
+> **\(P = F_a\)** (para rodamientos con \(F_r \approx 0\))
+
+Donde:
+
+| Variable | Significado | Unidad |
+| --- | --- | --- |
+| \(P\) | Carga dinámica equivalente | kN |
+| \(F_a\) | Carga axial aplicada | kN |
+
+Para rodamientos de empuje que también puedan absorber algo de radial, el factor de cálculo se ajusta según el fabricante, pero en general la carga axial permanece como el término dominante.
 
 ## Dimensiones normalizadas
-Los diámetros de agujero y exteriores de los rodamientos de empuje de bolas y rodillos se ajustan principalmente a las series dimensionales de las normas ISO 104 y DIN 711. La tabla siguiente recoge dimensiones típicas de rodamientos de empuje de bolas de simple efecto, serie ligera, ampliamente utilizados como referencia.
 
-| Diámetro interior (mm / in) | Diámetro exterior (mm / in) | Altura (mm / in) |
-| --- | --- | --- |
-| 10 mm / 0,394 in | 24 mm / 0,945 in | 9 mm / 0,354 in |
-| 15 mm / 0,591 in | 28 mm / 1,102 in | 9 mm / 0,354 in |
-| 20 mm / 0,787 in | 35 mm / 1,378 in | 10 mm / 0,394 in |
-| 30 mm / 1,181 in | 52 mm / 2,047 in | 16 mm / 0,630 in |
-| 40 mm / 1,575 in | 60 mm / 2,362 in | 13 mm / 0,512 in |
-| 50 mm / 1,969 in | 78 mm / 3,071 in | 22 mm / 0,866 in |
-| 70 mm / 2,756 in | 95 mm / 3,740 in | 18 mm / 0,709 in |
-| 100 mm / 3,937 in | 140 mm / 5,512 in | 31 mm / 1,220 in |
-| 150 mm / 5,906 in | 215 mm / 8,465 in | 50 mm / 1,969 in |
-| 200 mm / 7,874 in | 280 mm / 11,024 in | 60 mm / 2,362 in |
+Los rodamientos de empuje siguen series dimensionales internacionales (ISO 104, DIN 711/715). A continuación se muestran dimensiones típicas para la serie de bolas de empuje unidireccional y rodillos cilíndricos, con diámetro interior \(d\) y exterior \(D\) en mm e in, y altura \(H\) en mm e in.
 
-Existen además series media y pesada que incrementan la capacidad de carga y la altura. Para rodamientos de rodillos, las dimensiones se rigen por la misma lógica de normalización, con diámetros exteriores mayores para una misma luz interior.
+| Serie | \(d\) (mm / in) | \(D\) (mm / in) | \(H\) (mm / in) |
+| --- | --- | --- | --- |
+| Bolas 51100 | 10 / 0.394 | 24 / 0.945 | 9 / 0.354 |
+| Bolas 51200 | 15 / 0.591 | 32 / 1.260 | 12 / 0.472 |
+| Bolas 51300 | 25 / 0.984 | 52 / 2.047 | 18 / 0.709 |
+| Rodillos cilíndricos 81100 | 30 / 1.181 | 47 / 1.850 | 11 / 0.433 |
+| Rodillos cilíndricos 81200 | 40 / 1.575 | 68 / 2.677 | 19 / 0.748 |
+| Rodillos esféricos 29200 | 60 / 2.362 | 85 / 3.346 | 17 / 0.669 |
+
+Los valores métricos están redondeados según la designación ISO; la conversión imperial se ofrece con tres decimales como referencia.
 
 ## Criterios de selección
-La elección del rodamiento de empuje correcto se basa en los siguientes parámetros:
 
-1. **Magnitud de la carga axial**: Determine la carga dinámica equivalente P y compárela con la capacidad C del rodamiento. Para cargas puramente axiales con baja solicitación, bastan bolas de empuje. Para cargas altas, se prefieren rodillos.
-2. **Cargas combinadas**: Si existe un 10 % o más de carga radial adicional a la axial, deben usarse rodamientos de rodillos cónicos o esféricos que soporten ambos tipos de esfuerzo.
-3. **Velocidad de giro**: Las bolas de empuje permiten las rpm más elevadas. A velocidades muy altas (> 5 000 rpm) en aplicaciones continuas, los rodamientos de fluido son superiores.
-4. **Alineación y deflexiones del eje**: Si se anticipan desalineaciones angulares superiores a 0,5°, el rodamiento esférico de empuje es la única opción entre los de contacto rodante. Los hidrodinámicos también toleran cierta desalineación.
-5. **Sentido de la carga**: Para cargas axiales en ambos sentidos, se requieren rodamientos de empuje dobles, pares de rodamientos cónicos montados en oposición, o sistemas con dos bolas de simple efecto enfrentadas.
-6. **Condiciones de lubricación y entorno**: Temperaturas altas (> 150 °C / 302 °F) o ambiente agresivo orientan hacia materiales especiales o rodamientos de fluido con sistemas externos de refrigeración.
+La selección de un rodamiento de empuje se apoya en cinco criterios principales:
+
+1. **Magnitud y naturaleza de la carga**: cargas puramente axiales pequeñas admiten bolas; cargas elevadas o de impacto requieren rodillos esféricos o cojinetes de fluido.
+2. **Velocidad de giro**: las bolas y los cojinetes magnéticos soportan velocidades muy altas; los rodillos esféricos quedan limitados a bajas rpm.
+3. **Presencia de carga radial**: si existe carga radial combinada, deben emplearse rodamientos cónicos o esféricos de empuje.
+4. **Condiciones de lubricación y ambiente**: temperaturas superiores a 120 °C / 248 °F o ambientes contaminados exigen sellos especiales y lubricantes de alta temperatura.
+5. **Requisitos de precisión y rigidez**: aplicaciones de ultra precisión (máquinas-herramienta) optan por rodamientos de bolas de alta precisión, mientras que aplicaciones navales se decantan por el cojinete Michell por su fiabilidad y baja fricción.
+
+## Tabla de selección por aplicación
+
+| Aplicación | Tipo de rodamiento de empuje recomendado | Carga axial típica | Velocidad de rotación habitual | Observaciones |
+| --- | --- | --- | --- | --- |
+| Transmisión automotriz | Rodillos cónicos | 5–20 kN / 1 124–4 496 lbf por par | 2 000–5 000 rpm | Montaje en pares simétricos (O o X) |
+| Hélice marina | Cojinete de fluido (Michell) | 500–10 000 kN / 112 404–2 248 080 lbf | <1 000 rpm | Película de aceite continua, larga vida |
+| Bomba centrífuga vertical | Rodillos esféricos de empuje | 50–500 kN / 11 240–112 404 lbf | 1 500–3 600 rpm | Soporta desalineación del eje |
+| Electrodoméstico (lavadora) | Bolas de empuje unidireccional | 2–8 kN / 450–1 800 lbf | 800–1 500 rpm | Costo reducido, sin carga radial |
+| Turbina de vapor/gas | Cojinete de fluido (Kingsbury) | 1 000–20 000 kN / 224 808–4 496 160 lbf | 3 000–6 000 rpm | Capacidad muy alta, temperatura controlada por aceite |
+| Compresor de tornillo | Rodillos cilíndricos de empuje | 20–200 kN / 4 496–44 962 lbf | 3 000–10 000 rpm | Carga pura axial, montaje sencillo |
+| Husillo de máquina-herramienta | Bolas de empuje de precisión | 5–50 kN / 1 124–11 240 lbf | 6 000–15 000 rpm | Precisión micrométrica, precarga ajustable |
 
 ## Consideraciones de montaje
-- Los rodamientos de empuje de simple efecto deben montarse con la arandela ajustada al eje y la otra al alojamiento, prestando atención a la marca que indica la cara de asiento. Nunca deben invertirse porque dejarían de soportar la carga.
-- Es imprescindible mantener un juego axial de funcionamiento según las especificaciones del fabricante; un ajuste demasiado apretado provoca sobrecalentamiento, mientras que un juego excesivo genera vibraciones.
-- En montajes con rodamientos cónicos, el apriete se ajusta mediante tuercas, controlando el par de giro con llave dinamométrica para conseguir la precarga correcta.
-- Los patines basculantes de los rodamientos hidrodinámicos requieren un asentamiento inicial a baja carga para distribuir uniformemente la película de aceite; la holgura de trabajo se mide con comparadores micrométricos.
-- La lubricación debe ser adecuada al tipo: grasa para rodamientos de bolas en aplicaciones de baja y media velocidad; aceite por baño o circulación para rodillos pesados; sistemas a presión para cojinetes de fluido.
-- Las superficies de los asientos en eje y carcasa deben rectificarse con tolerancias IT5-IT6 y rugosidad máxima de 0,8 µm / 31,5 µin para asegurar un reparto uniforme de la carga.
 
-## Selección por aplicación
+El montaje correcto de un rodamiento de empuje influye directamente en su vida útil. Para un rodamiento de bolas unidireccional con una carga nominal de 30 kN / 6 744 lbf, un desalineamiento angular de tan solo 0.1° puede reducir la duración en un 40%.
 
-| Aplicación | Tipo de rodamiento de empuje recomendado | Justificación |
-| --- | --- | --- |
-| Caja de cambios manual automotriz | Rodillos cónicos de empuje (pares) | Soporta el empuje generado por los engranajes helicoidales en ambos sentidos y cargas radiales del eje secundario. |
-| Eje porta‑hélices de remolcador | Rodillos esféricos de empuje o patines hidrodinámicos | Elevada carga axial continua, posibles desalineaciones por flexión del casco y altísima fiabilidad requerida. |
-| Bomba centrífuga vertical | Bolas de empuje (doble efecto) o hidrodinámico | Carga axial moderada/alta según tamaño; las bolas ofrecen bajo rozamiento y los patines hidrodinámicos manejan cargas mayores con mínimo desgaste. |
-| Turbina de vapor de central eléctrica | Hidrodinámico (Kingsbury) | Carga axial muy elevada (> 10 000 kN / 1124 tf) y velocidades de 3000‑3600 rpm; el cojinete de fluido soporta estas condiciones sin desgaste mecánico. |
-| Centrífuga de laboratorio de ultracentrifugación | Magnético | Velocidades por encima de 100 000 rpm, entorno limpio y necesidad de fricción nula para precisión analítica. |
-| Horno rotatorio de cemento | Rodillos esféricos de empuje | Grandes cargas axiales y radiales combinadas, desalineaciones debidas a dilatación térmica y baja velocidad (5‑20 rpm). |
+- **Superficie de apoyo**: el alojamiento y el eje deben tener tolerancias H7 (alojamiento) y js6 (eje) para asegurar un ajuste preciso. La rugosidad superficial recomendada es Ra ≤ 0.8 µm / 31.5 µin.
+- **Precarga y ajuste axial**: los rodamientos de bolas de empuje requieren una ligera precarga axial para eliminar el juego interno; se logra mediante muelle ondulado o tuerca de fijación con par de apriete controlado.
+- **Lubricación inicial**: aplicar grasa de litio de buena calidad rellenando un 30 % del espacio libre; en cojinetes de fluido, asegurar el suministro de aceite a presión antes del arranque.
+- **Sentido de la carga**: respetar la dirección de la fuerza (unidireccional o bidireccional); nunca invertir la orientación de la pista fija en rodamientos de bolas sin consultar el diseño.
+- **Protección**: instalar sellos labiales o deflectores si existe riesgo de ingreso de partículas. En ambientes marítimos, considerar acero inoxidable AISI 440C con dureza 58–60 HRC para evitar corrosión.
 
 ## Preguntas frecuentes (FAQ)
-- **¿Cuál es la capacidad de carga de un rodamiento de bolas de empuje típico de 50 mm de diámetro interior?**  
-  Un rodamiento de bolas de empuje de 50 mm / 1,969 in de diámetro interior tiene una capacidad de carga dinámica axial en torno a 35 kN / 3,9 tf según la serie dimensional ligera, suficiente para aplicaciones como husillos de máquina herramienta.
-- **¿Hasta qué velocidad puede girar un rodamiento de rodillos cilíndricos de empuje?**  
-  En tamaños medianos (60‑100 mm / 2,36‑3,94 in de diámetro interior) la velocidad límite con lubricación por aceite se sitúa entre 2 500 y 4 500 rpm, dependiendo de la jaula y del sistema de refrigeración.
-- **¿Qué tipo de rodamiento de empuje soporta mejor la desalineación angular?**  
-  Los rodamientos esféricos de empuje pueden compensar desalineaciones de hasta 2° o 3°, lo que equivale a un desplazamiento angular de 35 mm / 1,38 in por metro de eje, mientras que los de bolas apenas toleran 0,5°.
-- **¿Cómo se monta correctamente un rodamiento de empuje de simple efecto?**  
-  Se debe identificar la arandela de eje (con ajuste sobre el eje) y la arandela de alojamiento, y montarlas sin invertirlas; el juego axial inicial recomendado suele ser de 0,08 mm a 0,15 mm / 0,003 in a 0,006 in para alojar la dilatación térmica.
-- **¿Por qué los rodamientos hidrodinámicos no tienen límite de velocidad práctico?**  
-  La película de aceite se autorregula con la velocidad; en lugar de un límite absoluto, su máxima rpm está condicionada por la temperatura del aceite, que típicamente no debe superar 100 °C / 212 °F en el flujo de retorno.
-- **¿Qué norma rige las dimensiones normalizadas de los rodamientos de empuje?**  
-  Las series dimensionales vienen definidas en la norma ISO 104 y en la DIN 711, que para un diámetro interior de 30 mm / 1,181 in fijan, por ejemplo, un diámetro exterior de 52 mm / 2,047 in y una altura de 16 mm / 0,630 in en la serie ligera.
+
+### ¿Cuál es la diferencia entre un rodamiento radial y uno de empuje?
+Un rodamiento radial soporta cargas perpendiculares al eje (radiales), mientras que uno de empuje está diseñado para cargas paralelas al eje (axiales). Muchos rodamientos cónicos combinan ambas funciones.
+
+### ¿Qué tipo de rodamiento de empuje soporta carga radial y axial combinadas?
+Los rodamientos de rodillos cónicos de empuje y los de rodillos esféricos de empuje pueden manejar simultáneamente carga radial y axial. Su diseño permite un ángulo de contacto que equilibra ambos esfuerzos.
+
+### ¿Cuándo se debe elegir un cojinete de fluido en lugar de un rodamiento de elementos rodantes?
+Cuando la carga axial supera aproximadamente 5 000 kN / 1 124 000 lbf o la velocidad es extremadamente elevada (>40 m/s / 7 874 fpm en el diámetro medio), los cojinetes de fluido ofrecen menor fricción, mayor capacidad y ausencia de desgaste metálico.
+
+### ¿Cómo se determina la capacidad de carga mínima requerida para un rodamiento de empuje?
+A partir del análisis de fuerzas del eje, se obtiene la carga axial estática y dinámica. La capacidad dinámica \(C\) seleccionada debe cumplir \(C \ge P \cdot (L_{10} / 10^6)^{1/p}\), donde \(L_{10}\) es la duración deseada en revoluciones y \(p\) el exponente (3 para bolas, 10/3 para rodillos).
+
+### ¿Requiere mantenimiento un rodamiento de empuje de bolas?
+Sí, requiere relubricación periódica cada 500–2 000 horas de funcionamiento según la velocidad y temperatura. También conviene inspeccionar visualmente las pistas cada 4 000 horas para detectar picaduras o decoloración.
+
+### ¿Cuál es la temperatura máxima de trabajo de un rodamiento de empuje estándar?
+Los rodamientos de acero al cromo (AISI 52100) estabilizados térmicamente pueden operar hasta 150 °C / 302 °F de forma continua. Para temperaturas superiores (hasta 300 °C / 572 °F), se emplean aceros especiales como el M50 o recubrimientos cerámicos.
 
 ## Fuentes consultadas
 

@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Descripción del proceso
 El proceso SMAW (Shielded Metal Arc Welding) emplea un electrodo consumible revestido de entre 1,6 mm y 6,4 mm (1/16 in y 1/4 in) de diámetro, cuyo arco eléctrico genera temperaturas de fusión superiores a **1500 °C / 2732 °F**. El revestimiento del electrodo se descompone formando una atmósfera protectora de gases y una capa de escoria que aísla el baño de fusión. La intensidad de corriente típica varía desde 40 A hasta 400 A en función del diámetro y tipo de electrodo, trabajando habitualmente con corriente continua de electrodo positivo (DCEP) o corriente alterna (AC).
 
 ## Parámetros de operación

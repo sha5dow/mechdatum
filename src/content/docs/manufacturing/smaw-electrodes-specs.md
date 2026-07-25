@@ -9,125 +9,111 @@ topic: "welding"
 subcategory: "filler-metals-smaw-electrodes"
 skill: "process-data-comparison"
 launch_phase: 5
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+Los electrodos SMAW (Shielded Metal Arc Welding) son varillas consumibles recubiertas de fundente que, al fundirse, generan un arco eléctrico para unir metales. Su clasificación AWS (ej. E6010, E7018) define propiedades mecánicas, tipo de corriente, posición de soldeo y composición del recubrimiento. Son la base de la soldadura manual y se seleccionan según el material base, la posición y los requerimientos de resistencia.
 
-Los electrodos para soldadura por arco metálico protegido (SMAW, por sus siglas en inglés) consisten en un núcleo metálico sólido recubierto con una mezcla de minerales, compuestos orgánicos y ligantes que forman el revestimiento flux. Durante la operación, el arco funde simultáneamente el electrodo y el material base, generando un baño de fusión protegido por gases y una escoria que evitan la contaminación atmosférica. La clasificación AWS (American Welding Society) identifica las características mecánicas, la composición química y las condiciones operativas de cada electrodo. En esta guía se analizan cuatro tipos representativos: E6010, E6013 (aceros al carbono), E7018 (bajo hidrógeno) y E308L (acero inoxidable austenítico). Sus propiedades los convierten en opciones ampliamente utilizadas en fabricación, mantenimiento y construcción de tuberías.
+## Especificaciones técnicas de electrodos comunes
 
-## Parámetros operativos
-Cada electrodo posee un rango de corriente recomendado en función de su diámetro y del tipo de revestimiento. La siguiente tabla reúne los parámetros operativos típicos para las posiciones de soldadura plana, horizontal, vertical y sobrecabeza, aplicando corriente continua (CC) o corriente alterna (CA) según el caso.
+Los electrodos E6010, E6013, E7018 y E308L presentan diferencias significativas en resistencia a la tracción, tipo de fundente y aplicabilidad. La tabla 1 resume sus propiedades principales según la norma AWS A5.1/A5.4.
 
-| Clasificación AWS | Diámetro (mm / in) | Corriente recomendada (A) | Tipo de corriente y polaridad | Posiciones |
-| :--- | :--- | :--- | :--- | :--- |
-| E6010 | 2,4 / 3/32" | 55 – 100 | CC+ (electrodo positivo) | Todas |
-| E6010 | 3,2 / 1/8" | 80 – 140 | CC+ (electrodo positivo) | Todas |
-| E6010 | 4,0 / 5/32" | 100 – 180 | CC+ (electrodo positivo) | Todas |
-| E6010 | 4,8 / 3/16" | 140 – 220 | CC+ (electrodo positivo) | Todas |
-| E6013 | 2,4 / 3/32" | 50 – 100 | CA o CC± | Todas |
-| E6013 | 3,2 / 1/8" | 80 – 130 | CA o CC± | Todas |
-| E6013 | 4,0 / 5/32" | 110 – 180 | CA o CC± | Todas |
-| E6013 | 4,8 / 3/16" | 150 – 230 | CA o CC± | Todas |
-| E7018 | 2,4 / 3/32" | 65 – 110 | CA o CC+ | Todas |
-| E7018 | 3,2 / 1/8" | 90 – 150 | CA o CC+ | Todas |
-| E7018 | 4,0 / 5/32" | 120 – 190 | CA o CC+ | Todas |
-| E7018 | 4,8 / 3/16" | 160 – 250 | CA o CC+ | Todas |
-| E308L | 2,4 / 3/32" | 55 – 100 | CC+ | Todas |
-| E308L | 3,2 / 1/8" | 80 – 140 | CC+ | Todas |
-| E308L | 4,0 / 5/32" | 110 – 180 | CC+ | Todas |
-| E308L | 4,8 / 3/16" | 150 – 220 | CC+ | Todas |
+| Electrodo | Resistencia a la tracción (MPa / ksi) | Límite elástico (MPa / ksi) | Alargamiento (%) | Tipo de revestimiento | Corriente y polaridad |
+|-----------|--------------------------------------|-----------------------------|------------------|------------------------|------------------------|
+| E6010 | 414 MPa / 60 ksi | 331 MPa / 48 ksi | 22% min. | Celulósico sódico | DC+ (electrodo positivo) |
+| E6013 | 414 MPa / 60 ksi | 345 MPa / 50 ksi | 17% min. | Rutílico potásico | AC o DC± |
+| E7018 | 482 MPa / 70 ksi | 393 MPa / 57 ksi | 22% min. | Bajo hidrógeno, polvo de hierro | AC o DC+ |
+| E308L | 517 MPa / 75 ksi | 414 MPa / 60 ksi | 35% min. | Bajo carbono, calizo-rutílico | DC+ (preferente) |
 
-La tensión del arco varía entre 18 V y 26 V para electrodos de 2,4 mm y entre 22 V y 32 V para diámetros mayores. Los electrodos de bajo hidrógeno (E7018) requieren un almacenamiento en horno a 150‑200 °C / 300‑400 °F para evitar la absorción de humedad, mientras que los electrodos celulósicos (E6010) se utilizan sin resecado y se consumen preferiblemente en la jornada de trabajo tras abrir el empaque hermético.
+## Parámetros operativos por material y diámetro
 
-## Tolerancias y especificaciones
-Los electrodos SMAW se fabrican bajo las normas AWS A5.1 (aceros al carbono) y AWS A5.4 (aceros inoxidables). Las tolerancias dimensionales controlan tanto el diámetro del núcleo como la excentricidad del revestimiento. El diámetro del núcleo se mantiene dentro de ±0,05 mm / ±0.002 in respecto al valor nominal, la longitud total del electrodo presenta una tolerancia de ±3 mm / ±0.12 in y la excentricidad máxima admisible del revestimiento es de 0,08 mm / 0.003 in para diámetros hasta 3,2 mm / 1/8" y de 0,15 mm / 0.006 in para diámetros mayores.
+Cada electrodo opera en rangos de amperaje definidos por su diámetro y composición. La tabla 2 muestra los parámetros recomendados para aceros al carbono e inoxidables en posición plana.
 
-### Propiedades mecánicas mínimas (según AWS)
+| Electrodo | Diámetro (mm / in) | Amperaje (A) | Voltaje de arco (V) | Tasa de deposición (kg/h / lb/h) | Espesor de escoria (mm / in) |
+|-----------|---------------------|--------------|-----------------------|-----------------------------------|------------------------------|
+| E6010 | 2,5 mm / 3/32 in | 50–80 A | 22–28 V | 0,9 kg/h / 2,0 lb/h | 0,8 mm / 0.03 in |
+| E6010 | 3,2 mm / 1/8 in | 70–130 A | 24–30 V | 1,2 kg/h / 2,6 lb/h | 0,8 mm / 0.03 in |
+| E6013 | 2,5 mm / 3/32 in | 60–100 A | 20–26 V | 1,1 kg/h / 2,4 lb/h | 1,2 mm / 0.05 in |
+| E6013 | 3,2 mm / 1/8 in | 90–150 A | 22–28 V | 1,4 kg/h / 3,1 lb/h | 1,2 mm / 0.05 in |
+| E7018 | 2,5 mm / 3/32 in | 70–110 A | 22–28 V | 1,0 kg/h / 2,2 lb/h | 2,0 mm / 0.08 in |
+| E7018 | 3,2 mm / 1/8 in | 100–160 A | 24–30 V | 1,5 kg/h / 3,3 lb/h | 2,0 mm / 0.08 in |
+| E308L | 2,5 mm / 3/32 in | 55–85 A | 22–28 V | 0,8 kg/h / 1,8 lb/h | 1,5 mm / 0.06 in |
+| E308L | 3,2 mm / 1/8 in | 80–140 A | 24–30 V | 1,1 kg/h / 2,4 lb/h | 1,5 mm / 0.06 in |
 
-| Clasificación | Resistencia a la tracción mín. (MPa / ksi) | Límite elástico mín. (MPa / ksi) | Alargamiento mín. (%) | Impacto Charpy V (J / ft·lbf) |
-| :--- | :--- | :--- | :--- | :--- |
-| E6010 | 414 / 60 | 331 / 48 | 22 | 27 / 20 a -30 °C / -20 °F |
-| E6013 | 414 / 60 | 331 / 48 | 17 | No especificado |
-| E7018 | 483 / 70 | 400 / 58 | 22 | 27 / 20 a -30 °C / -20 °F |
-| E308L | 520 / 75 | 205 / 30 | 30 | No especificado |
+## Tolerancias dimensionales y operativas
 
-### Composición química típica del metal depositado
-
-| Clasificación | C (%) | Mn (%) | Si (%) | Cr (%) | Ni (%) | P (%) máx. | S (%) máx. |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| E6010 | 0,08 – 0,12 | 0,40 – 0,60 | 0,15 – 0,25 | – | – | 0,03 | 0,03 |
-| E6013 | 0,05 – 0,10 | 0,35 – 0,50 | 0,20 – 0,35 | – | – | 0,03 | 0,03 |
-| E7018 | 0,05 – 0,10 | 0,60 – 1,25 | 0,25 – 0,75 | – | – | 0,03 | 0,03 |
-| E308L | ≤ 0,04 | 0,5 – 2,5 | ≤ 1,0 | 18,0 – 21,0 | 9,0 – 11,0 | 0,03 | 0,02 |
+Los diámetros de electrodo estándar varían de 1,6 mm a 5,0 mm / 1/16 in a 3/16 in con tolerancia de ±0,05 mm / ±0.002 in en el alma metálica. La longitud típica es 350 mm / 13.8 in con tolerancia de ±5 mm / ±0.2 in. La concentricidad del recubrimiento debe mantener una diferencia máxima de espesor de 0,1 mm / 0.004 in. El contenido de hidrógeno difusible en E7018 no debe exceder 8 ml/100g en electrodos recién abiertos y 4 ml/100g en aplicaciones críticas. La humedad del recubrimiento para E7018 se mantiene por debajo de 0,4% en peso antes de uso.
 
 ## Materiales aplicables
-Los electrodos SMAW se seleccionan en función de la composición y las propiedades mecánicas del metal base. La tabla siguiente relaciona los materiales más frecuentes con sus puntos de fusión y los electrodos aptos para cada uno.
 
-| Material base | Punto de fusión (°C / °F) | Electrodos recomendados |
-| :--- | :--- | :--- |
-| Acero al carbono estructural (A36, A572 Gr. 50) | ≈ 1538 / ≈ 2800 | E6010, E6013, E7018 |
-| Acero para tuberías (API 5L X42‑X70) | ≈ 1538 / ≈ 2800 | E6010 (pase de raíz), E7018 (relleno y filete) |
-| Acero de baja aleación (AISI 4130, 4140) | 1520 – 1540 / 2770 – 2805 | E7018 (con precalentamiento) |
-| Acero inoxidable austenítico (304L, 316L) | 1400 – 1450 / 2550 – 2640 | E308L |
-| Acero inoxidable estabilizado (321, 347) | 1400 – 1450 / 2550 – 2640 | E308L (con precauciones de carburo) |
-| Hierro fundido (gris, nodular) | 1140 – 1260 / 2080 – 2300 | E6010 (solo reparaciones con baja exigencia) |
+Los electrodos SMAW se utilizan en aceros al carbono, aceros de baja aleación, aceros inoxidables austeníticos, fundiciones de hierro y aleaciones de níquel. Materiales específicos y electrodos compatibles incluyen ASTM A36 (E6010, E7018), aceros AISI 1045 (E6013, E7018), aceros inoxidables 304L (E308L), aceros para tubería API 5L X42–X70 (E6010 para pase de raíz, E7018 para relleno), y aceros AISI 316 (E316L). No se recomienda para aluminio ni titanio con electrodo estándar; el cobre requiere electrodo especial con precalentamiento.
 
-Los datos de fusión del acero y del hierro proceden de las mediciones recopiladas por Engineering Toolbox para el hierro puro (1811 K, equivalentes a 1538 °C / 2800 °F). Para los aceros inoxidables se emplean los rangos típicos de fusión de la familia AISI 3xx.
+## Ventajas y limitaciones del proceso SMAW por electrodo
 
-## Ventajas y limitaciones
+La elección del electrodo condiciona las ventajas operativas y limitaciones del proceso. La tabla 3 resume esta comparación.
 
-**E6010**  
-- Ventajas: Penetración profunda, escoria de congelación rápida, apto para posiciones difíciles y superficies con óxido o pintura ligera, excelente para pase de raíz en tuberías.  
-- Limitaciones: Solo opera con corriente continua (CC+), depósito con rugosidad superficial superior a otros tipos, salpicadura moderada, requiere habilidad del soldador.
+| Electrodo | Ventajas clave | Limitaciones principales |
+|-----------|----------------|-------------------------|
+| E6010 | Penetración profunda, solidificación rápida | Solo DC, salpicaduras abundantes |
+| E6013 | Arco suave, fácil cebado, poca salpicadura | Escoria pesada, penetración baja |
+| E7018 | Bajo contenido de H₂, alta tenacidad | Requiere horno de mantenimiento |
+| E308L | Resistencia a corrosión, bajo carbono | Solo para aceros inoxidables 18Cr-8Ni |
 
-**E6013**  
-- Ventajas: Arco suave, escoria fácilmente desprendible, cordón estético, compatible con CA y CC, bueno para chapas delgadas y trabajos de baja penetración.  
-- Limitaciones: Penetración limitada, menor resistencia al agrietamiento en secciones gruesas, no adecuado para aceros de alta resistencia.
+## Guía de selección por aplicación
 
-**E7018**  
-- Ventajas: Bajo contenido de hidrógeno difusible, alta tenacidad a baja temperatura, resistencia mecánica elevada (483 MPa / 70 ksi), ideal para estructuras y recipientes a presión, soldable en todas las posiciones.  
-- Limitaciones: Necesidad de almacenamiento controlado (horno a 150‑200 °C / 300‑400 °F), arco menos agresivo que el E6010, precio más elevado.
+Para pase de raíz en tuberías con penetración completa se recomienda E6010 de 1/8 in (3,2 mm) a 70–130 A, seguido de E7018 para relleno a 100–160 A. Para soldadura estructural de taller en acero A36 se selecciona E7018 de 3/32 in (2,5 mm) a 70–110 A. Para reparaciones de chapa delgada se prefiere E6013 de 2,5 mm / 3/32 in a 60–100 A. Para soldadura de acero inoxidable 304L expuesto a medios corrosivos se utiliza E308L con corriente DC+ entre 55 y 140 A según diámetro. Para unión de acero galvanizado se recomienda E6013 con voltaje bajo de 20–22 V para minimizar porosidad por zinc.
 
-**E308L**  
-- Ventajas: Resistencia a la corrosión intergranular gracias a su muy bajo carbono (<0,04 %), buena ductilidad (elongación ≥ 30 %), apto para soldar aceros inoxidables 304L y 316L, depósito de calidad.  
-- Limitaciones: Mayor costo de adquisición, requiere limpieza rigurosa del material base para evitar contaminación con hierro, la porosidad aparece con facilidad si el revestimiento absorbe humedad.
+## Recomendaciones de almacenamiento y manipulación
 
-## Guía de selección
-La elección del electrodo depende de cinco factores principales: resistencia requerida, naturaleza del metal base, posición de soldadura, fuente de potencia disponible y condiciones de servicio. El siguiente cuadro resume las aplicaciones más comunes.
+Los electrodos celulósicos (E6010) se mantienen en envase sellado a temperatura ambiente entre 10 °C y 30 °C / 50 °F y 86 °F y humedad relativa inferior al 60%. Los electrodos de bajo hidrógeno E7018 se almacenan en horno a 120 °C / 250 °F y se usan dentro de las 4 horas posteriores a su extracción. E308L y otros electrodos de acero inoxidable se conservan en lugar seco a 20–25 °C / 68–77 °F y se secan a 150 °C / 300 °F durante 1 hora antes de usar si han absorbido humedad. Las condiciones inadecuadas de almacenamiento causan agrietamiento por hidrógeno, porosidad y salpicaduras excesivas.
 
-| Aplicación | Electrodo sugerido | Razón |
-| :--- | :--- | :--- |
-| Pase de raíz en tuberías de alta presión | E6010 | Penetración profunda, congelación rápida, buen amarre |
-| Relleno y acabado en estructuras de acero | E7018 | Bajo hidrógeno, alta tenacidad, resistencia de 70 ksi |
-| Chapas delgadas o trabajos de apariencia | E6013 | Acabado liso, fácil control en CA |
-| Soldadura de acero inoxidable 304L/316L | E308L | Compatibilidad química, resistencia a la corrosión |
-| Reparaciones en campo con superficies sucias | E6010 o E6013 | Tolerancia a óxido y pintura |
-| Recipientes a presión y puentes | E7018 | Propiedades mecánicas garantizadas, tenacidad a baja temperatura |
+## Fórmula para el calor aportado (Heat Input)
 
-Cuando se requiere una combinación de penetración y tenacidad, se emplea una secuencia de electrodos diferentes (p.ej., E6010 en raíz y E7018 en relleno). La tabla de parámetros operativos debe consultarse para ajustar la corriente al diámetro elegido.
+El calor aportado determina las propiedades mecánicas de la unión soldada y se calcula con:
+
+> **Q = (V × I × 60) / (S × 1000)**
+
+| Símbolo | Variable | Unidad |
+|--------|----------|--------|
+| Q | Calor aportado | kJ/mm |
+| V | Voltaje de soldadura | V |
+| I | Corriente de soldadura | A |
+| S | Velocidad de avance | mm/min |
+
+El factor 1000 convierte J/mm a kJ/mm. Para E6010 con V=26, I=110, S=200 mm/min, Q=0,86 kJ/mm. Para E7018 con V=28, I=140, S=250 mm/min, Q=0,94 kJ/mm. Un Q excesivo (>2,0 kJ/mm) en aceros al carbono debilita la zona afectada térmicamente; un Q insuficiente (<0,5 kJ/mm) produce falta de fusión.
+
+## Detalles del proceso físico del revestimiento
+
+El fundente que recubre al electrodo se descompone durante el arco formando tres componentes esenciales en proporciones volumétricas aproximadas de 10%–15% de escoria líquida, 25%–35% de gases protectores y 40%–55% de alótropos metálicos incorporados al baño de fusión. La escoria solidifica a temperaturas entre 1100 °C y 1200 °C / 2012 °F y 2192 °F, aislando el cordón de la atmósfera. Los gases generados por la celulosa en E6010 producen una atmósfera reductora con predominio de H₂ y CO, mientras que el revestimiento básico del E7018 libera principalmente CO₂ y CO, reduciendo el hidrógeno difusible. La escoria del E6013 contiene TiO₂ alrededor del 12% en peso, lo que le confiere fluidez y fácil desprendimiento a baja temperatura (<400 °C / 752 °F).
 
 ## Preguntas frecuentes (FAQ)
 
-**1.** ¿Cuál es la corriente recomendada para un electrodo E6010 de 3,2 mm (1/8")?  
-La corriente óptima se sitúa entre 80 y 140 A con corriente continua electrodo positivo (CC+).
+### ¿Cuál es la diferencia fundamental entre E6010 y E6013?
 
-**2.** ¿Qué resistencia a la tracción mínima ofrece un electrodo E7018?  
-El depósito de soldadura de un electrodo E7018 garantiza al menos 483 MPa (70 ksi) de resistencia a la tracción.
+La diferencia radica en 2 aspectos: E6010 tiene revestimiento celulósico que genera penetración hasta un 30% mayor que E6013, pero solo opera con corriente DC+, mientras E6013 usa revestimiento rutílico compatible con AC/DC± y produce un arco más suave con menor penetración.
 
-**3.** ¿A qué temperatura debe almacenarse un electrodo de bajo hidrógeno E7018?  
-Los electrodos E7018 requieren un horno de mantenimiento a 150‑200 °C / 300‑400 °F para evitar la reabsorción de humedad.
+### ¿Por qué los electrodos E7018 requieren horno de almacenamiento?
 
-**4.** ¿Cuál es la elongación mínima de un depósito realizado con E308L?  
-La norma AWS A5.4 exige una elongación mínima del 30 % para el metal depositado por electrodos E308L.
+Porque su contenido de hidrógeno difusible debe permanecer por debajo de 8 ml/100g. A temperatura ambiente sin protección, la humedad absorbida puede generar más de 15 ml/100g de hidrógeno en solo 2 horas, lo que causa agrietamiento en frío.
 
-**5.** ¿Qué espesor máximo de chapa se puede soldar con un electrodo E6013 de 2,4 mm (3/32") en una sola pasada?  
-En filete horizontal, el espesor típico alcanza los 6 mm / 1/4 in, aunque depende del diseño de la junta y de la técnica del soldador.
+### ¿Se puede usar E308L en acero al carbono?
 
-**6.** ¿A qué temperatura funde el revestimiento flux de un electrodo SMAW?  
-El flux se funde alrededor de 1400 °C / 2550 °F, temperatura próxima al punto de fusión del acero base, estimado en 1538 °C / 2800 °F según la base de datos de Engineering Toolbox.
+No se recomienda porque la dilución del carbono del acero base en el cordón de acero inoxidable forma carburos de cromo, reduciendo la resistencia a la corrosión en más del 50% y pudiendo causar fisuración en caliente.
+
+### ¿Cómo afecta el diámetro del electrodo a la tasa de deposición?
+
+En E7018, al aumentar el diámetro de 2,5 mm / 3/32 in a 3,2 mm / 1/8 in, la tasa de deposición crece de 1,0 kg/h / 2,2 lb/h a 1,5 kg/h / 3,3 lb/h, un incremento cercano al 50%.
+
+### ¿Cuál es el amperaje máximo para E6010 en tubería?
+
+En tubería de espesor 6 mm / 0.24 in, el amperaje máximo para pase de raíz con E6010 de 3,2 mm / 1/8 in es 130 A, pues superar ese valor produce perforación y quemado en la junta con una probabilidad de fallo superior al 25%.
+
+### ¿Qué electrodo usar para soldar hierro fundido gris sin agrietamiento?
+
+Se utiliza un electrodo a base de níquel-puro (AWS ENi-CI) con precalentamiento a 300 °C / 572 °F y enfriamiento lento; los electrodos E6010, E6013 o E7018 no son adecuados porque forman martensita frágil.
 
 ## Fuentes consultadas
 
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/melting-boiling-temperatures-d_390.html
-- **efunda.com**: https://www.efunda.com/DesignStandards/screws/unified.cfm
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/corrosion-protection-pipes-d_564.html
+- **efunda.com**: https://www.efunda.com/processes/metal_processing/welding_table.cfm?search_string=n%20t%20c
 - **manufacturingguide.com**: https://www.manufacturingguide.com/en/metal-powder-welding

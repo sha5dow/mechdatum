@@ -9,106 +9,146 @@ topic: "surface-finishing"
 subcategory: "chrome-plating"
 skill: "process-parameters"
 launch_phase: 2
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+Hard chrome plating is an electrolytic coating of hexavalent chromium characterized by its high surface hardness, which can reach 1000 HV, and thicknesses typically between 10 µm and 500 µm per side. It is applied to base metals via a chromic acid bath at 60 °C and is mainly used to improve wear resistance, restore dimensions, and reduce friction in industrial components.
 
-## Summary
-Hard chrome plating is an electrolytic process that deposits a layer of chromium with typical thicknesses of 10 to 500 μm (0.0004 – 0.020 in) on metallic substrates, achieving a hardness of 850 to 1000 HV (65-70 HRC). It is mainly used to improve wear resistance, restore dimensions and reduce friction in engineering components.
+## Manufacturing process
 
-## Applicable materials
+Hexavalent hard chrome plating follows an electrodeposition sequence in which the part acts as a cathode and a lead-tin or platinized titanium anode supplies the chromium. The layer is built by reduction of hexavalent chromium ions (Cr⁶⁺) present in an electrolyte of chromium trioxide and sulfuric acid as catalyst. The typical steps are:
 
-| Base material | Suitability for hard chrome plating | Remarks |
-|---|---|---|
-| Carbon and low-alloy steels | Excellent | Direct adhesion; requires degreasing and pickling beforehand. |
-| Stainless steels | Good | May require a reverse (anodic) etch to ensure adhesion. |
-| Gray and ductile iron | Good | Surface porosity can retain bath; deep cleaning is recommended. |
-| Copper alloys (brass, bronze) | Good | A nickel undercoat is often applied to block diffusion. |
-| Aluminum alloys | Limited | Requires pretreatment with zincate (zinc immersion) and an intermediate nickel layer. |
-| Carburized or nitrided steels | Not recommended | The hardened surface layer may peel off during chrome plating. |
+1. Surface preparation: alkaline degreasing, pickling with hydrochloric, sulfuric or hydrofluoric acid depending on the substrate, and anodic electrolytic cleaning.
+2. Electrochemical activation in an acid bath (same electrolyte or separate tank) to remove oxides and ensure adhesion.
+3. Heating the workpiece to the bath temperature without applied current.
+4. Electrodeposition with direct current: average deposition rate is 25 µm/h (0.001 in/h). Time is adjusted to the target thickness.
+5. Rinsing to remove electrolyte residues.
+6. Post machining (grinding or lapping) when tight dimensional tolerances are required, since the freshly deposited surface has some roughness.
 
-## Process parameters
+## Operating parameters
 
-| Parameter | Typical value | Unit | Remarks |
-|---|---|---|---|
-| Bath temperature | 50 – 65 °C / 120 – 150 °F | – | For hard chrome; lower values for decorative. |
-| Current density | 1.5 – 3.0 A/dm² / 15 – 30 A/ft² | – | Varies according to geometry and desired deposition rate. |
-| Bath composition (CrO₃) | 200 – 300 g/L | – | Chromium trioxide concentration. |
-| CrO₃ : H₂SO₄ ratio | 100:1 (typical) | – | The sulfuric catalyst regulates cathodic efficiency. |
-| Deposition rate | 25 μm/h / 0.001 in/h | μm/h or in/h | Approximately 0.001 in per hour under standard conditions. |
-| Agitation | Mechanical or air | – | Necessary for thermal and concentration uniformity. |
-| Anodes | Lead-tin or platinized titanium | – | Auxiliary geometry to improve throwing power. |
+The parameters of the hexavalent hard chrome plating bath are maintained in moderate temperature and current density ranges to ensure a uniform and hard deposit. Typical values are summarized below, and in a second table, the activation baths according to base material.
 
-## Thicknesses and tolerances
+| Parameter | Typical range |
+| --- | --- |
+| Bath temperature | 50 – 65 °C (122 – 149 °F) |
+| Cathodic current density | 30 – 60 A/dm² (195 – 390 A/ft²) |
+| CrO₃:H₂SO₄ weight ratio | 75:1 to 250:1 |
+| Deposition rate | ≈ 25 µm/h (0.001 in/h) at nominal current |
+| Electrolyte pH | < 1 (strongly acidic) |
 
-Thickness can range from thin layers of 2.5 μm (0.0001 in) to restoration thicknesses of 500 μm (0.020 in) per side. In parts with complex geometry, the limited throwing power of the hexavalent chromium bath causes greater deposits on edges and external surfaces, requiring over-thickness and subsequent grinding.
-
-| Application | Typical thickness (μm) | Typical thickness (in) | Achievable tolerance after grinding |
-|---|---|---|---|
-| Light anti-wear | 10 – 25 μm | 0.0004 – 0.001 in | ± 0.013 mm (± 0.0005 in) |
-| Medium anti-wear | 25 – 50 μm | 0.001 – 0.002 in | ± 0.013 mm (± 0.0005 in) |
-| Dimensional recovery | 100 – 500 μm | 0.004 – 0.020 in | ± 0.025 mm (± 0.001 in) |
-
-Surface roughness after chrome plating (as-plated) is typically Ra 0.4 – 0.8 μm (16 – 32 μin). With polishing or grinding it can be reduced to Ra 0.05 μm (2 μin).
+| Base material | Recommended activation solution |
+| --- | --- |
+| Carbon and low-alloy steel | Diluted sulfuric acid (5 – 10% vol.) or anodic activation in chrome bath |
+| Stainless steel | Hydrochloric acid 10 – 20% vol. + reverse activation in chrome bath |
+| Cast iron | Sulfuric acid 5 – 10% vol. with anodic etching |
+| Nickel alloys (Nimonic, Inconel) | Ferric chloride or diluted hydrofluoric acid + anodic activation |
+| Copper and copper alloys | Sulfuric acid 5 – 10% vol., brief anodic electrocleaning |
 
 ## Coating properties
 
-| Property | Typical value | Unit | Notes |
-|---|---|---|---|
-| Hardness | 850 – 1000 HV / 65 – 70 HRC | HV / HRC | Depends on deposition conditions; can exceed 1000 HV in optimized baths. |
-| Adhesion | > 70 MPa / > 10,000 psi | Peel stress | Excellent on steels with proper preparation. |
-| Coefficient of friction (dry, against steel) | 0.15 – 0.20 | – | Low coefficient reduces sliding wear. |
-| Corrosion resistance | Good (in non-marine environment); improves with microcracks | – | The microcrack network distributes corrosion currents. |
-| Maximum service temperature | 400 °C / 752 °F | – | Hardness begins to drop significantly due to carbon diffusion and carbide formation. |
-| Elastic modulus | 250 – 290 GPa / 36 – 42 Mpsi | – | Similar to steel. |
-| Corrosion current density | 1 – 10 μA/cm² (in 3.5% NaCl) | – | Varies with substrate and finish. |
+Hard chrome plating achieves a surface hardness of 800 – 1000 HV, equivalent to 65 – 70 HRC and approximately 700 – 750 HB. The exact values depend on current density and bath temperature. The layer has a very low coefficient of friction (0.10 – 0.15 against lubricated steel) and excellent sliding wear resistance.
+
+| Property | Typical value |
+| --- | --- |
+| Vickers hardness (HV) | 800 – 1000 |
+| Rockwell C hardness (HRC) | 65 – 70 |
+| Brinell hardness (HB) | ≈ 700 – 750 |
+| Layer thickness (normal) | 10 – 250 µm (0.0004 – 0.010 in) |
+| Maximum thickness (special cases) | up to 500 µm (0.020 in) per side |
+| Corrosion resistance | Good in atmospheric and oxidizing acid environments (passivated layer) |
+| Surface roughness post-deposit | Ra 0.5 – 2.0 µm (20 – 80 µin) before grinding |
+| Coefficient of friction (lubricated) | 0.10 – 0.15 |
+| Maximum service temperature | ≈ 400 °C (752 °F), above which hardness decreases |
+
+## Typical thicknesses and tolerances
+
+In hard chrome plating, thickness per side is specified. Final dimensional tolerances are achieved by subsequent grinding, with a typical precision of ±5 µm (±0.0002 in). The following table lists common thicknesses according to coating function.
+
+| Application | Thickness per side (µm) | Thickness per side (in) |
+| --- | --- | --- |
+| Light wear resistance (pistons, rods) | 10 – 50 | 0.0004 – 0.002 |
+| General industrial use (hydraulic cylinders) | 25 – 125 | 0.001 – 0.005 |
+| Dimensional restoration | 125 – 400 | 0.005 – 0.016 |
+| Large thicknesses (mill shafts, compressors) | 250 – 500 | 0.010 – 0.020 |
+| Tolerance after grinding | ±5 | ±0.0002 |
+
+## Applicable materials
+
+Hard chrome plating can be deposited on most ferrous and non-ferrous metals, as long as the surface can be electrically activated. The most common are:
+
+- Carbon and low-alloy steels (heat treated or not).
+- Stainless steels (300 and 400 series, with special activation).
+- Gray and nodular cast irons.
+- Nickel base alloys (Inconel, Nimonic, Monel).
+- Copper and brass (with careful preparation to avoid chemical attack).
+- Titanium (requires prior base layer or strong anodic activation).
+
+Not recommended on aluminum or light alloys without an intermediate layer, due to weak direct adhesion.
+
+## Applications
+
+Hard chrome plating is applied in sectors that demand high wear resistance and low friction. Some representative examples are:
+
+- Hydraulic components: piston rods, cylinders, valves.
+- Heavy machinery: shafts, liners, bearings, rolling mill rolls.
+- Diesel engines and marine equipment: cylinder liners, piston rings, crankshafts.
+- Plastic injection molds: cavities and cores where non-stick and abrasion resistance are required.
+- Cutting and forming tools: gages, taps, dies (where the temperature limit is not exceeded).
+- Dimensional restoration: restoration of worn parts to original dimensions.
 
 ## Advantages and limitations
 
-| Advantages | Limitations |
-|---|---|
-| High hardness (850 – 1000 HV) that resists abrasion and scratching. | Use of hexavalent chromium (Cr VI), toxic and with strict environmental regulations (REACH, EPA). |
-| Low coefficient of friction that reduces adhesion and sliding contact wear. | Poor throwing power; non-uniform thickness in cavities and deep holes. |
-| Ability to deposit thick coatings (up to 500 μm) for restoration of worn parts. | Risk of hydrogen embrittlement in high-strength steels; requires subsequent hydrogen removal. |
-| Good corrosion resistance in moderate environments, especially with controlled microcracks. | Slow process (approx. 0.001 in/h), which makes very thick coatings expensive. |
-| Excellent adhesion on multiple base metals with proper preparation. | Thermal limitation: loss of hardness above 400 °C. |
-| Possibility of grinding or polishing to achieve tight tolerances and mirror finishes. | Not suitable for parts with complex geometries without auxiliary anodes; can generate internal stresses that cause cracking. |
+### Advantages
+
+- Exceptional hardness (800 – 1000 HV) providing high wear resistance.
+- Low coefficient of friction, suitable for lubricated sliding pairs.
+- Good corrosion resistance in atmospheric and many chemical environments.
+- Possibility of controlled thicknesses from a few micrometers up to 500 µm.
+- Mature industrial process, standardized (AMS 2460, AMS 2406) and widely available.
+
+### Limitations
+
+- The process uses hexavalent chromium, a carcinogenic compound with strictly controlled handling.
+- Poor penetration (low throwing power); recesses tend to receive less thickness than edges.
+- Subsequent grinding or lapping is required to obtain fine tolerances and low roughness.
+- Low cathodic efficiency (15-25%), which lengthens process times.
+- The layer is brittle and does not tolerate repeated impacts; surface cracking (microcracks) is inherent and desirable for lubricant retention, but can initiate fatigue.
+- Not suitable for continuous temperatures above 400 °C, as hardness decreases significantly.
 
 ## Selection guide
 
-The choice between hard chrome plating and other engineering coatings depends on the requirements of hardness, thickness, corrosion resistance, and operating temperature.
+Hard chrome plating is recommended when:
 
-| Requirement | Hard chrome plating | Electroless nickel (high phosphorus) | HVOF (tungsten carbide) | Gas nitriding |
-|---|---|---|---|---|
-| Surface hardness | 850 – 1000 HV | 500 – 600 HV (as-plated) / 900 – 1000 HV (heat treated) | 1100 – 1300 HV | 800 – 1100 HV (depending on steel) |
-| Maximum practical thickness | 500 μm (0.020 in) | 75 μm (0.003 in) (typical) | 500 μm (0.020 in) or more | 0.2 – 0.5 mm (0.008 – 0.020 in) diffused layer |
-| Abrasive wear resistance | Excellent | Good (better with heat treatment) | Very good | Good to very good |
-| Corrosion resistance | Good with microcracks; inferior in severe acidic or saline environments | Excellent (especially P > 10%) | Variable; porosity may allow corrosion if not sealed | Moderate; the surface layer is not a barrier |
-| Maximum service temperature | 400 °C / 752 °F | Up to 350 °C (662 °F) without significant loss | > 500 °C (932 °F) depending on binder | Up to 500 °C (932 °F) maintains hardness |
-| Relative cost | Medium (slow process, waste management) | Medium | High (equipment and material) | Low-Medium (thermal process) |
-| Typical application | Hydraulic rods, shafts, molds | Valves, pump components, electronics | Cutting tools, turbines, high-wear surfaces | Gears, crankshafts, camshafts |
+- Surface hardness ≥ 800 HV is needed with controllable thicknesses between 50 and 300 µm.
+- The part operates in sliding with lubrication and friction must be minimized.
+- Restoration of dimensions on worn metal components is desired, without excessive weight addition.
+- The working environment does not contain concentrated hydrochloric acid nor sustained temperatures > 400 °C.
 
-## Typical applications
-
-Hard chrome plating is found in many industrial sectors. Its main applications include:
-
-- Hydraulic and pneumatic cylinder rods.
-- Rollers for rolling mills, calenders, and printing systems.
-- Plastic injection molds and extrusion dies.
-- Camshafts, crankshafts, and transmission shafts.
-- Valve and pump components (stems, seats).
-- Dimensional restoration of worn parts in heavy machinery.
-- Precision tools and tooling (gauges, taps).
+Consider alternatives such as high-phosphorus electroless nickel when uniform thickness on complex geometries without grinding is required, or nitriding when hardening without significant dimensional increase is sought. For environments with high corrosion and abrasive load, tungsten carbide coatings applied by HVOF may be chosen.
 
 ## Frequently Asked Questions (FAQ)
 
-1.  **What is the maximum achievable thickness in hard chrome plating?** Up to 500 μm (0.020 in) per side can be deposited, and even more in special cases, provided the geometry allows a coating without excessive cracking.
-2.  **What hardness does hard chrome plating have?** The typical hardness of hard chrome plating ranges from 850 to 1000 HV (65-70 HRC), higher than many hardened steels.
-3.  **How long does it take to form a 100 μm layer?** With the standard deposition rate of 25 μm/h (0.001 in/h), a 100 μm (0.004 in) layer requires approximately 4 hours of immersion under current.
-4.  **At what temperature does hard chrome lose hardness?** Hard chrome begins to significantly lose hardness from 400 °C (752 °F) due to carbide precipitation and microstructural changes.
-5.  **What is the surface roughness after hard chrome plating as-plated?** The as-deposited surface roughness (Ra) is between 0.4 and 0.8 μm (16-32 μin), similar to that of the prepared substrate; it is improved by grinding or polishing.
-6.  **What dimensional tolerance can be maintained after grinding of hard chrome plating?** It is common to achieve tolerances of ±0.013 mm (±0.0005 in) after grinding, and up to ±0.005 mm (±0.0002 in) with lapping or precision polishing.
+### What is the typical hardness of hard chrome plating?
+Hard chrome plating has a Vickers hardness of 800 to 1000 HV, equivalent to 65-70 HRC, measured directly on the coating without subsequent heat treatment.
 
-## References
+### What is the maximum thickness that can be applied in hard chrome plating?
+In industrial applications, thicknesses up to 500 µm per side (0.020 in) are achieved, although for reconstruction work 200-400 µm per side is common.
+
+### What is the difference between hard chrome plating and decorative chrome plating?
+Hard chrome plating is deposited with thicknesses greater than 10 µm and the objective is functional (hardness, wear), while decorative chrome uses very thin layers (< 1 µm) on a nickel base for brightness and corrosion protection.
+
+### On what materials can hard chrome plating be applied?
+It can be applied on carbon steels, stainless steels, cast irons, nickel alloys, copper and brass, as long as appropriate electrochemical activation is performed before the bath.
+
+### Does hard chrome plating require post machining?
+Yes, in most cases it is ground or lapped to reach the final tolerance of ±5 µm (0.0002 in) and a roughness Ra below 0.2 µm (8 µin).
+
+### What is the maximum operating temperature of hard chrome plating?
+The hardness remains stable up to approximately 400 °C (752 °F); above this temperature, the layer progressively loses hardness due to microstructural transformation.
+
+## Sources Consulted
+
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/bhn-brinell-hardness-number-d_1365.html
 - **efunda.com**: https://www.efunda.com/forum/show_message.cfm?start=1&thread=17314&id=17316
-- **manufacturingguide.com**: https://www.manufacturingguide.com/en/hardforkromning
+- **manufacturingguide.com**: https://www.manufacturingguide.com/en/hexavalent-hard-chromium

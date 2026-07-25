@@ -13,7 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definición
 El factor K en chapa metálica representa la razón adimensional entre la posición del eje neutro y el espesor del material, y es fundamental para el cálculo preciso del desarrollo en plano de piezas dobladas. Para el acero DC01 (conforme a EN 10130), el factor K suele oscilar entre 0,33 y 0,45 en operaciones de plegado por aire, dependiendo de la relación radio/espesor, la dirección de laminación y las condiciones de la herramienta.
 
 ## Fórmula del factor K

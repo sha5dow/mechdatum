@@ -9,121 +9,128 @@ topic: "thermodynamics"
 subcategory: "specific-heat"
 skill: "fluids-reference-table"
 launch_phase: 9
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+El calor específico es una propiedad termofísica fundamental que cuantifica la cantidad de energía térmica necesaria para elevar en un grado la temperatura de una unidad de masa de un material. En ingeniería, su conocimiento preciso permite dimensionar intercambiadores de calor, seleccionar fluidos caloportadores, predecir el comportamiento térmico de estructuras metálicas y optimizar procesos de calentamiento o enfriamiento. Los valores de calor específico varían significativamente entre metales, líquidos y gases, y dependen de condiciones como la temperatura, la presión y la fase en la que se encuentre la sustancia.
 
-## Definición
-El calor específico (\(c_p\)) es la propiedad termofísica que cuantifica la cantidad de energía necesaria para elevar en un grado la temperatura de una unidad de masa de una sustancia. Se define formalmente como el límite del cociente \(dq/dT\) cuando \(dT \to 0\), donde \(dq\) es el calor suministrado en un proceso a presión constante. En términos prácticos, representa la capacidad de un material para almacenar energía térmica: valores altos indican que el material absorbe gran cantidad de calor con un aumento de temperatura reducido, lo que lo convierte en un excelente amortiguador térmico. Las unidades en el sistema internacional son J/(kg·K) o J/(kg·°C), mientras que en el sistema imperial se emplea Btu/(lb·°F). La relación entre ambas unidades es 1 Btu/(lb·°F) = 4186,8 J/(kg·K).
+El calor específico de un material, representado habitualmente como *c*, es la cantidad de calor por unidad de masa requerida para elevar su temperatura en un Kelvin (o un grado Celsius) sin cambio de fase. Formalmente, se define mediante el límite c = (1/m) · límite_{ΔT→0} (ΔQ/ΔT). Para una misma sustancia pueden distinguirse dos variantes principales: calor específico a presión constante (c_p) y calor específico a volumen constante (c_v). En sólidos y líquidos la diferencia entre ambos suele ser pequeña, mientras que en gases puede ser significativa debido al trabajo de expansión.
 
-## Tabla de calor específico de materiales comunes
-Los siguientes valores corresponden a mediciones realizadas a temperatura ambiente (20‑25 °C / 68‑77 °F) y presión atmosférica estándar, salvo indicación contraria.
+## Fórmulas y ecuaciones principales
 
-| Material | Calor específico \(c_p\) |
-|---|---|
-| Agua líquida (20 °C) | 4182 J/(kg·°C) / 1,000 Btu/(lb·°F) |
-| Agua (hielo, -5 °C) | 2090 J/(kg·°C) / 0,499 Btu/(lb·°F) |
-| Aire seco (nivel del mar) | 1005 J/(kg·°C) / 0,240 Btu/(lb·°F) |
-| Alúmina (Al₂O₃) | 718 J/(kg·°C) / 0,172 Btu/(lb·°F) |
-| Aluminio | 897 J/(kg·°C) / 0,214 Btu/(lb·°F) |
-| Amoniaco líquido | 4700 J/(kg·°C) / 1,123 Btu/(lb·°F) |
-| Amoniaco gas | 2060 J/(kg·°C) / 0,492 Btu/(lb·°F) |
-| Asfalto (concreto asfáltico) | 920 J/(kg·°C) / 0,220 Btu/(lb·°F) |
-| Bronce | 370 J/(kg·°C) / 0,088 Btu/(lb·°F) |
-| Caliza | 909 J/(kg·°C) / 0,217 Btu/(lb·°F) |
-| Carbón vegetal | 840 J/(kg·°C) / 0,201 Btu/(lb·°F) |
-| Cobre | 385 J/(kg·°C) / 0,092 Btu/(lb·°F) |
-| Concreto | 880 J/(kg·°C) / 0,210 Btu/(lb·°F) |
-| Diamante (carbono) | 516 J/(kg·°C) / 0,123 Btu/(lb·°F) |
-| Estaño | 228 J/(kg·°C) / 0,054 Btu/(lb·°F) |
-| Grafito (carbono) | 717 J/(kg·°C) / 0,171 Btu/(lb·°F) |
-| Granito | 790 J/(kg·°C) / 0,189 Btu/(lb·°F) |
-| Helio | 5193 J/(kg·°C) / 1,241 Btu/(lb·°F) |
-| Hierro | 449 J/(kg·°C) / 0,107 Btu/(lb·°F) |
-| Hidrógeno | 14304 J/(kg·°C) / 3,417 Btu/(lb·°F) |
-| Latón | 375 J/(kg·°C) / 0,090 Btu/(lb·°F) |
-| Litio | 3582 J/(kg·°C) / 0,856 Btu/(lb·°F) |
-| Madera (roble) | 2400 J/(kg·°C) / 0,573 Btu/(lb·°F) |
-| Magnesio | 1050 J/(kg·°C) / 0,251 Btu/(lb·°F) |
-| Mármol | 880 J/(kg·°C) / 0,210 Btu/(lb·°F) |
-| Mercurio | 140 J/(kg·°C) / 0,033 Btu/(lb·°F) |
-| Níquel | 461 J/(kg·°C) / 0,110 Btu/(lb·°F) |
-| Oro | 129 J/(kg·°C) / 0,031 Btu/(lb·°F) |
-| Plata | 235 J/(kg·°C) / 0,056 Btu/(lb·°F) |
-| Plomo | 129 J/(kg·°C) / 0,031 Btu/(lb·°F) |
-| Polietileno de alta densidad | 1920 J/(kg·°C) / 0,459 Btu/(lb·°F) |
-| Tierra seca | 800 J/(kg·°C) / 0,191 Btu/(lb·°F) |
-| Tierra húmeda | 1480 J/(kg·°C) / 0,354 Btu/(lb·°F) |
-| Vidrio (sílice) | 840 J/(kg·°C) / 0,201 Btu/(lb·°F) |
-| Zinc | 388 J/(kg·°C) / 0,093 Btu/(lb·°F) |
+La ecuación fundamental para determinar la energía térmica necesaria para variar la temperatura de una masa conocida es:
 
-## Fórmulas de aplicación
-La relación fundamental para el cálculo de energía térmica en procesos de transferencia de calor es:
+> **q = m · c_p · ΔT**
 
-\[
-Q = m \cdot c_p \cdot \Delta T
-\]
+Donde:
 
-donde:  
-\(Q\) = calor transferido (J)  
-\(m\) = masa (kg)  
-\(c_p\) = calor específico a presión constante (J/(kg·°C))  
-\(\Delta T\) = cambio de temperatura (°C)
+| Variable | Significado | Unidades típicas |
+| --- | --- | --- |
+| *q* | Calor transferido | kJ / Btu |
+| *m* | Masa del material | kg / lb |
+| *c_p* | Calor específico a presión constante | kJ/(kg·K) / Btu/(lb·°F) |
+| *ΔT* | Incremento de temperatura | K o °C / °F |
 
-En análisis de termodinámica de fluidos, la capacidad calorífica también se expresa en base molar. Se define la capacidad calorífica molar a presión constante (\(C_{p,m}\)) y a volumen constante (\(C_{v,m}\)). Para gases ideales, la diferencia entre ambas viene dada por:
+En el caso de gases ideales, la relación entre los calores específicos a presión y volumen constante viene dada por la ecuación de Mayer:
 
-\[
-C_{p,m} - C_{v,m} = R
-\]
+> **c_p − c_v = R**
 
-siendo \(R\) la constante universal de los gases (8,314 J/(mol·K)). Adicionalmente, el coeficiente adiabático \(\gamma\) se utiliza en procesos sin intercambio de calor:
+Donde *R* es la constante particular del gas (R = R_universal / M). Para un proceso termodinámico general, la relación entre ambos calores específicos se expresa como:
 
-\[
-\gamma = \frac{c_p}{c_v}
-\]
+> **c_p − c_v = T · (∂p/∂T)_v · (∂v/∂T)_p**
 
-El calor específico de una mezcla sin reacción química se obtiene por promedio ponderado en masa:
+Esta última ecuación, aunque de naturaleza más fundamental, se simplifica a la expresión de Mayer en el límite de gas ideal.
 
-\[
-c_{p,\text{mezcla}} = \sum_i (w_i \cdot c_{p,i})
-\]
+## Tabla de calores específicos de materiales comunes
 
-con \(w_i\) la fracción másica del componente \(i\).
+Los valores de la siguiente tabla corresponden a mediciones realizadas a temperatura ambiente (aproximadamente 20 °C / 68 °F) y presión atmosférica estándar, salvo indicación en contrario. La primera columna de datos numéricos presenta el calor específico másico a presión constante (c_p) en unidades del Sistema Internacional, mientras que la segunda lo hace en unidades inglesas.
 
-## Criterios de selección según calor específico
-La elección de un material con base en su calor específico responde a la función deseada en el sistema térmico:
+| Material | c_p (kJ/(kg·K)) / (Btu/(lb·°F)) | Estado/fase |
+| --- | --- | --- |
+| Aluminio | 0,91 / 0,217 | Sólido |
+| Antimonio | 0,21 / 0,050 | Sólido |
+| Berilio | 1,83 / 0,437 | Sólido |
+| Bismuto | 0,13 / 0,031 | Sólido |
+| Cadmio | 0,23 / 0,055 | Sólido |
+| Calcio | 0,63 / 0,151 | Sólido |
+| Carbono (acero al carbono) | 0,49 / 0,117 | Sólido |
+| Cinc | 0,39 / 0,093 | Sólido |
+| Cobalto | 0,42 / 0,100 | Sólido |
+| Cobre | 0,39 / 0,093 | Sólido |
+| Cromo | 0,46 / 0,110 | Sólido |
+| Estaño | 0,21 / 0,050 | Sólido |
+| Hierro (puro) | 0,45 / 0,108 | Sólido |
+| Hierro fundido (fundición gris) | 0,46 / 0,110 | Sólido |
+| Hierro forjado | 0,50 / 0,119 | Sólido |
+| Litio | 3,57 / 0,853 | Sólido |
+| Magnesio | 1,05 / 0,251 | Sólido |
+| Manganeso | 0,48 / 0,115 | Sólido |
+| Mercurio | 0,14 / 0,033 | Líquido |
+| Molibdeno | 0,25 / 0,060 | Sólido |
+| Níquel | 0,44 / 0,105 | Sólido |
+| Niobio (Columbio) | 0,27 / 0,065 | Sólido |
+| Oro | 0,13 / 0,031 | Sólido |
+| Paladio | 0,24 / 0,057 | Sólido |
+| Plata | 0,23 / 0,055 | Sólido |
+| Platino | 0,13 / 0,031 | Sólido |
+| Plomo | 0,13 / 0,031 | Sólido |
+| Potasio | 0,75 / 0,179 | Sólido |
+| Silicio | 0,71 / 0,170 | Sólido |
+| Sodio | 1,21 / 0,289 | Sólido |
+| Tántalo | 0,14 / 0,033 | Sólido |
+| Titanio | 0,54 / 0,129 | Sólido |
+| Tungsteno | 0,13 / 0,031 | Sólido |
+| Uranio | 0,12 / 0,029 | Sólido |
+| Vanadio | 0,39 / 0,093 | Sólido |
+| Volframio | 0,13 / 0,031 | Sólido |
+| Circonio | 0,27 / 0,065 | Sólido |
+| Agua (líquida, 20 °C) | 4,18 / 0,998 | Líquido |
+| Agua (vapor saturado, 100 °C) | 2,08 / 0,497 | Gas |
+| Aire seco (0 °C, 1 atm) | 1,005 / 0,240 | Gas |
+| Aceite mineral típico | 1,67 – 2,09 / 0,40 – 0,50 | Líquido |
+| Hormigón / Concreto | 0,88 / 0,210 | Sólido |
+| Ladrillo común | 0,84 / 0,201 | Sólido |
+| Vidrio (borosilicato) | 0,75 / 0,179 | Sólido |
+| Madera (pino, seca) | 1,70 / 0,406 | Sólido |
 
-| Aplicación | Valor típico de \(c_p\) | Material recomendado |
-|---|---|---|
-| Almacenamiento térmico (calor sensible) | > 1500 J/(kg·°C) / 0,36 Btu/(lb·°F) | Agua, parafina, hidróxidos fundidos |
-| Refrigerante líquido de alto rendimiento | > 3500 J/(kg·°C) / 0,84 Btu/(lb·°F) | Agua, amoniaco líquido |
-| Disipadores de calor metálicos | 700–1000 J/(kg·°C) / 0,17–0,24 Btu/(lb·°F) | Aluminio, aluminio-latón |
-| Aislamiento térmico (materiales con bajo calor específico) | < 400 J/(kg·°C) / 0,10 Btu/(lb·°F) | Plomo, corcho, espumas cerámicas |
-| Estructuras sometidas a ciclos térmicos rápidos | > 1500 J/(kg·°C) / 0,36 Btu/(lb·°F) | Materiales de cambio de fase (PCM), sales hidratadas |
+## Factores que influyen en el calor específico
 
-Para fluidos térmicos en intercambiadores de calor se prefiere un alto \(c_p\) porque reduce el caudal másico necesario para transportar una cantidad de calor dada, disminuyendo el consumo de bombeo. En procesos de temple o enfriamiento rápido, un bajo calor específico permite que el material alcance la temperatura deseada con menor inversión energética.
+El valor del calor específico de un material no es una constante absoluta, sino que varía con las condiciones termodinámicas y la estructura del material. Los principales factores incluyen:
 
-## Preguntas frecuentes (FAQ)
-### ¿Cuál es el calor específico del agua y por qué es tan alto?
-El agua líquida a 20 °C tiene un calor específico de 4182 J/(kg·°C) / 1,000 Btu/(lb·°F), uno de los más altos entre los líquidos comunes. Este valor elevado se debe a los fuertes puentes de hidrógeno que almacenan parte de la energía suministrada en forma de energía potencial intermolecular, retrasando el aumento de temperatura.
+- **Temperatura:** en metales, el calor específico tiende a aumentar ligeramente con la temperatura, especialmente a bajas temperaturas donde se aparta del límite de Dulong-Petit. En fluidos como el agua, el c_p presenta un mínimo cerca de los 35 °C / 95 °F.
+- **Presión:** en líquidos y sólidos el efecto es pequeño y a menudo despreciable en cálculos de ingeniería; en gases, la presión modifica significativamente la densidad y por tanto el comportamiento del c_p, particularmente cerca del punto crítico.
+- **Fase termodinámica:** la misma sustancia presenta valores distintos según esté en fase sólida, líquida o gaseosa. El vapor de agua a 100 °C tiene aproximadamente la mitad del calor específico del agua líquida a 20 °C.
+- **Composición y microestructura:** en aleaciones, el calor específico puede estimarse con buena precisión mediante una media ponderada de los valores de los elementos constituyentes (regla de Neumann-Kopp), siempre que no existan transformaciones de fase.
+- **Enlace atómico y peso molecular:** materiales con átomos ligeros y enlaces fuertes (como el berilio o el litio) muestran valores elevados; elementos pesados con enlaces metálicos débiles (como el plomo, el oro o el platino) presentan calores específicos bajos, del orden de 0,13 kJ/(kg·K) / 0,031 Btu/(lb·°F).
 
-### ¿Cuál es el metal con mayor calor específico?
-El litio presenta 3582 J/(kg·°C) / 0,856 Btu/(lb·°F), el valor más alto registrado para un metal puro a temperatura ambiente. Le siguen el berilio (1020 J/(kg·°C)) y el magnesio (1050 J/(kg·°C)), adecuados para aplicaciones aeroespaciales donde se busca ligereza y capacidad de absorción térmica.
+## Criterios de selección en aplicaciones de ingeniería
 
-### ¿Qué material de uso masivo tiene el calor específico más bajo?
-El plomo, con 129 J/(kg·°C) / 0,031 Btu/(lb·°F), comparte el valor más bajo entre los metales comunes junto con el oro. Esta propiedad, combinada con su alta densidad, lo hace útil en blindajes contra radiación donde se desea una baja acumulación de calor.
+La elección del material o fluido adecuado en función de su calor específico depende del objetivo térmico del sistema:
 
-### ¿Cuánta energía se necesita para calentar 1 litro de agua de 20 °C a ebullición?
-Para elevar la temperatura de 1 L de agua (masa ≈ 1 kg) desde 20 °C hasta 100 °C se requieren aproximadamente 334 560 J (80 kcal), calculado con \(Q = 1\,\text{kg} \times 4182\,\text{J/(kg·°C)} \times 80\,\text{°C}\). En unidades imperiales equivale a cerca de 317 Btu.
+- **Almacenamiento de energía térmica:** se prefieren materiales con calor específico elevado, como el agua (≈ 4,18 kJ/(kg·K) / 0,998 Btu/(lb·°F)) o el litio (3,57 kJ/(kg·K) / 0,853 Btu/(lb·°F)), porque acumulan más energía por unidad de masa para una misma elevación de temperatura.
+- **Fluidos caloportadores:** el agua es el fluido de referencia por su alto c_p, bajo coste y baja toxicidad. En aplicaciones criogénicas o de alta temperatura se recurre a aceites térmicos o sales fundidas con valores típicos entre 1,5 y 2,5 kJ/(kg·K) / 0,36–0,60 Btu/(lb·°F).
+- **Intercambiadores de calor y disipadores:** metales como el aluminio (0,91 kJ/(kg·K) / 0,217 Btu/(lb·°F)) equilibran una buena conductividad térmica con un calor específico suficiente para absorber picos de carga.
+- **Componentes sometidos a ciclos térmicos rápidos:** materiales con bajo calor específico (ej. tungsteno o wolframio, 0,13 kJ/(kg·K) / 0,031 Btu/(lb·°F)) se calientan y enfrían con poca energía, reduciendo la inercia térmica.
+- **Estructuras de edificación:** hormigón (0,88 kJ/(kg·K) / 0,210 Btu/(lb·°F)) y ladrillo (0,84 kJ/(kg·K) / 0,201 Btu/(lb·°F)) actúan como masa térmica pasiva, atenuando las fluctuaciones diarias de temperatura.
 
-### ¿Cómo varía el calor específico del aire seco a diferente temperatura?
-A 0 °C, el \(c_p\) del aire seco es aproximadamente 1005 J/(kg·°C) / 0,240 Btu/(lb·°F); a 100 °C sube a cerca de 1009 J/(kg·°C) / 0,241 Btu/(lb·°F). La variación es mínima en aplicaciones HVAC, por lo que se toma constante en la mayoría de los cálculos de ingeniería.
+## Ejemplo de cálculo de energía térmica
 
-### ¿Qué influencia tiene el calor específico en el diseño de un intercambiador de calor?
-Un fluido secundario con alto calor específico, como el agua (4182 J/(kg·°C)), puede transportar más energía por unidad de masa, reduciendo el caudal necesario y el tamaño del intercambiador. Por contraste, fluidos con bajo \(c_p\) exigen mayores caudales para la misma transferencia térmica, lo que incrementa los costos operativos.
+Se desea calentar 5 kg (11,02 lb) de una pieza de acero al carbono desde 20 °C (68 °F) hasta 150 °C (302 °F) para un tratamiento térmico. El calor específico del acero al carbono se toma de la tabla como c_p = 0,49 kJ/(kg·°C) / 0,117 Btu/(lb·°F), considerando que 1 °C de incremento equivale a 1 K a efectos de diferencia de temperatura.
+
+La energía requerida se calcula mediante q = m · c_p · ΔT.
+
+ΔT = 150 °C − 20 °C = 130 °C (equivalente a 234 °F).
+
+q = 5 kg × 0,49 kJ/(kg·°C) × 130 °C = 318,5 kJ
+
+En unidades inglesas:
+
+q = 11,02 lb × 0,117 Btu/(lb·°F) × 234 °F = 301,8 Btu
+
+Por tanto, se deben suministrar aproximadamente 319 kJ (302 Btu) a la pieza para alcanzar la temperatura objetivo, sin considerar pérdidas al ambiente.
 
 ## Fuentes consultadas
 
-- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/specific-heat-capacity-d_391.html
-- **efunda.com**: https://www.efunda.com/formulae/
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/specific-heat-metals-d_152.html
+- **efunda.com**: https://www.efunda.com/materials/water/steamtable_sat.cfm?search_string=e%20properties
 - **thermopedia.com**: https://www.thermopedia.com/content/1140/?tid=110

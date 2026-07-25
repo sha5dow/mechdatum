@@ -15,7 +15,6 @@ verified: true
 
 El diseño de resortes de compresión abarca constantes de rigidez desde 0,1 N/mm (0.57 lb/in) en mecanismos ligeros hasta 49 050 N/m (280 lb/in) en suspensiones de vehículos. Estos elementos elásticos almacenan energía mecánica al ser comprimidos axialmente y la liberan al recuperar su forma original. Sus aplicaciones incluyen suspensión automotriz, válvulas de motor, sistemas de retorno en mecanismos y dispositivos de precisión.
 
-## Principio de funcionamiento  
 La ley de Hooke establece que la fuerza de compresión es proporcional a la deformación, con una constante de rigidez *k* que en el ejemplo de una suspensión de automóvil de 2000 kg alcanza 49 050 N/m (280 lb/in). Cuando un resorte helicoidal se comprime, cada vuelta se torsiona elásticamente, generando un esfuerzo cortante que se distribuye a lo largo del alambre. La relación fuerza‑deformación es lineal siempre que no se supere el límite elástico del material; más allá de este punto aparecen deformaciones permanentes y la ley de Hooke deja de ser válida.
 
 ## Fórmulas de cálculo  

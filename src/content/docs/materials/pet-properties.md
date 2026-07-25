@@ -13,7 +13,6 @@ last_updated: "2026-07-21"
 verified: true
 ---
 
-## Sobre el PET
 El tereftalato de polietileno (PET o PETE) es el poliéster termoplástico más común, utilizado masivamente en fibras textiles, envases rígidos y flexibles, y componentes técnicos por su excelente equilibrio de resistencia mecánica, ligereza y barrera a gases. El PET comercial se presenta en formas que van desde amorfo y transparente hasta semicristalino y opaco, según la velocidad de enfriamiento y los tratamientos de orientación molecular. Su combinación de buenas propiedades mecánicas, eléctricas y de barrera, junto con su reciclabilidad, lo convierten en uno de los polímeros más producidos del siglo XXI.
 
 ## Composición química

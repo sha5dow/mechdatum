@@ -9,87 +9,92 @@ topic: "additive"
 subcategory: "sla"
 skill: "process-parameters"
 launch_phase: 2
-last_updated: "2026-07-22"
+last_updated: "2026-07-25"
 verified: true
 ---
+Vat photopolymerization, which encompasses SLA (stereolithography) and DLP (digital light processing) technologies, is an additive manufacturing process that solidifies photosensitive liquid resin layer by layer using ultraviolet light. The main difference lies in the light source: SLA uses a point UV laser to trace each layer, while DLP projects the flash of a complete layer using a digital projector, which accelerates construction. Both processes require post-curing to achieve final mechanical properties and removal of support structures generated during printing.
 
-Stereolithography (SLA) and Digital Light Processing (DLP) are vat photopolymerization additive manufacturing technologies. In SLA, an ultraviolet laser selectively traces each layer on the surface of a liquid photosensitive resin, solidifying it. In DLP, a digital projector exposes a complete image of the layer at once, curing the entire section simultaneously. In both cases, the build platform moves vertically after each layer (typically between 0,025 mm / 0.001 in and 0,15 mm / 0.006 in) and a wiper or recoater blade spreads fresh resin. After printing, the part requires solvent cleaning to remove uncured resin and post‑curing in a UV oven or light chamber to achieve final mechanical properties.
+## Layer Thickness and Resolution by Technology
 
-## Operational Parameters
+The typical layer thickness in SLA is 0.1 mm / 0.004 in, defining the resolution in the Z axis. The XY plane resolution depends on the laser spot diameter, generally close to 0.25 mm / 0.01 in. In DLP, the XY resolution is determined by the pixel size of the projector, potentially achieving finer resolutions up to 0.035 mm / 0.0014 in in high-end equipment, with layer thicknesses ranging from 0.025–0.1 mm / 0.001–0.004 in.
 
-In SLA/DLP, critical parameters depend on the light source type, optics, and resin formulation. For SLA, the laser beam diameter determines lateral resolution, while in DLP the resolution is given by the pixel size projected onto the vat. Build speed is affected by the exposure time per layer and the selected layer thickness.
+| Technology | Light source | Typical layer thickness | Typical XY resolution | Printing speed |
+| --- | --- | --- | --- | --- |
+| SLA | UV point laser (355 nm) | 0.025–0.1 mm / 0.001–0.004 in | 0.1–0.25 mm / 0.004–0.01 in | Depends on cross-sectional area; slower for large parts |
+| DLP | UV projector (385–405 nm) | 0.025–0.1 mm / 0.001–0.004 in | 0.035–0.1 mm / 0.0014–0.004 in | Constant per layer; faster for multiple parts |
 
-| Parameter | Typical range |
-|---|---|
-| Layer thickness | 0,025–0,15 mm / 0.001–0.006 in |
-| Laser beam diameter (SLA) | 0,05–0,15 mm / 0.002–0.006 in |
-| Pixel size (DLP) | 25–100 µm / 0.001–0.004 in |
-| Curing wavelength | 355–405 nm (UV) |
-| Laser power (SLA) | 30–500 mW |
-| Exposure time per layer | 1–10 seconds (depending on resin and thickness) |
-| Laser scanning speed (SLA) | 80–250 cm/s / 31.5–98.4 in/s |
-| Recommended vat temperature | 25–35 °C / 77–95 °F |
+## Printing Parameters by Resin Type
 
-## Materials
+Optimal printing parameters vary significantly according to the chemical formulation of the photosensitive resin. The exposure time per layer, light intensity, and lifting speed must be adjusted to ensure correct polymerization and adhesion between layers without generating overcuring.
 
-SLA/DLP resins are liquid photopolymer formulations (acrylates, epoxies, or urethanes) that react under UV light. They are classified according to their final properties: standard (rigid and economical), engineering (ABS‑like, PP‑like), flexible, high temperature, castable (for jewelry), and biocompatible. All require post‑curing to reach their nominal values.
+| Resin Type | Exposure time per layer (Normal) | Recommended light intensity | Lifting speed (Lift/Retract) | Operating temperature |
+| --- | --- | --- | --- | --- |
+| Standard (gray/white) | 2–4 s at 50 µm | 15–20 mW/cm² | 60–100 mm/min / 100–150 mm/min (2.4–3.9 in/min / 3.9–5.9 in/min) | 25–30 °C / 77–86 °F |
+| High strength (ABS-like) | 6–10 s at 50 µm | 15–25 mW/cm² | 40–65 mm/min / 80–100 mm/min (1.6–2.6 in/min / 3.1–3.9 in/min) | 25–35 °C / 77–95 °F |
+| High temperature | 8–12 s at 50 µm | 20–30 mW/cm² | 30–50 mm/min / 60–80 mm/min (1.2–2.0 in/min / 2.4–3.1 in/min) | 30–35 °C / 86–95 °F |
+| Flexible/Elastomeric | 5–8 s at 75 µm | 12–20 mW/cm² | 20–40 mm/min / 50–70 mm/min (0.8–1.6 in/min / 2.0–2.8 in/min) | 25–30 °C / 77–86 °F |
+| Biocompatible (medical grade) | 3–6 s at 50 µm | 18–25 mW/cm² | 50–70 mm/min / 80–100 mm/min (2.0–2.8 in/min / 3.1–3.9 in/min) | 25–30 °C / 77–86 °F |
 
-| Resin type | Tensile strength | Elongation at break | Heat deflection temperature (HDT) | Typical volumetric shrinkage |
-|---|---|---|---|---|
-| Standard | 30–50 MPa / 4.4–7.3 ksi | 5–15 % | 45–60 °C / 113–140 °F | 3–8 % |
-| Tough (ABS‑like) | 45–65 MPa / 6.5–9.4 ksi | 20–50 % | 55–75 °C / 131–167 °F | 2–6 % |
-| Flexible | 5–15 MPa / 0.7–2.2 ksi | 100–300 % | < 40 °C / < 104 °F | 1–5 % |
-| High temperature | 50–80 MPa / 7.3–11.6 ksi | 1–10 % | 120–250 °C / 248–482 °F | 5–10 % |
-| Castable | 20–40 MPa / 2.9–5.8 ksi | 2–10 % | — (removal by calcination) | < 0.5 % (ash) |
-| Biocompatible (ISO 10993) | 40–60 MPa / 5.8–8.7 ksi | 3–20 % | 55–70 °C / 131–158 °F | 2–5 % |
+## Typical Achievable Tolerances
 
-## Tolerances and surface roughness
+Dimensional accuracy in photopolymerization processes is typically in the range of ±0.1 to ±0.2% of the nominal dimension, with a practical minimum of ±0.1 mm / 0.004 in for small parts. Factors such as part orientation, volumetric shrinkage during post-curing, and support density critically influence the final tolerance. Shrinkage can cause warping, so controlled post-curing is recommended to minimize it.
 
-Dimensional accuracy in SLA/DLP depends on part size, build orientation, and shrinkage compensation. For small parts (< 100 mm / 3.94 in) tolerances of ±0,1 mm / ±0.004 in are achieved, while on large parts the error can increase to ±0,25 mm / ±0.010 in or more. Surface roughness is directly related to layer thickness and the staircase effect.
+## Process Advantages and Limitations
 
-| Layer thickness | Typical surface roughness (Ra) |
-|---|---|
-| 0,025 mm / 0.001 in | 1–5 µm / 39–197 µin |
-| 0,05 mm / 0.002 in | 5–12 µm / 197–472 µin |
-| 0,10 mm / 0.004 in | 10–25 µm / 394–984 µin |
-| 0,15 mm / 0.006 in | 20–40 µm / 787–1575 µin |
+The SLA/DLP process is the most used for rapid prototyping due to its ability to generate complex geometries with excellent surface finish compared to other additive techniques.
 
-## Advantages and limitations
+**Advantages:**
+- Excellent resolution and surface quality, minimizing the stair-step effect.
+- Ability to produce fully watertight and isotropic parts in specific resins.
+- Simple process without milling or masking steps.
+- Wide variety of functional resins (rigid, flexible, high temperature).
+- The unsolidified material can be recycled for new prints.
 
-SLA/DLP technology offers a combination of high resolution and good surface quality that makes it particularly suitable for precision models, master molds, jewelry, and surgical guides. Post‑processing, brittleness of standard resins, and toxicity of uncured materials are its main disadvantages.
+**Limitations:**
+- Parts tend to be brittle and have a tacky surface if not properly post-cured.
+- Prolonged post-curing times can induce warping.
+- Support structures are required for overhangs, whose removal demands manual post-processing.
+- Uncured materials are typically toxic and irritating; ventilation is essential.
+- Higher material and vat maintenance cost than in deposition technologies such as FDM.
 
-| Advantages | Limitations |
-|---|---|
-| Very fine surface quality | Brittle parts with standard resins |
-| High dimensional accuracy | Sticky surface without proper post‑curing |
-| Wide range of specialized resins | Warping due to prolonged post‑curing |
-| Ability to produce complex geometries and thin walls | Need for support structures |
-| Simple and automated process | Toxicity of uncured material; requires ventilation |
+## Material and Process Selection Guide
 
-## Parameter selection
+The selection between SLA and DLP, and the resin type, depends on the required balance between precision, speed, and mechanical properties. The orientation of the part during construction is decisive: a vertical orientation maximizes surface resolution at the cost of time, while a horizontal orientation accelerates the process but magnifies the stair-step effect.
 
-1.  **Fine detail and smooth surfaces**: choose a layer thickness between 0,025 mm / 0.001 in and 0,05 mm / 0.002 in; sacrifices build speed. Orienting the part with the long axis vertical minimizes the staircase effect but increases print time.
-2.  **Rapid prototyping production**: layer of 0,10 mm / 0.004 in or higher; horizontal orientation whenever possible to reduce build height. Use standard resin.
-3.  **Functional parts under stress**: opt for *tough* or engineering resins, with controlled post‑curing to avoid distortion. Compensate shrinkage by applying a scale factor of 1,005–1,020.
-4.  **High temperature applications**: resins with HDT > 120 °C / 248 °F, additional thermal post‑curing after UV. The layer thickness should not exceed 0,05 mm / 0.002 in to ensure cure uniformity.
-5.  **Jewelry and casting**: use castable resins with low ash content, layer thickness of 0,025–0,05 mm / 0.001–0.002 in and orientation that places supports in non-visible or easily removable areas.
-6.  **Biocompatibility**: select ISO 10993 certified resins, with washing and post‑curing according to the manufacturer's instructions. Do not skip post‑curing, as incomplete conversion releases residual monomers.
+| Part Requirement | Recommended Technology | Suggested Resin Type | Selection Reason |
+| --- | --- | --- | --- |
+| Maximum precision and fine detail | SLA | Standard | The fine laser point guarantees maximum nominal resolution. |
+| Rapid prototyping of multiple parts | DLP | Standard | Constant per-layer printing speed, ideal for batches. |
+| Functional strength similar to ABS | SLA or DLP | High strength (ABS-like) | High toughness and moderate impact resistance. |
+| Flexible parts such as gaskets or bellows | DLP | Flexible/Elastomeric | DLP handles the higher viscosities of these resins better. |
+| Applications in contact with food or skin | SLA | Biocompatible | Certification for human contact, low post-cure toxicity. |
+
+## Required Post-Processing
+
+After printing, the part is removed from the vat and excess uncured resin is removed by washing with 90% or higher isopropyl alcohol (IPA). Next, the support structures generated during manufacturing for overhangs and weak extremities are manually or mechanically removed. Finally, the washed part is placed in a UV post-curing unit at a typical power of 60–120 W for 10 to 40 minutes. This step is critical to complete polymerization, as the original laser or projector does not have enough power to fully cure the resin. For aesthetic finishes, sanding allows removal of any remaining stair-step marks.
 
 ## Frequently Asked Questions (FAQ)
 
-1.  **What is the typical layer resolution in SLA?** Layer resolution typically ranges from 0,025 mm / 0.001 in to 0,15 mm / 0.006 in; the most common value is 0,05 mm / 0.002 in for a balance of detail and speed.
+### What is the fundamental difference between SLA and DLP?
+SLA uses a point ultraviolet laser beam that scans the area of each layer to solidify it, while DLP uses a digital projector that exposes the entire layer at once using a pixel screen, which generally makes it faster.
 
-2.  **What dimensional tolerance can I expect in an SLA/DLP part?** For parts up to 100 mm / 3.94 in the typical tolerance is ±0,1 mm / ±0.004 in; on larger parts it can reach ±0,25 mm / ±0.010 in or more.
+### Why is post-curing essential in SLA/DLP?
+The light energy applied during printing is calibrated to solidify the resin just enough to ensure adhesion between layers, but it is insufficient to complete the polymerization reactions. Post-curing in a UV oven completes the cross-linking to achieve the final mechanical and thermal properties.
 
-3.  **How long does post‑curing take?** UV post‑curing usually lasts between 5 and 30 minutes per part, depending on size and lamp power; some high temperature resins require an additional thermal curing of 1 to 4 hours at 120–160 °C / 248–320 °F.
+### What toxicity does uncured resin present?
+Liquid resin is a chemical compound that is typically toxic and irritating to the skin and respiratory tract. It is imperative to handle it with nitrile gloves and work in an environment with forced ventilation or fume extraction.
 
-4.  **Are supports necessary?** Yes, almost always. Parts with overhangs greater than 45° or isolated areas need supports to avoid deformations during printing, as well as sections that do not directly touch the build platform.
+### How is part warping avoided during post-curing?
+Warping is minimized by optimizing the part orientation on the build platform, ensuring thorough washing to remove uncured residues, and using intermittent or low-intensity post-curing cycles instead of long continuous exposures.
 
-5.  **How strong are SLA parts compared to FDM?** Standard resins offer tensile strength of 30–50 MPa / 4.4–7.3 ksi, comparable to PLA, but lower elongation (5–15 %). ABS‑like resins increase strength up to 65 MPa / 9.4 ksi with elongations up to 50 %.
+### Is the use of supports always required in these technologies?
+Yes, support structures are normally necessary. They are automatically generated to anchor the part to the platform and to geometrically support any overhang or island that would otherwise collapse as it is not supported by the previous layer.
 
-6.  **Can an SLA part be painted or metallized?** Yes, after sanding and applying primer. The surface can be painted with acrylic or polyurethane paints, and can also undergo electrolytic metallization if a conductive varnish is applied beforehand. Complete post‑curing is recommended to remove residual stickiness.
+### What printing orientation is most suitable?
+There is no universal optimal orientation. Orienting the longitudinal axis of the part vertically maximizes surface quality by minimizing visible steps, but increases printing time. Horizontal orientation reduces time but magnifies the stair-step effect.
 
-## References
+## Sources Consulted
 
+- **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/slurry-transport-velocity-d_236.html
 - **efunda.com**: https://www.efunda.com/processes/rapid_prototyping/sla.cfm
-
+- **manufacturingguide.com**: https://www.manufacturingguide.com/en/digital-light-processing-dlp

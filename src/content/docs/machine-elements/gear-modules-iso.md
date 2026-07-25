@@ -13,8 +13,6 @@ last_updated: "2026-07-22"
 verified: true
 ---
 
-## Definición y principios
-
 El módulo normalizado ISO es el parámetro fundamental que define el tamaño de los dientes en engranajes cilíndricos de perfil evolvente. Representa la relación entre el diámetro de referencia (mm) y el número de dientes del engrane (m = d/z). Un módulo de 1,5 mm indica que por cada diente la rueda aumenta 1,5 mm en su diámetro primitivo.
 
 La normalización internacional bajo ISO 54 unifica las dimensiones del dentado para garantizar la intercambiabilidad de engranajes fabricados en cualquier parte del mundo. El sistema de módulo permite construir transmisiones robustas porque relaciona directamente el espesor del diente con la capacidad de carga y el paso circular. En el sistema imperial se emplea el paso diametral (DP), inversamente proporcional al módulo (DP = 25.4 / m).

@@ -9,110 +9,158 @@ topic: "standard-fasteners"
 subcategory: "din-985"
 skill: "fastener-reference-table"
 launch_phase: 4
-last_updated: "2026-07-23"
+last_updated: "2026-07-25"
 verified: true
 ---
+DIN 985 self-locking nuts, commonly known as nyloc nuts, are hex nuts that incorporate an inserted polyamide (nylon) ring to generate friction on the bolt thread and prevent loosening due to vibration. The maximum service temperature of the polyamide insert is 121 °C / 250 °F. These nuts are standardized as prevailing torque type and are mainly manufactured in zinc-plated steel with property class 10, suitable for grade 10.9 bolts.
 
-The DIN 985 self-locking nut, known as a polyamide insert nut or nyloc nut, is a widely used fastener that incorporates a nylon ring at its end to generate friction on the thread and prevent unintentional loosening. Its locking capability remains effective up to temperatures of 121 °C / 250 °F. Standard DIN 985 regulates the dimensions, mechanical properties, and prevailing torque requirements for this type of high hex nut with polyamide insert.
+## Dimensions
 
-## Main Dimensions
+The values for width across flats and height correspond to property class 10 according to DIN 985 and ISO 10511. Common coarse pitches and the most frequent commercial fine pitches are included.
 
-The following table includes the standard dimensions for DIN 985 nuts with product grades A and B, covering nominal metric thread diameters from M3 to M36.
+| Nominal size and pitch | Width across flats (s) | Height (m) |
+| --- | --- | --- |
+| M4 × 0.7 | 7 mm / 0.276 in | 5 mm / 0.197 in |
+| M5 × 0.8 | 8 mm / 0.315 in | 5 mm / 0.197 in |
+| M6 × 1 | 10 mm / 0.394 in | 6 mm / 0.236 in |
+| M8 × 1 | 13 mm / 0.512 in | 8 mm / 0.315 in |
+| M8 × 1.25 | 13 mm / 0.512 in | 8 mm / 0.315 in |
+| M10 × 1 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M10 × 1.25 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M10 × 1.5 | 17 mm / 0.669 in | 10 mm / 0.394 in |
+| M12 × 1.25 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M12 × 1.5 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M12 × 1.75 | 19 mm / 0.748 in | 12 mm / 0.472 in |
+| M14 × 1.5 | 22 mm / 0.866 in | 14 mm / 0.551 in |
+| M14 × 2 | 22 mm / 0.866 in | 14 mm / 0.551 in |
+| M16 × 1.5 | 24 mm / 0.945 in | 16 mm / 0.630 in |
+| M16 × 2 | 24 mm / 0.945 in | 16 mm / 0.630 in |
+| M18 × 1.5 | 27 mm / 1.063 in | 18 mm / 0.709 in |
+| M18 × 2.5 | 27 mm / 1.063 in | 18.5 mm / 0.728 in |
+| M20 × 1.5 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M20 × 2 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M20 × 2.5 | 30 mm / 1.181 in | 20 mm / 0.787 in |
+| M22 × 1.5 | 32 mm / 1.260 in | 22 mm / 0.866 in |
+| M22 × 2.5 | 32 mm / 1.260 in | 22 mm / 0.866 in |
+| M24 × 1.5 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M24 × 2 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M24 × 3 | 36 mm / 1.417 in | 24 mm / 0.945 in |
+| M27 × 3 | 41 mm / 1.614 in | 27 mm / 1.063 in |
+| M30 × 2 | 46 mm / 1.811 in | 30 mm / 1.181 in |
+| M30 × 3.5 | 46 mm / 1.811 in | 30 mm / 1.181 in |
+| M33 × 3.5 | 50 mm / 1.969 in | 33 mm / 1.299 in |
+| M36 × 3 | 55 mm / 2.165 in | 36 mm / 1.417 in |
+| M36 × 4 | 55 mm / 2.165 in | 36 mm / 1.417 in |
+| M39 × 4 | 60 mm / 2.362 in | 39 mm / 1.535 in |
+| M42 × 4.5 | 65 mm / 2.559 in | 42 mm / 1.654 in |
 
-| Thread (Metric) | Pitch (mm) | Width across flats, s (mm / in) | Height, m (mm / in) | Outside diameter, dₑ (mm / in) |
-| :--- | :--- | :--- | :--- | :--- |
-| M3 | 0,5 | 5,5 mm / 0.217 in | 4,0 mm / 0.157 in | 6,4 mm / 0.252 in |
-| M4 | 0,7 | 7,0 mm / 0.276 in | 5,0 mm / 0.197 in | 8,1 mm / 0.319 in |
-| M5 | 0,8 | 8,0 mm / 0.315 in | 5,0 mm / 0.197 in | 9,2 mm / 0.362 in |
-| M6 | 1,0 | 10,0 mm / 0.394 in | 6,0 mm / 0.236 in | 11,5 mm / 0.453 in |
-| M8 | 1,25 | 13,0 mm / 0.512 in | 8,0 mm / 0.315 in | 15,0 mm / 0.591 in |
-| M10 | 1,5 | 17,0 mm / 0.669 in | 10,0 mm / 0.394 in | 19,6 mm / 0.772 in |
-| M12 | 1,75 | 19,0 mm / 0.748 in | 12,0 mm / 0.472 in | 21,9 mm / 0.862 in |
-| M14 | 2,0 | 22,0 mm / 0.866 in | 14,0 mm / 0.551 in | 25,4 mm / 1.000 in |
-| M16 | 2,0 | 24,0 mm / 0.945 in | 16,0 mm / 0.630 in | 27,7 mm / 1.091 in |
-| M20 | 2,5 | 30,0 mm / 1.181 in | 20,0 mm / 0.787 in | 34,6 mm / 1.362 in |
-| M24 | 3,0 | 36,0 mm / 1.417 in | 24,0 mm / 0.945 in | 41,6 mm / 1.638 in |
-| M30 | 3,5 | 46,0 mm / 1.811 in | 30,0 mm / 1.181 in | 53,1 mm / 2.091 in |
-| M36 | 4,0 | 55,0 mm / 2.165 in | 36,0 mm / 1.417 in | 63,5 mm / 2.500 in |
+## Recommended tightening torques
 
-## Materials and Mechanical Properties
+The values correspond to grade 10.9 bolts with light lubrication (friction coefficient µ ≈ 0.12) and coarse pitch thread, according to common practice for assemblies with DIN 985 self-locking nuts.
 
-DIN 985 nuts are mainly supplied in two carbon steel grades, with their respective hardness ranges and proof loads, complemented by stainless steel options for applications requiring corrosion resistance. The locking insert is made of polyamide 6.6 (nylon) with an operating temperature range of -50 °C to 121 °C / -58 °F to 250 °F.
+| Nominal size | Pitch (mm) | Tightening torque |
+| --- | --- | --- |
+| M4 | 0.7 | 3.0 Nm / 2.2 lb‑ft |
+| M5 | 0.8 | 6.0 Nm / 4.4 lb‑ft |
+| M6 | 1.0 | 10 Nm / 7.4 lb‑ft |
+| M8 | 1.25 | 25 Nm / 18 lb‑ft |
+| M10 | 1.5 | 49 Nm / 36 lb‑ft |
+| M12 | 1.75 | 85 Nm / 63 lb‑ft |
+| M14 | 2 | 135 Nm / 100 lb‑ft |
+| M16 | 2 | 210 Nm / 155 lb‑ft |
+| M18 | 2.5 | 290 Nm / 214 lb‑ft |
+| M20 | 2.5 | 410 Nm / 302 lb‑ft |
+| M22 | 2.5 | 550 Nm / 406 lb‑ft |
+| M24 | 3 | 710 Nm / 524 lb‑ft |
+| M27 | 3 | 1050 Nm / 775 lb‑ft |
+| M30 | 3.5 | 1450 Nm / 1070 lb‑ft |
+| M33 | 3.5 | 1900 Nm / 1401 lb‑ft |
+| M36 | 4 | 2500 Nm / 1844 lb‑ft |
+| M39 | 4 | 3200 Nm / 2360 lb‑ft |
+| M42 | 4.5 | 4000 Nm / 2950 lb‑ft |
 
-| Material | Grade | Hardness (HV) | Proof load, M6–M16 (kN / lbf) | Proof load, M20–M36 (kN / lbf) | Typical finishes |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Carbon steel | Grade 8 | 180–300 HV | 10,4–32,0 kN / 2338–7193 lbf | 51,0–147,5 kN / 11465–33159 lbf | Electrolytic zinc plating, yellow chromate |
-| Carbon steel | Grade 10 | 295–370 HV | 12,4–38,0 kN / 2788–8543 lbf | 59,4–172,0 kN / 13354–38667 lbf | Electrolytic zinc plating, nickel plating |
-| Stainless steel A2 | A2-70 | 200–300 HV | 10,4–32,0 kN / 2338–7193 lbf | 51,0–147,5 kN / 11465–33159 lbf | Uncoated, passivated |
-| Stainless steel A4 | A4-80 | 200–300 HV | 12,4–38,0 kN / 2788–8543 lbf | 59,4–172,0 kN / 38667 lbf | Uncoated, passivated |
+## Drill sizes for clearance hole
 
-## Recommended Tightening Torques
+Recommended diameters for medium fit clearance holes (medium series per ISO 273), suitable for assembly with metric thread bolts and DIN 985 nuts.
 
-The total tightening torque under the head equals the thread torque required for preload plus the prevailing torque caused by the nylon insert. The table below presents torque values for Grade 8 nuts with standard zinc-plated finish, applied on grade 8.8 bolts in a threaded joint without additional lubrication. To calculate the actual assembly torque, add between 0,2 Nm (for M3) and 15 Nm (for M36) additional prevailing torque generated by the plastic insert.
+| Nominal bolt size | Drill diameter |
+| --- | --- |
+| M4 | 4.5 mm / 0.177 in |
+| M5 | 5.5 mm / 0.217 in |
+| M6 | 6.6 mm / 0.260 in |
+| M8 | 9.0 mm / 0.354 in |
+| M10 | 11.0 mm / 0.433 in |
+| M12 | 13.5 mm / 0.531 in |
+| M14 | 15.5 mm / 0.610 in |
+| M16 | 17.5 mm / 0.689 in |
+| M18 | 20.0 mm / 0.787 in |
+| M20 | 22.0 mm / 0.866 in |
+| M22 | 24.0 mm / 0.945 in |
+| M24 | 26.0 mm / 1.024 in |
+| M27 | 30.0 mm / 1.181 in |
+| M30 | 33.0 mm / 1.299 in |
+| M33 | 36.0 mm / 1.417 in |
+| M36 | 39.0 mm / 1.535 in |
+| M39 | 42.0 mm / 1.654 in |
+| M42 | 45.0 mm / 1.772 in |
 
-| Thread | Tightening torque (Nm / lb·ft) | Maximum tightening torque (Nm / lb·ft) |
-| :--- | :--- | :--- |
-| M3 | 1,2 Nm / 0.9 lb·ft | 1,5 Nm / 1.1 lb·ft |
-| M4 | 2,7 Nm / 2.0 lb·ft | 3,3 Nm / 2.4 lb·ft |
-| M5 | 5,5 Nm / 4.1 lb·ft | 6,7 Nm / 4.9 lb·ft |
-| M6 | 9,5 Nm / 7.0 lb·ft | 11,5 Nm / 8.5 lb·ft |
-| M8 | 23 Nm / 17.0 lb·ft | 28 Nm / 20.7 lb·ft |
-| M10 | 46 Nm / 33.9 lb·ft | 56 Nm / 41.3 lb·ft |
-| M12 | 80 Nm / 59.0 lb·ft | 95 Nm / 70.1 lb·ft |
-| M14 | 128 Nm / 94.4 lb·ft | 150 Nm / 110.6 lb·ft |
-| M16 | 196 Nm / 144.6 lb·ft | 240 Nm / 177.0 lb·ft |
-| M20 | 385 Nm / 284.0 lb·ft | 460 Nm / 339.3 lb·ft |
-| M24 | 660 Nm / 486.8 lb·ft | 790 Nm / 582.7 lb·ft |
-| M30 | 1300 Nm / 958.9 lb·ft | 1550 Nm / 1143.3 lb·ft |
-| M36 | 2300 Nm / 1696.4 lb·ft | 2700 Nm / 1991.4 lb·ft |
+## Allowable loads
 
-## Drill Sizes for Clearance Hole
+Minimum proof loads correspond to class 10 nuts per ISO 898‑2, assembled with grade 10.9 bolts and coarse pitch thread. The nut must withstand the load without permanent deformation or thread damage.
 
-For assembling a bolt with a DIN 985 self-locking nut, a clearance hole with sufficient clearance according to the nominal diameter is required. The values below correspond to the medium fit clearance hole series (M series), according to ISO 273.
+| Nominal size | Proof load (kN) | Proof load (lbf) |
+| --- | --- | --- |
+| M4 | 7.0 kN / 1570 lbf |
+| M5 | 11.5 kN / 2590 lbf |
+| M6 | 20.1 kN / 4520 lbf |
+| M8 | 36.6 kN / 8230 lbf |
+| M10 | 58.0 kN / 13040 lbf |
+| M12 | 84.3 kN / 18950 lbf |
+| M14 | 115 kN / 25860 lbf |
+| M16 | 157 kN / 35300 lbf |
+| M18 | 192 kN / 43170 lbf |
+| M20 | 245 kN / 55080 lbf |
+| M22 | 303 kN / 68120 lbf |
+| M24 | 353 kN / 79360 lbf |
+| M27 | 459 kN / 103190 lbf |
+| M30 | 561 kN / 126120 lbf |
+| M33 | 694 kN / 156030 lbf |
+| M36 | 817 kN / 183690 lbf |
+| M39 | 976 kN / 219430 lbf |
+| M42 | 1120 kN / 251800 lbf |
 
-| Thread | Drill diameter, medium fit (mm / in) |
-| :--- | :--- |
-| M3 | 3,4 mm / 0.134 in |
-| M4 | 4,5 mm / 0.177 in |
-| M5 | 5,5 mm / 0.217 in |
-| M6 | 6,6 mm / 0.260 in |
-| M8 | 9,0 mm / 0.354 in |
-| M10 | 11,0 mm / 0.433 in |
-| M12 | 13,5 mm / 0.531 in |
-| M14 | 15,5 mm / 0.610 in |
-| M16 | 17,5 mm / 0.689 in |
-| M20 | 22,0 mm / 0.866 in |
-| M24 | 26,0 mm / 1.024 in |
-| M30 | 33,0 mm / 1.299 in |
-| M36 | 39,0 mm / 1.535 in |
+## Equivalences between standards
 
-## Cross-References Between Standards
-
-Self-locking nuts with polyamide insert have a design profile that is widely harmonized among different international systems. Below are listed the recognized cross-references in industry and engineering:
-
-| Standard | Designation | Compatibility with DIN 985 |
-| :--- | :--- | :--- |
-| DIN 985 (1987 edition) | High hex nut with polyamide insert | Original reference, obsolete but still used as descriptor |
-| ISO 10511:2012 | Prevailing torque type hex lock nut with non-metallic insert, type 1 | Dimensionally and technically equivalent to DIN 985; preferred for new designs |
-| UNI 7473 | Hexagon prevailing torque locknut with nylon insert | Identical in geometry and load grade; applicable in Italian context |
-| ASME B18.16.6 | Prevailing-torque locknuts, nylon insert, style NE | Functionally equivalent North American version; inch dimensions differ, but the locking principle is the same |
-| BS 3692 / BS 7755 | Hexagon prevailing torque type insert nuts | British standard harmonized with ISO 10511 |
+The DIN 985 nut is equivalent to the international standard ISO 10511 ("Hexagon prevailing-torque type lock nuts with polyamide insert"). In the European scope it is also designated as EN ISO 10511. There is no direct equivalent in the ANSI series, although nylon insert nuts conforming to ANSI/ASME B18.16.6 operate on a similar principle. For applications requiring traceability with American standards, dimensional interchangeability and property class must be verified case by case.
 
 ## Frequently Asked Questions (FAQ)
 
-1.  **What is the maximum operating temperature of a DIN 985 nut?** Polyamide 6.6 maintains its elastic properties up to a limit of 121 °C / 250 °F; above this temperature the insert progressively loses its ability to generate locking friction.
+### What is the maximum operating temperature of a DIN 985 nut?
 
-2.  **Can DIN 985 nyloc nuts be reused?** In general applications, reuse is permitted provided that at least 5 assembly cycles are verified with a remaining prevailing torque greater than 0.2 Nm for M3 or 15 Nm for M36; in aerospace applications or where failure could cause harm to persons, single-use replacement is recommended.
+The polyamide insert withstands up to 121 °C / 250 °F in continuous service without losing the locking ability.
 
-3.  **What tightening torque should I apply for a DIN 985 M10 grade 8 nut?** The recommended seating torque in dry condition is 46 Nm / 33.9 lb·ft, to which the prevailing torque of the insert must be added, typically adding between 0.5 and 1.5 Nm for that diameter.
+### Can DIN 985 self-locking nuts be reused?
 
-4.  **Is a DIN 985 nut interchangeable with an ISO 10511 nut?** Yes, ISO 10511 type 1 is dimensionally interchangeable with DIN 985, maintaining the same height series, width across flats, and prevailing torque requirements.
+Yes, the insert is not damaged during installation and allows several reuses, although the prevailing torque decreases with each assembly. Reuse is not recommended in critical applications where loss of prevailing torque could compromise safety.
 
-5.  **What minimum proof load does a DIN 985 M12 grade 8 nut offer?** The minimum proof load is 32 kN / 7193 lbf against thread stripping failure, according to standardized values for high hex nuts.
+### Which international standard is equivalent to DIN 985?
 
-6.  **What wrench size is used to tighten a DIN 985 M8 nut?** The nut with nominal diameter M8 requires a 13 mm / 0.512 in wrench across flats, commonly a fixed hex wrench or a 1/2" socket.
+The direct equivalent is ISO 10511, which covers the same dimensions and prevailing torque requirements.
 
-## References
+### What property class do DIN 985 nuts have?
+
+The standard version corresponds to class 10, designed to be used with grade 10.9 bolts.
+
+### Is it necessary to use washers with DIN 985 nuts?
+
+It is not necessary for the locking function, but flat washers can be used to distribute surface pressure or compensate for irregularities on the bearing surface.
+
+### Does the nylon insert get damaged when tightening the nut?
+
+No, the insert deforms elastically over the bolt thread and is not cut. However, if the maximum temperature is exceeded, the nylon may become brittle and lose effectiveness.
+
+## Sources Consulted
+
 - **engineeringtoolbox.com**: https://www.engineeringtoolbox.com/fasteners-t_74.html
-- **bossard.com**: https://www.bossard.com/global-en/eshop/locking-nuts-with-polyamide-insert/prevailing-torque-type-hex-lock-nuts-thin-type-with-polyamide-insert/p/161/
+- **bossard.com**: https://www.bossard.com/global-en/eshop/locking-nuts-with-polyamide-insert/prevailing-torque-type-hex-lock-nuts-thin-type-with-polyamide-insert/p/637/
 - **mcmaster.com**: https://www.mcmaster.com/products/din-985-nuts
