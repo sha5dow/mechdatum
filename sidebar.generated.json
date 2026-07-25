@@ -1255,6 +1255,65 @@
     ]
   },
   {
+    "label": "Símbolos Técnicos",
+    "translations": {
+      "en": "Technical Symbols"
+    },
+    "items": [
+      {
+        "label": "Símbolos de Planos",
+        "translations": {
+          "en": "Drawing Symbols"
+        },
+        "collapsed": true,
+        "items": [
+          {
+            "label": "Escalas y rotulado normalizado",
+            "link": "/symbols/scales-title-blocks/"
+          },
+          {
+            "label": "Símbolos acabado superficial planos",
+            "link": "/symbols/surface-finish-drawings/"
+          },
+          {
+            "label": "Vistas y cortes en planos mecánicos",
+            "link": "/symbols/views-sections-drawings/"
+          }
+        ]
+      },
+      {
+        "label": "Símbolos de Soldadura",
+        "translations": {
+          "en": "Welding Symbols"
+        },
+        "collapsed": true,
+        "items": [
+          {
+            "label": "Simbología completa soldadura ISO",
+            "link": "/symbols/complete-welding-symbols-iso/"
+          }
+        ]
+      },
+      {
+        "label": "Símbolos Hidráulicos/Neumáticos",
+        "translations": {
+          "en": "Hydraulic/Pneumatic Symbols"
+        },
+        "collapsed": true,
+        "items": [
+          {
+            "label": "Símbolos hidráulicos completos",
+            "link": "/symbols/complete-hydraulic-symbols/"
+          },
+          {
+            "label": "Símbolos neumáticos completos",
+            "link": "/symbols/complete-pneumatic-symbols/"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "label": "Conversores",
     "translations": {
       "en": "Converters"
