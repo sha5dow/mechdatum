@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+﻿import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import sitemap from '@astrojs/sitemap';
 import sidebarGenerated from './sidebar.generated.json' with { type: 'json' };
@@ -49,6 +49,14 @@ export default defineConfig({
             gtag('js', new Date());
             gtag('config', 'G-CLYH2C3ER6');
           `,
+        },
+        {
+          tag: 'script',
+          attrs: {
+            async: true,
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7956072980493669',
+            crossorigin: 'anonymous',
+          },
         },
       ],
       components: {
