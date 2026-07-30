@@ -69,6 +69,13 @@ export default defineConfig({
           },
         },
         {
+          tag: 'meta',
+          attrs: {
+            name: 'google-adsense-account',
+            content: 'ca-pub-4927890967456381',
+          },
+        },
+        {
           tag: 'script',
           attrs: {
             src: 'https://www.googletagmanager.com/gtag/js?id=G-CLYH2C3ER6',
