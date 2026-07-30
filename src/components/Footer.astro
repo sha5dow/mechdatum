@@ -23,7 +23,6 @@ const copyright = isEn
   : '© 2026 MechDatum. Todos los derechos reservados.';
 ---
 <Default><slot /></Default>
-<div class="ezoic-footer-ad" style="margin-top: 2rem;"></div>
 <footer class="site-footer">
   <nav>
     {links.map((link) => (
@@ -55,17 +54,10 @@ const copyright = isEn
     text-decoration: underline;
   }
 </style>
-<script>
-  document.addEventListener('astro:page-load', () => {
-    if (window.ezstandalone) {
-      ezstandalone.cmd.push(function () {
-        ezstandalone.showAds();
-      });
-    }
-  });
-</script>
+
 <script type="text/javascript" is:inline>
   var infolinks_pid = 3446785;
   var infolinks_wsid = 0;
 </script>
 <script type="text/javascript" is:inline src="//resources.infolinks.com/js/infolinks_main.js"></script>
+
