@@ -42,6 +42,13 @@ export default defineConfig({
           },
         },
         {
+          tag: 'meta',
+          attrs: {
+            name: 'monetag',
+            content: 'dc0424cfce011fa0129e8893c2fc9585',
+          },
+        },
+        {
           tag: 'script',
           attrs: {
             src: 'https://www.googletagmanager.com/gtag/js?id=G-CLYH2C3ER6',
@@ -66,4 +73,5 @@ export default defineConfig({
     sitemap(),
   ],
 });
+
 
